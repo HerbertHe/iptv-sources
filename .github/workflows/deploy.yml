@@ -22,7 +22,7 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
-            - name: install pnpm
+            - name: install yarn
               run: npm install yarn -g
             - run: yarn install
             - run: yarn build
