@@ -11,6 +11,8 @@ export type TREADMESources = IREADMESource[]
 export const updateReadme = (sources: TREADMESources) => {
     const readme_temp_p = path.join(path.resolve(), "README.temp.md")
 
+    console.log("temp", readme_temp_p)
+
     const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
 
     const after = readme.replace(
