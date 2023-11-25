@@ -10,7 +10,6 @@ export type TREADMESources = IREADMESource[]
 
 export const updateReadme = (sources: TREADMESources) => {
     const readme_temp_p = path.join(path.resolve(), "README.temp.md")
-    const readme_p = path.join(path.resolve(), "m3u", "README.md")
 
     const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
 
@@ -23,5 +22,5 @@ export const updateReadme = (sources: TREADMESources) => {
             .join("\n")}`
     )
 
-    fs.writeFileSync(readme_p, after)
+    fs.writeFileSync(path.join(path.resolve(), "m3u", "README.md"), after)
 }
