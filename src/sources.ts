@@ -20,7 +20,11 @@ export const filter = (raw: string) => {
         if (!!reg) {
             if (!sourced.includes(reg[1])) {
                 sourced.push(reg[1])
-                result.push(rawArray[i])
+                result.push(
+                    rawArray[i]
+                        .replace(/\@\@[0-9]*/g, "")
+                        .replace(/\[geo\-blocked\]/, "")
+                )
                 result.push(rawArray[i + 1])
             }
         }
@@ -33,8 +37,23 @@ export const filter = (raw: string) => {
 
 export const sources: TSources = [
     {
-        name: "china",
+        name: "cn",
         url: "https://epg.pw/test_channels_china.m3u",
-        filter,
+    },
+    {
+        name: "cn_n",
+        url: "https://epg.pw/test_channels_china_national.m3u",
+    },
+    {
+        name: "cn_c",
+        url: "https://epg.pw/test_channels_china_country.m3u",
+    },
+    {
+        name: "cn_p",
+        url: "https://epg.pw/test_channels_china_province.m3u",
+    },
+    {
+        name: "all",
+        url: "https://epg.pw/test_channels_all.m3u",
     },
 ]

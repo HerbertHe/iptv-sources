@@ -14,5 +14,13 @@ export const writeM3u = (name: string, m3u: string) => {
         fs.mkdirSync(path.join(path.resolve(), "m3u"))
     }
 
-    fs.writeFileSync(path.join(path.resolve(), "m3u" ,`${name}.m3u`), m3u)
+    fs.writeFileSync(path.join(path.resolve(), "m3u", `${name}.m3u`), m3u)
+}
+
+export const cleanFiles = () => {
+    if (fs.existsSync(path.join(path.resolve(), "m3u"))) {
+        fs.readdirSync(path.join(path.resolve(), "m3u")).forEach((file) => {
+            fs.unlinkSync(path.join(path.resolve(), "m3u", file))
+        })
+    }
 }

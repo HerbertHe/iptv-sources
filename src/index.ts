@@ -1,5 +1,7 @@
-import { getM3u, writeM3u } from "./file"
+import { cleanFiles, getM3u, writeM3u } from "./file"
 import { sources, filter } from "./sources"
+
+cleanFiles()
 
 // 执行脚本
 sources.forEach(async (sr) => {
