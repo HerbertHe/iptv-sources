@@ -1,0 +1,36 @@
+name: update script
+
+on:
+    push:
+        branches: [main]
+    schedule:
+        - cron: "0 3 * * *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        strategy:
+            matrix:
+                node-version: [18.x]
+                # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+        steps:
+            - uses: actions/checkout@v3
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v3
+              with:
+                  node-version: ${{ matrix.node-version }}
+                  cache: "npm"
+            - name: install pnpm
+              run: npm install yarn -g
+            - run: yarn install
+            - run: yarn build
+            - run: yarn run m3u
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./m3u
+                  cname: m3u.ibert.me

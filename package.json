@@ -1,0 +1,22 @@
+{
+  "name": "iptv-sources",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HerbertHe/iptv-sources.git",
+  "author": "HerbertHe <Herbert.He0229@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsup --watch",
+    "build": "tsup --build",
+    "m3u": "node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
