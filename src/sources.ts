@@ -1,5 +1,6 @@
 export interface ISource {
     name: string
+    f_name: string
     url: string
     filter?: (raw: string) => string
 }
@@ -37,23 +38,28 @@ export const filter = (raw: string) => {
 
 export const sources: TSources = [
     {
-        name: "cn",
+        name: "China",
+        f_name: "cn",
         url: "https://epg.pw/test_channels_china.m3u",
     },
     {
-        name: "cn_n",
+        name: "China National",
+        f_name: "cn_n",
         url: "https://epg.pw/test_channels_china_national.m3u",
     },
     {
-        name: "cn_c",
+        name: "China Country",
+        f_name: "cn_c",
         url: "https://epg.pw/test_channels_china_country.m3u",
     },
     {
-        name: "cn_p",
+        name: "China Province",
+        f_name: "cn_p",
         url: "https://epg.pw/test_channels_china_province.m3u",
     },
     {
-        name: "all",
+        name: "All",
+        f_name: "all",
         url: "https://epg.pw/test_channels_all.m3u",
     },
 ]

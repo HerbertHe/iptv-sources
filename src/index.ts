@@ -1,4 +1,5 @@
 import { cleanFiles, getM3u, writeM3u } from "./file"
+import { updateReadme } from "./readme"
 import { sources, filter } from "./sources"
 
 cleanFiles()
@@ -17,3 +18,5 @@ sources.forEach(async (sr) => {
         writeM3u(sr.name, m3u)
     }
 })
+
+updateReadme(sources)
