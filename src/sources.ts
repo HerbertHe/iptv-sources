@@ -9,7 +9,7 @@ export type TSources = ISource[]
 
 export const filter = (raw: string) => {
     const rawArray = raw.split("\n")
-    const regExp = /\#EXTINF:-1\s+tvg\-name\=\"([0-9a-zA-Z\u4e00-\u9fa5 ]+)\"/
+    const regExp = /\#EXTINF:-1\s+tvg\-name\=\"([^"]+)\"/
 
     let i = 1
     let sourced: string[] = []
