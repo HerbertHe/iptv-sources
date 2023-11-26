@@ -26,6 +26,9 @@ jobs:
             - run: yarn build
             - run: yarn run m3u
 
+            - name: "Jekyll theme"
+              run: mv ./_config.temp.yml ./m3u/_config.yml
+
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
