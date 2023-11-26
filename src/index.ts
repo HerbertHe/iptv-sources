@@ -15,7 +15,7 @@ sources.forEach(async (sr) => {
             m3u = filter(text)
         }
 
-        writeM3u(sr.name, m3u)
+        writeM3u(sr.f_name, m3u)
     }
 })
 
