@@ -1,8 +1,8 @@
-name: update script
+name: update schedule
 
 on:
-    push:
-        branches: [main]
+    schedule:
+        - cron: "0 3 * * *"
 
 jobs:
     build:
