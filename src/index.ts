@@ -7,17 +7,20 @@ cleanFiles()
 // 执行脚本
 Promise.allSettled(
     sources.map(async (sr) => {
-        const text = await getM3u(sr)
-        if (!!text) {
+        const [status, text] = await getM3u(sr)
+
+        if (/^[2]/.test(status.toString()) && !!text) {
             if (!!sr.filter) {
-                let [m3u, count] = sr.filter(text)
+                let [m3u, count] = sr.filter(text as string)
                 writeM3u(sr.f_name, m3u)
                 return count
             } else {
-                let [m3u, count] = filter(text)
+                let [m3u, count] = filter(text as string)
                 writeM3u(sr.f_name, m3u)
                 return count
             }
+        } else {
+            return undefined
         }
     })
 )

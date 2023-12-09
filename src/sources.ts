@@ -98,13 +98,13 @@ const epg_pw_sources: TSources = [
 const iptv_org_sources: TSources = [
     {
         name: "iptv.org All",
-        f_name: "org_all",
+        f_name: "o_all",
         url: "https://iptv-org.github.io/iptv/index.m3u",
         filter: iptv_org_filter,
     },
     {
         name: "iptv.org China",
-        f_name: "org_cn",
+        f_name: "o_cn",
         url: "https://iptv-org.github.io/iptv/countries/cn.m3u",
         filter: iptv_org_filter,
     },

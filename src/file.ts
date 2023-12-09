@@ -6,7 +6,7 @@ import type { ISource } from "./sources"
 
 export const getM3u = async (src: ISource) => {
     const res = await fetch(src.url)
-    return res.text()
+    return [res.status, await res.text()]
 }
 
 export const writeM3u = (name: string, m3u: string) => {
