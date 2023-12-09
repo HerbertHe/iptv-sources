@@ -2,12 +2,12 @@ export interface ISource {
     name: string
     f_name: string
     url: string
-    filter?: (raw: string) => string
+    filter?: (raw: string) => [string, number]
 }
 
 export type TSources = ISource[]
 
-export const filter = (raw: string) => {
+export const filter = (raw: string): [string, number] => {
     const rawArray = raw.split("\n")
     const regExp = /\#EXTINF:-1\s+tvg\-name\=\"([^"]+)\"/
 
@@ -33,7 +33,7 @@ export const filter = (raw: string) => {
         i += 2
     }
 
-    return result.join("\n")
+    return [result.join("\n"), result.length]
 }
 
 export const sources: TSources = [

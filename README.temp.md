@@ -6,8 +6,8 @@ Join discord: [![Discord](https://dcbadge.vercel.app/api/server/betxHcsTqa)](htt
 
 Sources are from <https://epg.pw/test_channel_page.html>
 
-| channel        | url                             |
-| -------------- | ------------------------------- |
+| channel | url | count |
+| ------- | --- | ----- |
 <!-- channels_here -->
 
 See <https://m3u.ibert.me> to get more.
