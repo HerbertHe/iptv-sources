@@ -22,10 +22,12 @@ export const updateReadme = (
             .map(
                 (s, idx) =>
                     `| ${s.name} | <https://m3u.ibert.me/${s.f_name}.m3u> | ${
-                        counts[idx] === undefined ? "update failed" : counts[idx]
+                        counts[idx] === undefined
+                            ? "update failed"
+                            : counts[idx]
                     } |`
             )
-            .join("\n")}`
+            .join("\n")}\n\nUpdated at **${new Date()}**`
     )
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u"))) {
