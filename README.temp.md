@@ -2,7 +2,7 @@
 
 Autoupdate iptv sources
 
-Join discord: [![Discord](https://dcbadge.vercel.app/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
+Join discord: [![Discord](https://discord.badge.ibert.me/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
 
 Sources are from:
 
