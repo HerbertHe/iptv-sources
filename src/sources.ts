@@ -25,6 +25,8 @@ export const filter = (raw: string): [string, number] => {
                     rawArray[i]
                         .replace(/\@\@[0-9]*/g, "")
                         .replace(/\[geo\-blocked\]/, "")
+                        .replace(/\[Geo\-blocked\]/, "")
+                        .trim()
                 )
                 result.push(rawArray[i + 1])
             }
@@ -33,7 +35,7 @@ export const filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), result.length - 1]
+    return [result.join("\n"), (result.length - 1) / 2]
 }
 
 export const iptv_org_filter = (raw: string): [string, number] => {
@@ -56,6 +58,8 @@ export const iptv_org_filter = (raw: string): [string, number] => {
                     rawArray[i]
                         .replace(/\@\@[0-9]*/g, "")
                         .replace(/\[geo\-blocked\]/, "")
+                        .replace(/\[Geo\-blocked\]/, "")
+                        .trim()
                 )
                 result.push(rawArray[i + 1])
             }
@@ -64,7 +68,7 @@ export const iptv_org_filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), result.length - 1]
+    return [result.join("\n"), (result.length - 1) / 2]
 }
 
 export const iptv_org_stream_filter = (raw: string): [string, number] => {
@@ -112,7 +116,7 @@ export const iptv_org_stream_filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), result.length - 1]
+    return [result.join("\n"), (result.length - 1) / 2]
 }
 
 const epg_pw_sources: TSources = [

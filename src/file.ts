@@ -17,10 +17,17 @@ export const writeM3u = (name: string, m3u: string) => {
     fs.writeFileSync(path.join(path.resolve(), "m3u", `${name}.m3u`), m3u)
 }
 
-export const cleanFiles = () => {
-    if (fs.existsSync(path.join(path.resolve(), "m3u"))) {
-        fs.readdirSync(path.join(path.resolve(), "m3u")).forEach((file) => {
-            fs.unlinkSync(path.join(path.resolve(), "m3u", file))
+const cleanDir = (p: string) => {
+    if (fs.existsSync(p)) {
+        fs.readdirSync(p).forEach((file) => {
+            const isDir = fs.statSync(path.join(p, file)).isDirectory()
+            if (isDir) {
+                cleanDir(path.join(p, file))
+            } else {
+                fs.unlinkSync(path.join(p, file))
+            }
         })
     }
 }
+
+export const cleanFiles = () => cleanDir(path.join(path.resolve(), "m3u"))

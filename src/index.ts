@@ -1,5 +1,5 @@
 import { cleanFiles, getM3u, writeM3u } from "./file"
-import { updateReadme } from "./readme"
+import { updateChannelList, updateReadme } from "./readme"
 import { sources, filter } from "./sources"
 
 cleanFiles()
@@ -10,15 +10,12 @@ Promise.allSettled(
         const [status, text] = await getM3u(sr)
 
         if (/^[2]/.test(status.toString()) && !!text) {
-            if (!!sr.filter) {
-                let [m3u, count] = sr.filter(text as string)
-                writeM3u(sr.f_name, m3u)
-                return count
-            } else {
-                let [m3u, count] = filter(text as string)
-                writeM3u(sr.f_name, m3u)
-                return count
-            }
+            let [m3u, count] = !!sr.filter
+                ? sr.filter(text as string)
+                : filter(text as string)
+            writeM3u(sr.f_name, m3u)
+            updateChannelList(sr.name, sr.f_name, m3u)
+            return count
         } else {
             return undefined
         }
