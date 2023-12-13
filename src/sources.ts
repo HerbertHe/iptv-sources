@@ -1,3 +1,5 @@
+import * as OpenCC from "opencc-js"
+
 export interface ISource {
     name: string
     f_name: string
@@ -6,6 +8,8 @@ export interface ISource {
 }
 
 export type TSources = ISource[]
+
+const converter = OpenCC.Converter({ from: "hk", to: "cn" })
 
 export const filter = (raw: string): [string, number] => {
     const rawArray = raw.split("\n")
@@ -35,7 +39,7 @@ export const filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), (result.length - 1) / 2]
+    return [converter(result.join("\n")), (result.length - 1) / 2]
 }
 
 export const iptv_org_filter = (raw: string): [string, number] => {
@@ -68,7 +72,7 @@ export const iptv_org_filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), (result.length - 1) / 2]
+    return [converter(result.join("\n")), (result.length - 1) / 2]
 }
 
 export const iptv_org_stream_filter = (raw: string): [string, number] => {
@@ -116,7 +120,7 @@ export const iptv_org_stream_filter = (raw: string): [string, number] => {
         i += 2
     }
 
-    return [result.join("\n"), (result.length - 1) / 2]
+    return [converter(result.join("\n")), (result.length - 1) / 2]
 }
 
 const epg_pw_sources: TSources = [

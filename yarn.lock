@@ -232,6 +232,11 @@
   dependencies:
     undici-types "~5.26.4"
 
+"@types/opencc-js@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npmmirror.com/@types/opencc-js/-/opencc-js-1.0.3.tgz#8168bbdd245fc276a3ae744c114ab1fd630a4a81"
+  integrity sha512-TENp7YkI2hNlc4dplhivSHj0hU4DORCK56VY7rniaSfA5f87uD3uv+kPIRuH9h64TGv976iVFi4gEHZZtS2y8Q==
+
 any-promise@^1.0.0:
   version "1.3.0"
   resolved "https://registry.npmmirror.com/any-promise/-/any-promise-1.3.0.tgz#abc6afeedcea52e809cdc0376aed3ce39635d17f"
@@ -639,6 +644,11 @@ onetime@^5.1.2:
   integrity sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg==
   dependencies:
     mimic-fn "^2.1.0"
+
+opencc-js@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/opencc-js/-/opencc-js-1.0.5.tgz#4754a9407590c5d581c9b4788acd43e8627dd464"
+  integrity sha512-LD+1SoNnZdlRwtYTjnQdFrSVCAaYpuDqL5CkmOaHOkKoKh7mFxUicLTRVNLU5C+Jmi1vXQ3QL4jWdgSaa4sKjg==
 
 path-is-absolute@^1.0.0:
   version "1.0.1"
