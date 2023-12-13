@@ -28,11 +28,11 @@ export const updateChannelList = (
     }
 
     const after = list
-        .replace("<!-- list_title_here -->", `# List for \`${name}\``)
+        .replace("<!-- list_title_here -->", `# List for **${name}**`)
         .replace(
             "<!-- channels_here -->",
             `${channels
-                .map((c, idx) => `| ${idx + 1} | ${c} |`)
+                .map((c, idx) => `| ${idx + 1} | ${c.replace("|", "")} |`)
                 .join("\n")}\n\nUpdated at **${new Date()}**`
         )
 
@@ -61,7 +61,7 @@ export const updateReadme = (
                         s.f_name
                     }.m3u> | [List for ${s.name}](https://m3u.ibert.me/list/${
                         s.f_name
-                    }.list.md) | ${
+                    }.list) | ${
                         counts[idx] === undefined
                             ? "update failed"
                             : counts[idx]
