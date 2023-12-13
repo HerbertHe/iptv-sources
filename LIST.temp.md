@@ -1,5 +1,5 @@
 <!-- list_title_here -->
 
-| No.  | Channel Name |
-| --- | ------------ |
+| No.  | Channel Name | Source |
+| --- | ------------ | --- |
 <!-- channels_here -->

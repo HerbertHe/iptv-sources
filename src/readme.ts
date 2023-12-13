@@ -20,10 +20,10 @@ export const updateChannelList = (
     const m3uArray = m3u.split("\n")
     const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
     let i = 1
-    let channels: string[] = []
+    let channels: Array<string>[] = []
     while (i < m3uArray.length) {
         const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        channels.push(reg[2].trim())
+        channels.push([reg[2].trim(), m3uArray[i + 1]])
         i += 2
     }
 
@@ -32,7 +32,13 @@ export const updateChannelList = (
         .replace(
             "<!-- channels_here -->",
             `${channels
-                .map((c, idx) => `| ${idx + 1} | ${c.replace("|", "")} |`)
+                .map(
+                    (c, idx) =>
+                        `| ${idx + 1} | ${c[0].replace(
+                            "|",
+                            ""
+                        )} | [${c[0].replace("|", "")}](${c[1]}) |`
+                )
                 .join("\n")}\n\nUpdated at **${new Date()}**`
         )
 
