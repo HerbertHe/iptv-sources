@@ -28,7 +28,10 @@ export const updateChannelList = (
     }
 
     const after = list
-        .replace("<!-- list_title_here -->", `# List for **${name}**`)
+        .replace(
+            "<!-- list_title_here -->",
+            `# List for **${name}**\n\n> <https://m3u.ibert.me/${f_name}.m3u>`
+        )
         .replace(
             "<!-- channels_here -->",
             `${channels
