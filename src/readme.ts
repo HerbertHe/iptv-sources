@@ -30,7 +30,7 @@ export const updateChannelList = (
     const after = list
         .replace(
             "<!-- list_title_here -->",
-            `# List for **${name}**\n\n> <https://m3u.ibert.me/${f_name}.m3u>`
+            `# List for **${name}**\n\n> M3U: <https://m3u.ibert.me/${f_name}.m3u>, TXT: <https://m3u.ibert.me/txt/${f_name}.txt>`
         )
         .replace(
             "<!-- channels_here -->",
@@ -68,7 +68,9 @@ export const updateReadme = (
                 (s, idx) =>
                     `| ${s.name} | <https://m3u.ibert.me/${
                         s.f_name
-                    }.m3u> | [List for ${s.name}](https://m3u.ibert.me/list/${
+                    }.m3u> | <https://m3u.ibert.me/txt/${
+                        s.f_name
+                    }.txt> | [List for ${s.name}](https://m3u.ibert.me/list/${
                         s.f_name
                     }.list) | ${
                         counts[idx] === undefined
