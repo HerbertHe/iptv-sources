@@ -68,7 +68,7 @@ export const updateReadme = (
                 (s, idx) =>
                     `| ${s.name} | <https://m3u.ibert.me/${
                         s.f_name
-                    }.m3u> | <https://m3u.ibert.me/txt/${
+                    }.m3u> <br> <https://m3u.ibert.me/txt/${
                         s.f_name
                     }.txt> | [List for ${s.name}](https://m3u.ibert.me/list/${
                         s.f_name

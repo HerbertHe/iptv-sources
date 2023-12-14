@@ -9,8 +9,8 @@ Sources are from:
 - <https://epg.pw/test_channel_page.html>
 - [iptv.org](https://github.com/iptv-org/iptv)
 
-| channel | m3u url | txt url | list | count |
-| ------- | ------- | ------- | ---- | ----- |
+| channel | url | list | count |
+| ------- | --- | ---- | ----- |
 <!-- channels_here -->
 
 See <https://m3u.ibert.me> to get more.
