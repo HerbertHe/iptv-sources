@@ -10,6 +10,7 @@
     "dev": "tsup --watch",
     "build": "tsup",
     "m3u": "node ./dist/index.js",
+    "build:vercel": "npm run build && npm run vercel",
     "vercel": "node ./dist/vercel.js"
   },
   "devDependencies": {
