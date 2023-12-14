@@ -4,12 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "scripts": {
     "dev": "tsup --watch",
     "build": "tsup",
-    "m3u": "node ./dist/index.js"
+    "m3u": "node ./dist/index.js",
+    "vercel": "node ./dist/vercel.js"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
