@@ -10,7 +10,6 @@ interface IVercelJson {
         source: string
         destination: string
     }[]
-    outputDirectory: string
     buildCommand: string
 }
 
@@ -19,7 +18,6 @@ const updateVercelJson = (domains: string[]) => {
     const vercel: IVercelJson = {
         version: 2,
         rewrites: [],
-        outputDirectory: "m3u",
         buildCommand: "npm run build:vercel",
     }
 
