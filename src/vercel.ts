@@ -4,22 +4,9 @@ import path from "path"
 import { getM3u } from "./file"
 import { sources, filter } from "./sources"
 
-interface IVercelJson {
-    version: number
-    rewrites: {
-        source: string
-        destination: string
-    }[]
-    buildCommand: string
-}
-
 const updateVercelJson = (domains: string[]) => {
     const vercel_p = path.join(path.resolve(), "vercel.json")
-    const vercel: IVercelJson = {
-        version: 2,
-        rewrites: [],
-        buildCommand: "npm run build:vercel",
-    }
+    const vercel = JSON.parse(fs.readFileSync(path.resolve("vercel.temp.json")).toString())
 
     const rewrites = domains.map((d) => {
         const [protocol, domain] = d.split("/")
