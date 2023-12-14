@@ -21,17 +21,14 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
     const m3uArray = m3u.split("\n")
 
     const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
-    let i = 1
-    let channels: Array<string>[] = []
-    while (i < m3uArray.length) {
+    let channels: string = ""
+
+    for (let i = 1; i < m3uArray.length; i += 2) {
         const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        channels.push([reg[2].trim(), m3uArray[i + 1]])
-        i += 2
+        channels += `${reg[2].trim()},${m3uArray[i + 1]}\n`
     }
 
-    const txt = `${title}\n${channels
-        .map(([name, url]) => `${name},${url}`)
-        .join("\n")}\n`
+    const txt = `${title}\n${channels}\n`
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u", "txt"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u", "txt"))
