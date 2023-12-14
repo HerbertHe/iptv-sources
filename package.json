@@ -9,9 +9,7 @@
   "scripts": {
     "dev": "tsup --watch",
     "build": "tsup",
-    "m3u": "node ./dist/index.js",
-    "vercel-build": "npm run build && npm run m3u && npm run vercel && cp -r ./m3u ./public",
-    "vercel": "node ./dist/vercel.js"
+    "m3u": "node ./dist/index.js"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
