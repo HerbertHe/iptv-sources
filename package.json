@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
-  "type": "commonjs",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "tsup --watch",
@@ -20,7 +20,6 @@
     "typescript": "^5.3.2"
   },
   "dependencies": {
-    "node-fetch": "^3.3.2",
     "opencc-js": "^1.0.5"
   }
 }

@@ -4,5 +4,5 @@ export const tsup = defineConfig({
     entry: ["src/index.ts", "src/vercel.ts"],
     outDir: "dist",
     clean: true,
-    format: ["cjs"],
+    format: ["esm"],
 })
