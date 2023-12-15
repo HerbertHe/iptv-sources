@@ -2,7 +2,10 @@ import { converter } from "./utils"
 import type { TSources } from "./utils"
 
 export const iptv_org_filter = (raw: string): [string, number] => {
-    const rawArray = raw.split("\n")
+    const rawArray = raw
+        .trim()
+        .split("\n")
+        .filter((r) => !!r)
     const regExp = /\#EXTINF:-1\s+tvg\-id\=\"([^"]*)\"/
     const invalidExp = /\#EXTVLCOPT:/
 

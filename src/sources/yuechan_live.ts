@@ -1,14 +1,25 @@
 import type { TSources } from "./utils"
 
-// TODO 修复不同来源的图标
 export const yuechan_live_filter = (raw: string): [string, number] => {
-    return [
-        raw.replace(
-            /https\:\/\/raw\.githubusercontent\.com\/drangjchen\/IPTV\/main/g,
-            "https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main"
-        ),
-        raw.split("\n").length / 2 - 1,
-    ]
+    const rawArray = raw
+        .trim()
+        .split("\n")
+        .filter((r) => !!r)
+
+    const regExp = /\#EXTINF:-1(.*)/
+
+    const result = rawArray.map((r) => {
+        if (regExp.test(r)) {
+            return r.replace(
+                "https://raw.githubusercontent.com/",
+                "https://ghproxy.net/https://raw.githubusercontent.com/"
+            )
+        } else {
+            return r
+        }
+    })
+
+    return [result.join("\n"), (result.length - 1) / 2]
 }
 
 export const yuechan_live_sources: TSources = [
