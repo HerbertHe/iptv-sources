@@ -1,11 +1,8 @@
-import { converter } from "./utils"
+import { converter, handle_m3u } from "./utils"
 import type { TSources } from "./utils"
 
 export const iptv_org_filter = (raw: string): [string, number] => {
-    const rawArray = raw
-        .trim()
-        .split("\n")
-        .filter((r) => !!r)
+    const rawArray = handle_m3u(raw)
     const regExp = /\#EXTINF:-1\s+tvg\-id\=\"([^"]*)\"/
     const invalidExp = /\#EXTVLCOPT:/
 

@@ -1,6 +1,8 @@
 import fs from "fs"
 import path from "path"
 
+import { handle_m3u } from "./sources"
+
 export interface IREADMESource {
     name: string
     f_name: string
@@ -17,7 +19,7 @@ export const updateChannelList = (
     const list_temp_p = path.join(path.resolve(), "LIST.temp.md")
     const list = fs.readFileSync(list_temp_p, "utf8").toString()
 
-    const m3uArray = m3u.split("\n")
+    const m3uArray = handle_m3u(m3u)
     const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
     let i = 1
     let channels: Array<string>[] = []

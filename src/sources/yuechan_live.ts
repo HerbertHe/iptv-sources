@@ -1,10 +1,7 @@
-import type { TSources } from "./utils"
+import { handle_m3u, type TSources } from "./utils"
 
 export const yuechan_live_filter = (raw: string): [string, number] => {
-    const rawArray = raw
-        .trim()
-        .split("\n")
-        .filter((r) => !!r)
+    const rawArray = handle_m3u(raw)
 
     const regExp = /\#EXTINF:-1(.*)/
 
