@@ -25,7 +25,7 @@ export const updateChannelList = (
     let channels: Array<string>[] = []
     while (i < m3uArray.length) {
         const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        channels.push([reg[2].trim(), m3uArray[i + 1]])
+        channels.push([reg[2].replace(/\|/g, "").trim(), m3uArray[i + 1]])
         i += 2
     }
 
