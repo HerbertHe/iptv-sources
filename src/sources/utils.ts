@@ -18,3 +18,10 @@ export const handle_m3u = (r: string) => {
         .split("\n")
         .filter((r) => !!r)
 }
+
+export const replace_github_rawcontent = (url: string) => {
+    return url.replace(
+        "https://raw.githubusercontent.com/",
+        "https://ghproxy.net/https://raw.githubusercontent.com/"
+    )
+}

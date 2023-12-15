@@ -1,4 +1,4 @@
-import { handle_m3u, type TSources } from "./utils"
+import { handle_m3u, replace_github_rawcontent, type TSources } from "./utils"
 
 export const yuechan_live_filter = (raw: string): [string, number] => {
     const rawArray = handle_m3u(raw)
@@ -7,10 +7,7 @@ export const yuechan_live_filter = (raw: string): [string, number] => {
 
     const result = rawArray.map((r) => {
         if (regExp.test(r)) {
-            return r.replace(
-                "https://raw.githubusercontent.com/",
-                "https://ghproxy.net/https://raw.githubusercontent.com/"
-            )
+            return replace_github_rawcontent(r)
         } else {
             return r
         }
