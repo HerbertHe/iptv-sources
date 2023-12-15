@@ -10,6 +10,7 @@ Sources are from:
 - [iptv.org](https://github.com/iptv-org/iptv)
 - [YueChan/Live](https://github.com/YueChan/Live)
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
+- [fanmingming/live](https://github.com/fanmingming/live)
 
 See <https://m3u.ibert.me> to get more.
 
