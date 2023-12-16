@@ -1,3 +1,4 @@
+import { updateChannelsJson } from "./channels"
 import { cleanFiles, getM3u, writeM3u, writeM3uToTxt } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
 import { sources, filter } from "./sources"
@@ -24,6 +25,7 @@ Promise.allSettled(
 )
     .then((counts) => {
         const cs = (<any>counts).map(({ value }) => value)
+        updateChannelsJson(sources, cs)
         updateReadme(sources, cs)
     })
     .catch((err) => {
