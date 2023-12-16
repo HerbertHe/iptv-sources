@@ -1,6 +1,6 @@
 {
   "name": "iptv-sources",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
@@ -11,13 +11,7 @@
     "build": "tsup",
     "m3u": "node ./dist/index.js",
     "serve": "npx live-server ./m3u --port 8080",
-    "docker:build": "docker build -t iptv-sources:latest .",
-    "docker:tag": "yarn docker:tag:v && yarn docker:tag:latest",
-    "docker:tag:v": "docker tag iptv-sources:latest herberthe0229/iptv-sources:v2",
-    "docker:tag:latest": "docker tag iptv-sources:latest herberthe0229/iptv-sources:latest",
-    "docker:push": "yarn docker:push:v && yarn docker:push:latest",
-    "docker:push:v": "docker push herberthe0229/iptv-sources:v2",
-    "docker:push:latest": "docker push herberthe0229/iptv-sources:latest"
+    "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.9.0",
