@@ -9,9 +9,18 @@
   "scripts": {
     "dev": "tsup --watch",
     "build": "tsup",
-    "m3u": "node ./dist/index.js"
+    "m3u": "node ./dist/index.js",
+    "serve": "npx live-server ./m3u --port 8080",
+    "docker:build": "docker build -t iptv-sources:latest .",
+    "docker:tag": "yarn docker:tag:v && yarn docker:tag:latest",
+    "docker:tag:v": "docker tag iptv-sources:latest herberthe0229/iptv-sources:v2",
+    "docker:tag:latest": "docker tag iptv-sources:latest herberthe0229/iptv-sources:latest",
+    "docker:push": "yarn docker:push:v && yarn docker:push:latest",
+    "docker:push:v": "docker push herberthe0229/iptv-sources:v2",
+    "docker:push:latest": "docke push herberthe0229/iptv-sources:latest"
   },
   "devDependencies": {
+    "@rollup/wasm-node": "^4.9.0",
     "@types/node": "^20.10.0",
     "@types/opencc-js": "^1.0.3",
     "tsup": "^8.0.1",
@@ -19,5 +28,8 @@
   },
   "dependencies": {
     "opencc-js": "^1.0.5"
+  },
+  "resolutions": {
+    "rollup": "npm:@rollup/wasm-node"
   }
 }
