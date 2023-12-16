@@ -17,7 +17,7 @@
     "docker:tag:latest": "docker tag iptv-sources:latest herberthe0229/iptv-sources:latest",
     "docker:push": "yarn docker:push:v && yarn docker:push:latest",
     "docker:push:v": "docker push herberthe0229/iptv-sources:v2",
-    "docker:push:latest": "docke push herberthe0229/iptv-sources:latest"
+    "docker:push:latest": "docker push herberthe0229/iptv-sources:latest"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.9.0",
