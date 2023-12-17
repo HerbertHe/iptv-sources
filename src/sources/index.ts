@@ -11,14 +11,14 @@ import {
     iptv_org_stream_sources,
     yang_m3u_sources,
     yuechan_live_sources,
-    fanmingming_live_sources
+    fanmingming_live_sources,
 } from "."
 
 export const sources = [
     ...fanmingming_live_sources,
+    ...iptv_org_sources,
+    ...iptv_org_stream_sources,
     ...epg_pw_sources,
     ...yuechan_live_sources,
     ...yang_m3u_sources,
-    ...iptv_org_sources,
-    ...iptv_org_stream_sources,
 ]
