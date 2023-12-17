@@ -1,4 +1,3 @@
-import { count } from "console"
 import { updateChannelsJson } from "./channels"
 import { cleanFiles, getM3u, writeM3u, writeM3uToTxt } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
