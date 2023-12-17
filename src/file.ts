@@ -46,7 +46,7 @@ export const mergeTxts = () => {
 
     const txts = files.map(d => fs.readFileSync(path.join(txts_p, d).toString())).join("\n")
 
-    fs.writeFileSync(path.join(txts_p, "channles.txt"), txts)
+    fs.writeFileSync(path.join(txts_p, "channels.txt"), txts)
 }
 
 const cleanDir = (p: string) => {
