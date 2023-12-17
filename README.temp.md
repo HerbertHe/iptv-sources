@@ -12,8 +12,8 @@ Sources are from:
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fanmingming/live](https://github.com/fanmingming/live)
 
-| channel | url | list | count |
-| ------- | --- | ---- | ----- |
+| channel | url | list | count | isRollback |
+| ------- | --- | ---- | ----- | ---------- |
 <!-- channels_here -->
 
 See <https://m3u.ibert.me> to get more.

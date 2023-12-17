@@ -11,7 +11,7 @@ export type TChannelsSources = IChannelSource[]
 export interface IChannel {
     name: string
     m3u: string
-    count: number
+    count: number | undefined
 }
 
 export interface IChannelsResult {
@@ -19,14 +19,17 @@ export interface IChannelsResult {
     updated_at: number
 }
 
-export const updateChannelsJson = (sources: TChannelsSources, cs: number[]) => {
+export const updateChannelsJson = (
+    sources: TChannelsSources,
+    res: Array<[string, number | undefined]>
+) => {
     const json_p = path.resolve("m3u", "channels.json")
 
     const result: IChannelsResult = {
         channels: sources.map((source, idx) => ({
             name: source.name,
             m3u: `https://m3u.ibert.me/${source.f_name}.m3u`,
-            count: cs[idx],
+            count: res[idx][1],
         })),
         updated_at: new Date().getTime(),
     }

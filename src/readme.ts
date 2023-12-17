@@ -14,7 +14,8 @@ export type TREADMESources = IREADMESource[]
 export const updateChannelList = (
     name: string,
     f_name: string,
-    m3u: string
+    m3u: string,
+    rollback: boolean = false
 ) => {
     const list_temp_p = path.join(path.resolve(), "LIST.temp.md")
     const list = fs.readFileSync(list_temp_p, "utf8").toString()
@@ -32,7 +33,9 @@ export const updateChannelList = (
     const after = list
         .replace(
             "<!-- list_title_here -->",
-            `# List for **${name}**\n\n> M3U: <https://m3u.ibert.me/${f_name}.m3u>, TXT: <https://m3u.ibert.me/txt/${f_name}.txt>`
+            `# List for **${name}**${
+                rollback ? "(Rollback)" : ""
+            }\n\n> M3U: <https://m3u.ibert.me/${f_name}.m3u>, TXT: <https://m3u.ibert.me/txt/${f_name}.txt>`
         )
         .replace(
             "<!-- channels_here -->",
@@ -58,7 +61,7 @@ export const updateChannelList = (
 
 export const updateReadme = (
     sources: TREADMESources,
-    counts: Array<number | undefined>
+    res: Array<[string, number | undefined]>
 ) => {
     const readme_temp_p = path.join(path.resolve(), "README.temp.md")
     const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
@@ -75,10 +78,10 @@ export const updateReadme = (
                     }.txt> | [List for ${s.name}](https://m3u.ibert.me/list/${
                         s.f_name
                     }.list) | ${
-                        counts[idx] === undefined
+                        res[idx][1] === undefined
                             ? "update failed"
-                            : counts[idx]
-                    } |`
+                            : res[idx][1]
+                    } | ${res[idx][0] === "rollback" ? "✅" : "-"} |`
             )
             .join("\n")}\n\nUpdated at **${new Date()}**`
     )

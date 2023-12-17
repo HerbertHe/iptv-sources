@@ -1,7 +1,9 @@
+import { count } from "console"
 import { updateChannelsJson } from "./channels"
 import { cleanFiles, getM3u, writeM3u, writeM3uToTxt } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
 import { sources, filter } from "./sources"
+import { updateByRollback } from "./rollback"
 
 cleanFiles()
 
@@ -17,16 +19,28 @@ Promise.allSettled(
             writeM3u(sr.f_name, m3u)
             writeM3uToTxt(sr.name, sr.f_name, m3u)
             updateChannelList(sr.name, sr.f_name, m3u)
-            return count
+            return ["normal", count]
         } else {
-            return undefined
+            // rollback
+            const res = await updateByRollback(sr.f_name, sr.filter)
+            if (!!res) {
+                const [m3u, count] = res
+                writeM3u(sr.f_name, m3u)
+                writeM3uToTxt(sr.name, sr.f_name, m3u)
+                updateChannelList(sr.name, sr.f_name, m3u, true)
+                return ["rollback", count]
+            } else {
+                // rollback failed
+                return ["rollback", undefined]
+            }
         }
     })
 )
-    .then((counts) => {
-        const cs = (<any>counts).map(({ value }) => value)
-        updateChannelsJson(sources, cs)
-        updateReadme(sources, cs)
+    .then((result) => {
+        const res = (<any>result).map(({ value }) => value)
+
+        updateChannelsJson(sources, res)
+        updateReadme(sources, res)
     })
     .catch((err) => {
         console.error(err)
