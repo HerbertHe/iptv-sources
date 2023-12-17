@@ -28,7 +28,7 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
         channels += `${reg[2].trim()},${m3uArray[i + 1]}\n`
     }
 
-    const txt = `${title}\n${channels}\n`
+    const txt = `${title}\n${channels}`
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u", "txt"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u", "txt"))
@@ -38,6 +38,15 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
         path.join(path.resolve(), "m3u", "txt", `${f_name}.txt`),
         txt
     )
+}
+
+export const mergeTxts = () => {
+    const txts_p = path.resolve("m3u", "txt")
+    const files = fs.readdirSync(txts_p)
+
+    const txts = files.map(d => fs.readFileSync(path.join(txts_p, d).toString())).join("\n")
+
+    fs.writeFileSync(path.join(txts_p, "channles.txt"), txts)
 }
 
 const cleanDir = (p: string) => {

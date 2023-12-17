@@ -1,5 +1,5 @@
 import { updateChannelsJson } from "./channels"
-import { cleanFiles, getM3u, writeM3u, writeM3uToTxt } from "./file"
+import { cleanFiles, getM3u, mergeTxts, writeM3u, writeM3uToTxt } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
 import { sources, filter } from "./sources"
 import { updateByRollback } from "./rollback"
@@ -37,7 +37,7 @@ Promise.allSettled(
 )
     .then((result) => {
         const res = (<any>result).map(({ value }) => value)
-
+        mergeTxts()
         updateChannelsJson(sources, res)
         updateReadme(sources, res)
     })
