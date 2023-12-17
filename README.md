@@ -46,7 +46,7 @@ Or, you can also deploy with your own server & domain.
 
 Maybe you want to set schedule for auto-updating per 2 hours.
 
-- Download bash script file `iptv-sources.sh` <https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@main/iptv-sources.sh> to your homedir.
+- Download bash script file `iptv-sources.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/iptv-sources.sh> to your homedir.
 
 - Edit you crontab:
 
