@@ -16,6 +16,7 @@ export interface IChannel {
 
 export interface IChannelsResult {
     channels: IChannel[]
+    updated_at: number
 }
 
 export const updateChannelsJson = (sources: TChannelsSources, cs: number[]) => {
@@ -27,6 +28,7 @@ export const updateChannelsJson = (sources: TChannelsSources, cs: number[]) => {
             m3u: `https://m3u.ibert.me/${source.f_name}.m3u`,
             count: cs[idx],
         })),
+        updated_at: new Date().getTime(),
     }
 
     if (!fs.existsSync(path.resolve("m3u"))) {
