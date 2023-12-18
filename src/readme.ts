@@ -100,7 +100,11 @@ export const updateReadme = (
                         `| ${e.name} | <https://m3u.ibert.me/epg/${
                             e.f_name
                         }.xml> | ${
-                            sources_res[idx][0] === "rollback" ? "✅" : "-"
+                            !!epgs_res[idx][0]
+                                ? epgs_res[idx][0] === "rollback"
+                                    ? "✅"
+                                    : "-"
+                                : "update failed"
                         } |`
                 )
                 .join("\n")}\n\nUpdated at **${new Date()}**`
