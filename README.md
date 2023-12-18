@@ -77,6 +77,10 @@ crontab -e
 service crond restart
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HerbertHe/iptv-sources&type=Date)](https://star-history.com/#HerbertHe/iptv-sources&Date)
+
 ## LICENSE
 
 MIT &copy; Herbert He 2023
