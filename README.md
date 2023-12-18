@@ -20,9 +20,9 @@ Sources are from:
 
 See <https://m3u.ibert.me> to get more.
 
-> Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **3 hours**.
+> Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **2 hours**.
 
-> 使用 CDN **（不建议）**：你可以通过 `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` 替换 `https://m3u.ibert.me/` 来使用 CDN 服务。由于 CDN 的 **缓存策略**，内容不会是最新的，m3u 文件每 **3 小时** 会更新一次。
+> 使用 CDN **（不建议）**：你可以通过 `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` 替换 `https://m3u.ibert.me/` 来使用 CDN 服务。由于 CDN 的 **缓存策略**，内容不会是最新的，m3u 文件每 **2 小时** 会更新一次。
 
 ## Deploy by yourself
 
