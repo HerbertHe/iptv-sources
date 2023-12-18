@@ -7,7 +7,7 @@ docker stop iptv-sources && docker rm iptv-sources && docker pull herberthe0229/
 UNUSED_IMAGES = $(docker images -q herberthe0229/iptv-sources --filter "dangling=true")
 
 # 删除历史版本
-if [-n "$UNUSED_IMAGES"];
+if [ -n "$UNUSED_IMAGES" ];
 then
 docker rmi $UNUSED_IMAGES
 fi
