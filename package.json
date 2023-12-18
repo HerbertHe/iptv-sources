@@ -10,18 +10,26 @@
     "dev": "tsup --watch",
     "build": "tsup",
     "m3u": "node ./dist/index.js",
-    "serve": "npx live-server ./m3u --port 8080",
+    "serve": "node ./dist/serve.js",
     "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push",
     "push": "git push && yarn docker:build"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.9.0",
+    "@types/koa": "^2.13.12",
+    "@types/koa-router": "^7.4.8",
+    "@types/koa-static": "^4.0.4",
+    "@types/markdown-it": "^13.0.7",
     "@types/node": "^20.10.0",
     "@types/opencc-js": "^1.0.3",
     "tsup": "^8.0.1",
     "typescript": "^5.3.2"
   },
   "dependencies": {
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1",
+    "koa-static": "^5.0.0",
+    "markdown-it": "^14.0.0",
     "opencc-js": "^1.0.5"
   },
   "resolutions": {
