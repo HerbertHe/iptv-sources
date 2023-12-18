@@ -20,6 +20,11 @@ Sources are from:
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fanmingming/live](https://github.com/fanmingming/live)
 
+EPG Sources are from:
+
+- [fanmingming/live](https://github.com/fanmingming/live)
+- [112114.xyz](https://diyp1.112114.xyz)
+
 See <https://m3u.ibert.me> to get more.
 
 > Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **2 hours**.

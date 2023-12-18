@@ -12,9 +12,22 @@ Sources are from:
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fanmingming/live](https://github.com/fanmingming/live)
 
+EPG Sources are from:
+
+- [fanmingming/live](https://github.com/fanmingming/live)
+- [112114.xyz](https://diyp1.112114.xyz)
+
+## Channel
+
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
 <!-- channels_here -->
+
+## EPG
+
+| epg | url | isRollback |
+| --- | --- | ---------- |
+<!-- epgs_here -->
 
 See <https://m3u.ibert.me> to get more.
 

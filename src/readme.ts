@@ -2,6 +2,7 @@ import fs from "fs"
 import path from "path"
 
 import { handle_m3u } from "./sources"
+import type { TEPGSource } from "./epgs/utils"
 
 export interface IREADMESource {
     name: string
@@ -10,6 +11,7 @@ export interface IREADMESource {
 }
 
 export type TREADMESources = IREADMESource[]
+export type TREADMEEPGSources = TEPGSource[]
 
 export const updateChannelList = (
     name: string,
@@ -61,30 +63,48 @@ export const updateChannelList = (
 
 export const updateReadme = (
     sources: TREADMESources,
-    res: Array<[string, number | undefined]>
+    sources_res: Array<[string, number | undefined]>,
+    epgs: TREADMEEPGSources,
+    epgs_res: Array<[string | undefined]>
 ) => {
     const readme_temp_p = path.join(path.resolve(), "README.temp.md")
     const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
 
-    const after = readme.replace(
-        "<!-- channels_here -->",
-        `${sources
-            .map(
-                (s, idx) =>
-                    `| ${s.name} | <https://m3u.ibert.me/${
-                        s.f_name
-                    }.m3u> <br> <https://m3u.ibert.me/txt/${
-                        s.f_name
-                    }.txt> | [List for ${s.name}](https://m3u.ibert.me/list/${
-                        s.f_name
-                    }.list) | ${
-                        res[idx][1] === undefined
-                            ? "update failed"
-                            : res[idx][1]
-                    } | ${res[idx][0] === "rollback" ? "✅" : "-"} |`
-            )
-            .join("\n")}\n\nUpdated at **${new Date()}**`
-    )
+    const after = readme
+        .replace(
+            "<!-- channels_here -->",
+            `${sources
+                .map(
+                    (s, idx) =>
+                        `| ${s.name} | <https://m3u.ibert.me/${
+                            s.f_name
+                        }.m3u> <br> <https://m3u.ibert.me/txt/${
+                            s.f_name
+                        }.txt> | [List for ${
+                            s.name
+                        }](https://m3u.ibert.me/list/${s.f_name}.list) | ${
+                            sources_res[idx][1] === undefined
+                                ? "update failed"
+                                : sources_res[idx][1]
+                        } | ${
+                            sources_res[idx][0] === "rollback" ? "✅" : "-"
+                        } |`
+                )
+                .join("\n")}`
+        )
+        .replace(
+            "<!-- epgs_here -->",
+            `${epgs
+                .map(
+                    (e, idx) =>
+                        `| ${e.name} | <https://m3u.ibert.me/epg/${
+                            e.f_name
+                        }.xml> | ${
+                            sources_res[idx][0] === "rollback" ? "✅" : "-"
+                        } |`
+                )
+                .join("\n")}\n\nUpdated at **${new Date()}**`
+        )
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u"))
