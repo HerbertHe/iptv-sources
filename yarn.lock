@@ -165,11 +165,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rollup/wasm-node@^4.9.0", rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
-  name rollup
-  version "4.9.0"
-  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.0.tgz#5f7341bf16be62b6cdf1f5e853ac173ccfcfb05c"
-  integrity sha512-spVhSzlFgxz88VwlNU1WiWivBluzAgngKwYhRvNifzjglTqgkXdO6zmfwu2Q7MLLd+m7ol8lnWyQCq1U1xxjaw==
+"@rollup/wasm-node@^4.9.1":
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.9.1.tgz#11144d4df1a077a652c6f9723587e8479845d8ab"
+  integrity sha512-awrdTJgcUC0IA5X7Zi2HJlCcdhxaSDZHaBhoNuKt+TgDPdLatbw8GKKcLpqKVEAIOwfajNCQP+taQ/EgM+090A==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1135,6 +1134,13 @@ reusify@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmmirror.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
+
+rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
+  version "4.9.0"
+  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.0.tgz#5f7341bf16be62b6cdf1f5e853ac173ccfcfb05c"
+  integrity sha512-spVhSzlFgxz88VwlNU1WiWivBluzAgngKwYhRvNifzjglTqgkXdO6zmfwu2Q7MLLd+m7ol8lnWyQCq1U1xxjaw==
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 run-parallel@^1.1.9:
   version "1.2.0"
