@@ -16,6 +16,7 @@ EPG Sources are from:
 
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [112114.xyz](https://diyp1.112114.xyz)
+- [epg.51zmt.top:8000](http://epg.51zmt.top:8000/)
 
 ## Channel
 
