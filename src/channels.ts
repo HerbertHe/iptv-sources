@@ -30,7 +30,7 @@ export interface IChannelsResult {
 export const updateChannelsJson = (
     sources: TChannelsSources,
     sources_res: Array<[string, number | undefined]>,
-    epgs: TChannelEpgs,
+    epgs: TChannelEpgs
 ) => {
     const json_p = path.resolve("m3u", "channels.json")
 
@@ -38,7 +38,7 @@ export const updateChannelsJson = (
         channels: sources.map((source, idx) => ({
             name: source.name,
             m3u: `https://m3u.ibert.me/${source.f_name}.m3u`,
-            count: sources_res[idx][1],
+            count: !!sources_res[idx] ? sources_res[idx][1] : undefined,
         })),
         epgs: epgs.map((epg) => ({
             name: epg.name,
