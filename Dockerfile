@@ -1,12 +1,24 @@
+# build
+FROM node:alpine AS build
+
+WORKDIR /app
+
+COPY . /app
+
+RUN yarn install && yarn build && yarn m3u
+
+# final
 FROM node:alpine
 
 WORKDIR /app
-COPY . /app
 
-# RUN COMMAND
-RUN yarn install
-RUN yarn build
-RUN yarn m3u
+COPY [ "package.json", "yarn.lock", "/app/" ]
+
+RUN yarn install --production && yarn cache clean
+
+COPY --from=build /app/dist /app/dist
+
+COPY --from=build /app/m3u /app/m3u
 
 EXPOSE 8080
 
