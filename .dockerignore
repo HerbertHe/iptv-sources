@@ -1,0 +1,10 @@
+.DS_Store
+.github
+
+node_modules
+dist
+test_*
+m3u
+back
+
+_config.temp.yml
