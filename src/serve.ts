@@ -12,10 +12,17 @@ const router = new Router()
 app.use(Static("./m3u"))
 
 router.get("/", (ctx) => {
-    const markdown = fs
-        .readFileSync(path.resolve("m3u", "README.md"))
-        .toString()
+    let markdown: string = ""
     const md = new MarkdownIt({ html: true })
+    const readme_p = path.resolve("m3u", "README.md")
+    const back_readme_p = path.resolve("back", "README.md")
+    
+    if (!fs.existsSync(readme_p)) {
+        markdown = fs.readFileSync(back_readme_p).toString()
+    } else {
+        markdown = fs.readFileSync(readme_p).toString()
+    }
+    
     ctx.body = `
     <html lang="en">
     <head>

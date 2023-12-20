@@ -42,7 +42,7 @@ export const updateChannelList = (
         .replace(
             "<!-- channels_here -->",
             `${channels
-                .map(
+                ?.map(
                     (c, idx) =>
                         `| ${idx + 1} | ${c[0].replace("|", "")} | [${c[0]
                             .replace("|", "")
@@ -74,7 +74,7 @@ export const updateReadme = (
         .replace(
             "<!-- channels_here -->",
             `${sources
-                .map(
+                ?.map(
                     (s, idx) =>
                         `| ${s.name} | <https://m3u.ibert.me/${
                             s.f_name
@@ -83,11 +83,11 @@ export const updateReadme = (
                         }.txt> | [List for ${
                             s.name
                         }](https://m3u.ibert.me/list/${s.f_name}.list) | ${
-                            sources_res[idx][1] === undefined
+                            sources_res?.[idx]?.[1] === undefined
                                 ? "update failed"
                                 : sources_res[idx][1]
                         } | ${
-                            sources_res[idx][0] === "rollback" ? "✅" : "-"
+                            sources_res?.[idx]?.[0] === "rollback" ? "✅" : "-"
                         } |`
                 )
                 .join("\n")}`
@@ -95,13 +95,13 @@ export const updateReadme = (
         .replace(
             "<!-- epgs_here -->",
             `${epgs
-                .map(
+                ?.map(
                     (e, idx) =>
                         `| ${e.name} | <https://m3u.ibert.me/epg/${
                             e.f_name
                         }.xml> | ${
-                            !!epgs_res[idx][0]
-                                ? epgs_res[idx][0] === "rollback"
+                            !!epgs_res?.[idx]?.[0]
+                                ? epgs_res?.[idx]?.[0] === "rollback"
                                     ? "✅"
                                     : "-"
                                 : "update failed"

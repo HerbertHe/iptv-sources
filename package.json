@@ -12,7 +12,7 @@
     "m3u": "node ./dist/index.js",
     "serve": "node ./dist/serve.js",
     "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push",
-    "docker:build:local": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 .",
+    "docker:build:dev": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 . --push",
     "push": "git push && yarn docker:build"
   },
   "devDependencies": {

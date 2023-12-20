@@ -8,8 +8,6 @@ Autoupdate iptv sources
 [![Docker Pulls](https://img.shields.io/docker/pulls/herberthe0229/iptv-sources?style=flat-square)](https://hub.docker.com/r/herberthe0229/iptv-sources)
 [![Docker Stars](https://img.shields.io/docker/stars/herberthe0229/iptv-sources?style=flat-square)](https://hub.docker.com/r/herberthe0229/iptv-sources)
 
-**ATTENTION: `iptv-sources.sh` file maybe still unstable at this moment. Please use it with caution and check the latest version of this repository.**
-
 Join discord: [![Discord](https://discord.badge.ibert.me/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
 
 Sources are from:
@@ -54,7 +52,7 @@ Or, you can also deploy with your own server & domain.
 
 Maybe you want to set schedule for auto-updating per 2 hours.
 
-- Download bash script file `iptv-sources.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/iptv-sources.sh> to your homedir.
+- Download `iptv-update.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/iptv-update.sh> to your homedir.
 
 - Edit you crontab:
 
@@ -67,7 +65,7 @@ crontab -e
 - Add:
 
 ```cron
-0 */2 * * * /bin/sh ~/iptv-sources.sh
+0 */2 * * * /bin/sh ~/iptv-update.sh
 ```
 
 - Press keyboard `ESC` to exit edit mode
@@ -76,6 +74,16 @@ crontab -e
 
 ```bash
 service crond restart
+```
+
+## Update docker image
+
+- Download bash script file `update-image.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/update-image.sh> to your homedir.
+
+- run
+
+```bash
+/bin/sh ~/update-image.sh
 ```
 
 ## Star History
