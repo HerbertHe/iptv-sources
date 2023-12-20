@@ -1,0 +1,2 @@
+#!/bin/sh
+exec crond -f -c /app/docker_conf/crontab
