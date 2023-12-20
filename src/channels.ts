@@ -38,7 +38,7 @@ export const updateChannelsJson = (
         channels: sources.map((source, idx) => ({
             name: source.name,
             m3u: `https://m3u.ibert.me/${source.f_name}.m3u`,
-            count: !!sources_res[idx] ? sources_res[idx][1] : undefined,
+            count: sources_res?.[idx]?.[1],
         })),
         epgs: epgs.map((epg) => ({
             name: epg.name,
