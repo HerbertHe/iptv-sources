@@ -111,7 +111,7 @@ export const updateReadme = (
                             s.f_name
                         }.txt> | [List for ${
                             s.name
-                        }](https://m3u.ibert.me/list/${s.f_name}.list) | ${
+                        }](/list/${s.f_name}.list) | ${
                             sources_res?.[idx]?.[1] === undefined
                                 ? "update failed"
                                 : sources_res[idx][1]
