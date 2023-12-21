@@ -1,4 +1,4 @@
-import fs, { read } from "fs"
+import fs from "fs"
 import path from "path"
 
 import Koa from "koa"

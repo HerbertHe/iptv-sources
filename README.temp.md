@@ -2,6 +2,8 @@
 
 Autoupdate iptv sources
 
+GitHub: [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)
+
 Join discord: [![Discord](https://discord.badge.ibert.me/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
 
 Sources are from:
@@ -21,8 +23,6 @@ EPG Sources are from:
 ## Matrix
 
 You can also use the services provided by Mirror Sites Matrix!
-
-> Use mirror sites' url to replace `https://m3u.ibert.me`
 
 | HTTP Protocol | URL | Auto-update frequence | IDC | Provider |
 | ------------- | --- | --------------------- | --- | -------- |
