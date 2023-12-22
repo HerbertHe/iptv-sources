@@ -15,7 +15,10 @@ export const iptv_org_filter = (raw: string): [string, number] => {
         const invalid = invalidExp.test(rawArray[i + 1])
 
         if (!!reg && !invalid) {
-            if (!sourced.includes(reg[1]) || !reg[1]) {
+            if (["ABNChina.us", "NTDTVChina.us"].includes(reg[1].trim())) {
+                i += 2
+                continue
+            } else if (!sourced.includes(reg[1]) || !reg[1]) {
                 sourced.push(reg[1])
                 result.push(
                     rawArray[i]
@@ -64,6 +67,11 @@ export const iptv_org_stream_filter = (raw: string): [string, number] => {
                     )
                     result.push(rawArray[i + 1])
                 }
+            } else if (
+                ["ABNChina.us", "NTDTVChina.us"].includes(reg[1].trim())
+            ) {
+                i += 2
+                continue
             } else if (!sourced.includes(reg[1])) {
                 sourced.push(reg[1])
                 result.push(
