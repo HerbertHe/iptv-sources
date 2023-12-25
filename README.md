@@ -90,4 +90,4 @@ service crond restart
 
 ## LICENSE
 
-MIT &copy; Herbert He 2023
+GPL-3.0 &copy; Herbert He 2023
