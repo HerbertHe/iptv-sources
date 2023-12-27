@@ -8,7 +8,7 @@ export const yang_m3u_filter = (raw: string): [string, number] => {
 
 export const yang_m3u_sources: TSources = [
     {
-        name: "YanG_1989 Gather",
+        name: "YanG-1989 Gather",
         f_name: "y_g",
         url: "https://fastly.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u",
         filter: yang_m3u_filter,

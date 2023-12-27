@@ -18,7 +18,7 @@ export const yuechan_live_filter = (raw: string): [string, number] => {
 
 export const yuechan_live_sources: TSources = [
     {
-        name: "YueChan_Live IPTV",
+        name: "YueChan-Live IPTV",
         f_name: "ycl_iptv",
         url: "https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
         filter: yuechan_live_filter,
