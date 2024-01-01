@@ -17,7 +17,7 @@
     "push": "git push && yarn docker:build"
   },
   "devDependencies": {
-    "@rollup/wasm-node": "^4.9.1",
+    "@rollup/wasm-node": "^4.9.2",
     "@types/koa": "^2.13.12",
     "@types/koa-router": "^7.4.8",
     "@types/koa-static": "^4.0.4",
