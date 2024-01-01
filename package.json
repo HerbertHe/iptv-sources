@@ -28,7 +28,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "koa": "^2.14.2",
+    "koa": "^2.15.0",
     "koa-router": "^12.0.1",
     "koa-static": "^5.0.0",
     "markdown-it": "^14.0.0",
