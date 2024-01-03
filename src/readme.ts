@@ -13,26 +13,6 @@ export interface IREADMESource {
 export type TREADMESources = IREADMESource[]
 export type TREADMEEPGSources = TEPGSource[]
 
-interface IREADMEMirrorSite {
-    protocol: "http" | "https"
-    url: string
-    frequence: string
-    idc: string
-    provider: string
-}
-
-type TREADMEMirrorSitesMatrix = IREADMEMirrorSite[]
-
-const matrix: TREADMEMirrorSitesMatrix = [
-    {
-        protocol: "https",
-        url: "https://iptv.b2og.com",
-        frequence: "per 2h",
-        idc: "腾讯云",
-        provider: "[GrandDuke1106](https://github.com/GrandDuke1106)",
-    },
-]
-
 export const updateChannelList = (
     name: string,
     f_name: string,
@@ -91,15 +71,6 @@ export const updateReadme = (
     const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
 
     const after = readme
-        .replace(
-            "<!-- matrix_here -->",
-            matrix
-                ?.map(
-                    (m) =>
-                        `| ${m.protocol} | <${m.url}> | ${m.frequence} | ${m.idc} | ${m.provider} |`
-                )
-                .join("\n")
-        )
         .replace(
             "<!-- channels_here -->",
             `${sources

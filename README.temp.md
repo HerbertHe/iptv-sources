@@ -22,10 +22,8 @@ EPG Sources are from:
 
 ## Matrix
 
-You can also use the services provided by Mirror Sites Matrix!
+You can also use the services provided by Mirror Sites Matrix! See <https://m3u.ibert.me> for more.
 
-| HTTP Protocol | URL | Auto-update frequence | IDC | Provider |
-| ------------- | --- | --------------------- | --- | -------- |
 <!-- matrix_here -->
 
 ## Channel

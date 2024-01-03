@@ -74,7 +74,7 @@ Promise.allSettled(
         const epgs_res = result.epgs.map((r) => (<any>r).value)
         mergeTxts()
         updateChannelsJson(sources, sources_res, epgs_sources)
-        updateReadme(sources, sources_res,epgs_sources, epgs_res)
+        updateReadme(sources, sources_res, epgs_sources, epgs_res)
     })
     .catch((err) => {
         console.error(err)

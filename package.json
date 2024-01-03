@@ -11,6 +11,7 @@
     "build": "tsup",
     "m3u": "node ./dist/index.js",
     "serve": "node ./dist/serve.js",
+    "matrix": "node ./dist/matrix.js",
     "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push",
     "docker:build:dev": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 . --push",
     "docker:build:local": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 .",
