@@ -30,6 +30,13 @@ const matrix: TREADMEMirrorSitesMatrix = [
         idc: "腾讯云",
         provider: "[GrandDuke1106](https://github.com/GrandDuke1106)",
     },
+    {
+        protocol: "https",
+        url: "https://m3u.002397.xyz",
+        frequence: "per 2h",
+        idc: "CloudFlare Tunnel",
+        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
+    }
 ]
 
 const requestMirrorSite = (url: string): Promise<string> => {
