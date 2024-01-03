@@ -50,7 +50,7 @@ const requestMirrorSite = (url: string): Promise<string> => {
                 reject(`Get Updated Failed: **${res.statusText}**`)
             }
         } catch (err) {
-            reject(`Get Update Failed: **${err.toString()}**`)
+            reject(`Get Updated Failed: **${err.toString()}**`)
         }
     })
 }
