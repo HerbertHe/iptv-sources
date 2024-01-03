@@ -47,10 +47,10 @@ const requestMirrorSite = (url: string): Promise<string> => {
                 const channles = JSON.parse(await res.text()) as IChannelsResult
                 resolve(new Date(channles.updated_at).toString())
             } else {
-                reject(`Update Failed: **${res.statusText}**`)
+                reject(`Get Updated Failed: **${res.statusText}**`)
             }
         } catch (err) {
-            reject(`Update Failed: **${err.toString()}**`)
+            reject(`Get Update Failed: **${err.toString()}**`)
         }
     })
 }
