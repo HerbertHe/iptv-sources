@@ -170,10 +170,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rollup/wasm-node@^4.9.1", rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
-  version "4.9.1"
-  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.1.tgz#11144d4df1a077a652c6f9723587e8479845d8ab"
-  integrity sha512-awrdTJgcUC0IA5X7Zi2HJlCcdhxaSDZHaBhoNuKt+TgDPdLatbw8GKKcLpqKVEAIOwfajNCQP+taQ/EgM+090A==
+"@rollup/wasm-node@^4.9.2":
+  version "4.9.2"
+  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.2.tgz#6ee868b5702de7e43edcce80d016327aa352b21b"
+  integrity sha512-jjDDP+SnokWfwM7iGjWXxk0vZQRuHuNDTlqYja2PvnAJR483+B34fNols0Zkj1l5B3njYNS4rQ5C17tvj4cgLA==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -320,10 +320,17 @@
   resolved "https://registry.npmmirror.com/@types/mime/-/mime-1.3.5.tgz#1ef302e01cf7d2b5a0fa526790c9123bf1d06690"
   integrity sha512-/pyBZWSLD2n0dcHE3hq8s8ZvcETHtEuF+3E7XVt0Ig2nvsVQXdghHVcEkIWjy9A0wKfTn97a/PSDYohKIlnP/w==
 
-"@types/node@*", "@types/node@^20.10.5":
+"@types/node@*":
   version "20.10.5"
   resolved "https://registry.npmmirror.com/@types/node/-/node-20.10.5.tgz#47ad460b514096b7ed63a1dae26fad0914ed3ab2"
   integrity sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==
+  dependencies:
+    undici-types "~5.26.4"
+
+"@types/node@^20.10.6":
+  version "20.10.6"
+  resolved "https://registry.npmmirror.com/@types/node/-/node-20.10.6.tgz#a3ec84c22965802bf763da55b2394424f22bfbb5"
+  integrity sha512-Vac8H+NlRNNlAmDfGUP7b5h/KA+AtWIzuXy0E6OyP8f1tCLYAtPvKRRDJjAPqhpCb0t6U2j7/xqAuLEebW2kiw==
   dependencies:
     undici-types "~5.26.4"
 
@@ -477,10 +484,10 @@ content-type@^1.0.4:
   resolved "https://registry.npmmirror.com/content-type/-/content-type-1.0.5.tgz#8b773162656d1d1086784c8f23a54ce6d73d7918"
   integrity sha512-nTjqfcBFEipKdXCv4YDQWCfmcLZKm81ldF0pAopTvyrFGVbcR6P/VAAd5G7N+0tTr8QqiU0tFadD6FK4NtJwOA==
 
-cookies@~0.8.0:
-  version "0.8.0"
-  resolved "https://registry.npmmirror.com/cookies/-/cookies-0.8.0.tgz#1293ce4b391740a8406e3c9870e828c4b54f3f90"
-  integrity sha512-8aPsApQfebXnuI+537McwYsDtjVxGm8gTIzQI3FDW6t5t/DAhERxtnbEPN/8RX+uZthoz4eCOgloXaE5cYyNow==
+cookies@~0.9.0:
+  version "0.9.1"
+  resolved "https://registry.npmmirror.com/cookies/-/cookies-0.9.1.tgz#3ffed6f60bb4fb5f146feeedba50acc418af67e3"
+  integrity sha512-TG2hpqe4ELx54QER/S3HQ9SRVnQnGBtKUz5bLQWtYAQ+o6GpgMs6sYUvaiJjVxb+UXwhRhAEP3m7LbsIZ77Hmw==
   dependencies:
     depd "~2.0.0"
     keygrip "~1.1.0"
@@ -854,16 +861,16 @@ koa-static@^5.0.0:
     debug "^3.1.0"
     koa-send "^5.0.0"
 
-koa@^2.14.2:
-  version "2.14.2"
-  resolved "https://registry.npmmirror.com/koa/-/koa-2.14.2.tgz#a57f925c03931c2b4d94b19d2ebf76d3244863fc"
-  integrity sha512-VFI2bpJaodz6P7x2uyLiX6RLYpZmOJqNmoCst/Yyd7hQlszyPwG/I9CQJ63nOtKSxpt5M7NH67V6nJL2BwCl7g==
+koa@^2.15.0:
+  version "2.15.0"
+  resolved "https://registry.npmmirror.com/koa/-/koa-2.15.0.tgz#d24ae1b0ff378bf12eb3df584ab4204e4c12ac2b"
+  integrity sha512-KEL/vU1knsoUvfP4MC4/GthpQrY/p6dzwaaGI6Rt4NQuFqkw3qrvsdYF5pz3wOfi7IGTvMPHC9aZIcUKYFNxsw==
   dependencies:
     accepts "^1.3.5"
     cache-content-type "^1.0.0"
     content-disposition "~0.5.2"
     content-type "^1.0.4"
-    cookies "~0.8.0"
+    cookies "~0.9.0"
     debug "^4.3.2"
     delegates "^1.0.0"
     depd "^2.0.0"
@@ -1133,6 +1140,13 @@ reusify@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmmirror.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
+
+rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
+  version "4.9.1"
+  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.1.tgz#11144d4df1a077a652c6f9723587e8479845d8ab"
+  integrity sha512-awrdTJgcUC0IA5X7Zi2HJlCcdhxaSDZHaBhoNuKt+TgDPdLatbw8GKKcLpqKVEAIOwfajNCQP+taQ/EgM+090A==
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 run-parallel@^1.1.9:
   version "1.2.0"
