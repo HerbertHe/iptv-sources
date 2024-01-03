@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Sources Checker</title>
+    </head>
+    <body>
+        <header>
+            <h1 id="check-title"></h1>
+        </header>
+        <main>
+            <table>
+                <thead>
+                    <tr>
+                        <th>No.</th>
+                        <th>Name</th>
+                        <th>Available</th>
+                    </tr>
+                </thead>
+                <tbody id="check-result"></tbody>
+            </table>
+        </main>
+        <footer>
+            Powered by
+            <a href="https://github.com/zhimin-dev/iptv-checker">
+                iptv-checker &copy; UNLICENSED
+            </a>
+        </footer>
+
+        <script type="text/javascript">
+            let num = undefined
+            let total = undefined
+            let chan = undefined
+
+            function updateUI() {
+                document.title = `Checker for ${chan} ${
+                    num !== undefined && total !== undefined
+                        ? `[${num}/${total}]`
+                        : ""
+                }`
+
+                document.querySelector(
+                    "#check-title"
+                ).innerText = `Check Result for ${chan} ${
+                    num !== undefined && total !== undefined
+                        ? `[${num}/${total}]`
+                        : ""
+                }`
+            }
+
+            async function fetchSource(chan) {
+                const res = await fetch(`/txt/${chan}.txt`)
+                const t = await res.text()
+                return t
+                    .split("\n")
+                    .slice(1)
+                    .filter((s) => !!s)
+                    .map((s) => s.split(","))
+            }
+
+            async function fetchResults(id, name, url) {
+                try {
+                    const res = await fetch(
+                        `/api/check?url=${url}&timeout=${3000}`
+                    )
+                    const r = await res.text()
+                    if (/^[2]/.test(res.status.toString())) {
+                        updateResultUI(id, name, true)
+                    } else {
+                        updateResultUI(id, name, false)
+                    }
+                } catch (err) {
+                    updateResultUI(id, name, false)
+                } finally {
+                    num += 1
+                    updateUI()
+                }
+            }
+
+            function updateResultUI(idx, name, a) {
+                document.getElementById("check-result").innerHTML += `<tr><td>${
+                    idx + 1
+                }</td><td>${name}</td><td>${a ? "✌️" : "❌"}</td></tr>`
+            }
+
+            window.onload = async () => {
+                const [, ch] = location.pathname.split("/").filter((p) => !!p)
+                chan = ch
+
+                updateUI()
+                const sourcesArr = await fetchSource(chan)
+                total = sourcesArr.length
+                num = 0
+                sourcesArr.forEach(async (s, idx) => {
+                    await fetchResults(idx, ...s)
+                })
+            }
+        </script>
+    </body>
+</html>

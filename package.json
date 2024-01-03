@@ -11,6 +11,7 @@
     "build": "tsup",
     "m3u": "node ./dist/index.js",
     "serve": "node ./dist/serve.js",
+    "serve:dev": "nodemon ./dist/serve.js",
     "matrix": "node ./dist/matrix.js",
     "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push",
     "docker:build:dev": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 . --push",
@@ -25,10 +26,12 @@
     "@types/markdown-it": "^13.0.7",
     "@types/node": "^20.10.6",
     "@types/opencc-js": "^1.0.3",
+    "nodemon": "^3.0.2",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "koa": "^2.15.0",
     "koa-router": "^12.0.1",
     "koa-static": "^5.0.0",
