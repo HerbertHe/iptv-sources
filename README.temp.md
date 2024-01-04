@@ -25,7 +25,6 @@ EPG Sources are from:
 You can also use the services provided by Mirror Sites Matrix! See <https://m3u.ibert.me> for more.
 
 <!-- matrix_here -->
-
 ## Channel
 
 | channel | url | list | count | isRollback |

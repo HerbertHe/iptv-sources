@@ -36,7 +36,14 @@ const matrix: TREADMEMirrorSitesMatrix = [
         frequence: "per 2h",
         idc: "CloudFlare Tunnel",
         provider: "[Eternal-Future](https://github.com/Eternal-Future)",
-    }
+    },
+    {
+        protocol: "https",
+        url: "https://iptv.helima.net",
+        frequence: "per 2.5h",
+        idc: "Oracle",
+        provider: "[DobySAMA](https://github.com/DobySAMA)",
+    },
 ]
 
 const requestMirrorSite = (url: string): Promise<string> => {
@@ -66,7 +73,7 @@ const updateMatrix = async () => {
             } catch (err) {
                 test = err
             } finally {
-                return `| ${m.protocol} | ${m.url} | ${m.frequence} | ${test} | ${m.idc} | ${m.provider} |`
+                return `| ${m.protocol} | <${m.url}> | ${m.frequence} | ${test} | ${m.idc} | ${m.provider} |`
             }
         })
     )
