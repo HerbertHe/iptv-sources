@@ -90,4 +90,4 @@ service crond restart
 
 ## LICENSE
 
-GPL-3.0 &copy; Herbert He 2023
+GPL-3.0 &copy; Herbert He 2023-2024

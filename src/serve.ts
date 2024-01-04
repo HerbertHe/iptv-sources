@@ -91,15 +91,20 @@ router.get("/api/check", async (ctx) => {
         return
     }
 
-    const t = parseInt(timeout as string, 10)
-    const res = await fetch(
-        `${
-            process.env.IPTV_CHECKER_URL
-        }/check-url-is-available?url=${url}&timeout=${isNaN(t) ? -1 : t}`
-    )
+    try {
+        const t = parseInt(timeout as string, 10)
+        const res = await fetch(
+            `${
+                process.env.IPTV_CHECKER_URL
+            }/check-url-is-available?url=${url}&timeout=${isNaN(t) ? -1 : t}`
+        )
 
-    ctx.status = res.status
-    ctx.body = await res.text()
+        ctx.status = res.status
+        ctx.body = await res.text()
+    } catch (e) {
+        ctx.status = 500
+        return
+    }
 })
 
 app.use(router.routes())

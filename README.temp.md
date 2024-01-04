@@ -43,4 +43,4 @@ See <https://m3u.ibert.me> to get more.
 
 ## LICENSE
 
-GPL-3.0 &copy; Herbert He 2023
+GPL-3.0 &copy; Herbert He 2023-2024
