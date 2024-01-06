@@ -111,4 +111,5 @@ app.use(router.routes())
 
 app.listen(8080, () => {
     console.log("Serving at http://127.0.0.1:8080")
+    console.log("If the network supports ipv6, visit http://[::1]:8080")
 })

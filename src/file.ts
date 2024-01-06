@@ -18,18 +18,39 @@ export const writeM3u = (name: string, m3u: string) => {
 }
 
 export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
-    const title = `${name},#genre#`
     const m3uArray = m3u.split("\n")
-
+    let groups = new Map<string, string>()
     const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
-    let channels: string = ""
+    const groupRegExp = /group-title="([^"]*)"/
 
     for (let i = 1; i < m3uArray.length; i += 2) {
         const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        channels += `${reg[2].trim()},${m3uArray[i + 1]}\n`
+        const group = groupRegExp.exec(reg[1].trim())
+        let g = ""
+
+        if (!group) {
+            g = "Undefined"
+        } else {
+            g = group[1].trim()
+        }
+
+        if (groups.has(g)) {
+            groups.set(
+                g,
+                `${groups.get(g)}${reg[2].trim()},${m3uArray[i + 1]}\n`
+            )
+        } else {
+            groups.set(g, `${reg[2].trim()},${m3uArray[i + 1]}\n`)
+        }
     }
 
-    const txt = `${title}\n${channels}`
+    let txt = ""
+
+    groups.forEach((v, k) => {
+        txt += `${k},#genre#\n${v}\n`
+    })
+
+    txt = txt.substring(0, txt.length - 2)
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u", "txt"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u", "txt"))

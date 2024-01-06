@@ -54,15 +54,14 @@
                 const t = await res.text()
                 return t
                     .split("\n")
-                    .slice(1)
-                    .filter((s) => !!s)
+                    .filter((s) => !!s && !s.includes("#genre#"))
                     .map((s) => s.split(","))
             }
 
             async function fetchResults(id, name, url) {
                 try {
                     const res = await fetch(
-                        `/api/check?url=${url}&timeout=${3000}`
+                        `/api/check?url=${url}&timeout=${5000}`
                     )
                     const r = await res.text()
                     if (/^[2]/.test(res.status.toString())) {
