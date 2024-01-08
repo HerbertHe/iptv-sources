@@ -170,10 +170,12 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rollup/wasm-node@^4.9.2":
-  version "4.9.2"
-  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.2.tgz#6ee868b5702de7e43edcce80d016327aa352b21b"
-  integrity sha512-jjDDP+SnokWfwM7iGjWXxk0vZQRuHuNDTlqYja2PvnAJR483+B34fNols0Zkj1l5B3njYNS4rQ5C17tvj4cgLA==
+"@rollup/wasm-node@^4.9.4":
+  version "4.9.4"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.9.4.tgz#ccce7a6fcffe53f1a6373f13678d8e699506a916"
+  integrity sha512-K9ZPYMCxP7sBElj5du0En/zpbhXTQxpWI7RlF+8bNpLUozhzg2Pcx2h3cBCzV7xtiUt0dc+pF2Ib3/Sg8R0JMA==
+  dependencies:
+    "@types/estree" "1.0.5"
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -213,6 +215,11 @@
     "@types/express" "*"
     "@types/keygrip" "*"
     "@types/node" "*"
+
+"@types/estree@1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.5.tgz#a6ce3e556e00fd9895dd872dd172ad0d4bd687f4"
+  integrity sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==
 
 "@types/express-serve-static-core@^4.17.33":
   version "4.17.41"
