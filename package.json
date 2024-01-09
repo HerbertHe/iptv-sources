@@ -19,12 +19,12 @@
     "push": "git push && yarn docker:build"
   },
   "devDependencies": {
-    "@rollup/wasm-node": "^4.9.2",
+    "@rollup/wasm-node": "^4.9.4",
     "@types/koa": "^2.13.12",
     "@types/koa-router": "^7.4.8",
     "@types/koa-static": "^4.0.4",
     "@types/markdown-it": "^13.0.7",
-    "@types/node": "^20.10.6",
+    "@types/node": "^20.10.7",
     "@types/opencc-js": "^1.0.3",
     "nodemon": "^3.0.2",
     "tsup": "^8.0.1",
