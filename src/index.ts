@@ -11,7 +11,7 @@ import {
 } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
 import { sources, filter } from "./sources"
-import { updateByRollback } from "./rollback"
+import { updateByRollback, updateEPGByRollback } from "./rollback"
 import { epgs_sources } from "./epgs"
 
 cleanFiles()
@@ -70,7 +70,7 @@ Promise.allSettled(
                     return ["normal"]
                 } else {
                     // rollback
-                    const [status, text] = await getContent(epg_sr)
+                    const text = await updateEPGByRollback(epg_sr)
                     if (/^[2]/.test(status.toString()) && !!text) {
                         writeEpgXML(epg_sr.f_name, text as string)
                         return ["rollback"]
