@@ -22,9 +22,6 @@ export const handle_m3u = (r: string) => {
 }
 
 export const with_github_raw_url_proxy = (u: string) => {
-    console.log(
-        Boolean(process.env.CLOSE_SOURCE_PROXY) ? u : `https://ghproxy.net/${u}`
-    )
     return Boolean(process.env.CLOSE_SOURCE_PROXY)
         ? u
         : `https://ghproxy.net/${u}`
