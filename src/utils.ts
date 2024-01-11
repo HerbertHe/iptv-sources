@@ -32,6 +32,13 @@ export const sites_matrix: TREADMEMirrorSitesMatrix = [
         idc: "CloudFlare Tunnel",
         provider: "[Eternal-Future](https://github.com/Eternal-Future)",
     },
+    {
+        protocol: "https",
+        url: "https://iptv.002397.xyz",
+        frequence: "per 2h",
+        idc: "Amazon",
+        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
+    },
 ]
 export const get_custom_url = () => process.env.CUSTOM_URL || ""
 
