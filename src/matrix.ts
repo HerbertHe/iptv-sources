@@ -22,7 +22,7 @@ interface IREADMEMirrorSite {
 
 type TREADMEMirrorSitesMatrix = IREADMEMirrorSite[]
 
-const matrix: TREADMEMirrorSitesMatrix = [
+export const matrix: TREADMEMirrorSitesMatrix = [
     {
         protocol: "https",
         url: "https://iptv.b2og.com",
@@ -32,17 +32,17 @@ const matrix: TREADMEMirrorSitesMatrix = [
     },
     {
         protocol: "https",
-        url: "https://m3u.002397.xyz",
-        frequence: "per 2h",
-        idc: "CloudFlare Tunnel",
-        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
-    },
-    {
-        protocol: "https",
         url: "https://iptv.helima.net",
         frequence: "per 2.5h",
         idc: "Oracle",
         provider: "[DobySAMA](https://github.com/DobySAMA)",
+    },
+    {
+        protocol: "https",
+        url: "https://m3u.002397.xyz",
+        frequence: "per 2h",
+        idc: "CloudFlare Tunnel",
+        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
     },
 ]
 
