@@ -15,3 +15,4 @@ assignees: ''
 
 - [ ] 同意每两个小时被检测可用性 Confirm to check usability per 2h
 - [ ] 已经配置 docker 上游镜像同步 Sync docker image from dockerhub
+- [ ] 源镜像站加入回滚计划 Join Rollback plan
