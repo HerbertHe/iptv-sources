@@ -3,6 +3,7 @@ export * from "./iptv_org"
 export * from "./yang_m3u"
 export * from "./yuechan_live"
 export * from "./fanmingming_live"
+export * from "./qwerttvv_bj_iptv"
 export * from "./utils"
 
 import {
@@ -12,11 +13,20 @@ import {
     yang_m3u_sources,
     yuechan_live_sources,
     fanmingming_live_sources,
+    qwerttvv_bj_iptv_sources,
     with_github_raw_url_proxy,
 } from "."
 
 export const sources = [
     ...fanmingming_live_sources.map((s) => ({
+        ...s,
+        url: with_github_raw_url_proxy(s.url),
+    })),
+    ...yuechan_live_sources.map((s) => ({
+        ...s,
+        url: with_github_raw_url_proxy(s.url),
+    })),
+    ...yang_m3u_sources.map((s) => ({
         ...s,
         url: with_github_raw_url_proxy(s.url),
     })),
@@ -29,11 +39,7 @@ export const sources = [
         url: with_github_raw_url_proxy(s.url),
     })),
     ...epg_pw_sources,
-    ...yuechan_live_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
-    ...yang_m3u_sources.map((s) => ({
+    ...qwerttvv_bj_iptv_sources.map((s) => ({
         ...s,
         url: with_github_raw_url_proxy(s.url),
     })),

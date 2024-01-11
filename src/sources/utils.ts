@@ -20,4 +20,4 @@ export const handle_m3u = (r: string) => {
 }
 
 export const with_github_raw_url_proxy = (u: string) =>
-    `https://mirror.ghproxy.com/${u}`
+    `https://ghproxy.net/${u}`

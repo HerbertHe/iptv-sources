@@ -1,19 +1,9 @@
-import { handle_m3u, with_github_raw_url_proxy, type TSources } from "./utils"
+import { handle_m3u, type TSources } from "./utils"
 
 export const yuechan_live_filter = (raw: string): [string, number] => {
     const rawArray = handle_m3u(raw)
 
-    const regExp = /\#EXTINF:-1(.*)/
-
-    const result = rawArray.map((r) => {
-        if (regExp.test(r)) {
-            return with_github_raw_url_proxy(r)
-        } else {
-            return r
-        }
-    })
-
-    return [result.join("\n"), (result.length - 1) / 2]
+    return [rawArray.join("\n"), (rawArray.length - 1) / 2]
 }
 
 export const yuechan_live_sources: TSources = [

@@ -17,6 +17,7 @@ Sources are from:
 - [YueChan/Live](https://github.com/YueChan/Live)
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fanmingming/live](https://github.com/fanmingming/live)
+- [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 
 EPG Sources are from:
 
