@@ -85,6 +85,22 @@ service crond restart
 /bin/sh ~/update-image.sh
 ```
 
+## Supported Environment Variables
+
+```shell
+# add custom rollback urls, default is empty
+# ROLLBACK_URLS=https://xxxx.xxx.com
+
+# close source proxy, default is false
+# CLOSE_SOURCE_PROXY=true
+
+# enable iptv checker, default is false
+# ENABLE_IPTV_CHECKER=true
+
+# add iptv checker url, default is empty
+# IPTV_CHECKER_URL=http://[::1]:8081
+```
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HerbertHe/iptv-sources&type=Date)](https://star-history.com/#HerbertHe/iptv-sources&Date)
