@@ -1,3 +1,5 @@
+import { hrtime } from "process"
+
 import { updateChannelsJson } from "./channels"
 import {
     cleanFiles,
@@ -17,9 +19,17 @@ cleanFiles()
 // 执行脚本
 Promise.allSettled(
     sources.map(async (sr) => {
-        const [status, text] = await getContent(sr)
+        const [status, text, now] = await getContent(sr)
 
         if (/^[2]/.test(status.toString()) && !!text) {
+            console.log(
+                `Fetch m3u from ${sr.name} finished, cost ${
+                    (parseInt(hrtime.bigint().toString()) -
+                        parseInt(now.toString())) /
+                    10e6
+                } ms`
+            )
+
             let [m3u, count] = !!sr.filter
                 ? sr.filter(text as string)
                 : filter(text as string)
@@ -29,7 +39,7 @@ Promise.allSettled(
             return ["normal", count]
         } else {
             // rollback
-            const res = await updateByRollback(sr.f_name, sr.filter)
+            const res = await updateByRollback(sr, sr.filter)
             if (!!res) {
                 const [m3u, count] = res
                 writeM3u(sr.f_name, m3u)
@@ -46,8 +56,16 @@ Promise.allSettled(
     .then(async (result) => {
         const epgs = await Promise.allSettled(
             epgs_sources.map(async (epg_sr) => {
-                const [status, text] = await getContent(epg_sr)
+                const [status, text, now] = await getContent(epg_sr)
+
                 if (/^[2]/.test(status.toString()) && !!text) {
+                    console.log(
+                        `Fetch EPG from ${epg_sr.name} finished, cost ${
+                            (parseInt(hrtime.bigint().toString()) -
+                                parseInt(now.toString())) /
+                            10e6
+                        } ms`
+                    )
                     writeEpgXML(epg_sr.f_name, text as string)
                     return ["normal"]
                 } else {

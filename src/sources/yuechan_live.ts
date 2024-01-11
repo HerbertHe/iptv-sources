@@ -1,4 +1,4 @@
-import { handle_m3u, replace_github_rawcontent, type TSources } from "./utils"
+import { handle_m3u, with_github_raw_url_proxy, type TSources } from "./utils"
 
 export const yuechan_live_filter = (raw: string): [string, number] => {
     const rawArray = handle_m3u(raw)
@@ -7,7 +7,7 @@ export const yuechan_live_filter = (raw: string): [string, number] => {
 
     const result = rawArray.map((r) => {
         if (regExp.test(r)) {
-            return replace_github_rawcontent(r)
+            return with_github_raw_url_proxy(r)
         } else {
             return r
         }
@@ -20,7 +20,7 @@ export const yuechan_live_sources: TSources = [
     {
         name: "YueChan-Live IPTV",
         f_name: "ycl_iptv",
-        url: "https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
+        url: "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
         filter: yuechan_live_filter,
     },
 ]

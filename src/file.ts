@@ -1,12 +1,14 @@
 import fs from "fs"
 import path from "path"
+import { hrtime } from "process"
 
 import type { ISource } from "./sources"
 import type { TEPGSource } from "./epgs/utils"
 
 export const getContent = async (src: ISource | TEPGSource) => {
+    const now = hrtime.bigint()
     const res = await fetch(src.url)
-    return [res.status, await res.text()]
+    return [res.status, await res.text(), now]
 }
 
 export const writeM3u = (name: string, m3u: string) => {

@@ -1,6 +1,8 @@
 import path from "path"
 import fs from "fs"
 
+import { get_custom_url } from "./utils"
+
 export interface IChannelSource {
     name: string
     f_name: string
@@ -33,16 +35,17 @@ export const updateChannelsJson = (
     epgs: TChannelEpgs
 ) => {
     const json_p = path.resolve("m3u", "channels.json")
+    const url = !!get_custom_url() ? get_custom_url() : "https://m3u.ibert.me"
 
     const result: IChannelsResult = {
         channels: sources?.map((source, idx) => ({
             name: source.name,
-            m3u: `https://m3u.ibert.me/${source.f_name}.m3u`,
+            m3u: `${url}/${source.f_name}.m3u`,
             count: sources_res?.[idx]?.[1],
         })),
         epgs: epgs?.map((epg) => ({
             name: epg.name,
-            epg: `https://m3u.ibert.me/epg/${epg.f_name}.xml`,
+            epg: `${url}/epg/${epg.f_name}.xml`,
         })),
         updated_at: new Date().getTime(),
     }

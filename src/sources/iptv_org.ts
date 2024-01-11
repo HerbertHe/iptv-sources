@@ -94,13 +94,13 @@ export const iptv_org_sources: TSources = [
     {
         name: "iptv.org All",
         f_name: "o_all",
-        url: "https://iptv-org.github.io/iptv/index.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.m3u",
         filter: iptv_org_filter,
     },
     {
         name: "iptv.org China",
         f_name: "o_cn",
-        url: "https://iptv-org.github.io/iptv/countries/cn.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u",
         filter: iptv_org_filter,
     },
 ]
@@ -109,25 +109,25 @@ export const iptv_org_stream_sources: TSources = [
     {
         name: "iptv.org stream China",
         f_name: "o_s_cn",
-        url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
         filter: iptv_org_stream_filter,
     },
     {
         name: "iptv.org stream China 112114",
         f_name: "o_s_cn_112114",
-        url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn_112114.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_112114.m3u",
         filter: iptv_org_stream_filter,
     },
     {
         name: "iptv.org stream China CCTV",
         f_name: "o_s_cn_cctv",
-        url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn_cctv.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u",
         filter: iptv_org_stream_filter,
     },
     {
         name: "iptv.org stream China CGTN",
         f_name: "o_s_cn_cgtn",
-        url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn_cgtn.m3u",
+        url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cgtn.m3u",
         filter: iptv_org_stream_filter,
     },
 ]

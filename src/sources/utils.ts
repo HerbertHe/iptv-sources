@@ -19,9 +19,5 @@ export const handle_m3u = (r: string) => {
         .filter((r) => !!r)
 }
 
-export const replace_github_rawcontent = (url: string) => {
-    return url.replace(
-        "https://raw.githubusercontent.com/",
-        "https://ghproxy.net/https://raw.githubusercontent.com/"
-    )
-}
+export const with_github_raw_url_proxy = (u: string) =>
+    `https://mirror.ghproxy.com/${u}`

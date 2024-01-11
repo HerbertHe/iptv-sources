@@ -34,27 +34,27 @@ export const filter = (raw: string): [string, number] => {
 
 export const epg_pw_sources: TSources = [
     {
-        name: "China",
+        name: "epg.pw China",
         f_name: "cn",
         url: "https://epg.pw/test_channels_china.m3u",
     },
     {
-        name: "China National",
+        name: "epg.pw China National",
         f_name: "cn_n",
         url: "https://epg.pw/test_channels_china_national.m3u",
     },
     {
-        name: "China Country",
+        name: "epg.pw China Country",
         f_name: "cn_c",
         url: "https://epg.pw/test_channels_china_country.m3u",
     },
     {
-        name: "China Province",
+        name: "epg.pw China Province",
         f_name: "cn_p",
         url: "https://epg.pw/test_channels_china_province.m3u",
     },
     {
-        name: "All",
+        name: "epg.pw All",
         f_name: "all",
         url: "https://epg.pw/test_channels_all.m3u",
     },
