@@ -1,11 +1,42 @@
 import "dotenv/config"
 
-import { matrix } from "./matrix"
+interface IREADMEMirrorSite {
+    protocol: "http" | "https"
+    url: string
+    frequence: string
+    idc: string
+    provider: string
+}
 
+type TREADMEMirrorSitesMatrix = IREADMEMirrorSite[]
+
+export const sites_matrix: TREADMEMirrorSitesMatrix = [
+    {
+        protocol: "https",
+        url: "https://iptv.b2og.com",
+        frequence: "per 2h",
+        idc: "腾讯云",
+        provider: "[GrandDuke1106](https://github.com/GrandDuke1106)",
+    },
+    {
+        protocol: "https",
+        url: "https://iptv.helima.net",
+        frequence: "per 2.5h",
+        idc: "Oracle",
+        provider: "[DobySAMA](https://github.com/DobySAMA)",
+    },
+    {
+        protocol: "https",
+        url: "https://m3u.002397.xyz",
+        frequence: "per 2h",
+        idc: "CloudFlare Tunnel",
+        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
+    },
+]
 export const get_custom_url = () => process.env.CUSTOM_URL || ""
 
 export const get_rollback_urls = () => {
-    const matrix_url = matrix.map((m) => m.url)
+    const matrix_url = sites_matrix.map((m) => m.url)
 
     if (!process.env.ROLLBACK_URLS) {
         return ["https://m3u.ibert.me", ...matrix_url]

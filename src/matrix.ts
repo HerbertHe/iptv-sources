@@ -3,6 +3,8 @@ import path from "path"
 
 import type { IChannelsResult } from "./channels"
 
+import { sites_matrix } from "./utils"
+
 // 仅支持 GitHub Action 进行镜像站测试，降低镜像站负载压力
 
 const matrixGen = (
@@ -11,40 +13,6 @@ const matrixGen = (
 | ------------- | --- | --------------------- | --- | --- | -------- |
 ${m}
 `
-
-interface IREADMEMirrorSite {
-    protocol: "http" | "https"
-    url: string
-    frequence: string
-    idc: string
-    provider: string
-}
-
-type TREADMEMirrorSitesMatrix = IREADMEMirrorSite[]
-
-export const matrix: TREADMEMirrorSitesMatrix = [
-    {
-        protocol: "https",
-        url: "https://iptv.b2og.com",
-        frequence: "per 2h",
-        idc: "腾讯云",
-        provider: "[GrandDuke1106](https://github.com/GrandDuke1106)",
-    },
-    {
-        protocol: "https",
-        url: "https://iptv.helima.net",
-        frequence: "per 2.5h",
-        idc: "Oracle",
-        provider: "[DobySAMA](https://github.com/DobySAMA)",
-    },
-    {
-        protocol: "https",
-        url: "https://m3u.002397.xyz",
-        frequence: "per 2h",
-        idc: "CloudFlare Tunnel",
-        provider: "[Eternal-Future](https://github.com/Eternal-Future)",
-    },
-]
 
 const requestMirrorSite = (url: string): Promise<string> => {
     return new Promise(async (resolve, reject) => {
@@ -66,7 +34,7 @@ const updateMatrix = async () => {
     const readme_p = path.resolve("m3u", "README.md")
 
     const m = await Promise.allSettled(
-        matrix?.map(async (m) => {
+        sites_matrix?.map(async (m) => {
             let test = ""
             try {
                 test = await requestMirrorSite(m.url)
