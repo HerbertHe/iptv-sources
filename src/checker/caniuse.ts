@@ -15,12 +15,12 @@ export const canIUseM3uFile = (f: string) => {
 
 /**
  * 检查 iptv-checker 环境
- * @returns 
+ * @returns
  */
 export const canIUseIPTVChecker = async () => {
     const { ENABLE_IPTV_CHECKER, IPTV_CHECKER_URL } = process.env
 
-    if (!ENABLE_IPTV_CHECKER || !IPTV_CHECKER_URL) return false
+    if (!Boolean(ENABLE_IPTV_CHECKER) || !IPTV_CHECKER_URL) return false
 
     try {
         const res = await fetch(IPTV_CHECKER_URL)
