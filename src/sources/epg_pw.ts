@@ -41,7 +41,7 @@ export const epg_pw_sources: TSources = [
     {
         name: "epg.pw China National",
         f_name: "cn_n",
-        url: "https://epg.pw/test_channels_china_nationalxx.m3u",
+        url: "https://epg.pw/test_channels_china_national.m3u",
     },
     {
         name: "epg.pw China Country",
