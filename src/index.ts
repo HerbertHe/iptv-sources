@@ -48,6 +48,7 @@ Promise.allSettled(
                 return ["rollback", count]
             } else {
                 // rollback failed
+                console.log(`[WARNING] m3u ${sr.name} get failed!`)
                 return ["rollback", undefined]
             }
         }
@@ -76,6 +77,7 @@ Promise.allSettled(
                         return ["rollback"]
                     } else {
                         // rollback failed
+                        console.log(`[WARNING] EPG ${epg_sr.name} get failed!`)
                         return [undefined]
                     }
                 }
