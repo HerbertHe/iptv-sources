@@ -10,9 +10,7 @@ export const epgs_sources: TEPGSource[] = [
     {
         name: "fanmingming/live",
         f_name: "fmml",
-        url: with_github_raw_url_proxy(
-            "https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-        ),
+        url: "https://raw.githubusercontent.com/fanmingming/live/main/e.xml",
     },
     {
         name: "51zmt.top",

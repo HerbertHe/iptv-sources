@@ -14,33 +14,14 @@ import {
     yuechan_live_sources,
     fanmingming_live_sources,
     qwerttvv_bj_iptv_sources,
-    with_github_raw_url_proxy,
 } from "."
 
 export const sources = [
-    ...fanmingming_live_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
-    ...yuechan_live_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
-    ...yang_m3u_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
-    ...iptv_org_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
-    ...iptv_org_stream_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
+    ...fanmingming_live_sources,
+    ...yuechan_live_sources,
+    ...yang_m3u_sources,
+    ...iptv_org_sources,
+    ...iptv_org_stream_sources,
     ...epg_pw_sources,
-    ...qwerttvv_bj_iptv_sources.map((s) => ({
-        ...s,
-        url: with_github_raw_url_proxy(s.url),
-    })),
+    ...qwerttvv_bj_iptv_sources,
 ]

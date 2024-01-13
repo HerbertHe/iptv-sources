@@ -2,12 +2,17 @@ import fs from "fs"
 import path from "path"
 import { hrtime } from "process"
 
+import { with_github_raw_url_proxy } from "./sources"
 import type { ISource } from "./sources"
 import type { TEPGSource } from "./epgs/utils"
 
 export const getContent = async (src: ISource | TEPGSource) => {
     const now = hrtime.bigint()
-    const res = await fetch(src.url)
+    const url = /^https:\/\/raw.githubusercontent.com\//.test(src.url)
+        ? with_github_raw_url_proxy(src.url)
+        : src.url
+
+    const res = await fetch(url)
     return [res.status, await res.text(), now]
 }
 
