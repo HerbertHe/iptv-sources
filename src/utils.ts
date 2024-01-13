@@ -53,3 +53,8 @@ export const get_rollback_urls = () => {
         .map((url) => url.trim())
         .concat(["https://m3u.ibert.me", ...matrix_url])
 }
+
+export const get_github_raw_proxy_url = () => {
+    const custom = process.env.CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL
+    return !!custom ? custom : `https://ghproxy.net`
+}

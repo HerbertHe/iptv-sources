@@ -1,6 +1,7 @@
-import * as OpenCC from "opencc-js"
-
 import "dotenv/config"
+
+import * as OpenCC from "opencc-js"
+import { get_github_raw_proxy_url } from "../utils"
 
 export interface ISource {
     name: string
@@ -24,5 +25,5 @@ export const handle_m3u = (r: string) => {
 export const with_github_raw_url_proxy = (u: string) => {
     return Boolean(process.env.CLOSE_SOURCE_PROXY)
         ? u
-        : `https://ghproxy.net/${u}`
+        : `${get_github_raw_proxy_url()}/${u}`
 }

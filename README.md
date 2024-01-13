@@ -94,6 +94,11 @@ service crond restart
 # close source proxy, default is false
 # CLOSE_SOURCE_PROXY=true
 
+# add custom github raw source proxy url, default is https://ghproxy.net
+# The custom proxy service you configured MUST supports the request urls, like `${CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL}/https://raw.githubusercontent.com/xxx/xxx`
+# If you want to deploy the ghproxy by yourself, see https://github.com/hunshcn/gh-proxy
+# CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL=https://ghproxy.net
+
 # enable iptv checker, default is false
 # ENABLE_IPTV_CHECKER=true
 
