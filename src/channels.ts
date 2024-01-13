@@ -24,6 +24,7 @@ export interface IEPG {
 }
 
 export interface IChannelsResult {
+    builderVersion?: number  // 构建版本标识符
     channels: IChannel[]
     epgs: IEPG[]
     updated_at: number
@@ -38,6 +39,7 @@ export const updateChannelsJson = (
     const url = !!get_custom_url() ? get_custom_url() : "https://m3u.ibert.me"
 
     const result: IChannelsResult = {
+        builderVersion: 1,
         channels: sources?.map((source, idx) => ({
             name: source.name,
             m3u: `${url}/${source.f_name}.m3u`,
