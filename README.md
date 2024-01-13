@@ -27,63 +27,10 @@ EPG Sources are from:
 
 See <https://m3u.ibert.me> to get more.
 
-> Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **2 hours**.
-
 ## Deploy by yourself
 
-You can also deploy the project by yourself with docker.
-
-```bash
-docker run --name iptv-sources -p 3000:8080 -d herberthe0229/iptv-sources:latest
-```
-
-- Run `docker ps` to get container status.
-
-Wait a minute, visit <http://localhost:3000>.
-
-Then, you can use `http://localhost:3000` instead of `https://m3u.ibert.me`.
-
-For example: `https://m3u.ibert.me/cn.m3u` -> `http://localhost:3000/cn.m3u`
-
-Or, you can also deploy with your own server & domain.
-
-## Crontab
-
-Maybe you want to set schedule for auto-updating per 2 hours.
-
-- Download `iptv-update.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/iptv-update.sh> to your homedir.
-
-- Edit you crontab:
-
-```bash
-crontab -e
-```
-
-- Press keyboard `i` for adding schedule.
-
-- Add:
-
-```cron
-0 */2 * * * /bin/sh ~/iptv-update.sh
-```
-
-- Press keyboard `ESC` to exit edit mode
-- Type `:wq` to save
-- Restart crontab service
-
-```bash
-service crond restart
-```
-
-## Update docker image
-
-- Download bash script file `update-image.sh` <https://github.com/HerbertHe/iptv-sources/blob/main/update-image.sh> to your homedir.
-
-- run
-
-```bash
-/bin/sh ~/update-image.sh
-```
+- [How to deploy with GitHub Pages | 如何通过 GitHub Pages 进行部署](https://github.com/HerbertHe/iptv-sources/discussions/35)
+- [How to deploy with docker | 如何通过 docker 进行部署](https://github.com/HerbertHe/iptv-sources/discussions/36)
 
 ## Supported Environment Variables
 
