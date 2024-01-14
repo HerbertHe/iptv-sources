@@ -49,7 +49,7 @@ Promise.allSettled(
             } else {
                 // rollback failed
                 console.log(`[WARNING] m3u ${sr.name} get failed!`)
-                return ["rollback", undefined]
+                return ["rollback", void 0]
             }
         }
     })
@@ -78,7 +78,7 @@ Promise.allSettled(
                     } else {
                         // rollback failed
                         console.log(`[WARNING] EPG ${epg_sr.name} get failed!`)
-                        return [undefined]
+                        return [void 0]
                     }
                 }
             })
