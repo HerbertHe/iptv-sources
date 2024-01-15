@@ -31,6 +31,7 @@ See <https://m3u.ibert.me> to get more.
 
 - [How to deploy with GitHub Pages | 如何通过 GitHub Pages 进行部署](https://github.com/HerbertHe/iptv-sources/discussions/35)
 - [How to deploy with docker | 如何通过 docker 进行部署](https://github.com/HerbertHe/iptv-sources/discussions/36)
+- [How to deploy with nodejs | 如何通过 nodejs 进行部署](https://github.com/HerbertHe/iptv-sources/discussions/37)
 
 ## Supported Environment Variables
 
