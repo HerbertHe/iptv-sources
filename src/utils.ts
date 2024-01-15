@@ -40,7 +40,8 @@ export const sites_matrix: TREADMEMirrorSitesMatrix = [
         provider: "[Eternal-Future](https://github.com/Eternal-Future)",
     },
 ]
-export const get_custom_url = () => process.env.CUSTOM_URL || ""
+export const get_custom_url = () =>
+    !!process.env.CUSTOM_URL ? process.env.CUSTOM_URL : "https://m3u.ibert.me"
 
 export const get_rollback_urls = () => {
     const matrix_url = sites_matrix.map((m) => m.url)
