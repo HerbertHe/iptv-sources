@@ -1,3 +1,4 @@
+import { is_filted_channels } from "../utils"
 import { converter, handle_m3u } from "./utils"
 import type { TSources } from "./utils"
 
@@ -15,7 +16,7 @@ export const iptv_org_filter = (raw: string): [string, number] => {
         const invalid = invalidExp.test(rawArray[i + 1])
 
         if (!!reg && !invalid) {
-            if (["ABNChina.us", "NTDTVChina.us"].includes(reg[1].trim())) {
+            if (is_filted_channels(reg[1].trim())) {
                 i += 2
                 continue
             } else if (!sourced.includes(reg[1]) || !reg[1]) {
@@ -67,9 +68,7 @@ export const iptv_org_stream_filter = (raw: string): [string, number] => {
                     )
                     result.push(rawArray[i + 1])
                 }
-            } else if (
-                ["ABNChina.us", "NTDTVChina.us"].includes(reg[1].trim())
-            ) {
+            } else if (is_filted_channels(reg[1].trim())) {
                 i += 2
                 continue
             } else if (!sourced.includes(reg[1])) {

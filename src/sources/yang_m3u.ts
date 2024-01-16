@@ -1,7 +1,8 @@
+import { replace_github_raw_proxy_url } from "../utils"
 import { handle_m3u, type TSources } from "./utils"
 
 export const yang_m3u_filter = (raw: string): [string, number] => {
-    const rawArray = handle_m3u(raw)
+    const rawArray = handle_m3u(replace_github_raw_proxy_url(raw))
     
     return [rawArray.join("\n"), (rawArray.length - 1) / 2]
 }

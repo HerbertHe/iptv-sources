@@ -59,3 +59,15 @@ export const get_github_raw_proxy_url = () => {
     const custom = process.env.CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL
     return !!custom ? custom : `https://ghproxy.net`
 }
+
+export const replace_github_raw_proxy_url = (s: string) => {
+    const proxy_url = get_github_raw_proxy_url()
+    return s.replace(
+        /tvg\-logo="https:\/\/raw\.githubusercontent\.com\//g,
+        `tvg-logo="${proxy_url}/https://raw.githubusercontent.com/`
+    )
+}
+
+export const is_filted_channels = (s: string) => {
+    return ["ABNChina.us", "NTDTVChina.us"].includes(s)
+}
