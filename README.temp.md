@@ -40,8 +40,6 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 See <https://m3u.ibert.me> to get more.
 
-> Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **2 hours**.
-
 ## LICENSE
 
 GPL-3.0 &copy; Herbert He 2023-2024

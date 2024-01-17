@@ -36,7 +36,7 @@ export const updateChannelsJson = (
     epgs: TChannelEpgs
 ) => {
     const json_p = path.resolve("m3u", "channels.json")
-    const url = !!get_custom_url() ? get_custom_url() : "https://m3u.ibert.me"
+    const url = get_custom_url()
 
     const result: IChannelsResult = {
         builderVersion: 1,
