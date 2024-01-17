@@ -44,10 +44,7 @@ export const updateChannelList = (
             `${channels
                 ?.map(
                     (c, idx) =>
-                        `| ${idx + 1} | ${c[0].replace("|", "")} | [${c[0]
-                            .replace("|", "")
-                            .replace(/(\[|\])/g, " ")
-                            .trim()}](${c[1]}) |`
+                        `| ${idx + 1} | ${c[0].replace("|", "")} | <${c[1]}> |`
                 )
                 .join("\n")}\n\nUpdated at **${new Date()}**`
         )
