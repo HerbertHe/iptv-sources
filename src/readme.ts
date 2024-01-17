@@ -3,6 +3,7 @@ import path from "path"
 
 import { handle_m3u } from "./sources"
 import type { TEPGSource } from "./epgs/utils"
+import { get_from_info } from "./utils"
 
 export interface IREADMESource {
     name: string
@@ -28,7 +29,11 @@ export const updateChannelList = (
     let channels: Array<string>[] = []
     while (i < m3uArray.length) {
         const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        channels.push([reg[2].replace(/\|/g, "").trim(), m3uArray[i + 1]])
+        channels.push([
+            reg[2].replace(/\|/g, "").trim(),
+            get_from_info(m3uArray[i + 1]),
+            m3uArray[i + 1],
+        ])
         i += 2
     }
 
@@ -44,7 +49,9 @@ export const updateChannelList = (
             `${channels
                 ?.map(
                     (c, idx) =>
-                        `| ${idx + 1} | ${c[0].replace("|", "")} | <${c[1]}> |`
+                        `| ${idx + 1} | ${c[0].replace("|", "")} | ${c[1]} | <${
+                            c[2]
+                        }> |`
                 )
                 .join("\n")}\n\nUpdated at **${new Date()}**`
         )
