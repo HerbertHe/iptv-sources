@@ -4,8 +4,14 @@ const from_infos = new Map([
     ["hl.chinamobile.com", "中国移动黑龙江"],
     ["cztv.com", "浙江广播电视集团"],
     ["mobaibox.com", "中国移动江苏"],
+    ["shaoxing.com.cn", "绍兴网"],
+    ["jstv.com", "荔枝网"],
+    ["live.yantaitv.cn", "烟台网络广播电视台"],
     ["cgtn.com", "CGTN"],
     ["cctv.com", "CCTV"],
+    ["cnr.cn", "央广网"],
+    ["cmvideo.cn", "咪咕"],
+    ["douyucdn", "斗鱼"],
 ])
 
 export const get_from_info = (url: string) => {
