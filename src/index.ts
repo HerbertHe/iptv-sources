@@ -42,9 +42,12 @@ Promise.allSettled(
                 sourcesCollector.collect
             )
 
-            writeSources(sr.name, sr.f_name, sourcesCollector.result())
             writeM3u(sr.f_name, m3u)
+            console.log("write m3u success")
             writeM3uToTxt(sr.name, sr.f_name, m3u)
+            console.log("write txt success")
+            writeSources(sr.name, sr.f_name, sourcesCollector.result())
+            console.log("write sources success")
             writeTvBoxJson(
                 sr.f_name,
                 [{ name: sr.name, f_name: sr.f_name }],

@@ -34,12 +34,12 @@ export const writeSources = (
         srcs[k] = v
     }
 
-    if (!fs.existsSync(path.join(path.resolve(), "m3u", "sources"))) {
-        fs.mkdirSync(path.join(path.resolve(), "m3u", "sources"))
+    if (!fs.existsSync(path.resolve("m3u", "sources"))) {
+        fs.mkdirSync(path.resolve("m3u", "sources"))
     }
 
     fs.writeFileSync(
-        path.join(path.resolve(), "m3u", "sources", `${f_name}.json`),
+        path.resolve("m3u", "sources", `${f_name}.json`),
         JSON.stringify({
             name,
             sources: srcs,
