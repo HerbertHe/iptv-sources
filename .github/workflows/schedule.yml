@@ -1,8 +1,8 @@
-name: update script
+name: update schedule
 
 on:
-  push:
-    branches: [main]
+  schedule:
+    - cron: "0 */2 * * *"
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           set-safe-directory: false
-      
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
