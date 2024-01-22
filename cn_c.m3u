@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="14047" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="电影",[BD]chc动作电影[ipv6]
 https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8
 #EXTINF:-1 tvg-name="CHC高画质电影" tvg-id="14045" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204051214143_83.png" group-title="电影",[BD]chc高清电影[ipv6]
-https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
+https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 #EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234525119397_36.jpg" group-title="综合",[BD]newtv中国功夫[ipv6]
 https://epg.pw/stream/6c9d54cf76a2d2246f6ffca3c1bc194b5e23e716247f9b29a49279278188a1fb.m3u8
 #EXTINF:-1 tvg-name="NEWTV动作电影" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531233118474491_96.jpg" group-title="电影",[BD]newtv动作电影[ipv6]
@@ -71,7 +71,7 @@ https://epg.pw/stream/a97a516f7363243adcf989db5a8ec00df8ecec1f7446e083d9b48c6952
 https://epg.pw/stream/a7da806978d832234031c7bb2582e4bc043a36c904af2a977b6854f115122740.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224659377626_27.jpg" group-title="其它",[VGA]吉林乡村 (900p) [not 24/7]
 https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8
-#EXTINF:-1 tvg-name="咪咕影片" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514154413493084_16.jpg" group-title="电影",[BD]咪咕视频[ipv6]
+#EXTINF:-1 tvg-name="咪咕影片" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514154413493084_16.jpg" group-title="电影",[SD]咪咕视频[ipv6]
 https://epg.pw/stream/70f35a2586a8f8b880037235d9106303415545bdf69351ff56c293f43b54ad45.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_45.jpg" group-title="其它",[VGA]哈尔滨娱乐
 https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8

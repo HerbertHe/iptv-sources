@@ -19473,8 +19473,6 @@ http://111.17.214.4:1935/live/xtys/playlist.m3u8
 http://111.17.214.4:1935/live/xtsh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新泰综合 (480p) [Not 24/7]
 http://111.17.214.4:1935/live/xtzh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新泰乡村党建 (480p) [Not 24/7]
-http://111.17.214.4:1935/live/xtxc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新疆卫视 (540p)
 http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新疆少儿 (720p)
@@ -19713,8 +19711,6 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",福州电视台少儿频道 (FZTV-少儿) (1080p)
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",万州三峡移民 (576p)
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",万州影视文艺 (576p)
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",万州科教频道 (576p)
@@ -19923,18 +19919,12 @@ http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 http://117.156.28.119/270000001111/1110000147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",风尚购物 (1080p)
 http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",余姚姚江文化 (576p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",香港国际财经台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
 #EXTINF:-1 tvg-id="HighChannelTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",高台电视台 (1080p)
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",高清电影 (1080p)
 http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文
-https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰资讯
-https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹤峰综合

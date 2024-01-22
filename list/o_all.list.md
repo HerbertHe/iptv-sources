@@ -9741,249 +9741,244 @@
 | 9735 | 新泰影视频道 (480p) [Not 24/7] | IPv4 直链 | <http://111.17.214.4:1935/live/xtys/playlist.m3u8> |
 | 9736 | 新泰生活 (480p) [Not 24/7] | IPv4 直链 | <http://111.17.214.4:1935/live/xtsh/playlist.m3u8> |
 | 9737 | 新泰综合 (480p) [Not 24/7] | IPv4 直链 | <http://111.17.214.4:1935/live/xtzh/playlist.m3u8> |
-| 9738 | 新泰乡村党建 (480p) [Not 24/7] | IPv4 直链 | <http://111.17.214.4:1935/live/xtxc/playlist.m3u8> |
-| 9739 | 新疆卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8> |
-| 9740 | 新疆少儿 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb12.m3u8> |
-| 9741 | 新疆汉语信息服务 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb11.m3u8> |
-| 9742 | 新疆汉语综艺 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb04.m3u8> |
-| 9743 | 新郑综合 (1080p) [Not 24/7] | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10184-1.m3u8> |
-| 9744 | 旺苍新闻 (528p) [Not 24/7] | 3g.dzsm.com | <http://3g.dzsm.com/streamer/gycttv.m3u8> |
-| 9745 | 星空卫视 (576p) | IPv4 直链 | <http://218.202.220.2:5000/nn_live.ts?id=STARTV> |
-| 9746 | 晋中公共 (1080p) [Not 24/7] | jzlive.jztvnews.com:90 | <http://jzlive.jztvnews.com:90/live/jzgg.m3u8> |
-| 9747 | 晋中综合 (1080p) | jzlive.jztvnews.com:90 | <http://jzlive.jztvnews.com:90/live/jzzh.m3u8> |
-| 9748 | 景县电视一套 (360p) [Not 24/7] | hbjx.chinashadt.com:1935 | <http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8> |
-| 9749 | 智慧教育 (576p) | IPv4 直链 | <http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8> |
-| 9750 | 东光一套 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgtv1.stream/playlist.m3u8> |
-| 9751 | 东光二套 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgtv2.stream/playlist.m3u8> |
-| 9752 | 东光综艺 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgzy.stream/playlist.m3u8> |
-| 9753 | 东森购物60 (480p) | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8> |
-| 9754 | 松原新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/sytv/sd/live.m3u8> |
-| 9755 | 林正英 | epg.112114.xyz | <http://epg.112114.xyz/douyu/218859> |
-| 9756 | 欧美大片1 | epg.112114.xyz | <http://epg.112114.xyz/douyu/20415> |
-| 9757 | 欧美大片2 | epg.112114.xyz | <http://epg.112114.xyz/douyu/2793084> |
-| 9758 | 欧美大片3 | epg.112114.xyz | <http://epg.112114.xyz/douyu/9249162> |
-| 9759 | 武汉外语 (576p) | stream.appwuhan.com | <http://stream.appwuhan.com/6tzb/sd/live.m3u8> |
-| 9760 | 武汉文体 (480p) | stream.appwuhan.com | <http://stream.appwuhan.com/5tzb/sd/live.m3u8> |
-| 9761 | 武汉经济 (360p) | stream.appwuhan.com | <http://stream.appwuhan.com/4tzb/sd/live.m3u8> |
-| 9762 | 武进新闻 (576p) [Not 24/7] | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH1.m3u8> |
-| 9763 | 武进生活 (576p) [Not 24/7] | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH2.m3u8> |
-| 9764 | 永新电视一套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8> |
-| 9765 | 永新电视三套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8> |
-| 9766 | 永新电视二套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8> |
-| 9767 | 江津文化旅游 (576p) | IPv4 直链 | <http://222.179.155.21:1935/ch2.m3u8> |
-| 9768 | 江津新闻综合 (480p) | IPv4 直链 | <http://222.179.155.21:1935/ch1.m3u8> |
-| 9769 | 江津经济生活 (480p) | IPv4 直链 | <http://222.179.155.21:1935/ch0.m3u8> |
-| 9770 | 江苏 Ⅰ 连云港公共 (480p) [Not 24/7] | live.lyg1.com | <https://live.lyg1.com/ggpd/sd/live.m3u8> |
-| 9771 | 江苏 Ⅰ 连云港综合 (480p) [Not 24/7] | live.lyg1.com | <https://live.lyg1.com/zhpd/sd/live.m3u8> |
-| 9772 | 江苏体育 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY> |
-| 9773 | 江苏公共 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG> |
-| 9774 | 江苏卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8> |
-| 9775 | 江苏城市 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS> |
-| 9776 | 江苏影视 (576p) | IPv4 直链 | <http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8> |
-| 9777 | 江苏教育 (576p) | IPv4 直链 | <http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8> |
-| 9778 | 江苏综艺 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY> |
-| 9779 | 江西卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8> |
-| 9780 | 沧县电视二套 (576p) | hebcx.chinashadt.com:2036 | <http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8> |
-| 9781 | 沧县电视综合 (576p) | hebcx.chinashadt.com:2036 | <http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8> |
-| 9782 | 河北农民 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8> |
-| 9783 | 河北卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8> |
-| 9784 | 河南卫视 (576p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/henanstv/henanstv> |
-| 9785 | 河源公共 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8> |
-| 9786 | 河源综合 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8> |
-| 9787 | 洪雅新闻综合 (1080p) | IPv4 直链 | <http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8> |
-| 9788 | 浙江6套 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8> |
-| 9789 | 浙江 Ⅰ 浙江休闲 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8> |
-| 9790 | 浙江 Ⅰ 浙江国际 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8> |
-| 9791 | 浙江 Ⅰ 浙江少儿 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8> |
-| 9792 | 浙江 Ⅰ 浙江教育 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8> |
-| 9793 | 浙江 Ⅰ 浙江新闻 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8> |
-| 9794 | 浙江 Ⅰ 浙江易购 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8> |
-| 9795 | 浙江 Ⅰ 浙江留学 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8> |
-| 9796 | 浙江 Ⅰ 浙江经济 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8> |
-| 9797 | 浙江 Ⅰ 绍兴影视 (720p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
-| 9798 | 浙江 Ⅰ 绍兴综合 (576p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
-| 9799 | 浙江公共 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8> |
-| 9800 | 浙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
-| 9801 | 浙江国际 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
-| 9802 | 浙江少儿 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
-| 9803 | 浙江影视 (720p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8> |
-| 9804 | 浙江教科影视 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
-| 9805 | 浙江数码时代 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
-| 9806 | 浙江民生休闲 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
-| 9807 | 浙江留学 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8> |
-| 9808 | 浙江经济生活 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
-| 9809 | 浙江钱江 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 9810 | 海南卫视 (720p) [Not 24/7] | livelyws.chinamcache.com | <http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e> |
-| 9811 | 海南州藏语频道 (480p) | live.hnzzzzzdst.com | <http://live.hnzzzzzdst.com/channel1/sd/live.m3u8> |
-| 9812 | 海盐新闻 (720p) | haiyan.liveyun.hoge.cn | <http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8> |
-| 9813 | 海西州综合 (576p) | stream.haixitv.cn | <http://stream.haixitv.cn/1/sd/live.m3u8> |
-| 9814 | 涡阳新闻综合 (360p) | IPv4 直链 | <http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8> |
-| 9815 | 深圳卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8> |
-| 9816 | 湖北 Ⅰ 荆门公共台 (1080p) | jingmen.live.cjyun.org | <http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8> |
-| 9817 | 湖北卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8> |
-| 9818 | 湖南卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8> |
-| 9819 | 湖南都市 (576p) | hnsd.chinashadt.com:2036 | <http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8> |
-| 9820 | 湘潭公共 (576p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8> |
-| 9821 | 湘潭新闻综合 (720p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8> |
-| 9822 | 滁州公共 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvgg/playlist.m3u8> |
-| 9823 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
-| 9824 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
-| 9825 | 滁州新闻综合 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvzh/playlist.m3u8> |
-| 9826 | 滁州科教 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvkj/playlist.m3u8> |
-| 9827 | 滦县综合 (576p) | hblxx.chinashadt.com:2036 | <http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8> |
-| 9828 | 滦县综艺 (576p) | hblxx.chinashadt.com:2036 | <http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8> |
-| 9829 | 滨州公共电视剧 (576p) | stream.bzcm.net | <http://stream.bzcm.net/1/sd/live.m3u8> |
-| 9830 | 滨州新闻综合 (576p) | stream.bzcm.net | <http://stream.bzcm.net/2/sd/live.m3u8> |
-| 9831 | 滨州测试 (576p) | stream.bzcm.net | <http://stream.bzcm.net/4/sd/live.m3u8> |
-| 9832 | 滨海新闻 (1080p) | IPv4 直链 | <http://60.30.52.41/live/bhtv1/playlist.m3u8> |
-| 9833 | 滨海都市 (1080p) | IPv4 直链 | <http://60.30.52.41/live/bhtv2/playlist.m3u8> |
-| 9834 | 漳州新闻综合 (720p) [Not 24/7] | 31182.hlsplay.aodianyun.com | <https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
-| 9835 | 灵台新闻综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000145/index.m3u8> |
-| 9836 | 炫动卡通 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8> |
-| 9837 | 点掌财经 (712p) | cclive.aniu.tv | <http://cclive.aniu.tv/live/anzb.m3u8> |
-| 9838 | 无线新闻台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8> |
-| 9839 | 无线财经·体育·资讯台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8> |
-| 9840 | 甘肃公共 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/3t5xyc.m3u8> |
-| 9841 | 甘肃卫视 (1080p) | IPv4 直链 | <http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888> |
-| 9842 | 甘肃移动 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/y72q36.m3u8> |
-| 9843 | 生活 (576p) | IPv4 直链 | <http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8> |
-| 9844 | 电白视窗 (360p) [Not 24/7] | gddb.chinashadt.com:1935 | <http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8> |
-| 9845 | 电白综合 (360p) [Not 24/7] | gddb.chinashadt.com:1935 | <http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8> |
-| 9846 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
-| 9847 | 白山新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baishan1/sd/live.m3u8> |
-| 9848 | 百事通体育1 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8> |
-| 9849 | 百事通体育2 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8> |
-| 9850 | 百事通体育3 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8> |
-| 9851 | 百事通体育5 (1080p) | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8> |
-| 9852 | 百事通体育7 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8> |
-| 9853 | 石景山电视台 (1080p) [Not 24/7] | live.sjsrm.com | <https://live.sjsrm.com/bjsjs/sd/live.m3u8> |
-| 9854 | 福山生活 (576p) [Not 24/7] | live.jiaodong.net:82 | <http://live.jiaodong.net:82/tvfushan/hls/tv_shenghuo.m3u8> |
-| 9855 | 福州广播电视台新闻综合频道 (FZTV-1) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-1/index.m3u8> |
-| 9856 | 福州广播电视台都市生活频道 (FZTV-3) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-3/index.m3u8> |
-| 9857 | 福州电视台少儿频道 (FZTV-少儿) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-4/index.m3u8> |
-| 9858 | 万州三峡移民 (576p) | IPv4 直链 | <http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8> |
-| 9859 | 万州影视文艺 (576p) | wanzhoulive.cbg.cn:8017 | <http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8> |
-| 9860 | 万州科教频道 (576p) | IPv4 直链 | <http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8> |
-| 9861 | 万州综合频道 (576p) | IPv4 直链 | <http://123.146.162.24:8017/iTXwrGs/800/live.m3u8> |
-| 9862 | 积石山电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000152/index.m3u8> |
-| 9863 | 立法会直播 (Legislative Council Live) (720p) | live3.tdm.com.mo | <https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8> |
-| 9864 | 立法院IVOD直播交通委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8> |
-| 9865 | 立法院IVOD直播内政委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8> |
-| 9866 | 立法院IVOD直播司法及法制委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8> |
-| 9867 | 立法院IVOD直播外交及国防委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8> |
-| 9868 | 立法院IVOD直播教育及文化委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8> |
-| 9869 | 立法院IVOD直播朝野协商 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8> |
-| 9870 | 立法院IVOD直播社会福利及卫生环境委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8> |
-| 9871 | 立法院IVOD直播经济委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8> |
-| 9872 | 立法院IVOD直播财政委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8> |
-| 9873 | 立法院IVOD直播院会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8> |
-| 9874 | 篮球资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8> |
-| 9875 | 娄底综合 (720p) | IPv4 直链 | <http://119.39.242.52:1935/live/zonghe/playlist.m3u8> |
-| 9876 | 粤语电影2 | epg.112114.xyz | <http://epg.112114.xyz/douyu/6566671> |
-| 9877 | 粤语电影3 | epg.112114.xyz | <http://epg.112114.xyz/douyu/1226741> |
-| 9878 | 精品电影 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/jdianying/jdianying> |
-| 9879 | 红牛REDBULL TV (720p) | rbmn-live.akamaized.net | <https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8> |
-| 9880 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
-| 9881 | 纯享4K (2160p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8> |
-| 9882 | 继续教育 (576p) | IPv4 直链 | <http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8> |
-| 9883 | 罗山电视台 (1080p) [Not 24/7] | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11521-1.m3u8> |
-| 9884 | 置业 (576p) | IPv4 直链 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8> |
-| 9885 | 美国中文电视 (406p) [Not 24/7] | jpts.sinovision.net | <https://jpts.sinovision.net/livestream.m3u8> |
-| 9886 | 美国狗狗宠物 (1080p) | video.blivenyc.com | <https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8> |
-| 9887 | 翡翠台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8> |
-| 9888 | 耀才财经台 (576p) | IPv4 直链 | <http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8> |
-| 9889 | 耀才财经 | IPv4 直链 | <http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8> |
-| 9890 | 肃州电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000123/index.m3u8> |
-| 9891 | 舟山公共生活 (720p) | live.wifizs.cn | <http://live.wifizs.cn/ggsh/sd/live.m3u8> |
-| 9892 | 舟山新闻综合 (240p) | live.wifizs.cn | <http://live.wifizs.cn/xwzh/sd/live.m3u8> |
-| 9893 | 舟山群岛旅游 (720p) | live.wifizs.cn | <http://live.wifizs.cn/qdly/sd/live.m3u8> |
-| 9894 | 芜湖公共 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel3/sd/live.m3u8> |
-| 9895 | 芜湖新闻综合 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel1/sd/live.m3u8> |
-| 9896 | 芜湖生活 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel2/sd/live.m3u8> |
-| 9897 | 荣昌综合 (404p) [Not 24/7] | IPv4 直链 | <http://183.64.181.25:40023/rongchang01.m3u8> |
-| 9898 | 莒县图文频道 (720p) | IPv4 直链 | <http://61.162.225.122:8181/live/test3.m3u8> |
-| 9899 | 莒县电视一套 (576p) | IPv4 直链 | <http://61.162.225.122:8181/live/test1.m3u8> |
-| 9900 | 莒县电视二套 (576p) [Not 24/7] | IPv4 直链 | <http://61.162.225.122:8181/live/test2.m3u8> |
-| 9901 | 萍乡公共频道 (1080p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8> |
-| 9902 | 萍乡教育频道 (480p) | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8> |
-| 9903 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
-| 9904 | 萧山新闻综合 (720p) [Not 24/7] | 新蓝云 | <https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8> |
-| 9905 | 蓬安新闻综合 (720p) [Not 24/7] | palive.patv123.com:8091 | <http://palive.patv123.com:8091/live/xwpd_800K.m3u8> |
-| 9906 | 芜湖教育频道 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel4/sd/live.m3u8> |
-| 9907 | 萧山生活频道 (720p) [Not 24/7] | 新蓝云 | <https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8> |
-| 9908 | 袁州综合频道 (576p) [Not 24/7] | jxyz.chinashadt.com:8036 | <http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8> |
-| 9909 | 西安丝路 (404p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
-| 9910 | 西安乐购购物 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv6/playlist.m3u8> |
-| 9911 | 西安商务资讯 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
-| 9912 | 西安影视 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv4/playlist.m3u8> |
-| 9913 | 西安新闻 (1080p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv1/playlist.m3u8> |
-| 9914 | 西安白鸽 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv2/playlist.m3u8> |
-| 9915 | 西藏卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8> |
-| 9916 | 西藏藏语 (576p) | media.vtibet.com | <http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8> |
-| 9917 | 西青新闻综合 (1080p) [Not 24/7] | IPv4 直链 | <http://221.238.209.44:81/hls/live1.m3u8> |
-| 9918 | 贝爷影厅 | epg.112114.xyz | <http://epg.112114.xyz/douyu/252802> |
-| 9919 | 贵州卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8> |
-| 9920 | 赵县电视一套 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8> |
-| 9921 | 赵县电视二套 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8> |
-| 9922 | 辛集新闻频道 (480p) [Not 24/7] | zsxj.chinashadt.com:1935 | <http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8> |
-| 9923 | 辛集生活频道 (480p) [Not 24/7] | zsxj.chinashadt.com:1935 | <http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8> |
-| 9924 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
-| 9925 | 辽源新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8> |
-| 9926 | 迪庆综合 (1080p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8> |
-| 9927 | 迪庆藏语 (576p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8> |
-| 9928 | 通化新闻 | 吉林广播电视台 | <https://stream2.jlntv.cn/tonghua1/sd/live.m3u8> |
-| 9929 | 通州电视台 (720p) | pull.dayuntongzhou.com | <http://pull.dayuntongzhou.com/live/tztv.m3u8> |
-| 9930 | 邗江资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8> |
-| 9931 | 邵东综合 (576p) | hnsd.chinashadt.com:2036 | <http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8> |
-| 9932 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 9933 | 重庆卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8> |
-| 9934 | 金昌公共频道 (240p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8> |
-| 9935 | 金昌综合频道 (720p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8> |
-| 9936 | 金鹰卡通 (576p) | IPv4 直链 | <http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8> |
-| 9937 | 长乐综合 | 35908.hlsplay.aodianyun.com | <http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8> |
-| 9938 | 长春综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlcc/sd/live.m3u8> |
-| 9939 | 长沙地铁移动 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8> |
-| 9940 | 长沙女性 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
-| 9941 | 长沙政法 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
-| 9942 | 长沙新闻 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
-| 9943 | 长沙经贸 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8> |
-| 9944 | 长沙购物 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8> |
-| 9945 | 陕西卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8> |
-| 9946 | 隆化影视 (576p) | hblh.chinashadt.com:2036 | <http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8> |
-| 9947 | 隆化综合 (576p) | hblh.chinashadt.com:2036 | <http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8> |
-| 9948 | 随州综合 (720p) [Not 24/7] | 34766.hlsplay.aodianyun.com | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8> |
-| 9949 | 随州农村 (720p) [Not 24/7] | 34766.hlsplay.aodianyun.com | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8> |
-| 9950 | 集安综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/ja/sd/live.m3u8> |
-| 9951 | 霍山综合 (576p) | ahhs.chinashadt.com:1936 | <http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8> |
-| 9952 | 霸州公共频道 (576p) [Not 24/7] | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8> |
-| 9953 | 霸州少儿频道 (576p) [Not 24/7] | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8> |
-| 9954 | 霸州文化频道 (576p) | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8> |
-| 9955 | 霸州新闻频道 (576p) | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8> |
-| 9956 | 青州文化旅游 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8> |
-| 9957 | 青州生活 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8> |
-| 9958 | 青州综合 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8> |
-| 9959 | 青海卫视 (1080p) | live.geermurmt.com | <http://live.geermurmt.com/qhws/sd/live.m3u8> |
-| 9960 | 靖江新闻综合 (480p) [Not 24/7] | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
-| 9961 | 静宁综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000147/index.m3u8> |
-| 9962 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
-| 9963 | 余姚姚江文化 (576p) [Not 24/7] | 新蓝云 | <https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8> |
-| 9964 | 香港国际财经台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8> |
-| 9965 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
-| 9966 | 高清电影 (1080p) | 中国移动陕西 | <http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8> |
-| 9967 | 凤凰中文 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8> |
-| 9968 | 凤凰资讯 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8> |
-| 9969 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
-| 9970 | 鹤峰综合 | hefeng.live.tempsource.cjyun.org | <http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8> |
-| 9971 | 鹿泉一套 (576p) [Not 24/7] | hblq.chinashadt.com:2036 | <http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8> |
-| 9972 | 鹿泉二套 (576p) [Not 24/7] | hblq.chinashadt.com:2036 | <http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8> |
-| 9973 | 黑龙卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8> |
-| 9974 | 黑龙江 (1080p) | IPv4 直链 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
-| 9975 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
-| 9976 | 黔西南公共 (288p) | live.qxndt.com | <http://live.qxndt.com/channel3/sd/live.m3u8> |
-| 9977 | 黔西南综合 (288p) | live.qxndt.com | <http://live.qxndt.com/channel2/sd/live.m3u8> |
-| 9978 | 龙口图文 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8> |
-| 9979 | 龙口新闻综合 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
-| 9980 | 龙口生活 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
-| 9981 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 9738 | 新疆卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8> |
+| 9739 | 新疆少儿 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb12.m3u8> |
+| 9740 | 新疆汉语信息服务 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb11.m3u8> |
+| 9741 | 新疆汉语综艺 (720p) | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb04.m3u8> |
+| 9742 | 新郑综合 (1080p) [Not 24/7] | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10184-1.m3u8> |
+| 9743 | 旺苍新闻 (528p) [Not 24/7] | 3g.dzsm.com | <http://3g.dzsm.com/streamer/gycttv.m3u8> |
+| 9744 | 星空卫视 (576p) | IPv4 直链 | <http://218.202.220.2:5000/nn_live.ts?id=STARTV> |
+| 9745 | 晋中公共 (1080p) [Not 24/7] | jzlive.jztvnews.com:90 | <http://jzlive.jztvnews.com:90/live/jzgg.m3u8> |
+| 9746 | 晋中综合 (1080p) | jzlive.jztvnews.com:90 | <http://jzlive.jztvnews.com:90/live/jzzh.m3u8> |
+| 9747 | 景县电视一套 (360p) [Not 24/7] | hbjx.chinashadt.com:1935 | <http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8> |
+| 9748 | 智慧教育 (576p) | IPv4 直链 | <http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8> |
+| 9749 | 东光一套 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgtv1.stream/playlist.m3u8> |
+| 9750 | 东光二套 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgtv2.stream/playlist.m3u8> |
+| 9751 | 东光综艺 (576p) | hbdg.chinashadt.com:1936 | <http://hbdg.chinashadt.com:1936/live/stream:dgzy.stream/playlist.m3u8> |
+| 9752 | 东森购物60 (480p) | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8> |
+| 9753 | 松原新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/sytv/sd/live.m3u8> |
+| 9754 | 林正英 | epg.112114.xyz | <http://epg.112114.xyz/douyu/218859> |
+| 9755 | 欧美大片1 | epg.112114.xyz | <http://epg.112114.xyz/douyu/20415> |
+| 9756 | 欧美大片2 | epg.112114.xyz | <http://epg.112114.xyz/douyu/2793084> |
+| 9757 | 欧美大片3 | epg.112114.xyz | <http://epg.112114.xyz/douyu/9249162> |
+| 9758 | 武汉外语 (576p) | stream.appwuhan.com | <http://stream.appwuhan.com/6tzb/sd/live.m3u8> |
+| 9759 | 武汉文体 (480p) | stream.appwuhan.com | <http://stream.appwuhan.com/5tzb/sd/live.m3u8> |
+| 9760 | 武汉经济 (360p) | stream.appwuhan.com | <http://stream.appwuhan.com/4tzb/sd/live.m3u8> |
+| 9761 | 武进新闻 (576p) [Not 24/7] | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH1.m3u8> |
+| 9762 | 武进生活 (576p) [Not 24/7] | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH2.m3u8> |
+| 9763 | 永新电视一套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8> |
+| 9764 | 永新电视三套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8> |
+| 9765 | 永新电视二套 (576p) | jxyx.chinashadt.com:2036 | <http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8> |
+| 9766 | 江津文化旅游 (576p) | IPv4 直链 | <http://222.179.155.21:1935/ch2.m3u8> |
+| 9767 | 江津新闻综合 (480p) | IPv4 直链 | <http://222.179.155.21:1935/ch1.m3u8> |
+| 9768 | 江津经济生活 (480p) | IPv4 直链 | <http://222.179.155.21:1935/ch0.m3u8> |
+| 9769 | 江苏 Ⅰ 连云港公共 (480p) [Not 24/7] | live.lyg1.com | <https://live.lyg1.com/ggpd/sd/live.m3u8> |
+| 9770 | 江苏 Ⅰ 连云港综合 (480p) [Not 24/7] | live.lyg1.com | <https://live.lyg1.com/zhpd/sd/live.m3u8> |
+| 9771 | 江苏体育 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY> |
+| 9772 | 江苏公共 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG> |
+| 9773 | 江苏卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8> |
+| 9774 | 江苏城市 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS> |
+| 9775 | 江苏影视 (576p) | IPv4 直链 | <http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8> |
+| 9776 | 江苏教育 (576p) | IPv4 直链 | <http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8> |
+| 9777 | 江苏综艺 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY> |
+| 9778 | 江西卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8> |
+| 9779 | 沧县电视二套 (576p) | hebcx.chinashadt.com:2036 | <http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8> |
+| 9780 | 沧县电视综合 (576p) | hebcx.chinashadt.com:2036 | <http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8> |
+| 9781 | 河北农民 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8> |
+| 9782 | 河北卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8> |
+| 9783 | 河南卫视 (576p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/henanstv/henanstv> |
+| 9784 | 河源公共 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8> |
+| 9785 | 河源综合 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8> |
+| 9786 | 洪雅新闻综合 (1080p) | IPv4 直链 | <http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8> |
+| 9787 | 浙江6套 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8> |
+| 9788 | 浙江 Ⅰ 浙江休闲 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8> |
+| 9789 | 浙江 Ⅰ 浙江国际 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8> |
+| 9790 | 浙江 Ⅰ 浙江少儿 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8> |
+| 9791 | 浙江 Ⅰ 浙江教育 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8> |
+| 9792 | 浙江 Ⅰ 浙江新闻 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8> |
+| 9793 | 浙江 Ⅰ 浙江易购 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8> |
+| 9794 | 浙江 Ⅰ 浙江留学 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8> |
+| 9795 | 浙江 Ⅰ 浙江经济 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8> |
+| 9796 | 浙江 Ⅰ 绍兴影视 (720p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
+| 9797 | 浙江 Ⅰ 绍兴综合 (576p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
+| 9798 | 浙江公共 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8> |
+| 9799 | 浙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
+| 9800 | 浙江国际 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
+| 9801 | 浙江少儿 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
+| 9802 | 浙江影视 (720p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8> |
+| 9803 | 浙江教科影视 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 9804 | 浙江数码时代 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 9805 | 浙江民生休闲 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 9806 | 浙江留学 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8> |
+| 9807 | 浙江经济生活 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 9808 | 浙江钱江 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 9809 | 海南卫视 (720p) [Not 24/7] | livelyws.chinamcache.com | <http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e> |
+| 9810 | 海南州藏语频道 (480p) | live.hnzzzzzdst.com | <http://live.hnzzzzzdst.com/channel1/sd/live.m3u8> |
+| 9811 | 海盐新闻 (720p) | haiyan.liveyun.hoge.cn | <http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8> |
+| 9812 | 海西州综合 (576p) | stream.haixitv.cn | <http://stream.haixitv.cn/1/sd/live.m3u8> |
+| 9813 | 涡阳新闻综合 (360p) | IPv4 直链 | <http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8> |
+| 9814 | 深圳卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8> |
+| 9815 | 湖北 Ⅰ 荆门公共台 (1080p) | jingmen.live.cjyun.org | <http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8> |
+| 9816 | 湖北卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8> |
+| 9817 | 湖南卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8> |
+| 9818 | 湖南都市 (576p) | hnsd.chinashadt.com:2036 | <http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8> |
+| 9819 | 湘潭公共 (576p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8> |
+| 9820 | 湘潭新闻综合 (720p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8> |
+| 9821 | 滁州公共 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvgg/playlist.m3u8> |
+| 9822 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
+| 9823 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
+| 9824 | 滁州新闻综合 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvzh/playlist.m3u8> |
+| 9825 | 滁州科教 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvkj/playlist.m3u8> |
+| 9826 | 滦县综合 (576p) | hblxx.chinashadt.com:2036 | <http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8> |
+| 9827 | 滦县综艺 (576p) | hblxx.chinashadt.com:2036 | <http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8> |
+| 9828 | 滨州公共电视剧 (576p) | stream.bzcm.net | <http://stream.bzcm.net/1/sd/live.m3u8> |
+| 9829 | 滨州新闻综合 (576p) | stream.bzcm.net | <http://stream.bzcm.net/2/sd/live.m3u8> |
+| 9830 | 滨州测试 (576p) | stream.bzcm.net | <http://stream.bzcm.net/4/sd/live.m3u8> |
+| 9831 | 滨海新闻 (1080p) | IPv4 直链 | <http://60.30.52.41/live/bhtv1/playlist.m3u8> |
+| 9832 | 滨海都市 (1080p) | IPv4 直链 | <http://60.30.52.41/live/bhtv2/playlist.m3u8> |
+| 9833 | 漳州新闻综合 (720p) [Not 24/7] | 31182.hlsplay.aodianyun.com | <https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
+| 9834 | 灵台新闻综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000145/index.m3u8> |
+| 9835 | 炫动卡通 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8> |
+| 9836 | 点掌财经 (712p) | cclive.aniu.tv | <http://cclive.aniu.tv/live/anzb.m3u8> |
+| 9837 | 无线新闻台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8> |
+| 9838 | 无线财经·体育·资讯台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8> |
+| 9839 | 甘肃公共 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/3t5xyc.m3u8> |
+| 9840 | 甘肃卫视 (1080p) | IPv4 直链 | <http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888> |
+| 9841 | 甘肃移动 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/y72q36.m3u8> |
+| 9842 | 生活 (576p) | IPv4 直链 | <http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8> |
+| 9843 | 电白视窗 (360p) [Not 24/7] | gddb.chinashadt.com:1935 | <http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8> |
+| 9844 | 电白综合 (360p) [Not 24/7] | gddb.chinashadt.com:1935 | <http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8> |
+| 9845 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
+| 9846 | 白山新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baishan1/sd/live.m3u8> |
+| 9847 | 百事通体育1 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8> |
+| 9848 | 百事通体育2 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8> |
+| 9849 | 百事通体育3 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8> |
+| 9850 | 百事通体育5 (1080p) | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8> |
+| 9851 | 百事通体育7 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8> |
+| 9852 | 石景山电视台 (1080p) [Not 24/7] | live.sjsrm.com | <https://live.sjsrm.com/bjsjs/sd/live.m3u8> |
+| 9853 | 福山生活 (576p) [Not 24/7] | live.jiaodong.net:82 | <http://live.jiaodong.net:82/tvfushan/hls/tv_shenghuo.m3u8> |
+| 9854 | 福州广播电视台新闻综合频道 (FZTV-1) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-1/index.m3u8> |
+| 9855 | 福州广播电视台都市生活频道 (FZTV-3) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-3/index.m3u8> |
+| 9856 | 福州电视台少儿频道 (FZTV-少儿) (1080p) | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-4/index.m3u8> |
+| 9857 | 万州影视文艺 (576p) | wanzhoulive.cbg.cn:8017 | <http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8> |
+| 9858 | 万州科教频道 (576p) | IPv4 直链 | <http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8> |
+| 9859 | 万州综合频道 (576p) | IPv4 直链 | <http://123.146.162.24:8017/iTXwrGs/800/live.m3u8> |
+| 9860 | 积石山电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000152/index.m3u8> |
+| 9861 | 立法会直播 (Legislative Council Live) (720p) | live3.tdm.com.mo | <https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8> |
+| 9862 | 立法院IVOD直播交通委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8> |
+| 9863 | 立法院IVOD直播内政委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8> |
+| 9864 | 立法院IVOD直播司法及法制委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8> |
+| 9865 | 立法院IVOD直播外交及国防委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8> |
+| 9866 | 立法院IVOD直播教育及文化委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8> |
+| 9867 | 立法院IVOD直播朝野协商 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8> |
+| 9868 | 立法院IVOD直播社会福利及卫生环境委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8> |
+| 9869 | 立法院IVOD直播经济委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8> |
+| 9870 | 立法院IVOD直播财政委员会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8> |
+| 9871 | 立法院IVOD直播院会 (450p) | lylive-videorent.cdn.hinet.net | <https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8> |
+| 9872 | 篮球资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8> |
+| 9873 | 娄底综合 (720p) | IPv4 直链 | <http://119.39.242.52:1935/live/zonghe/playlist.m3u8> |
+| 9874 | 粤语电影2 | epg.112114.xyz | <http://epg.112114.xyz/douyu/6566671> |
+| 9875 | 粤语电影3 | epg.112114.xyz | <http://epg.112114.xyz/douyu/1226741> |
+| 9876 | 精品电影 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/jdianying/jdianying> |
+| 9877 | 红牛REDBULL TV (720p) | rbmn-live.akamaized.net | <https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8> |
+| 9878 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
+| 9879 | 纯享4K (2160p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8> |
+| 9880 | 继续教育 (576p) | IPv4 直链 | <http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8> |
+| 9881 | 罗山电视台 (1080p) [Not 24/7] | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11521-1.m3u8> |
+| 9882 | 置业 (576p) | IPv4 直链 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8> |
+| 9883 | 美国中文电视 (406p) [Not 24/7] | jpts.sinovision.net | <https://jpts.sinovision.net/livestream.m3u8> |
+| 9884 | 美国狗狗宠物 (1080p) | video.blivenyc.com | <https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8> |
+| 9885 | 翡翠台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8> |
+| 9886 | 耀才财经台 (576p) | IPv4 直链 | <http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8> |
+| 9887 | 耀才财经 | IPv4 直链 | <http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8> |
+| 9888 | 肃州电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000123/index.m3u8> |
+| 9889 | 舟山公共生活 (720p) | live.wifizs.cn | <http://live.wifizs.cn/ggsh/sd/live.m3u8> |
+| 9890 | 舟山新闻综合 (240p) | live.wifizs.cn | <http://live.wifizs.cn/xwzh/sd/live.m3u8> |
+| 9891 | 舟山群岛旅游 (720p) | live.wifizs.cn | <http://live.wifizs.cn/qdly/sd/live.m3u8> |
+| 9892 | 芜湖公共 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel3/sd/live.m3u8> |
+| 9893 | 芜湖新闻综合 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel1/sd/live.m3u8> |
+| 9894 | 芜湖生活 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel2/sd/live.m3u8> |
+| 9895 | 荣昌综合 (404p) [Not 24/7] | IPv4 直链 | <http://183.64.181.25:40023/rongchang01.m3u8> |
+| 9896 | 莒县图文频道 (720p) | IPv4 直链 | <http://61.162.225.122:8181/live/test3.m3u8> |
+| 9897 | 莒县电视一套 (576p) | IPv4 直链 | <http://61.162.225.122:8181/live/test1.m3u8> |
+| 9898 | 莒县电视二套 (576p) [Not 24/7] | IPv4 直链 | <http://61.162.225.122:8181/live/test2.m3u8> |
+| 9899 | 萍乡公共频道 (1080p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8> |
+| 9900 | 萍乡教育频道 (480p) | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8> |
+| 9901 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
+| 9902 | 萧山新闻综合 (720p) [Not 24/7] | 新蓝云 | <https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8> |
+| 9903 | 蓬安新闻综合 (720p) [Not 24/7] | palive.patv123.com:8091 | <http://palive.patv123.com:8091/live/xwpd_800K.m3u8> |
+| 9904 | 芜湖教育频道 (576p) | live1.wuhubtv.com | <http://live1.wuhubtv.com/channel4/sd/live.m3u8> |
+| 9905 | 萧山生活频道 (720p) [Not 24/7] | 新蓝云 | <https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8> |
+| 9906 | 袁州综合频道 (576p) [Not 24/7] | jxyz.chinashadt.com:8036 | <http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8> |
+| 9907 | 西安丝路 (404p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
+| 9908 | 西安乐购购物 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv6/playlist.m3u8> |
+| 9909 | 西安商务资讯 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
+| 9910 | 西安影视 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv4/playlist.m3u8> |
+| 9911 | 西安新闻 (1080p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv1/playlist.m3u8> |
+| 9912 | 西安白鸽 (180p) [Not 24/7] | stream2.xiancity.cn | <http://stream2.xiancity.cn/xatv2/playlist.m3u8> |
+| 9913 | 西藏卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8> |
+| 9914 | 西藏藏语 (576p) | media.vtibet.com | <http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8> |
+| 9915 | 西青新闻综合 (1080p) [Not 24/7] | IPv4 直链 | <http://221.238.209.44:81/hls/live1.m3u8> |
+| 9916 | 贝爷影厅 | epg.112114.xyz | <http://epg.112114.xyz/douyu/252802> |
+| 9917 | 贵州卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8> |
+| 9918 | 赵县电视一套 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8> |
+| 9919 | 赵县电视二套 (360p) | hbzx.chinashadt.com:2036 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8> |
+| 9920 | 辛集新闻频道 (480p) [Not 24/7] | zsxj.chinashadt.com:1935 | <http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8> |
+| 9921 | 辛集生活频道 (480p) [Not 24/7] | zsxj.chinashadt.com:1935 | <http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8> |
+| 9922 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
+| 9923 | 辽源新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8> |
+| 9924 | 迪庆综合 (1080p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8> |
+| 9925 | 迪庆藏语 (576p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8> |
+| 9926 | 通化新闻 | 吉林广播电视台 | <https://stream2.jlntv.cn/tonghua1/sd/live.m3u8> |
+| 9927 | 通州电视台 (720p) | pull.dayuntongzhou.com | <http://pull.dayuntongzhou.com/live/tztv.m3u8> |
+| 9928 | 邗江资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8> |
+| 9929 | 邵东综合 (576p) | hnsd.chinashadt.com:2036 | <http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8> |
+| 9930 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
+| 9931 | 重庆卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8> |
+| 9932 | 金昌公共频道 (240p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8> |
+| 9933 | 金昌综合频道 (720p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8> |
+| 9934 | 金鹰卡通 (576p) | IPv4 直链 | <http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8> |
+| 9935 | 长乐综合 | 35908.hlsplay.aodianyun.com | <http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8> |
+| 9936 | 长春综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlcc/sd/live.m3u8> |
+| 9937 | 长沙地铁移动 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8> |
+| 9938 | 长沙女性 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
+| 9939 | 长沙政法 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
+| 9940 | 长沙新闻 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
+| 9941 | 长沙经贸 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8> |
+| 9942 | 长沙购物 | 35848.hlsplay.aodianyun.com | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8> |
+| 9943 | 陕西卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8> |
+| 9944 | 隆化影视 (576p) | hblh.chinashadt.com:2036 | <http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8> |
+| 9945 | 隆化综合 (576p) | hblh.chinashadt.com:2036 | <http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8> |
+| 9946 | 随州综合 (720p) [Not 24/7] | 34766.hlsplay.aodianyun.com | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8> |
+| 9947 | 随州农村 (720p) [Not 24/7] | 34766.hlsplay.aodianyun.com | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8> |
+| 9948 | 集安综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/ja/sd/live.m3u8> |
+| 9949 | 霍山综合 (576p) | ahhs.chinashadt.com:1936 | <http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8> |
+| 9950 | 霸州公共频道 (576p) [Not 24/7] | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8> |
+| 9951 | 霸州少儿频道 (576p) [Not 24/7] | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8> |
+| 9952 | 霸州文化频道 (576p) | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8> |
+| 9953 | 霸州新闻频道 (576p) | hbbz.chinashadt.com:2036 | <http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8> |
+| 9954 | 青州文化旅游 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8> |
+| 9955 | 青州生活 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8> |
+| 9956 | 青州综合 (576p) | sdqz.chinashadt.com:2036 | <http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8> |
+| 9957 | 青海卫视 (1080p) | live.geermurmt.com | <http://live.geermurmt.com/qhws/sd/live.m3u8> |
+| 9958 | 靖江新闻综合 (480p) [Not 24/7] | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
+| 9959 | 静宁综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000147/index.m3u8> |
+| 9960 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
+| 9961 | 香港国际财经台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8> |
+| 9962 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
+| 9963 | 高清电影 (1080p) | 中国移动陕西 | <http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8> |
+| 9964 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
+| 9965 | 鹤峰综合 | hefeng.live.tempsource.cjyun.org | <http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8> |
+| 9966 | 鹿泉一套 (576p) [Not 24/7] | hblq.chinashadt.com:2036 | <http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8> |
+| 9967 | 鹿泉二套 (576p) [Not 24/7] | hblq.chinashadt.com:2036 | <http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8> |
+| 9968 | 黑龙卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8> |
+| 9969 | 黑龙江 (1080p) | IPv4 直链 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
+| 9970 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
+| 9971 | 黔西南公共 (288p) | live.qxndt.com | <http://live.qxndt.com/channel3/sd/live.m3u8> |
+| 9972 | 黔西南综合 (288p) | live.qxndt.com | <http://live.qxndt.com/channel2/sd/live.m3u8> |
+| 9973 | 龙口图文 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8> |
+| 9974 | 龙口新闻综合 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
+| 9975 | 龙口生活 (576p) | yslk.chinashadt.com:1635 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
+| 9976 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Mon Jan 22 2024 15:44:45 GMT+0800 (北美中部标准时间)**
+Updated at **Mon Jan 22 2024 16:07:49 GMT+0800 (北美中部标准时间)**

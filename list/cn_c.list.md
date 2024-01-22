@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]chc动作电影[ipv6] | epg.pw | <https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8> |
-| 2 | [BD]chc高清电影[ipv6] | epg.pw | <https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8> |
+| 2 | [BD]chc高清电影[ipv6] | epg.pw | <https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8> |
 | 3 | [BD]newtv中国功夫[ipv6] | epg.pw | <https://epg.pw/stream/6c9d54cf76a2d2246f6ffca3c1bc194b5e23e716247f9b29a49279278188a1fb.m3u8> |
 | 4 | [BD]newtv动作电影[ipv6] | epg.pw | <https://epg.pw/stream/6fdbeaebf72d19e82c4db2858a3ad1c5deddf612acf750303519cddc2086be84.m3u8> |
 | 5 | [BD]newtv家庭剧场[ipv6] | epg.pw | <https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8> |
@@ -40,7 +40,7 @@
 | 34 | [SD]南方卫视 | epg.pw | <https://epg.pw/stream/a97a516f7363243adcf989db5a8ec00df8ecec1f7446e083d9b48c6952378cee.m3u8> |
 | 35 | [VGA]吉林影视 | epg.pw | <https://epg.pw/stream/a7da806978d832234031c7bb2582e4bc043a36c904af2a977b6854f115122740.m3u8> |
 | 36 | [VGA]吉林乡村 (900p) [not 24/7] | epg.pw | <https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8> |
-| 37 | [BD]咪咕视频[ipv6] | epg.pw | <https://epg.pw/stream/70f35a2586a8f8b880037235d9106303415545bdf69351ff56c293f43b54ad45.m3u8> |
+| 37 | [SD]咪咕视频[ipv6] | epg.pw | <https://epg.pw/stream/70f35a2586a8f8b880037235d9106303415545bdf69351ff56c293f43b54ad45.m3u8> |
 | 38 | [VGA]哈尔滨娱乐 | epg.pw | <https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
 | 39 | [VGA]哈尔滨新闻综合 | epg.pw | <https://epg.pw/stream/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8> |
 | 40 | [VGA]哈尔滨生活 | epg.pw | <https://epg.pw/stream/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8> |
@@ -146,4 +146,4 @@
 | 140 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
 | 141 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Mon Jan 22 2024 15:44:41 GMT+0800 (北美中部标准时间)**
+Updated at **Mon Jan 22 2024 16:07:45 GMT+0800 (北美中部标准时间)**
