@@ -2,6 +2,7 @@ const from_infos = new Map([
     ["sn.chinamobile.com", "中国移动陕西"],
     ["sh.chinamobile.com", "中国移动上海"],
     ["hl.chinamobile.com", "中国移动黑龙江"],
+    ["js.chinamobile.com", "中国移动江苏"],
     ["cztv.com", "浙江广播电视集团"],
     ["mobaibox.com", "中国移动江苏"],
     ["shaoxing.com.cn", "绍兴网"],
@@ -34,6 +35,13 @@ const from_infos = new Map([
     ["cnr.cn", "央广网"],
     ["cmvideo.cn", "咪咕"],
     ["douyucdn", "斗鱼"],
+    ["cri.cn", "国际在线"],
+    ["hndt.com", "河南广播网"],
+    ["qxndt.com", "黔西南广播网"],
+    ["olelive.com", "欧乐影院"],
+    ["chinashadt.com", "千城云科"],
+    ["aodianyun.com", "奥点云"],
+    ["xiancity.cn", "西安网"],
     ["raw.githubusercontent.com", "Github Raw"],
 ])
 

@@ -104,6 +104,33 @@ export const mergeTxts = () => {
     fs.writeFileSync(path.join(txts_p, "channels.txt"), txts)
 }
 
+export const mergeSources = () => {
+    const sources_p = path.resolve("m3u", "sources")
+
+    const files = fs.readdirSync(sources_p)
+
+    const res = {
+        name: "Sources",
+        sources: {},
+    }
+
+    files.forEach((f) => {
+        const so = JSON.parse(
+            fs.readFileSync(path.join(sources_p, f), "utf-8")
+        ).sources
+
+        Object.keys(so).forEach((k) => {
+            if (!res.sources[k]) {
+                res.sources[k] = so[k]
+            } else {
+                res.sources[k] = [...new Set([...res.sources[k], ...so[k]])]
+            }
+        })
+    })
+
+    fs.writeFileSync(path.join(sources_p, "sources.json"), JSON.stringify(res))
+}
+
 export const writeEpgXML = (f_name: string, xml: string) => {
     if (!fs.existsSync(path.join(path.resolve(), "m3u", "epg"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u", "epg"))

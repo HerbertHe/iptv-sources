@@ -4,6 +4,7 @@ import { updateChannelsJson } from "./channels"
 import {
     cleanFiles,
     getContent,
+    mergeSources,
     mergeTxts,
     writeEpgXML,
     writeM3u,
@@ -37,7 +38,7 @@ Promise.allSettled(
 
             let [m3u, count] = sr.filter(
                 text as string,
-                "normal",
+                ["o_all", "all"].includes(sr.f_name) ? "skip" : "normal",
                 sourcesCollector.collect
             )
 
@@ -112,6 +113,7 @@ Promise.allSettled(
         const sources_res = result.sources.map((r) => (<any>r).value)
         const epgs_res = result.epgs.map((r) => (<any>r).value)
         mergeTxts()
+        mergeSources()
         writeTvBoxJson("tvbox", sources, "Channels")
         updateChannelsJson(sources, sources_res, epgs_sources)
         updateReadme(sources, sources_res, epgs_sources, epgs_res)
