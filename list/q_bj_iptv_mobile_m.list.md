@@ -135,4 +135,4 @@
 | 129 | 高网 | IPv4 直链 | <rtp://228.1.1.169:4120> |
 | 130 | 魅力时尚 | IPv4 直链 | <rtp://228.1.1.86:9012> |
 
-Updated at **Mon Jan 22 2024 17:44:36 GMT+0800 (北美中部标准时间)**
+Updated at **Mon Jan 22 2024 13:23:36 GMT+0000 (Coordinated Universal Time)**
