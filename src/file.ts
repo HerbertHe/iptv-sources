@@ -93,15 +93,17 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
 }
 
 export const mergeTxts = () => {
-    const txts_p = path.join(path.resolve(), "m3u", "txt")
+    const txts_p = path.resolve("m3u", "txt")
 
-    const files = fs.readdirSync(txts_p)
+    if (fs.existsSync(txts_p)) {
+        const files = fs.readdirSync(txts_p)
 
-    const txts = files
-        .map((d) => fs.readFileSync(path.join(txts_p, d).toString()))
-        .join("\n")
+        const txts = files
+            .map((d) => fs.readFileSync(path.join(txts_p, d).toString()))
+            .join("\n")
 
-    fs.writeFileSync(path.join(txts_p, "channels.txt"), txts)
+        fs.writeFileSync(path.join(txts_p, "channels.txt"), txts)
+    }
 }
 
 export const writeEpgXML = (f_name: string, xml: string) => {
