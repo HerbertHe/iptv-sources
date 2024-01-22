@@ -93,7 +93,7 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
 }
 
 export const mergeTxts = () => {
-    const txts_p = path.resolve("m3u", "txt")
+    const txts_p = path.join(path.resolve(), "m3u", "txt")
 
     const files = fs.readdirSync(txts_p)
 
