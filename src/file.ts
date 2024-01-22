@@ -94,6 +94,11 @@ export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
 
 export const mergeTxts = () => {
     const txts_p = path.resolve("m3u", "txt")
+
+    if (!fs.existsSync(txts_p)) {
+        fs.mkdirSync(txts_p)
+    }
+
     const files = fs.readdirSync(txts_p)
 
     const txts = files
