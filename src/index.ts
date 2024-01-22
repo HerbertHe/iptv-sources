@@ -111,8 +111,8 @@ Promise.allSettled(
     .then((result) => {
         const sources_res = result.sources.map((r) => (<any>r).value)
         const epgs_res = result.epgs.map((r) => (<any>r).value)
-        // mergeTxts()
-        // writeTvBoxJson("tvbox", sources, "Channels")
+        mergeTxts()
+        writeTvBoxJson("tvbox", sources, "Channels")
         updateChannelsJson(sources, sources_res, epgs_sources)
         updateReadme(sources, sources_res, epgs_sources, epgs_res)
     })
