@@ -8,12 +8,14 @@ import {
     writeEpgXML,
     writeM3u,
     writeM3uToTxt,
+    writeSources,
 } from "./file"
 import { updateChannelList, updateReadme } from "./readme"
-import { sources, filter } from "./sources"
+import { sources } from "./sources"
 import { updateByRollback, updateEPGByRollback } from "./rollback"
 import { epgs_sources } from "./epgs"
 import { writeTvBoxJson } from "./tvbox"
+import { Collector } from "./utils"
 
 cleanFiles()
 
@@ -31,9 +33,15 @@ Promise.allSettled(
                 } ms`
             )
 
-            let [m3u, count] = !!sr.filter
-                ? sr.filter(text as string)
-                : filter(text as string)
+            const sourcesCollector = Collector()
+
+            let [m3u, count] = sr.filter(
+                text as string,
+                "normal",
+                sourcesCollector.collect
+            )
+
+            writeSources(sr.name, sr.f_name, sourcesCollector.result())
             writeM3u(sr.f_name, m3u)
             writeM3uToTxt(sr.name, sr.f_name, m3u)
             writeTvBoxJson(

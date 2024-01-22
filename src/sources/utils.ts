@@ -7,7 +7,11 @@ export interface ISource {
     name: string
     f_name: string
     url: string
-    filter?: (raw: string) => [string, number]
+    filter: (
+        raw: string,
+        caller: "normal" | "rollback",
+        collectFn?: (k: string, v: string) => void,
+    ) => [string, number]
 }
 
 export type TSources = ISource[]

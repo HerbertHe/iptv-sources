@@ -1,89 +1,81 @@
-import { is_filted_channels } from "../utils"
+import { is_filted_channels, collectM3uSource, get_channel_id } from "../utils"
 import { converter, handle_m3u } from "./utils"
-import type { TSources } from "./utils"
+import type { ISource, TSources } from "./utils"
 
-export const iptv_org_filter = (raw: string): [string, number] => {
+export const iptv_org_filter: ISource["filter"] = (
+    raw,
+    caller,
+    collectFn
+): [string, number] => {
     const rawArray = handle_m3u(raw)
-    const regExp = /\#EXTINF:-1\s+tvg\-id\=\"([^"]*)\"/
     const invalidExp = /\#EXTVLCOPT:/
 
-    let i = 1
+    const arr = rawArray.filter((r) => !invalidExp.test(r))
+
     let sourced: string[] = []
-    let result = [rawArray[0]]
+    let result = [arr[0]]
 
-    while (i < rawArray.length) {
-        const reg = regExp.exec(rawArray[i]) as RegExpExecArray
-        const invalid = invalidExp.test(rawArray[i + 1])
+    for (let i = 1; i < arr.length; i += 2) {
+        const id = get_channel_id(arr[i])
 
-        if (!!reg && !invalid) {
-            if (is_filted_channels(reg[1].trim())) {
-                i += 2
-                continue
-            } else if (!sourced.includes(reg[1]) || !reg[1]) {
-                sourced.push(reg[1])
-                result.push(
-                    rawArray[i]
-                        .replace(/\@\@[0-9]*/g, "")
-                        .replace(/\[geo\-blocked\]/, "")
-                        .replace(/\[Geo\-blocked\]/, "")
-                        .trim()
-                )
-                result.push(rawArray[i + 1])
-            }
+        if (is_filted_channels(id.trim())) {
+            continue
         }
 
-        i += 2
+        if (caller === "normal" && collectFn) {
+            collectM3uSource(arr[i], arr[i + 1], collectFn)
+        }
+
+        if (!sourced.includes(id)) {
+            sourced.push(id)
+            result.push(
+                arr[i]
+                    .replace(/\@\@[0-9]*/g, "")
+                    .replace(/\[geo\-blocked\]/, "")
+                    .replace(/\[Geo\-blocked\]/, "")
+                    .trim()
+            )
+            result.push(arr[i + 1])
+        }
     }
 
     return [converter(result.join("\n")), (result.length - 1) / 2]
 }
 
-export const iptv_org_stream_filter = (raw: string): [string, number] => {
+export const iptv_org_stream_filter: ISource["filter"] = (
+    raw,
+    caller,
+    collectFn
+): [string, number] => {
     const rawArray = raw.split("\n")
-    const regExp = /\#EXTINF:-1\s+tvg\-id\=\"([^"]*)\",(.*)/
     const invalidExp = /\#EXTVLCOPT:/
 
-    let i = 1
+    const arr = rawArray.filter((r) => !invalidExp.test(r))
+
     let sourced: string[] = []
-    let commented: string[] = []
-    let result = [rawArray[0]]
+    let result = [arr[0]]
 
-    while (i < rawArray.length) {
-        const reg = regExp.exec(rawArray[i]) as RegExpExecArray
-        const invalid = invalidExp.test(rawArray[i + 1])
+    for (let i = 1; i < arr.length; i += 2) {
+        const id = get_channel_id(arr[i])
 
-        if (!!reg && !invalid) {
-            if (!reg[1]) {
-                // 没有 tvg-id
-                // 处理台标重复
-                if (!commented.includes(reg[2])) {
-                    const comment = reg[2].trim()
-                    commented.push(comment)
-
-                    result.push(
-                        rawArray[i]
-                            .replace(/\@\@[0-9]*/g, "")
-                            .replace(/\[([\s\S]*)\]/g, "")
-                            .trim()
-                    )
-                    result.push(rawArray[i + 1])
-                }
-            } else if (is_filted_channels(reg[1].trim())) {
-                i += 2
-                continue
-            } else if (!sourced.includes(reg[1])) {
-                sourced.push(reg[1])
-                result.push(
-                    rawArray[i]
-                        .replace(/\@\@[0-9]*/g, "")
-                        .replace(/\[([\s\S]*)\]/g, "")
-                        .trim()
-                )
-                result.push(rawArray[i + 1])
-            }
+        if (is_filted_channels(id)) {
+            continue
         }
 
-        i += 2
+        if (caller === "normal" && collectFn) {
+            collectM3uSource(arr[i], arr[i + 1], collectFn)
+        }
+
+        if (!sourced.includes(id)) {
+            sourced.push(id)
+            result.push(
+                arr[i]
+                    .replace(/\@\@[0-9]*/g, "")
+                    .replace(/\[([\s\S]*)\]/g, "")
+                    .trim()
+            )
+            result.push(arr[i + 1])
+        }
     }
 
     return [converter(result.join("\n")), (result.length - 1) / 2]

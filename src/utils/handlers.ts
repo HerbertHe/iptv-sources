@@ -69,5 +69,13 @@ export const replace_github_raw_proxy_url = (s: string) => {
 }
 
 export const is_filted_channels = (s: string) => {
-    return ["ABNChina.us", "NTDTVChina.us"].includes(s)
+    if (s.includes("ABN")) {
+        return true
+    }
+    
+    if (s.includes("NTD")) {
+        return true
+    }
+
+    return false
 }

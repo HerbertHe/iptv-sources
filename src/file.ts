@@ -24,6 +24,29 @@ export const writeM3u = (name: string, m3u: string) => {
     fs.writeFileSync(path.join(path.resolve(), "m3u", `${name}.m3u`), m3u)
 }
 
+export const writeSources = (
+    name: string,
+    f_name: string,
+    sources: Map<string, string[]>
+) => {
+    let srcs = {}
+    for (const [k, v] of sources) {
+        srcs[k] = v
+    }
+
+    if (!fs.existsSync(path.join(path.resolve(), "m3u", "sources"))) {
+        fs.mkdirSync(path.join(path.resolve(), "m3u", "sources"))
+    }
+
+    fs.writeFileSync(
+        path.join(path.resolve(), "m3u", "sources", `${f_name}.json`),
+        JSON.stringify({
+            name,
+            sources: srcs,
+        })
+    )
+}
+
 export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
     const m3uArray = m3u.split("\n")
     let groups = new Map<string, string>()

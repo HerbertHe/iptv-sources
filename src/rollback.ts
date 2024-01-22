@@ -1,12 +1,12 @@
 import { hrtime } from "process"
 
-import { ISource, filter } from "./sources"
+import { ISource } from "./sources"
 import { get_rollback_urls } from "./utils"
 import { TEPGSource } from "./epgs/utils"
 
 export const updateByRollback = async (
     sr: ISource,
-    sr_filter?: (raw: string) => [string, number],
+    sr_filter: ISource["filter"],
     idx: number = 0
 ): Promise<[string, number] | undefined> => {
     const rollback_urls = get_rollback_urls()
@@ -25,9 +25,7 @@ export const updateByRollback = async (
                 } ms`
             )
             const text = await res.text()
-            return !!sr_filter
-                ? sr_filter(text as string)
-                : filter(text as string)
+            return sr_filter(text as string, "rollback")
         }
 
         console.log(
