@@ -290,11 +290,11 @@
 | 284 | [HD]momo购物1 | epg.pw | <https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8> |
 | 285 | [HD]momo购物2 | epg.pw | <https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8> |
 | 286 | [SD]MTV BASE | epg.pw | <https://epg.pw/stream/26d0ec24c0492d3ec09bfc0a17c2121516a10d9fbd815d1b5e40cc63ceb3ed48.ctv> |
-| 287 | [SD]MTV HITS | epg.pw | <https://epg.pw/stream/37924cf8b8ae52ad4bd2b648d2cb89c667c8b03fa6198617ba68f0a2de6f02a9.ctv> |
-| 288 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/c098b77262d3d60ed167dec2e129ce1f34eea5f9bfe8981bd3ff1d7f938f91d5.m3u8> |
-| 289 | [SD]MTV LIVE | epg.pw | <https://epg.pw/stream/caeb76e9204d2459ab10336a9c6908d7961ef8aeae55ba5ebbb974b6e1a00c95.ctv> |
-| 290 | [SD]MTV ROCKS | epg.pw | <https://epg.pw/stream/c88f5e9f13ce5ca72b5e747601fe83ca36518e0a23f7bbf07bcded353d9cac4a.ctv> |
-| 291 | [SD]MTV UK | epg.pw | <https://epg.pw/stream/7a6eda424f6dbe68f667b19cb4ea033054628483464c0487e903e79b810e0615.ctv> |
+| 287 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/c098b77262d3d60ed167dec2e129ce1f34eea5f9bfe8981bd3ff1d7f938f91d5.m3u8> |
+| 288 | [SD]MTV LIVE | epg.pw | <https://epg.pw/stream/caeb76e9204d2459ab10336a9c6908d7961ef8aeae55ba5ebbb974b6e1a00c95.ctv> |
+| 289 | [SD]MTV ROCKS | epg.pw | <https://epg.pw/stream/c88f5e9f13ce5ca72b5e747601fe83ca36518e0a23f7bbf07bcded353d9cac4a.ctv> |
+| 290 | [SD]MTV UK | epg.pw | <https://epg.pw/stream/7a6eda424f6dbe68f667b19cb4ea033054628483464c0487e903e79b810e0615.ctv> |
+| 291 | [SD]MTVHITS | epg.pw | <https://epg.pw/stream/0c4c84e1dd2f083e93e3780e8d9af311af11cd26de2835081d69fcc14bd79af4.ctv> |
 | 292 | [HD]maah tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/5a69c10da4e4327ff29632cfd63b1a3c4e1142c5596056d702550769e0b2c270.m3u8> |
 | 293 | [BD]car magazine tv | epg.pw | <https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8> |
 | 294 | [HD]metro globe network | epg.pw | <https://epg.pw/stream/0a121bbadc2103c10c92559124dace41040788948cbcb4f7ced811653dbd4465.m3u8> |
@@ -322,10 +322,10 @@
 | 316 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/71739a3e746362a8a7a74567dc68cc4d8d4e95e354f4af524015b65e61945e7d.ctv> |
 | 317 | [HD]now新闻台 | epg.pw | <https://epg.pw/stream/b11782e67a3717c4ed87f06596ada0d282a5a6372ca9b27b8a5d716120616d5c.ctv> |
 | 318 | [SD]NTV7 | epg.pw | <https://epg.pw/stream/66c5158f13068ed80fda9a87b3e7f1fce8488c70d18cd930a006af2eb3dd3376.ctv> |
-| 319 | [HD]NatGeo Wild HD | epg.pw | <https://epg.pw/stream/b1c33b594a278d305318514acfa20b04bea9b920c514598a9800936242ebd41a.ctv> |
+| 319 | [HD]NatGeo Wild HD | epg.pw | <https://epg.pw/stream/dad3759b45e8020d6089792e8ce87240e161e6095092b60265544401253e7dcc.ctv> |
 | 320 | [HD]NatGeoHD | epg.pw | <https://epg.pw/stream/ba8147aee0841997e0211fe6652e5b7fbb8d91015d03e4698972d666214d4991.ctv> |
 | 321 | [BD]national geographic abu dhabi | epg.pw | <https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8> |
-| 322 | [HD]Net. | epg.pw | <https://epg.pw/stream/b84fabe1d21344499f71c288c7b1d6ef645fcbbd8025500d60cd65b7588ff63a.ctv> |
+| 322 | [HD]Net. | epg.pw | <https://epg.pw/stream/3e6aa8d5ebb5a331a0165bd0296de850cc30e05529846e94b2bcb22db2ad1926.ctv> |
 | 323 | [BD]newtv超级电影[ipv6] | epg.pw | <https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8> |
 | 324 | [BD]newsmaxtv | epg.pw | <https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8> |
 | 325 | [SD]日本テレビ | epg.pw | <https://epg.pw/stream/f5b2f0523e7d188bd3c0a2b63401ce23f8aabc81bf4bf91bb10e18564990c10c.m3u8> |
@@ -1742,4 +1742,4 @@
 | 1736 | [HD]龙华日韩 | epg.pw | <https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv> |
 | 1737 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Jan 23 2024 16:16:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 23 2024 17:07:54 GMT+0000 (Coordinated Universal Time)**
