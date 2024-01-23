@@ -585,6 +585,7 @@ Can TV (720p),http://canbroadcast.com:7000/canlican/tv.m3u8
 Canada One (720p) [Not 24/7],http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 Canada Star TV (720p),https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
 Canal 2 (480p) [Not 24/7],https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
+Canal 2 Alpavisión (720p) [Not 24/7],https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 Canal 2 Jujuy (720p) [Not 24/7],https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 Canal 2 Misiones (1080p),https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 Canal 2 Perico (480p),https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
@@ -5063,7 +5064,6 @@ Camões TV (1080p) [Not 24/7],https://customer-3s66icmlj6pe1jxm.cloudflarestream
 Campo 9 Online (720p),https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
 Cana TV Digital (720p) [Not 24/7],https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
 Canal 1 (720p),https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
-Canal 2 Alpavisión (720p) [Not 24/7],https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 Canal 2 Cali (720p),https://video13.virtualtronics.com/streamer/canal2.m3u8
 Canal 2 de Ushuaia (1080p),https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 Canal 3 Biar (480p) [Not 24/7],https://avantstreaming.es/hls/canal3.m3u8
@@ -6048,7 +6048,7 @@ TVCOM DF (360p),https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlis
 TVCOM Maceió (480p),https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 TVenLinea (720p) [Not 24/7],https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 TVG Channel 28 (528p) [Not 24/7],http://190.80.3.28/TVG/TVG.isml/index.m3u8
-TVI África (480p) [Not 24/7],https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+TVI África (480p),https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 TVitapé (720p),https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 TVM (480p),http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 TVM Internacional (480p) [Not 24/7],http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
@@ -8946,6 +8946,7 @@ Himlen TV7 (720p),https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 HolyGod TV (720p),https://128989.gvideo.io/streams/128989_522806/playlist.m3u8
 Homebase TV (576p),https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
 Hope4Life TV (720p),http://144.217.14.88/hls/hope4life.m3u8
+Hope Channel Africa (1080p),https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8
 Hope Channel Australia (1080p),https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 Hope Channel German (1080p),https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
 Hope Channel Ghana (480p),https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
