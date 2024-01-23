@@ -14,7 +14,7 @@ Sport,#genre#
 [VGA]btv 1,https://epg.pw/stream/1d744291f5cce040d601f209a59575228c2da666b77cf239f6a2e88b8a34306f.m3u8
 [HD]ช่อง bally sports sun,https://epg.pw/stream/e9b739ee16fec8cb79263313eb3fd6f1eedd3799003a7fc74cfb8b33e8d63f83.m3u8
 [SD]bein sports 1,https://epg.pw/stream/5533389f8dac0613b48d4b93af5b9d4edaa73092c848bf9b847298e8cc8e38e7.ctv
-[VGA]bein sports 2,https://epg.pw/stream/aa796e0fdcd194735e441c631417053b56529065dbca8ea5294879c4a443fd99.ctv
+[SD]bein sports 2,https://epg.pw/stream/aa796e0fdcd194735e441c631417053b56529065dbca8ea5294879c4a443fd99.ctv
 [HD]bein sports 6,https://epg.pw/stream/11c89e5ed3a9defa010cf4345e5f905ab36f1269290c42139047abbe791b9c11.ctv
 [HD]fubo sports network (720p),https://epg.pw/stream/604ddc6809052ab8ef1d0efb806f35b815b7d40aea4ff74120dae94ec1f899b6.m3u8
 [BD]cctv16[ipv6],https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
@@ -1409,7 +1409,7 @@ Movie,#genre#
 [BD]HBO East,https://epg.pw/stream/9ec76358c029ec1392cbfe1f897e2ced7b936db1ae66d91fe4bc71f965e396b9.ctv
 [HD]hbo family,https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv
 [BD]HBOFAMILYUSA,https://epg.pw/stream/9e0fbe53a98b283c75f3b8d90f968cf0e4e8cfe37f1d127e0c7df36d0a3cb4c1.ctv
-[BD]hbo hd,https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.ctv
+[SD]hbo hd,https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.ctv
 [HD]HBO HITS,https://epg.pw/stream/c1feb7acf247c694cc90af47838acfebf03dbd9288b21ae4b60a3f4cdf321bce.ctv
 [HD]hbo signature,https://epg.pw/stream/5973653763c576ac010e576157ad593db073443e01c32ffece31f3f0e8bc13f5.ctv
 [BD]HBO Signature,https://epg.pw/stream/d7b8b4596a5cb6b01a1075f1bf4c38ddaad5d9afcdb9a717d80e6333367cf67b.ctv
@@ -1420,12 +1420,11 @@ Movie,#genre#
 [HD]HitsMovies,https://epg.pw/stream/b26c2bbfe0acdba1ba8ee19781c997138550b8f4958966952c7e7fc2ebd8e950.ctv
 [BD]HALLMARK,https://epg.pw/stream/2c4a16a8692a9c9ba180af8dffc6fa70a4cca5d9eebadf1615e4e05609b03d88.ctv
 [HD]hallmark drama,https://epg.pw/stream/f1f6174216d46198ffe838c96ef74463f9cd9b56baddd9d7689de14fc060d1c2.m3u8
-[SD]Horror Channel,https://epg.pw/stream/51c799b9e20346309718915e0784a0ccc114b48851eb4e454ba7e3f4fc413bb9.ctv
+[SD]Horror Channel,https://epg.pw/stream/4c6ab97e304a755ea4907a28d3c31bb931f114dc96d9658859a984b9bbdfd2e3.ctv
 [BD]MGM,https://epg.pw/stream/a77464612a0b49fa3cdc3d7560a2eb9b539345f73ee7c0d265227ca0d4084e94.ctv
 [HD]movie plus (544p),https://epg.pw/stream/dbe2aa3fd92fb0b58a84016605b6886a3d77960d2f7d9b3998ce17c32c2d42f5.m3u8
-[BD]newtv动作电影,https://epg.pw/stream/e94cc2f1cb9a47e959a80ae19baa1ce8e6e04e844dfcf65aa27b641d7ee467c7.m3u8
+[BD]newtv动作电影[ipv6],https://epg.pw/stream/6fdbeaebf72d19e82c4db2858a3ad1c5deddf612acf750303519cddc2086be84.m3u8
 [BD]newtv家庭剧场[ipv6],https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8
-[BD]newtv爱情喜剧,https://epg.pw/stream/7842f9585950362ef02dfe7f4d3b8a01574565b72ddca15ac35b1d91630a3abc.m3u8
 [BD]newtv海外剧场,https://epg.pw/stream/b314ebcd13fbec4a42a56d423398e032e62e662a888437a30c5847b6162a409f.m3u8
 [BD]newtv精品大剧[ipv6],https://epg.pw/stream/77f3dfac96f46b8db4bab743ef691404ac96b99f59c539a6c573215f57588360.m3u8
 [BD]newtv惊悚悬疑[ipv6],https://epg.pw/stream/d35ae5ceb09ba7baf2ee8b37b7ab0b7e9e29b6e9946d0b295aa1bc21d6950791.m3u8
@@ -1942,9 +1941,8 @@ Music,#genre#
 电影,#genre#
 [BD]chc动作电影[ipv6],https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8
 [BD]chc高清电影,https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
-[BD]newtv动作电影,https://epg.pw/stream/e94cc2f1cb9a47e959a80ae19baa1ce8e6e04e844dfcf65aa27b641d7ee467c7.m3u8
+[BD]newtv动作电影[ipv6],https://epg.pw/stream/6fdbeaebf72d19e82c4db2858a3ad1c5deddf612acf750303519cddc2086be84.m3u8
 [BD]newtv家庭剧场[ipv6],https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8
-[BD]newtv爱情喜剧,https://epg.pw/stream/7842f9585950362ef02dfe7f4d3b8a01574565b72ddca15ac35b1d91630a3abc.m3u8
 [BD]newtv海外剧场,https://epg.pw/stream/b314ebcd13fbec4a42a56d423398e032e62e662a888437a30c5847b6162a409f.m3u8
 [BD]newtv精品大剧[ipv6],https://epg.pw/stream/77f3dfac96f46b8db4bab743ef691404ac96b99f59c539a6c573215f57588360.m3u8
 [BD]newtv惊悚悬疑[ipv6],https://epg.pw/stream/d35ae5ceb09ba7baf2ee8b37b7ab0b7e9e29b6e9946d0b295aa1bc21d6950791.m3u8
