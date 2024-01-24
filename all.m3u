@@ -435,8 +435,8 @@ https://epg.pw/stream/acef67f0a5dee78e7b2f350236bd27b1b7e51eb03432ed454d63822812
 https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/11/22/large/20171122201848751840_29.jpg" group-title="Sport",[HD]FOX SPORTS
 https://epg.pw/stream/3ebedc3bfe8efee9f6408c87e51e07765b0e0f8ce9890d26356ab1a7ddd4c9a7.ctv
-#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="Sport",[HD]FoxSports2
-https://epg.pw/stream/7a198d18bbd64710a2447f7521247696b252fb14e2e74442e63593cdca768e14.ctv
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="Sport",[HD]Fox Sports 2
+https://epg.pw/stream/2acbefccb5e66ed2466721756559c1544e2c416b5cf04b34d3f1d444eb6b845e.ctv
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[SD]fuji tv next
 https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001608560661_60.png" group-title="Movie",[HD]FX USA
@@ -1859,8 +1859,8 @@ https://epg.pw/stream/8b33052bbd8bb8d1a77a0507e29a24952a25a10dc8eb075ddb28389c73
 https://epg.pw/stream/791fc21bfa9a3d77df1ad5e694bb691095f44880dda949c1c50818bb5aa13b39.m3u8
 #EXTINF:-1 tvg-name="outdoor channel hd" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/outdoor_channel_hd_1.png" group-title="Documentary",[BD]outdoor channel hd
 https://epg.pw/stream/afd282557048fa69a70e3b522fd97a51fd5d8eacc6709a5a402b05bec7839497.m3u8
-#EXTINF:-1 tvg-name="palestine mubasher" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/25/20140825101959902543_83.jpg" group-title="News",[BD]palestine mubasher
-https://epg.pw/stream/ae0050a6a55b63206a729ba27b8f449a1307c94b32d761c28b939884b896eee1.m3u8
+#EXTINF:-1 tvg-name="palestine tv pbc" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/25/20140825101959902543_83.jpg" group-title="News",[VGA]palestine tv pbc
+https://epg.pw/stream/e38ae5f05b5dbd126d0d3eaa830cf9d18f8995751cde287e6023d3ab185c7e6e.m3u8
 #EXTINF:-1 tvg-name="panarmenian tv" tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[BD]panarmenian tv
 https://epg.pw/stream/d5116033c928ae52ce40c9bf50d647ece0af51dc5059413ffe75c5891a6b30d9.m3u8
 #EXTINF:-1 tvg-name="panorama fm (1080p)" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190544164382_29.png" group-title="Movie",[BD]panorama fm (1080p)

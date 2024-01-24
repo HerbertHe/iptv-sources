@@ -222,7 +222,7 @@
 | 216 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/acef67f0a5dee78e7b2f350236bd27b1b7e51eb03432ed454d638228121603be.ctv> |
 | 217 | [HD]fox newsnow | epg.pw | <https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8> |
 | 218 | [HD]FOX SPORTS | epg.pw | <https://epg.pw/stream/3ebedc3bfe8efee9f6408c87e51e07765b0e0f8ce9890d26356ab1a7ddd4c9a7.ctv> |
-| 219 | [HD]FoxSports2 | epg.pw | <https://epg.pw/stream/7a198d18bbd64710a2447f7521247696b252fb14e2e74442e63593cdca768e14.ctv> |
+| 219 | [HD]Fox Sports 2 | epg.pw | <https://epg.pw/stream/2acbefccb5e66ed2466721756559c1544e2c416b5cf04b34d3f1d444eb6b845e.ctv> |
 | 220 | [SD]fuji tv next | epg.pw | <https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8> |
 | 221 | [HD]FX USA | epg.pw | <https://epg.pw/stream/b70d0ffb9cb55fdbc5452309c407cc44f09ae082a1ed1a47cc2fe6c1f71c2c99.ctv> |
 | 222 | [HD]FXM USA | epg.pw | <https://epg.pw/stream/a1fddbde4da511f18513fd42596d1754cae21c3ac30d8f43ef659752c7facadb.ctv> |
@@ -934,7 +934,7 @@
 | 928 | [BD]one | epg.pw | <https://epg.pw/stream/8b33052bbd8bb8d1a77a0507e29a24952a25a10dc8eb075ddb28389c73e9a7ca.m3u8> |
 | 929 | [BD]ontv | epg.pw | <https://epg.pw/stream/791fc21bfa9a3d77df1ad5e694bb691095f44880dda949c1c50818bb5aa13b39.m3u8> |
 | 930 | [BD]outdoor channel hd | epg.pw | <https://epg.pw/stream/afd282557048fa69a70e3b522fd97a51fd5d8eacc6709a5a402b05bec7839497.m3u8> |
-| 931 | [BD]palestine mubasher | epg.pw | <https://epg.pw/stream/ae0050a6a55b63206a729ba27b8f449a1307c94b32d761c28b939884b896eee1.m3u8> |
+| 931 | [VGA]palestine tv pbc | epg.pw | <https://epg.pw/stream/e38ae5f05b5dbd126d0d3eaa830cf9d18f8995751cde287e6023d3ab185c7e6e.m3u8> |
 | 932 | [BD]panarmenian tv | epg.pw | <https://epg.pw/stream/d5116033c928ae52ce40c9bf50d647ece0af51dc5059413ffe75c5891a6b30d9.m3u8> |
 | 933 | [BD]panorama fm (1080p) | epg.pw | <https://epg.pw/stream/172f20387ce8e3a7cb90b2d4e03749fc591934b8bfaef5635e882adc7f17cdd1.m3u8> |
 | 934 | [HD]paramount+ picks | epg.pw | <https://epg.pw/stream/347a43eb7e14795aca5e1f41ec3659ec13c564d7d63439a058308191270900aa.m3u8> |
@@ -1746,4 +1746,4 @@
 | 1740 | [HD]龙华日韩 | epg.pw | <https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv> |
 | 1741 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 24 2024 16:16:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 18:15:50 GMT+0000 (Coordinated Universal Time)**
