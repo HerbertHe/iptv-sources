@@ -14,7 +14,7 @@ https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="13879" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719112946432101_81.jpg" group-title="综合",[BD]山东卫视
 https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="13895" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/08/04/large/20230804221555254122_47.jpg" group-title="综合",[SD]山西卫视
-https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
+https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="13906" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="综合",[SD]厦门卫视[ipv6]
 https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b30fae0.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="13874" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="综合",[BD]广东卫视[ipv6]
@@ -23,8 +23,8 @@ https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2b
 https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="13898" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="综合",[SD]新疆卫视
 https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" tvg-id="13878" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719063458082916_52.jpg" group-title="综合",[BD]旅游卫视[ipv6]
-https://epg.pw/stream/2b5fa28ebe09f182553d1ac10a65433c641f5c09e4595f094694a03d0e378566.m3u8
+#EXTINF:-1 tvg-name="旅游卫视" tvg-id="13878" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719063458082916_52.jpg" group-title="综合",[BD]旅游卫视
+https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="13882" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="综合",[BD]东南卫视
 https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="13872" tvg-country="中国大陆省台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="综合",[BD]东方卫视

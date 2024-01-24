@@ -148,4 +148,4 @@
 | 142 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
 | 143 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Wed Jan 24 2024 20:13:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 22:11:34 GMT+0000 (Coordinated Universal Time)**
