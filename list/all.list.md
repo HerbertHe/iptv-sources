@@ -937,7 +937,7 @@
 | 931 | [VGA]pbs world | epg.pw | <https://epg.pw/stream/b7d48919be89accba0ec99a6d230f5f8e2ed9c7de7ac742cef0f3f34638bd2ad.m3u8> |
 | 932 | [HD]persian film | epg.pw | <https://epg.pw/stream/7afb502db7895916fba26bf6595af302423b6f694885f0d05da804ab414fb5d6.m3u8> |
 | 933 | [BD]pet club tv | epg.pw | <https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
-| 934 | [HD]playboy | epg.pw | <https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv> |
+| 934 | [HD]playboy | epg.pw | <https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv> |
 | 935 | [VGA]plex tv (360p) [not 24/7] | epg.pw | <https://epg.pw/stream/63d8336ff15c6cd0e3cda1d15b1f0d12bdd69f1ce78f286061fc9205bd920e88.m3u8> |
 | 936 | [BD]pmc | epg.pw | <https://epg.pw/stream/4d6f71836e748a80c8d7617120a2deed3d6f622c921a5735a0fd20216d470664.m3u8> |
 | 937 | [HD]polsat | epg.pw | <https://epg.pw/stream/1828a6ec05f028453a448df9c6cec4b31d1543263d39cb89bb20fafd5bc7bb64.m3u8> |
@@ -1192,7 +1192,7 @@
 | 1186 | [HD]tvbe | epg.pw | <https://epg.pw/stream/28b6b766268de1557e4b4cbb46a3d0b763c4d008935d9e466da5754d74e7c72a.ctv> |
 | 1187 | [BD]tvbs新闻 | epg.pw | <https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8> |
 | 1188 | [BD]tvbs新闻台 | epg.pw | <https://epg.pw/stream/ef62e76a9b9ebfa3c8e6aeaaf5b71ee1299d4e9c7d029ec3f55532208f5f1e8b.m3u8> |
-| 1189 | [BD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
+| 1189 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
 | 1190 | [HD]tvb无线新闻台 | epg.pw | <https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv> |
 | 1191 | [BD]tvc | epg.pw | <https://epg.pw/stream/5d74c8a3ca675a4002a40df5a3a1db9101496c35ce61ac2c702a3ea65e97add6.m3u8> |
 | 1192 | [HD]tvcg 3 | epg.pw | <https://epg.pw/stream/fe3b10cac90f84aeddc6eb15e06b9923a348719028a2a9d53adc5bcdfa439f32.m3u8> |
@@ -1741,4 +1741,4 @@
 | 1735 | [HD]龙华日韩 | epg.pw | <https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv> |
 | 1736 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 24 2024 02:28:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 04:15:41 GMT+0000 (Coordinated Universal Time)**

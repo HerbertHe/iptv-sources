@@ -1866,7 +1866,7 @@ https://epg.pw/stream/7afb502db7895916fba26bf6595af302423b6f694885f0d05da804ab41
 #EXTINF:-1 tvg-name="pet club tv" tvg-id="11079" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="Other",[BD]pet club tv
 https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
 #EXTINF:-1 tvg-name="playboy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506235214232396_42.jpg" group-title="Other",[HD]playboy
-https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv
+https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv
 #EXTINF:-1 tvg-name="plex tv (360p) [not 24/7]" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174713470939_64.png" group-title="Sport",[VGA]plex tv (360p) [not 24/7]
 https://epg.pw/stream/63d8336ff15c6cd0e3cda1d15b1f0d12bdd69f1ce78f286061fc9205bd920e88.m3u8
 #EXTINF:-1 tvg-name="pmc" tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202064145980253_76.jpg" group-title="Entertainment",[BD]pmc
@@ -2375,7 +2375,7 @@ https://epg.pw/stream/28b6b766268de1557e4b4cbb46a3d0b763c4d008935d9e466da5754d74
 https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8
 #EXTINF:-1 tvg-name="tvbs新闻台" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/1fc63137dcddcc7ea26bd031d4b17c90.jpg" group-title="News",[BD]tvbs新闻台
 https://epg.pw/stream/ef62e76a9b9ebfa3c8e6aeaaf5b71ee1299d4e9c7d029ec3f55532208f5f1e8b.m3u8
-#EXTINF:-1 tvg-name="tvb娱乐新闻" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/05/19/large/20160519231541824685_68.jpg" group-title="Entertainment",[BD]tvb娱乐新闻
+#EXTINF:-1 tvg-name="tvb娱乐新闻" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/05/19/large/20160519231541824685_68.jpg" group-title="Entertainment",[HD]tvb娱乐新闻
 https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 #EXTINF:-1 tvg-name="tvb无线新闻台" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg" group-title="News",[HD]tvb无线新闻台
 https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv
