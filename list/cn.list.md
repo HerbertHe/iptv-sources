@@ -11,7 +11,7 @@
 | 5 | [BD]cctv12 | epg.pw | <https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8> |
 | 6 | [SD]cctv13 | epg.pw | <https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8> |
 | 7 | [BD]cctv14 | epg.pw | <https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8> |
-| 8 | [BD]cctv-15[ipv6] | epg.pw | <https://epg.pw/stream/037c66158088f065939b1687b2a0cde6f83c5353ad6db4a0f6d08d3ecf63bbe2.m3u8> |
+| 8 | [BD]cctv-15[ipv6] | epg.pw | <https://epg.pw/stream/0b6b26107538e8ac146fe6b9b5e46996f97a111448e1202a3b67bc7d5eb69eb5.m3u8> |
 | 9 | [BD]cctv16[ipv6] | epg.pw | <https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8> |
 | 10 | [BD]cctv17[ipv6] | epg.pw | <https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8> |
 | 11 | [BD]cctv2 | epg.pw | <https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8> |
@@ -167,4 +167,4 @@
 | 161 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 162 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Wed Jan 24 2024 10:13:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 12:23:41 GMT+0000 (Coordinated Universal Time)**
