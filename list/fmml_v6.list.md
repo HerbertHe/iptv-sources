@@ -1,4 +1,4 @@
-# List for **fanmingming/live v6**(Rollback)
+# List for **~~fanmingming/live v6~~(Backup Only)**(Rollback)
 
 > M3U: [fmml_v6.m3u](/fmml_v6.m3u), TXT: [fmml_v6.txt](/txt/fmml_v6.txt)
 
@@ -122,4 +122,4 @@
 | 116 | 欢笑剧场4K | 中国移动陕西 | <http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8> |
 | 117 | 纯享超清 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8> |
 
-Updated at **Thu Jan 25 2024 16:16:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 25 2024 17:18:18 GMT+0000 (Coordinated Universal Time)**
