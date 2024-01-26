@@ -5,7 +5,7 @@
 [BD]newtv家庭剧场[ipv6],https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8
 [BD]newtv海外剧场,https://epg.pw/stream/b314ebcd13fbec4a42a56d423398e032e62e662a888437a30c5847b6162a409f.m3u8
 [BD]newtv精品大剧[ipv6],https://epg.pw/stream/77f3dfac96f46b8db4bab743ef691404ac96b99f59c539a6c573215f57588360.m3u8
-[BD]newtv惊悚悬疑[ipv6],https://epg.pw/stream/d35ae5ceb09ba7baf2ee8b37b7ab0b7e9e29b6e9946d0b295aa1bc21d6950791.m3u8
+[BD]newtv惊悚悬疑,https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8
 [BD]newtv超级电影[ipv6],https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8
 [SD]动作影院,https://epg.pw/stream/1ac9a20803979d8fe7176fa22632bce3c14878d05e18d6936a81df6c14950d86.ctv
 [BD]北京影视,https://epg.pw/stream/a3f0820b0c76b941e163605245d2ce394dfff46d5a3b1f16145fdff7a376ee95.ctv
@@ -29,10 +29,11 @@
 
 纪实,#genre#
 [BD]newtv精品纪录[ipv6],https://epg.pw/stream/e257d9addea5a06a15a971f5c617c2fe1f35ddd1768e58d866359da4a3a93c81.m3u8
+[BD]上海纪实人文[ipv6],https://epg.pw/stream/a39d2f506a1d61aff55547242c58f67499e74fd9cc0b6560f2cefd3409d4df29.m3u8
 [BD]金鹰纪实 8m,https://epg.pw/stream/21f877b7d803ce8eb33e6f4fc96b15fadfe14a38d9b8383369f1909ed77974e2.ctv
 
 运动,#genre#
-[BD]newtv精品体育,https://epg.pw/stream/f59dbe75bd9770b9ee8e92a31bfd6eebc469fe0f5e6b50abe238619d0f1e154e.m3u8
+[BD]newtv精品体育[ipv6],https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8
 [BD]newtv超级体育,https://epg.pw/stream/7ac145fac6fc014139bdf406dd06f84eca22d725df09e6a388dc910bbd482f45.m3u8
 [BD]五星体育 8m,https://epg.pw/stream/9fcb9f33c2c7ec8c37d4315449590fdddb354cee2a09ed56037cbdc52815aa1b.ctv
 [BD]劲爆体育 8m,https://epg.pw/stream/bebc49c83b816db9c408396abdcd75bd31d9420f2a0b3077a6c097f9c2c52b93.ctv
@@ -131,7 +132,6 @@
 [BD]福建|福州新闻,https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8
 [BD]福建新闻,https://epg.pw/stream/22dda653d07fe8e4aa4a863462057d030635855d0bf0db1513fea2d336d061b6.ctv
 [BD]福建经济,https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.ctv
-[BD]第一财经[ipv6],https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8
 [HD]蓬安新闻综合,https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8
 [VGA]安徽|六安新闻综合,https://epg.pw/stream/d83c1bb801d30add76788ded84c711ad11e4f94b9a520f14638ef80301c2f384.m3u8
 [BD]西宁新闻综合,https://epg.pw/stream/f9570cb26b1c4c241147bad9dadcadb2a888f24fea2e3de58b43dd4ff20faa74.m3u8

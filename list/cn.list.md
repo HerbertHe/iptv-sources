@@ -152,17 +152,18 @@
 | 146 | [HD]运城新闻综合 | epg.pw | <https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8> |
 | 147 | [HD]运城科技教育 | epg.pw | <https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8> |
 | 148 | [HD]邢台综合频道 | epg.pw | <https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8> |
-| 149 | [BD]金色学堂 8m | epg.pw | <https://epg.pw/stream/e91b0bf6b9cab926dbab1375b76074042572b359e48793db02e598dd41381ece.ctv> |
-| 150 | [BD]金鹰 纪实 | epg.pw | <https://epg.pw/stream/1b9464a479eb8a5b326779796bb9f1d0a20f12ecbbf58168765589a147d6ae84.m3u8> |
-| 151 | [BD]镇江新闻 | zjtv-wshls.homecdn.com | <rtmp://zjtv-wshls.homecdn.com/live/2aa50> |
-| 152 | [BD]云南康旅 | epg.pw | <https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8> |
-| 153 | [BD]电竞天堂 8m | epg.pw | <https://epg.pw/stream/daa0fdadf20e75c5ecb693f2ee2f015c9a24c180de3fb5f88ff9d874bab9c113.ctv> |
-| 154 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
-| 155 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8> |
-| 156 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8> |
-| 157 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
-| 158 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/14635f6da7f307203fb5d584e7e7211345f8830ee5b55b49545904ad1efa2202.m3u8> |
-| 159 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
-| 160 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
+| 149 | [BD]重庆卫视 | epg.pw | <https://epg.pw/stream/599de2977e92afe3e379eabb814e3db0a45ce1594745de3287666d8c552462c2.m3u8> |
+| 150 | [BD]金色学堂 8m | epg.pw | <https://epg.pw/stream/e91b0bf6b9cab926dbab1375b76074042572b359e48793db02e598dd41381ece.ctv> |
+| 151 | [BD]金鹰 纪实 | epg.pw | <https://epg.pw/stream/1b9464a479eb8a5b326779796bb9f1d0a20f12ecbbf58168765589a147d6ae84.m3u8> |
+| 152 | [BD]镇江新闻 | zjtv-wshls.homecdn.com | <rtmp://zjtv-wshls.homecdn.com/live/2aa50> |
+| 153 | [BD]云南康旅 | epg.pw | <https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8> |
+| 154 | [BD]电竞天堂 8m | epg.pw | <https://epg.pw/stream/daa0fdadf20e75c5ecb693f2ee2f015c9a24c180de3fb5f88ff9d874bab9c113.ctv> |
+| 155 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
+| 156 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8> |
+| 157 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8> |
+| 158 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
+| 159 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/14635f6da7f307203fb5d584e7e7211345f8830ee5b55b49545904ad1efa2202.m3u8> |
+| 160 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
+| 161 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Thu Jan 25 2024 22:09:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 00:53:07 GMT+0000 (Coordinated Universal Time)**
