@@ -500,4 +500,4 @@
 | 494 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 495 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Fri Jan 26 2024 06:15:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 08:14:33 GMT+0000 (Coordinated Universal Time)**
