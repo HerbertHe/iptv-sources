@@ -61,4 +61,4 @@
 | 55 | CETV3中国教育电视台三套 | iptv.luas.edu.cn | <https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/513baa15e7-0-0-3df42f93dbd897d3fd3106d4cd65dd6d/index.m3u8> |
 | 56 | CETV4空中课堂频道 | iptv.luas.edu.cn | <https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/cd33c354b1-0-0-5c79bda9e9b57103660689557a667eee/index.m3u8> |
 
-Updated at **Fri Jan 26 2024 02:20:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 03:48:16 GMT+0000 (Coordinated Universal Time)**
