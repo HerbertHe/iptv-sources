@@ -111,7 +111,7 @@
 | 105 | [BD]深圳卫视 | epg.pw | <https://epg.pw/stream/63ad6d916aa277f8d6f971e7b6e88b644f13ef071a93e92f83adb23e2ef09da3.m3u8> |
 | 106 | [HD]深圳都市 | epg.pw | <https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8> |
 | 107 | [BD]清河新闻综合 | epg.pw | <https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
-| 108 | [BD]湖北卫视 | epg.pw | <https://epg.pw/stream/1f12afe3883ba345041bb1ed585f6a2ff6819a931884853d408a52dcb9c3ed2e.m3u8> |
+| 108 | [BD]湖北卫视 | epg.pw | <https://epg.pw/stream/eb8c58b65cce94ba3249fb01973897f11652adbea151b0cb80a6dc1c840460fe.m3u8> |
 | 109 | [BD]湖南卫视 | epg.pw | <https://epg.pw/stream/533bf469526c4dcc7b687b8da62111e8272f8c971365a63f2972f2a713054f3b.m3u8> |
 | 110 | [SD]湘潭公共 | epg.pw | <https://epg.pw/stream/9bd055734e63d2141014b7697d2d660a8314ede155d7623414b4d3258370bec1.m3u8> |
 | 111 | [HD]湘潭新闻综合 | epg.pw | <https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8> |
@@ -153,4 +153,4 @@
 | 147 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 148 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Sat Jan 27 2024 10:11:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 27 2024 12:18:09 GMT+0000 (Coordinated Universal Time)**
