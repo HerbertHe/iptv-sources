@@ -13,9 +13,9 @@
     "serve": "node ./dist/serve.js",
     "serve:dev": "nodemon ./dist/serve.js",
     "matrix": "node ./dist/matrix.js",
-    "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64 . --push",
-    "docker:build:dev": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 . --push",
-    "docker:build:local": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64 .",
+    "docker:build": "docker buildx build -t herberthe0229/iptv-sources:latest --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 . --push",
+    "docker:build:dev": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 . --push",
+    "docker:build:local": "docker buildx build -t herberthe0229/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 .",
     "push": "git push && yarn docker:build"
   },
   "devDependencies": {
