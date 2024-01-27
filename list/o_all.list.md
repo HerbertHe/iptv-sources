@@ -2847,7 +2847,7 @@
 | 2841 | Freebie TV (720p) [Not 24/7] | d1h1d6qoy9vnra.cloudfront.net | <https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8> |
 | 2842 | FREEДОМ | portal.ott.pink | <http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6> |
 | 2843 | Fresh (720p) | origin3.afxp.telemedia.co.za | <https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8> |
-| 2844 | Fresh News (720p) | IPv4 直链 | <http://167.99.65.12:1935/live/myStream/playlist.m3u8> |
+| 2844 | Fresh News (720p) | streaming.freshnewsasia.com:1935 | <http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8> |
 | 2845 | Fresno CMAC 1 Public Channel (720p) | reflect-vod-cmac.cablecast.tv | <https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8> |
 | 2846 | Fresno CMAC 2 Education Channel (720p) | reflect-vod-cmac.cablecast.tv | <https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8> |
 | 2847 | Fresno CMAC 3 Government Channel (720p) | reflect-vod-cmac.cablecast.tv | <https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8> |
@@ -4618,7 +4618,7 @@
 | 4612 | Muzzik TIKTAK (720p) | muzzik-live.morescreens.com | <https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8> |
 | 4613 | Muzzik ZZ TV (720p) | muzzik-live.morescreens.com | <https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8> |
 | 4614 | MuzzOne (1080p) | muzzone-stream.daitsuna.net | <https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8> |
-| 4615 | MV Lao TV (720p) | edge6a.v2h-cdn.com | <https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8> |
+| 4615 | MV Lao TV | n-edge-1-th.v2h-cdn.com | <https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8> |
 | 4616 | MVM Noticias | dish.akamaized.net | <https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8> |
 | 4617 | MWD (480p) | IPv4 直链 | <http://183.89.246.119:8881/play/a07z/index.m3u8> |
 | 4618 | MY (720p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCRzAqsmluZYk-r59pQYSa3Q.m3u8> |
@@ -9972,4 +9972,4 @@
 | 9966 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9967 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Jan 26 2024 22:10:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 27 2024 00:52:02 GMT+0000 (Coordinated Universal Time)**
