@@ -17,8 +17,7 @@ CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888889
 CCTV-17 农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 卫视台,#genre#
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
+北京卫视,	@@ -41,72 +37,68 @@ http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
