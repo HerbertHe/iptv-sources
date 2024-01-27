@@ -47,7 +47,7 @@
 | 41 | [VGA]东北戏曲频道 | epg.pw | <https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8> |
 | 42 | [BD]东南 卫视 | epg.pw | <https://epg.pw/stream/dc78099da14e1f4754a5b065a9bd7385a545f0fbe7bafbab1ae2ef56e8c1594f.m3u8> |
 | 43 | [SD]中国 天气 | epg.pw | <https://epg.pw/stream/540ac3f9354818e3b5801b23742a0dea6b0d6a7183f9b015610351cf302979b4.m3u8> |
-| 44 | [HD]中央新影_老故事 | epg.pw | <https://epg.pw/stream/07e9d46a782709188e771867ef0b046c460d75f4b581c149f5b05c0152b3a148.m3u8> |
+| 44 | [SD]中央新影_老故事 | epg.pw | <https://epg.pw/stream/07e9d46a782709188e771867ef0b046c460d75f4b581c149f5b05c0152b3a148.m3u8> |
 | 45 | [SD]云南丘北新闻综合 | epg.pw | <https://epg.pw/stream/e41280c9ed59d4ce20daf5dde13807df95f14cb7e20e6483f5a21dd86fbcb297.m3u8> |
 | 46 | [HD]云南云南娱乐 | epg.pw | <https://epg.pw/stream/edd147d04512757d65ae95b40a9472421f524334ecf6ad65a699e57f00b5eb99.m3u8> |
 | 47 | [HD]云南怒江新闻综合 | epg.pw | <https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8> |
@@ -154,4 +154,4 @@
 | 148 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 149 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Sat Jan 27 2024 02:15:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 27 2024 04:12:53 GMT+0000 (Coordinated Universal Time)**
