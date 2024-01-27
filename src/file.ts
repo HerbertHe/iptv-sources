@@ -3,6 +3,7 @@ import path from "path"
 import { hrtime } from "process"
 
 import { with_github_raw_url_proxy } from "./sources"
+import { m3u2txt } from "./utils"
 import type { ISource } from "./sources"
 import type { TEPGSource } from "./epgs/utils"
 
@@ -49,38 +50,7 @@ export const writeSources = (
 
 export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
     const m3uArray = m3u.split("\n")
-    let groups = new Map<string, string>()
-    const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
-    const groupRegExp = /group-title="([^"]*)"/
-
-    for (let i = 1; i < m3uArray.length; i += 2) {
-        const reg = channelRegExp.exec(m3uArray[i]) as RegExpExecArray
-        const group = groupRegExp.exec(reg[1].trim())
-        let g = ""
-
-        if (!group) {
-            g = "Undefined"
-        } else {
-            g = group[1].trim()
-        }
-
-        if (groups.has(g)) {
-            groups.set(
-                g,
-                `${groups.get(g)}${reg[2].trim()},${m3uArray[i + 1]}\n`
-            )
-        } else {
-            groups.set(g, `${reg[2].trim()},${m3uArray[i + 1]}\n`)
-        }
-    }
-
-    let txt = ""
-
-    groups.forEach((v, k) => {
-        txt += `${k},#genre#\n${v}\n`
-    })
-
-    txt = txt.substring(0, txt.length - 2)
+    let txt = m3u2txt(m3uArray)
 
     if (!fs.existsSync(path.join(path.resolve(), "m3u", "txt"))) {
         fs.mkdirSync(path.join(path.resolve(), "m3u", "txt"))
@@ -101,7 +71,7 @@ export const mergeTxts = () => {
         .map((d) => fs.readFileSync(path.join(txts_p, d).toString()))
         .join("\n")
 
-    fs.writeFileSync(path.join(txts_p, "channels.txt"), txts)
+    fs.writeFileSync(path.join(txts_p, "merged.txt"), txts)
 }
 
 export const mergeSources = () => {

@@ -17,12 +17,14 @@ import { updateByRollback, updateEPGByRollback } from "./rollback"
 import { epgs_sources } from "./epgs"
 import { writeTvBoxJson } from "./tvbox"
 import { Collector } from "./utils"
+import { runCustomTask } from "./task/custom"
 
 cleanFiles()
 
 // 执行脚本
 Promise.allSettled(
     sources.map(async (sr) => {
+        console.log(`[TASK] Fetch ${sr.name}`)
         try {
             const [status, text, now] = await getContent(sr)
             if (/^[2]/.test(status.toString()) && !!text) {
@@ -96,6 +98,7 @@ Promise.allSettled(
     .then(async (result) => {
         const epgs = await Promise.allSettled(
             epgs_sources.map(async (epg_sr) => {
+                console.log(`[TASK] Fetch EPG ${epg_sr.name}`)
                 try {
                     const [status, text, now] = await getContent(epg_sr)
 
@@ -143,6 +146,7 @@ Promise.allSettled(
         }
     })
     .then((result) => {
+        console.log(`[TASK] Write important files`)
         const sources_res = result.sources.map((r) => (<any>r).value)
         const epgs_res = result.epgs.map((r) => (<any>r).value)
         mergeTxts()
@@ -150,6 +154,10 @@ Promise.allSettled(
         writeTvBoxJson("tvbox", sources, "Channels")
         updateChannelsJson(sources, sources_res, epgs_sources)
         updateReadme(sources, sources_res, epgs_sources, epgs_res)
+    })
+    .then(() => {
+        console.log(`[TASK] Make custom sources`)
+        runCustomTask()
     })
     .catch((err) => {
         console.error(err)
