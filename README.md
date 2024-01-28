@@ -19,6 +19,7 @@ Sources are from:
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 - [joevess/IPTV](https://github.com/joevess/IPTV)
+- [Meroser/IPTV](https://github.com/Meroser/IPTV)
 
 EPG Sources are from:
 
@@ -68,4 +69,4 @@ See <https://m3u.ibert.me> to get more.
 
 ## LICENSE
 
-GPL-3.0 &copy; Herbert He 2023-2024
+GPL-3.0 &copy; Herbert He

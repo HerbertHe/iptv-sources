@@ -75,6 +75,7 @@ Promise.allSettled(
                 }
             }
         } catch (e) {
+            console.log(e)
             const res = await updateByRollback(sr, sr.filter)
             if (!!res) {
                 const [m3u, count] = res
