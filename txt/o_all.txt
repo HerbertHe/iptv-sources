@@ -3830,6 +3830,7 @@ TVO San Vicente (720p) [Not 24/7],https://5e3483cba9114.streamlock.net/8014/8014
 TVOE TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
 TVP 1 (720p),https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 TVP 2 (1080p),https://strims.top/tv/tvp2.m3u8
+TVP Info (720p),https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
 TVPlus Suceava (576p),http://85.186.146.34:8080
 TVR (1080p) [Not 24/7],https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 TVR Sicilia HD (1080p) [Not 24/7],https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
@@ -7656,7 +7657,7 @@ TV Pop (720p),https://v4.tustreaming.cl/poptv/playlist.m3u8
 TV Precabura (720p) [Not 24/7],http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 TV Rio Grande (360p),https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 TV Viçosa (480p),http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Jade (翡翠台) (720p),https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVB Jade,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVCARiB (720p) [Not 24/7],https://tvc.mediacaribstream.com:5443/LiveApp/streams/678996728477322762133253.m3u8
 TVCARiB Latino (720p) [Not 24/7],https://tvc.mediacaribstream.com:5443/LiveApp/streams/503041699392698464410277.m3u8
 TVONE Nicaragua (720p) [Not 24/7],https://hdbox.chunklistv.com/live?stream=tvone
@@ -8152,7 +8153,7 @@ Action 24 (1080p),http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m
 Afghan Nobel Movies (720p),https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 Afriwood Blockbuster (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 Alfa Dramas (226p) [Not 24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
-AMC East (1080p),https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+AMC East,http://170.254.18.106/AMC/mono.m3u8
 American Classics (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 American Horrors (480p),http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 ATV Kinoman HD,http://stream02.vnet.am/Kinoman/mono.m3u8
@@ -8552,7 +8553,7 @@ Pluto TV Paranormal (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls
 Pluto TV Skills + Thrills (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Pluto TV Voyager Documentaries (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
 Real Stories,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
-Reelz,https://lnc-reelz.tubi.video/playlist.m3u8
+Reelz,https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 Reelz Channel (XUMO) (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 RL PRO TV (480p) [Not 24/7],https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
 RT Documentary English (1080p),https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
