@@ -1,4 +1,5 @@
 Religious,#genre#
+ABN China (720p),https://rtmp2.abnvideos.com/hls/abnchina.m3u8
 Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
@@ -309,12 +310,10 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 浙江公共 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-浙江国际 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江影视 (720p),https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 浙江教科影视 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江数码时代 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江留学 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 浙江钱江 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 海南卫视 (720p) [Not 24/7],http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 海南州藏语频道 (480p),http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
@@ -498,7 +497,6 @@ CCTV-16 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 Kids,#genre#
 Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 山东少儿 (406p),http://livealone302.iqilu.com/iqilu/sepd.m3u8
-浙江少儿 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 Animation;Kids,#genre#
 优漫卡通 (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8

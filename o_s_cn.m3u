@@ -585,10 +585,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn",浙江卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 tvg-id="",浙江国际 (1080p)
-https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn",浙江少儿 (1080p)
-https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="",浙江影视 (720p)
 https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 #EXTINF:-1 tvg-id="",浙江教科影视 (1080p) [Not 24/7]
@@ -597,8 +593,6 @@ https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="ZhejiangMinshengLeisure.cn",浙江民生休闲 (1080p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="",浙江留学 (1080p) [Not 24/7]
-https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 #EXTINF:-1 tvg-id="ZhejiangEconomicChannel.cn",浙江经济生活 (1080p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="",浙江钱江 (1080p)
