@@ -1,10 +1,21 @@
 import { get_channel_id } from "./id"
 
-export const Collector = () => {
+export const Collector = (
+    keyFilter?: (k: string) => boolean,
+    valueFilter?: (v: string) => boolean
+) => {
     let data = new Map<string, string[]>()
 
     return {
         collect: (k: string, v: string) => {
+            if (!!keyFilter && keyFilter(k)) {
+                return
+            }
+
+            if (!!valueFilter && valueFilter(v)) {
+                return
+            }
+
             if (data.has(k)) {
                 const vb = data.get(k)
                 if (!vb) {

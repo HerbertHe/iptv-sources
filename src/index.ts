@@ -36,7 +36,9 @@ Promise.allSettled(
                     } ms`
                 )
 
-                const sourcesCollector = Collector()
+                const sourcesCollector = Collector(undefined, (v) =>
+                    !/^([a-z]+)\:\/\//.test(v)
+                )
 
                 let [m3u, count] = sr.filter(
                     text as string,
