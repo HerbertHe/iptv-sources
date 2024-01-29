@@ -28,4 +28,6 @@ export const trimAny = (any: any) => {
     if (typeof any === "string") {
         return any.trim()
     }
+
+    return any
 }
