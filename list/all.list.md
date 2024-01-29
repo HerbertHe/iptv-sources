@@ -184,7 +184,7 @@
 | 178 | [HD]CRIMEINVESTIGATION | epg.pw | <https://epg.pw/stream/27be7b5cdc6dd9c19e164cfc74932ffbb2241671a105dbfde63b43f6d23cb841.ctv> |
 | 179 | [HD]DISCOVERY SCIENCE | epg.pw | <https://epg.pw/stream/1f434aef9df2c389e130fa3a8b1bef97f14548caa9df9a331c6fe0b02c151d1e.ctv> |
 | 180 | [SD]discovery science | epg.pw | <https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
-| 181 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/8511c3475577ebd81d88d71e8d6934248aa370132992d8d9643e4471856ff825.ctv> |
+| 181 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/f718b2f7dbe39946656c4f04d274bbfaacdb7f9b968cf1fde7c4a907f43cc91c.ctv> |
 | 182 | [HD]DISNEYJR | epg.pw | <https://epg.pw/stream/fec42bc18dbefe5013371cd21277a994f2f2630b59019326322882b080b53963.ctv> |
 | 183 | [HD]DISNEYJUNIOR | epg.pw | <https://epg.pw/stream/96a5b7531bd5ee6f46ca731dc7bb8b14a64055ecac33f2eba587f610907b3ff0.ctv> |
 | 184 | [HD]DMAX | epg.pw | <https://epg.pw/stream/a26ee6f4232ba8382ab4ffd3dfe50278e06d15af60af7a5370a452e96c752a8f.ctv> |
@@ -233,7 +233,7 @@
 | 227 | [SD]gulli | epg.pw | <https://epg.pw/stream/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.m3u8> |
 | 228 | [HD]HALLMARKMOVIES&MORE | epg.pw | <https://epg.pw/stream/dfe55730f7c14ff401a3ca958014dbe328562840ccdeb1f0cfcb10cb3e7b88f0.ctv> |
 | 229 | [BD]HBO 2 | epg.pw | <https://epg.pw/stream/d4c36db08c1c05462ae132973ffdb9ac08f68571f5400f5db750fe27a2c50cc4.ctv> |
-| 230 | [BD]HBO 2 HD USA | epg.pw | <https://epg.pw/stream/fb3dfdc8bd65c6f2a54b3661931065fac3bcfa27fc851c36452875a4d27f9483.ctv> |
+| 230 | [BD]HBO 2 HD USA | epg.pw | <https://epg.pw/stream/d695ba4233eb01f414307c6d064704e8a41cbba732c76bfa6a7b7cec4a8374db.ctv> |
 | 231 | [HD]HBO Comedy | epg.pw | <https://epg.pw/stream/9091d3fb79caf5337c2933baddd1ef7d3cb25d8aea81c7b95200c8fd7337c231.ctv> |
 | 232 | [BD]HBO East | epg.pw | <https://epg.pw/stream/9ec76358c029ec1392cbfe1f897e2ced7b936db1ae66d91fe4bc71f965e396b9.ctv> |
 | 233 | [HD]hbo family | epg.pw | <https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv> |
@@ -272,7 +272,7 @@
 | 266 | [HD]ช่อง lifetime | epg.pw | <https://epg.pw/stream/368d8371137bcd7d2b00399ec6c3b432df847cae546c9d249ff51427a94c4676.m3u8> |
 | 267 | [VGA]LIFETIME | epg.pw | <https://epg.pw/stream/339e06ce51081bd52d6639099142596f0fc084b4ea4f0a8c259d553f4060be47.ctv> |
 | 268 | [BD]mbc yeosu (여수 mbc) (1080p) [not 24/7] | epg.pw | <https://epg.pw/stream/794172db13663b24c619a56265a1a966ecba71c01c0c6dec089745ba4c2c7157.m3u8> |
-| 269 | [SD]mbs | epg.pw | <https://epg.pw/stream/460d715aea944f3f6a9281138dfec32ae644ce40cfbb11aa76a1eab9ef066433.m3u8> |
+| 269 | [SD]mbs | epg.pw | <https://epg.pw/stream/7e49f14aba122e7395bb8c1a3400142511d8d71fe2781861453f2b3af30ac3af.m3u8> |
 | 270 | [BD]mbs毎日放送 news | epg.pw | <https://epg.pw/stream/fd6b43aac2a12e717140cf0da89e868dac486be9729ab45db194b49a74a78578.m3u8> |
 | 271 | [BD]mcot9 | epg.pw | <https://epg.pw/stream/0b31059fdbbfdbb738b98503b79b20d6f83f89a01c3d89721445475cc87199ff.m3u8> |
 | 272 | [HD]mcot hd | epg.pw | <https://epg.pw/stream/d8ffdf51ec0b496e6654664d881bf1d4d5e8e2d49602e7ab09e68fa3043f58ca.m3u8> |
@@ -306,7 +306,7 @@
 | 300 | [BD]nhk bsp4k | epg.pw | <https://epg.pw/stream/2bb9f4df9747121711e705fd78f2ceebf359f0d42ca01284fb760f44541fd0d7.m3u8> |
 | 301 | [SD]nhk e | epg.pw | <https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8> |
 | 302 | [BD][日本]nhkworldjapan(720p) | epg.pw | <https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce703ef75.m3u8> |
-| 303 | [HD]NICK JR | epg.pw | <https://epg.pw/stream/71272d9c327108f9e0d4b618d210908230331c80f4e9c2e6b11243fd4cbcee81.ctv> |
+| 303 | [HD]NICK JR | epg.pw | <https://epg.pw/stream/d2e9394983570ae73266fe0911d8d561706467d6b17b8ab8f37cc7b395678a14.ctv> |
 | 304 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/1580ed1e6af542775fce7b0f87b98ecf39865053dce378c7f6081e48d2e54773.ctv> |
 | 305 | [VGA]now新闻台 | epg.pw | <https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv> |
 | 306 | [SD]NTV7 | epg.pw | <https://epg.pw/stream/66c5158f13068ed80fda9a87b3e7f1fce8488c70d18cd930a006af2eb3dd3376.ctv> |
@@ -1198,7 +1198,7 @@
 | 1192 | [HD]tvp 1 | epg.pw | <https://epg.pw/stream/7f2c6d59c19dcd770cd31cbf25793b29095b6a0e928f1dff30b4c626bb0481a6.m3u8> |
 | 1193 | [HD]tvr (bretagne) (720p) | epg.pw | <https://epg.pw/stream/8a0ffd23d1206f1267d1bcbd0535abe3c7f07cef55c1bcae7b541b9168a57fd8.m3u8> |
 | 1194 | [HD]tvri dki jakarta (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/2c3bdeac1d48a8071915fc2017b22ab5b5593da869813fb9daefd69a12ac2d2e.m3u8> |
-| 1195 | [HD]tvri nasional | epg.pw | <https://epg.pw/stream/5d4c00d44d2f58c8f9b7930fe9346e7d28b172b4fe21071f502c09b369170328.m3u8> |
+| 1195 | [HD]tvri nasional | epg.pw | <https://epg.pw/stream/1d6d74986bf350b5e17175a3a37c63b18f1071b7d49ee3d28059d14d798511ab.m3u8> |
 | 1196 | [HD]tvri sport | epg.pw | <https://epg.pw/stream/015fea61c50cea4816497b62134bd34fe1eae8a047aea6085e19aa59bf88f11f.m3u8> |
 | 1197 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
 | 1198 | [BD]télé maroc (1080p) | epg.pw | <https://epg.pw/stream/d689b8e1abf85d4be4b26d05b56e2ea788b0be4555d0e369766b1195828ee729.m3u8> |
@@ -1683,4 +1683,4 @@
 | 1677 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1678 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Mon Jan 29 2024 16:14:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 29 2024 18:13:54 GMT+0000 (Coordinated Universal Time)**
