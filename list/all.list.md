@@ -1695,4 +1695,4 @@
 | 1689 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1690 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Mon Jan 29 2024 04:56:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 29 2024 05:09:21 GMT+0000 (Coordinated Universal Time)**
