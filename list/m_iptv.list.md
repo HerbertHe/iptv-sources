@@ -106,7 +106,7 @@
 | 100 | 凤凰中文 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8> |
 | 101 | 凤凰资讯 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8> |
 | 102 | 凤凰香港 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8> |
-| 103 | 翡翠台 | IPv4 直链 | <http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09> |
+| 103 | 翡翠台 | edge6a.v2h-cdn.com | <https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8> |
 | 104 | 明珠台 | IPv4 直链 | <http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad> |
 | 105 | J2 | IPv4 直链 | <http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032> |
 | 106 | NHK World | nhkwlive-ojp.akamaized.net | <https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8> |
@@ -196,4 +196,4 @@
 | 190 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 191 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Mon Jan 29 2024 00:53:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 29 2024 02:17:39 GMT+0000 (Coordinated Universal Time)**
