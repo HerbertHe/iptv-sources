@@ -5,7 +5,7 @@ import { config_path } from "../const"
 import type { IEnv } from "./define"
 import { trimAny } from "../../utils"
 
-export const loadConfigEnv = () => {
+export const loadConfigEnv = (): IEnv | undefined => {
     if (!fs.existsSync(config_path)) {
         return void 0
     }
