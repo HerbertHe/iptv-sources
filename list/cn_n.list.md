@@ -14,4 +14,4 @@
 | 8 | [BD]中国交通 | epg.pw | <https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv> |
 | 9 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 
-Updated at **Tue Jan 30 2024 12:20:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 30 2024 14:10:51 GMT+0000 (Coordinated Universal Time)**
