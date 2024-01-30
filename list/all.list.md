@@ -146,7 +146,7 @@
 | 140 | [SD]cctv-7国防军事 | epg.pw | <https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8> |
 | 141 | [VGA]cctv娱乐 | epg.pw | <https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv> |
 | 142 | [BD]cctv风云足球[ipv6] | epg.pw | <https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8> |
-| 143 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8> |
+| 143 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8> |
 | 144 | [BD]CGNTV Japan | epg.pw | <https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcddf2a10a9d18a777b48.m3u8> |
 | 145 | [BD]cgtn | epg.pw | <https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8> |
 | 146 | [HD]TVB经典(CH305) | epg.pw | <https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv> |
@@ -1680,4 +1680,4 @@
 | 1674 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1675 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Jan 30 2024 08:14:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 30 2024 10:13:27 GMT+0000 (Coordinated Universal Time)**
