@@ -73,7 +73,7 @@
 | 67 | [SD]ASTROAOD351 | epg.pw | <https://epg.pw/stream/54883ab279612233df28e4bd8dd421e21ad64c45902e7392447e3f0b83e12a8a.ctv> |
 | 68 | [SD]astroaod352 | epg.pw | <https://epg.pw/stream/8b1ad2d2ea38f82991041f3a99ba57f5b79eaf59461fd9cf803dc010bb21ee3c.ctv> |
 | 69 | [SD]ASTRO AOD 353 | epg.pw | <https://epg.pw/stream/503faadd87388a1f2cf158ca3efc8e48ced1f38952b296ab111d485d793c390e.ctv> |
-| 70 | [SD]ASTRO AOD 354 | epg.pw | <https://epg.pw/stream/42f6e0639620df2ef550ee61d3c2a6afb5d2de20db57d5ef93c7ab29acdceb82.ctv> |
+| 70 | [SD]ASTRO AOD 354 | epg.pw | <https://epg.pw/stream/e19eb990e850eed959081ce48514398569a395fe4fcadfef45657920ed4ff595.ctv> |
 | 71 | [HD]ASRTO PREMIER | epg.pw | <https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv> |
 | 72 | [HD]ASTRO QJ | epg.pw | <https://epg.pw/stream/1ce757224bb912521ba95c33ce7a27a31136471035ff99264159d14d0eb5a0de.ctv> |
 | 73 | [VGA]Astro Ria | epg.pw | <https://epg.pw/stream/7d015cdb6c785c972333bae9e2029f64448f3363fb86d157f537a799add840e9.ctv> |
@@ -191,7 +191,7 @@
 | 185 | [SD]da vinci | epg.pw | <https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8> |
 | 186 | [BD]dijlah tv hd | epg.pw | <https://epg.pw/stream/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv> |
 | 187 | [HD]DISCOVERYHD | epg.pw | <https://epg.pw/stream/0acd33b455b5b6fe6af54ed3378ac8db0885ddcec2db4749c6569ab53b1aee10.ctv> |
-| 188 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/d19c8240dececeb02489f9a40be187bf34fb7bdf006cd4e43d74ee418bbc879e.ctv> |
+| 188 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/160ddfe8e08102125f81979a4d88257a3d98413aa86fb9018dfa5cf6f87176ba.ctv> |
 | 189 | [SD]DISNEY XD | epg.pw | <https://epg.pw/stream/67f27140324657e179b0be697388d4432bf62aa9b611b84426d210d39d8dcaaa.ctv> |
 | 190 | [HD]dreamworks | epg.pw | <https://epg.pw/stream/9f4c5ca9ec157beada3427c5989175419b1f9b810823128a83b1e32261627215.m3u8> |
 | 191 | [HD]zaire tv | epg.pw | <https://epg.pw/stream/c48f442a20c309da5176275e2b8eb8f039d45c6d33ede81cf3636f7487da7d7c.m3u8> |
@@ -795,7 +795,7 @@
 | 789 | [HD]kbs life | epg.pw | <https://epg.pw/stream/6e97c10ae4ff04a9f684fd403f6a1e42d54627e726c947c5ded5f8e63cea773a.ctv> |
 | 790 | [HD]kbs story | epg.pw | <https://epg.pw/stream/e44c3ff19c4b01f605e0e7e19169c62afa77e25b54ff4a54ab8517af527b5566.ctv> |
 | 791 | [HD]ke tv | epg.pw | <https://epg.pw/stream/c78d8d84cde5b4d86e7ba627bfbaf36bc4c62d4bb127ceb6601499a057af3ad6.m3u8> |
-| 792 | [VGA]KidsTV | epg.pw | <https://epg.pw/stream/29d2d6b1642e27646f0d2ba961551c37d16376f2b3a0cde6347e437ace33bf0d.ctv> |
+| 792 | [VGA]KidsTV | epg.pw | <https://epg.pw/stream/8c8f72ea53445a283707034e90a1bcccd6da180aa9b8a8de1386eef01748fde2.ctv> |
 | 793 | [SD]kika | epg.pw | <https://epg.pw/stream/636dc914cff4215d29fb773f92ae9b071a5875a0ffe32a9dea40888638c9d43e.m3u8> |
 | 794 | [HD]king tv | epg.pw | <https://epg.pw/stream/d36afeb612cd32405b96f12bd4da7e69416d6d8d6a31dd4f948b1a65ebdc080c.m3u8> |
 | 795 | [VGA]kitv (news) | epg.pw | <https://epg.pw/stream/7bddd4f94e4a22cfcca52e35aeac726c9cf61147e9f76e2467228d3b573da2cc.m3u8> |
@@ -1674,4 +1674,4 @@
 | 1668 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1669 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Thu Feb 01 2024 10:13:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 12:20:51 GMT+0000 (Coordinated Universal Time)**

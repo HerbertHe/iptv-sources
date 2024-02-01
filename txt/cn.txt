@@ -6,7 +6,7 @@
 
 综合,#genre#
 [BD]cctv1,https://epg.pw/stream/52ab1874369538678151149a6e4a8f78bc0f6c159c17f63a39512a8fdd571c1b.ctv
-[BD]cctv12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
+[VGA]cctv12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 [BD]cctv4k超高清[ipv6],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 [BD]cctv-4 中文国际 美洲,https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv
 [BD]cctv文化精品[ipv6],https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8
@@ -52,7 +52,7 @@
 [BD]福建|福州生活,https://epg.pw/stream/064305a3cdc68ddc61ba34596d4719f2648a93796989bf659a6961c393ceb1b3.m3u8
 [HD]绍兴公共频道,https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
 [BD]贵州 卫视,https://epg.pw/stream/42a9e6be5b1712cc51d3779440c4ac2eb57251677a59d670b4f17fb80cb0f972.m3u8
-[SD]农林卫视,https://epg.pw/stream/4077b634357ba9d803a73e3e8ad32f596c99099b3e93ccc2707938d8b5980c5f.m3u8
+[SD]农林卫视[ipv6],https://epg.pw/stream/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8
 [HD]运城公共频道,https://epg.pw/stream/91e30e2226ce405f915821a21c4cdf5cf25e77940f285ba95a985478ba3fdbb9.m3u8
 [HD]邢台综合频道,https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
 [BD]云南康旅,https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8
@@ -108,7 +108,7 @@
 [BD]cctv4[ipv6],https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8
 [BD]cgtn,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 [SD]cetv-4,https://epg.pw/stream/4e84c29e5eca21338465b534b414d6eaf48b61ecd0a43d2a0f53968d8e9096ff.m3u8
-[VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
+[HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [SD]中国 天气,https://epg.pw/stream/540ac3f9354818e3b5801b23742a0dea6b0d6a7183f9b015610351cf302979b4.m3u8
 [SD]云南|丘北新闻综合,https://epg.pw/stream/e41280c9ed59d4ce20daf5dde13807df95f14cb7e20e6483f5a21dd86fbcb297.m3u8
@@ -143,7 +143,7 @@ Music,#genre#
 [BD]cctv15[ipv6],https://epg.pw/stream/d239fb84263e881c367c092224d5a5bbc9bc8f6096875c7506df050d8106d32c.m3u8
 
 运动,#genre#
-[BD]cctv16,https://epg.pw/stream/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8
+[BD]cctv16,https://epg.pw/stream/ef0fd5d8e6b94b53627f9bb92127c5505ea28fb9b0a824956c635db17942c10d.m3u8
 [BD]cctv5[ipv6],https://epg.pw/stream/1ffe16d61d03c294d0c96913c0e50a55ddd1d62dc7bf0875851dfcc54f19ff51.m3u8
 [BD]cctv5+[ipv6],https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8
 [BD]newtv武搏世界[ipv6],https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8
