@@ -454,5 +454,6 @@
 | 448 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 449 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 450 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 451 | CCTV-14 少儿 (1080p) | ctrl.laotv.la | <https://ctrl.laotv.la/live/CCTV14/index.m3u8> |
 
-Updated at **Thu Feb 01 2024 20:11:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 22:11:38 GMT+0000 (Coordinated Universal Time)**
