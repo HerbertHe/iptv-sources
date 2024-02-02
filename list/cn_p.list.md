@@ -6,7 +6,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [SD]内蒙古卫视 | epg.pw | <https://epg.pw/stream/198b7f254d7c0007c10522bdd003db9a5a4940ded56f9f3d997f876f1fb069f8.ctv> |
 | 2 | [BD]北京卫视 | epg.pw | <https://epg.pw/stream/cda7c4b88dacb6176794416673b481491e36101e865efc5c29b972fcded01773.m3u8> |
-| 3 | [BD]吉林卫视[ipv6] | epg.pw | <https://epg.pw/stream/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.m3u8> |
+| 3 | [BD]吉林卫视[ipv6] | epg.pw | <https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
 | 4 | [VGA]四川卫视 | epg.pw | <https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.m3u8> |
 | 5 | [BD]天津卫视 | epg.pw | <https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.m3u8> |
 | 6 | [BD]安徽卫视 | epg.pw | <https://epg.pw/stream/3fdaf3a98c295cd079cac64bfbe2a0d85c46a1952da530d3b17c9133ee8af610.ctv> |
@@ -21,11 +21,11 @@
 | 15 | [BD]东方卫视 | epg.pw | <https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv> |
 | 16 | [BD]江苏卫视[ipv6] | epg.pw | <https://epg.pw/stream/6fb99a1b0136554df4ad636f99aa99109be07b603a17713d2cc7263995ef2311.m3u8> |
 | 17 | [BD]江西卫视[ipv6] | epg.pw | <https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8> |
-| 18 | [BD]河北卫视 | epg.pw | <https://epg.pw/stream/49b81228eb02073791ce98fbba2fbd077663e55bc903daf2faa35d18705df6f4.ctv> |
+| 18 | [BD]河北卫视[ipv6] | epg.pw | <https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8> |
 | 19 | [SD]河南卫视 | epg.pw | <https://epg.pw/stream/7331faf4032e9de329e2c041cd9fa6f95fad0683ef1937a7bbbb76322856b9eb.ctv> |
 | 20 | [BD]浙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8> |
 | 21 | [SD]海南卫视 | epg.pw | <https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8> |
-| 22 | [BD]深圳卫视 | epg.pw | <https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8> |
+| 22 | [VGA]深圳卫视 | epg.pw | <https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8> |
 | 23 | [SD]湖北卫视 | epg.pw | <https://epg.pw/stream/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8> |
 | 24 | [BD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/e3f708008227adae9dd6b75d1d058733571482c88266f59a1b7a2fff8ad0807c.m3u8> |
 | 25 | [HD]烟台新闻综合 | epg.pw | <https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8> |
@@ -39,4 +39,4 @@
 | 33 | [BD]青海卫视[ipv6] | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8> |
 | 34 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv> |
 
-Updated at **Fri Feb 02 2024 18:15:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 02 2024 20:11:40 GMT+0000 (Coordinated Universal Time)**
