@@ -1330,7 +1330,7 @@
 | 1324 | [SD]朝日放送テレビ | epg.pw | <https://epg.pw/stream/2607822ba1f194115ab1e339915fc0c518f379d59a64c06a24a74833ef2b81f6.m3u8> |
 | 1325 | [BD]テレビ东京 | epg.pw | <https://epg.pw/stream/7491a0a7defdc1cef4e2b14499e00beb41bce9dd23da3c65416072c5f110db67.ctv> |
 | 1326 | [SD]ファミリー剧场 | epg.pw | <https://epg.pw/stream/6fc286d9de1e0d436af1e5c96b17d5eaf566317cb948fe42d07a782525460a65.m3u8> |
-| 1327 | [SD]フジテレビ | epg.pw | <https://epg.pw/stream/59a095b69e390021e8dd5d62524e265e35fa7ef67a972eb7d0736410d71b675a.m3u8> |
+| 1327 | [SD]フジテレビ | epg.pw | <https://epg.pw/stream/7832283d293eab4dc1ada1291da9499fc0373628c485e58907984343f4831ac9.m3u8> |
 | 1328 | [SD]フジテレビnext | epg.pw | <https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8> |
 | 1329 | [BD]七彩戏剧 | epg.pw | <https://epg.pw/stream/fa3b68a5bca145df9ae1e562d5e95f5dc4983df308bab1a06388c63baa628972.m3u8> |
 | 1330 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
@@ -1649,4 +1649,4 @@
 | 1643 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1644 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 02 2024 04:14:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 02 2024 06:14:47 GMT+0000 (Coordinated Universal Time)**
