@@ -692,7 +692,6 @@ Canal Alpha Neuchatel (1080p) [Not 24/7],https://edge.vedge.infomaniak.com/livec
 Canal Alta Frontera (288p),https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/playlist.m3u8
 Canal Antigua (1080p) [Not 24/7],https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 Canal Blu (720p),https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-Canal Catorce (720p),https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 Canal CNR (480p) [Not 24/7],https://ythls.armelin.one/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8
 Canal Coop (576p),https://panel.dattalive.com/8138/8138/playlist.m3u8
 Canal D Romania (480p),https://stream1.kanald.ro/iphone/knd-live.m3u8
@@ -1924,7 +1923,7 @@ Lóverseny közvetítés (420p),http://87.229.103.60:1935/liverelay/loverseny2.s
 LoveWorld Persia (480p),https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
 LoveWorld Sat (1080p),https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 LRT Klasika (1080p),https://radijas.lrt.lt/klasika/master.m3u8
-LRT Lituanica (720p),https://lituanica.lrt.lt/lituanica/master.m3u8
+LRT Lituanica,https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 LRT Opus (1080p),https://radijas.lrt.lt/opus/master.m3u8
 LRT Radijas (1080p),https://radijas.lrt.lt/radijas/master.m3u8
 LTO Televisión (720p) [Not 24/7],https://ltocatamarca.github.io/ltotv.m3u8
@@ -2907,7 +2906,7 @@ RTM TV 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 RTN (Neuquén) (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/media.m3u8
 RTNC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
 RTP (404p),https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-RTQ Querétaro (360p) [Not 24/7],http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+RTQ Queretaro,https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 RTRS Plus (576p) [Not 24/7],https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 RTRS TV (576p) [Not 24/7],https://uzivo.rtrs.tv/tv/live/index.m3u8
 RTS 1 (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/rts1.m3u8
@@ -4171,6 +4170,7 @@ WRA Canal 10 (1080p),https://streamtv.intervenhosting.net:3582/live/wadydelrosar
 Wrestling Spotlight,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FZYO537M5ZKAF4MJYX4J/hls3/now_-1m_15s/m.m3u8
 WRM TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxIKRWSaLH40f6BLaHakg2w.m3u8
 WSBS-DT1 (Mega TV) (1080p),https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+WTSP CBS 10 (Tampa FL) (1080p),https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 WTVD ABC 11 News (Raleigh-Durham NC) (720p),https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 WTVQ ABC 36 News (Lexington KY) (720p),https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
 WW TV (720p),https://live2.telvi.de/hls/wwtv_hd720.m3u8
@@ -8700,6 +8700,7 @@ AMC East,http://170.254.18.106/AMC/mono.m3u8
 American Classics (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 American Horrors (480p),http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 ATV Kinoman HD,http://stream02.vnet.am/Kinoman/mono.m3u8
+AXN HD (Vietnamese Subtitles) (1080p),http://fpt.vthanhtivi.pw/axn/index.m3u8
 B4U Kadak (576p) [Not 24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 B4U Movies India (576p),http://183.89.246.119:8881/play/a08n/index.m3u8
 B4U Plus (576p),http://183.89.246.119:8881/play/a08l/index.m3u8
@@ -9982,6 +9983,15 @@ Bridge Classic (1080p),https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassi
 Cadena Cover's Clásicos (360p),https://bamus-spa-roku.amagi.tv/playlist.m3u8
 Persiana Nostalgia (720p),http://51.210.199.20/hls/stream.m3u8
 
+Culture;Education,#genre#
+Canal Catorce,https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+Liceum TV (576p),http://193.225.32.62:8890/live.m3u8
+MCN6 Arts Channel (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+NTV (720p),https://marine2.miplay.cl/ntv/playlist.m3u8
+TVBE Joinville (720p),https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+UChile TV (720p),https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+UNISUL TV (720p),https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
 Culture;Music,#genre#
 Canal Cultura Venezuela (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 Eurolatina TV (720p) [Not 24/7],https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
@@ -10073,14 +10083,6 @@ PBS Kids Pacific (1080p),https://livestream.pbskids.org/out/v1/c707b9310f2848de8
 Animation;Kids;Religious,#genre#
 Kuriakos Kids (1080p),https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 Three Angels Broadcasting Network Kids Network (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-
-Culture;Education,#genre#
-Liceum TV (576p),http://193.225.32.62:8890/live.m3u8
-MCN6 Arts Channel (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-NTV (720p),https://marine2.miplay.cl/ntv/playlist.m3u8
-TVBE Joinville (720p),https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-UChile TV (720p),https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-UNISUL TV (720p),https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 
 Music;News;Religious,#genre#
 Lingkar TV,https://lingkartv.my.id/hls/lingkartv.m3u8
