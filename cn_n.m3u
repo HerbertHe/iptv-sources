@@ -5,8 +5,12 @@ https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80
 https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-id="" tvg-country="中国大陆中央台" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002852256993_13.jpg" group-title="综合",[SD]cctv-4中文国际
 https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="" tvg-country="中国大陆中央台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510170002648380_81.jpg" group-title="其它",[BD]cctv女性时尚[ipv6]
+https://epg.pw/stream/fe8b30a1c7e5156f844801fd71e5df52d089e315fb1ee961c73f7cbd8e6d57bf.m3u8
 #EXTINF:-1 tvg-name="CCTV娱乐" tvg-id="" tvg-country="中国大陆中央台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226151850262470_33.png" group-title="其它",[VGA]cctv娱乐
 https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="" tvg-country="中国大陆中央台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="电影",[BD]cctv怀旧剧场[ipv6]
+https://epg.pw/stream/a5f52c00f4c77e44c037e7c275b3302f808389e7f7755d19f0a4213abafcba4a.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="" tvg-country="中国大陆中央台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="运动",[BD]cctv风云足球[ipv6]
 https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-id="" tvg-country="中国大陆中央台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="综艺",[BD]cctv风云音乐[ipv6]
