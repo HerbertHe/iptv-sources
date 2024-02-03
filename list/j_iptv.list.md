@@ -491,4 +491,4 @@
 | 485 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 486 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Fri Feb 02 2024 22:10:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 03 2024 00:51:44 GMT+0000 (Coordinated Universal Time)**
