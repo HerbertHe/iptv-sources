@@ -12,8 +12,8 @@
 | 6 | [BD]cctv怀旧剧场[ipv6] | epg.pw | <https://epg.pw/stream/a5f52c00f4c77e44c037e7c275b3302f808389e7f7755d19f0a4213abafcba4a.m3u8> |
 | 7 | [BD]cctv风云足球[ipv6] | epg.pw | <https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8> |
 | 8 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8> |
-| 9 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/0987d899acb361017a915fc87124a0a6783f23415a98c7e071a588e55967425c.m3u8> |
+| 9 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8> |
 | 10 | [BD]中国交通 | epg.pw | <https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv> |
 | 11 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 
-Updated at **Sun Feb 04 2024 00:56:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 04 2024 02:21:12 GMT+0000 (Coordinated Universal Time)**
