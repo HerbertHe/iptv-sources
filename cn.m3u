@@ -53,8 +53,6 @@ https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345
 https://epg.pw/stream/0cb8d4fa5b25ff0deb5be55bf1ca887da769736d8c2bbc072c468a2572f713a9.m3u8
 #EXTINF:-1 tvg-name="cctv-4 中文国际 美洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002852256993_13.jpg" group-title="综合",[BD]cctv-4 中文国际 美洲
 https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv
-#EXTINF:-1 tvg-name="cctv-风云足球" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="运动",[VGA]cctv-风云足球
-https://epg.pw/stream/71fb5e105a7d05d3378cb560ca4774c67986c5632e857c0594a5adcda85148c5.ctv
 #EXTINF:-1 tvg-name="cctv文化精品" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145328522084_50.jpg" group-title="综合",[BD]cctv文化精品[ipv6]
 https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8
 #EXTINF:-1 tvg-name="cetv1" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="其它",[BD]cetv1
@@ -69,8 +67,8 @@ https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f7
 https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8
 #EXTINF:-1 tvg-name="lntv 1" tvg-id="" tvg-country="中国大陆" tvg-language="蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164220809563_25.png" group-title="综合",[VGA]lntv 1
 https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8
-#EXTINF:-1 tvg-name="newtv武搏世界" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232150730728_62.jpg" group-title="运动",[BD]newtv武搏世界[ipv6]
-https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8
+#EXTINF:-1 tvg-name="newtv武博世界" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232150730728_62.jpg" group-title="运动",[BD]newtv武博世界[ipv6]
+https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8
 #EXTINF:-1 tvg-name="rt documentary" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="纪实",[BD]rt documentary
 https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8
 #EXTINF:-1 tvg-name="三明新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101002131666296_98.jpg" group-title="新闻",[VGA]三明新闻综合
