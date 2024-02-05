@@ -17,4 +17,4 @@
 | 11 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 12 | [BD]高尔夫网球[ipv6] | epg.pw | <https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8> |
 
-Updated at **Mon Feb 05 2024 04:15:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 05 2024 06:15:20 GMT+0000 (Coordinated Universal Time)**
