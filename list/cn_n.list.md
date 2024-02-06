@@ -18,4 +18,4 @@
 | 12 | [BD]风云足球 | epg.pw | <https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8> |
 | 13 | [BD]高尔夫网球 | epg.pw | <https://epg.pw/stream/1411316d9f8906053e519db36ccb10cc9e39d245a53e6a90a8be4e4162ad763a.m3u8> |
 
-Updated at **Tue Feb 06 2024 00:52:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 06 2024 02:17:29 GMT+0000 (Coordinated Universal Time)**
