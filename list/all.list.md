@@ -174,7 +174,7 @@
 | 168 | [SD]channel s (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/1440fa5cbe9eac43673cd5f87876993311929e1c0c90a61e21b885ceb4fa4887.m3u8> |
 | 169 | [HD]CINEMAWORLD | epg.pw | <https://epg.pw/stream/7506e1994d0f220b646fc28c88df3724b7154aea454aa98a48c5f17f1c08314a.ctv> |
 | 170 | [BD]CINEMAX | epg.pw | <https://epg.pw/stream/75636d3f1ab012f645c415ba4ff2d4db77710f0e78d512fa9913c4aa31f13ff6.ctv> |
-| 171 | [SD]CineMax Action | epg.pw | <https://epg.pw/stream/3afb687c091dce20f334c15717a61ea2eab7434e6bb24acc51cd7e24388feb82.ctv> |
+| 171 | [BD]ACTIONMAX | epg.pw | <https://epg.pw/stream/722979f27cc6cac4195d358eef2ac4ea013f32816cff87864aec42a410e10bc1.ctv> |
 | 172 | [BD]Cinestar 2 | epg.pw | <https://epg.pw/stream/3dd79508ed5f112ea5613233106e5bdccd3d5b5dfe1ee60b41d6498c2531588b.ctv> |
 | 173 | [HD]Cinestar1 | epg.pw | <https://epg.pw/stream/addb5d2a5a46f580f21102f3402ae46831892903138ae4ec1dc1a76e5fdb0629.ctv> |
 | 174 | [VGA]concord tv (concord ca) (720p) | epg.pw | <https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8> |
@@ -231,7 +231,7 @@
 | 225 | [BD]HBO 3 | epg.pw | <https://epg.pw/stream/15fb1aa4e40c8c729aa87d937d35f438b19c906f6db99c82e3c2abd7202bb1eb.ctv> |
 | 226 | [BD]HBO COMEDY | epg.pw | <https://epg.pw/stream/85529111e7aa4dab648d7563950859a6da1a0cca985d3a432faa595227547c98.ctv> |
 | 227 | [BD]HBO East | epg.pw | <https://epg.pw/stream/b40fb8a8fbd9310417b175a9ca468b4371793dc86cb6c9953c93cf124ae661ff.ctv> |
-| 228 | [BD]hbo family | epg.pw | <https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.ctv> |
+| 228 | [HD]hbo family | epg.pw | <https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv> |
 | 229 | [BD]HBOFAMILYUSA | epg.pw | <https://epg.pw/stream/525daf90b08edc28e092095090545e21bf1d1b6a017000aabce2ed2870020fa9.ctv> |
 | 230 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.m3u8> |
 | 231 | [BD]HBO HD USA | epg.pw | <https://epg.pw/stream/652f24f7f942671bd428e51c096d6f8beb689b1886d8ecc84231fac9b58248a0.ctv> |
@@ -1668,4 +1668,4 @@
 | 1662 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1663 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Feb 06 2024 16:14:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 06 2024 18:13:04 GMT+0000 (Coordinated Universal Time)**
