@@ -1062,8 +1062,6 @@ DMTV Malang (360p),https://h1.intechmedia.net/intech/ch51.m3u8
 Doble AA (1080p),https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 Doctor Who (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Doctor Who Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-Đồng Nai 1 (360p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-Đồng Nai 2 (576p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 Dong Thap TV (540p),https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 Donna TV (480p),https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 Dorf TV (576p),https://stream.openplayout.org/hls/dorftv/live.m3u8
@@ -2292,7 +2290,6 @@ Noroc TV (576p) [Not 24/7],http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 Noroeste TV (1080p) [Not 24/7],https://cloudvideo.servers10.com:8081/8032/index.m3u8
 NorSelva RTV (720p) [Not 24/7],https://live.obslivestream.com/norselvatv/index.m3u8
 Northeast Live (720p),https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
-Nortvisión (720p),https://plataformavideo.com/live/nortvision.m3u8
 Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 Notele (576p) [Not 24/7],https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 Nothing Scripted (720p),https://30a-tv.com/NothingScripted.m3u8
@@ -3830,6 +3827,7 @@ TV Poços (192p) [Not 24/7],http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playli
 TV Prato (1080p),https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 TV Prizreni (1080p),https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/zy1ztx.m3u8
 TV Pruga (1080p),https://stream.pruga.rs:8443/live/pruga/index.m3u8
+TV Puls (720p),https://cdn-main.lolokoko.tv/TVPuls.stream/playlist.m3u8
 TV Quellón (1080p) [Not 24/7],https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 TV Qui (Modena) (480p),https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 TV Quinta Region (1080p),https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
@@ -4086,6 +4084,7 @@ VTE 9,https://ctrl.laotv.la/live/VTE9/index.m3u8
 VTM 2 (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 VTM (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 VTV2 (1080p),http://str1.cvtv.xyz/vtv2?token=live
+VTV3 (720p),https://edge1.laotv.la/live/VTV3/sc-gaFECQ/v1_index.m3u8
 VTV5 (1080p),https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 VTV5 Tây Nam Bộ (1080p),https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 VTV9 (1080p),https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
@@ -5535,6 +5534,7 @@ Nisibon TV (480p),https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m
 Noor Dubai (576p),https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 Norte TV Canal 7 (360p),https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
 Nortevisión (720p),https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
+Nortvisión (720p),https://plataformavideo.com/live/nortvision.m3u8
 Nos TV Bonaire (1080p),http://streaming.flamingotv.net/nostv/live.m3u8
 NOTV New Orleans TV (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 Now This (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
@@ -7711,6 +7711,7 @@ TBD. (720p),https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.
 TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 Tele Boston (480p),http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 Teledigital (240p) [Not 24/7],https://tv.portalexpress.es:3182/hybrid/play.m3u8
+Telemundo Corpus Christi,https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 Telerayo (1080p),https://emisoras.hn:8081/telerayo/index.m3u8
 TF1,http://livetv.ktv.zone/3/play.m3u8
@@ -9931,6 +9932,7 @@ BX Inform (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.
 Canal 1 Mar Menor-Torre Pacheco (1080p),https://directo.tuwebtv.es/canal1.m3u8
 Canal 33 Tijuana (720p),https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 Canal TRV (480p) [Not 24/7],https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+Đồng Nai 1 (360p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 
 Documentary;Education,#genre#
 Asharq Discovery (1080p),https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
@@ -10089,6 +10091,9 @@ Telenovisa 43 (720p),http://streamatlantistv.ddns.net:8081/telenovisa43/telenovi
 
 Kids;Religious,#genre#
 Dios Te Ve Kids (720p),https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/playlist.m3u8
+
+Entertainment;Sports,#genre#
+Đồng Nai 2 (576p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
 Education;Outdoor;Relax,#genre#
 earthTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
