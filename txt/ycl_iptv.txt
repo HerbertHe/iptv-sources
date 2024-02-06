@@ -53,14 +53,6 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 
 地方,#genre#
-北京新闻,http://120.244.86.179:9999/rtp/228.1.1.189:8000
-北京财经,http://120.244.86.179:9999/rtp/228.1.1.197:8000
-北京生活,http://120.244.86.179:9999/rtp/228.1.1.198:8000
-北京文艺,http://120.244.86.179:9999/rtp/228.1.1.116:8000
-北京影视,http://120.244.86.179:9999/rtp/228.1.1.190:8000
-北京国际,http://120.244.86.179:9999/rtp/228.1.1.111:8000
-体育休闲,http://120.244.86.179:9999/rtp/228.1.1.117:8000
-卡酷少儿,http://120.244.86.179:9999/rtp/228.1.1.195:8000
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 都市青春,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金色学堂,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
@@ -83,6 +75,18 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 西安教育,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+河北经济,http://121.19.134.246:808/hls/20/index.m3u8
+河北都市,http://121.19.134.246:808/hls/21/index.m3u8
+河北影视,http://121.19.134.246:808/hls/22/index.m3u8
+河北少儿科教,http://121.19.134.246:808/hls/23/index.m3u8
+河北公共,http://121.19.134.246:808/hls/24/index.m3u8
+河北农民,http://121.19.134.246:808/hls/25/index.m3u8
+山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
+山西经济,http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
+山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
+山西法治,http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
+山西文体,http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
+黄河电视台,http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
 
 数字,#genre#
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -125,3 +129,5 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+魅力潇湘,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
+精品萌宠,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
