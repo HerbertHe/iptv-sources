@@ -34,7 +34,7 @@
 | 28 | [HD]abc  miami fl | epg.pw | <https://epg.pw/stream/5b1539632f03843ce95492675142e78bc93443c48a48604522add2217d9e8f73.m3u8> |
 | 29 | [HD]abc news us | epg.pw | <https://epg.pw/stream/5af00900afe22713a00ca927c7e3deb22ef347a2ca9019eef9d42e020f1c7574.m3u8> |
 | 30 | [HD]abc news live 9 (720p) | epg.pw | <https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f2fbb70.m3u8> |
-| 31 | [HD]ACTION MAX | epg.pw | <https://epg.pw/stream/71f6cb568cd2b96b3d9e5f22993dc2187bc5dc13a538806e9a369508a5fb2008.ctv> |
+| 31 | [HD]ACTION MAX | epg.pw | <https://epg.pw/stream/80668ce028df02e84ef07aa6494777622f2c4ee2599991988677eabb5c87fb8f.ctv> |
 | 32 | [HD]al jazeera hd | epg.pw | <https://epg.pw/stream/b6c29d51a1f11276edf3fcb3e44eccf16fd4cdb1f37cdf44db68383ea85bdb30.m3u8> |
 | 33 | [BD]AMC | epg.pw | <https://epg.pw/stream/3332472d22fe811c239374b3a1c43ecf6745e27925849440b10b80942f63977c.ctv> |
 | 34 | [VGA]ANTV | epg.pw | <https://epg.pw/stream/e53162857f009043e08d56ff51911b40ba53247998ef0deb2522c5e24ae6e064.ctv> |
@@ -238,7 +238,7 @@
 | 232 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/45167e6cfb67fae7864ce5d16431e93513bc748d857fd6fdccdf92d47b1fe8db.ctv> |
 | 233 | [BD]HBOWEST | epg.pw | <https://epg.pw/stream/14df15ffbf5332576e587bdcce450f2193146b553aa45c1b4b52d3901f33ca47.ctv> |
 | 234 | [BD]HBO ZONE USA | epg.pw | <https://epg.pw/stream/14619332d4e39024b343a025b8de28f18a210fb87e7a18af49d7796bd0a4214f.ctv> |
-| 235 | [HD]HitsMovies | epg.pw | <https://epg.pw/stream/b26c2bbfe0acdba1ba8ee19781c997138550b8f4958966952c7e7fc2ebd8e950.ctv> |
+| 235 | [HD]HitsMovies | epg.pw | <https://epg.pw/stream/c9d0c15841daef7e56cfc1b7362b8552ee2b12fb0db9c7abfc701164fa0a2f33.ctv> |
 | 236 | [BD]hoy tv 78 | epg.pw | <https://epg.pw/stream/435774637b62bfc3d037127b5a59e956dc250a326c722f83ee416c11ca2e1963.ctv> |
 | 237 | [BD]htvc phim hd | epg.pw | <https://epg.pw/stream/9ce6ab455ba19bdbccf9b5c096a6a90ecbd31540cbdfaf8afce895b1cd23e136.ctv> |
 | 238 | [BD]HALLMARK | epg.pw | <https://epg.pw/stream/2c4a16a8692a9c9ba180af8dffc6fa70a4cca5d9eebadf1615e4e05609b03d88.ctv> |
@@ -1437,7 +1437,7 @@
 | 1431 | [BD]黔南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
 | 1432 | [SD]南方卫视 | epg.pw | <https://epg.pw/stream/a97a516f7363243adcf989db5a8ec00df8ecec1f7446e083d9b48c6952378cee.m3u8> |
 | 1433 | [HD]博斯高球 | epg.pw | <https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8> |
-| 1434 | [BD]台视新闻台 | epg.pw | <https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8> |
+| 1434 | [BD]台视新闻台 | epg.pw | <https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8> |
 | 1435 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8> |
 | 1436 | [VGA]吉林7频道 | epg.pw | <https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8> |
 | 1437 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
@@ -1464,7 +1464,7 @@
 | 1458 | [VGA]天下卫视1 | epg.pw | <https://epg.pw/stream/5b18628dc66f6e531ac7d6883aeef0ea403b4ff968cc01cca5a5cf3175e322a9.ctv> |
 | 1459 | [BD]天元围棋 | epg.pw | <https://epg.pw/stream/f5d490e9c51505ba99919f48ddb84278cf3e1b10772418182e1b4f93f1a9a9d0.ctv> |
 | 1460 | [VGA]天映经典 | epg.pw | <https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.ctv> |
-| 1461 | [VGA]天映频道 | epg.pw | <https://epg.pw/stream/523ec66a32270de1605c8f8f0f5130031b1d260bbab58e7ec52bdfe1a5a6ead5.ctv> |
+| 1461 | [VGA]天映频道 | epg.pw | <https://epg.pw/stream/13d82adf9559fe4d638b034948d2ef0b2dfef376d175da601585565bb4b13d47.ctv> |
 | 1462 | [VGA]天映频道(MAS) | epg.pw | <https://epg.pw/stream/a85a1b4e86b6d3688f1d145b81e67527c67bde2b1795c5815f1e4e337297977b.ctv> |
 | 1463 | [BD]天津卫视 | epg.pw | <https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.m3u8> |
 | 1464 | [HD]安多卫视 | epg.pw | <https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8> |
@@ -1688,4 +1688,4 @@
 | 1682 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1683 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Feb 07 2024 18:14:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 07 2024 20:11:20 GMT+0000 (Coordinated Universal Time)**
