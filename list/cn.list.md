@@ -22,7 +22,7 @@
 | 16 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8> |
 | 17 | [BD]cctv6[ipv6] | epg.pw | <https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8> |
 | 18 | [BD]cctv7 | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
-| 19 | [BD]cctv8 | epg.pw | <https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8> |
+| 19 | [BD]cctv-8 | epg.pw | <https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8> |
 | 20 | [BD]cctv9 | epg.pw | <https://epg.pw/stream/dffb0bf94d817668a2a1e69554f375454d60d8c5a13cca40472edf682b38ecbd.m3u8> |
 | 21 | [BD]cctv世界地理[ipv6] | epg.pw | <https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.m3u8> |
 | 22 | [BD]cctv兵器科技[ipv6] | epg.pw | <https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e16b5c6621971de64ef1.m3u8> |
@@ -133,4 +133,4 @@
 | 127 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 | 128 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Thu Feb 08 2024 08:14:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 08 2024 10:11:59 GMT+0000 (Coordinated Universal Time)**
