@@ -982,6 +982,7 @@ Dakar TV International (576p) [Not 24/7],https://live3.acangroup.org:1929/acanab
 Damac Persian (720p),https://damac-tv.icdndhcp.com/hls/stream.m3u8
 DAN TV (720p) [Not 24/7],http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 DanceHits80,http://92.255.108.46:8080/index.m3u8
+DanmarkC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
 Dao Lane Xang (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 Das Erste (1080p),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 DASDING 90.8 (720p),https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
@@ -1798,7 +1799,7 @@ Kiss Kiss Napoli TV (720p),https://58f12ffd2447a.streamlock.net/KKTVNapoli/lives
 Kiss Kiss TV (1080p),https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 KITE Victers (Kerala) (720p) [Not 24/7],https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 KITV 4 Island News (720p),https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-KKRtv (720p),http://stream.kkr.dk/live/kkr/playlist.m3u8
+KKRtv (720p) [Not 24/7],http://stream.kkr.dk/live/kkr/playlist.m3u8
 Klasik TV (576p) [Not 24/7],https://178.253.194.105/klasiktv/playlist.m3u8
 Knesset Channel (480p) [Not 24/7],https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 KNR1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
@@ -3682,13 +3683,13 @@ TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 TV1 KG (1080p),http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 TV 1 Oberösterreich (1080p),https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 TV2 (1080p),http://146.59.85.40:89/tv2hd/index.m3u8
-TV2/Bornholm (1080p) [Not 24/7],https://live.tv2bornholm.dk/stream/live/playlist.m3u8
-TV2/Østjylland (720p),https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
-TV2 Fyn (720p) [Not 24/7],https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
-TV 2 Kosmopol (720p),https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-TV2 Nord (1080p),https://cdnapisec.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8
+TV2/Bornholm (1080p) [Not 24/7],https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
+TV2/Østjylland (720p),https://cdnapi.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+TV2 Fyn (720p) [Not 24/7],https://cdnapi.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
+TV 2 Kosmopol (720p),https://cdnapi.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+TV2 Nord (1080p),https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8
 TV2 Nyhetsstrømmen (720p),https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
-TV2 Øst (1080p),https://cdnapisec.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8
+TV2 Øst (1080p),https://cdnapi.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8
 TV2 Séf (576p),http://194.76.186.33:8000/play/a02s/index.m3u8
 TV3 (1080p),https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 TV3CAT (1080p),https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
@@ -3851,7 +3852,7 @@ TV Sonce (1080p),https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
 TV Sul Bahia (320p),https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 TV Sur Canal 9 (620p) [Not 24/7],http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 TV Sur Canal 14 (1080p),https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-TV SYD (1080p),https://cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s32.m3u8
+TV SYD (1080p),https://cdnapi.kaltura.com/p/1956351/sp/195635100/playManifest/entryId/0_e9slj9wh/protocol/https/format/applehttp/a.m3u8
 TV Tabalong (720p) [Not 24/7],https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 TV Tokyo (720p),http://203.162.235.41:19098
 TV Toruń (1080p) [Not 24/7],http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
@@ -6007,7 +6008,7 @@ TV Mar Los Cabos (1080p),https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil
 TV Mar Puerto Vallarta (1080p),https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 TV Marajoara (720p),https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 TV Metropole (720p) [Not 24/7],https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-TV Midtvest (1080p),https://cdnapisec.kaltura.com/p/1953371/sp/195337100/playManifest/entryId/1_qwqu2d0z/protocol/https/format/applehttp/a.m3u8
+TV Midtvest (1080p),https://cdnapi.kaltura.com/p/1953371/sp/195337100/playManifest/entryId/1_qwqu2d0z/protocol/https/format/applehttp/a.m3u8
 TV Migrante (720p),https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
 TV Modum (720p),https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
 TV Morava (720p) [Not 24/7],https://ythls.armelin.one/channel/UCW33LPZQ1SA7ByUW6GeKRGw.m3u8
@@ -10089,6 +10090,7 @@ Cartoonito Italy,https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/
 Cartoonito México (720p),https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 Lolo TV (576p),https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 Multimania (Latvia) (576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+Pingviin (576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 Pokémon Kids TV English (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 Pokémon Kids TV Japanese (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 Spacetoon (1080p),https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
