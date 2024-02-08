@@ -10,12 +10,13 @@
 | 4 | [BD]cctv女性时尚[ipv6] | epg.pw | <https://epg.pw/stream/fe8b30a1c7e5156f844801fd71e5df52d089e315fb1ee961c73f7cbd8e6d57bf.m3u8> |
 | 5 | [VGA]cctv娱乐 | epg.pw | <https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv> |
 | 6 | [BD]cctv怀旧剧场[ipv6] | epg.pw | <https://epg.pw/stream/227eac80299df061c676390e73417f0f47a7a708d5678ff7ba8e4d69b273c226.m3u8> |
-| 7 | [BD]cctv风云足球[ipv6] | epg.pw | <https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8> |
-| 8 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8> |
-| 9 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8> |
-| 10 | [BD]中国交通 | epg.pw | <https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv> |
-| 11 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
-| 12 | [BD]风云足球 | epg.pw | <https://epg.pw/stream/4e8243a55098156e8ce6d9b2c3173fee20e6ef67a64808938feba9e6b2965dac.ctv> |
-| 13 | [BD]高尔夫网球 | epg.pw | <https://epg.pw/stream/1411316d9f8906053e519db36ccb10cc9e39d245a53e6a90a8be4e4162ad763a.ctv> |
+| 7 | [BD]cctv风云剧场[ipv6] | epg.pw | <https://epg.pw/stream/df039bb30b077870834b618b5e1977482db049d1309cdec5dae7a5b143bbad2c.m3u8> |
+| 8 | [BD]cctv风云足球[ipv6] | epg.pw | <https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8> |
+| 9 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8> |
+| 10 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8> |
+| 11 | [BD]中国交通 | epg.pw | <https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv> |
+| 12 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
+| 13 | [BD]风云足球 | epg.pw | <https://epg.pw/stream/4e8243a55098156e8ce6d9b2c3173fee20e6ef67a64808938feba9e6b2965dac.ctv> |
+| 14 | [BD]高尔夫网球 | epg.pw | <https://epg.pw/stream/1411316d9f8906053e519db36ccb10cc9e39d245a53e6a90a8be4e4162ad763a.ctv> |
 
-Updated at **Thu Feb 08 2024 16:14:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 08 2024 18:14:06 GMT+0000 (Coordinated Universal Time)**
