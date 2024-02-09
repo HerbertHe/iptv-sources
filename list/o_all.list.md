@@ -2874,7 +2874,7 @@
 | 2868 | Fox 54.1 Huntsville | livevideo01.rocketcitynow.com | <https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8> |
 | 2869 | Fox 61 News Hartford CT (WTIC-TV) | livevideo01.fox61.com | <https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8> |
 | 2870 | FOX DEPORTES | stream.flynetwifi.com:1935 | <http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8> |
-| 2871 | Fox Life | woobl.ru | <https://woobl.ru/hls2/Fox_Life.m3u8> |
+| 2871 | Fox Life | woobl.ru | <https://woobl.ru/hls987/Fox_Life.m3u8> |
 | 2872 | Fox News Channel | 247preview.foxnews.com | <http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8> |
 | 2873 | FOX News Now (720p) | fox-foxnewsnow-samsungus.amagi.tv | <https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8> |
 | 2874 | Fox Soul (1080p) | fox-foxsoul-samsungus.amagi.tv | <https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8> |
@@ -7125,9 +7125,9 @@
 | 7119 | Star TV (720p) [Not 24/7] | dogus-live.daioncdn.net | <https://dogus-live.daioncdn.net/startv/startv.m3u8> |
 | 7120 | Star TVE | stream.flynetwifi.com:1935 | <http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8> |
 | 7121 | Starnet (480p) | 5a1178b42cc03.streamlock.net | <https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8> |
-| 7122 | START Air | woobl.ru | <https://woobl.ru/hls2/START_Air_HD.m3u8> |
+| 7122 | START Air | woobl.ru | <https://woobl.ru/hls987/START_Air_HD.m3u8> |
 | 7123 | Start TV (480p) | live.cast-control.eu | <https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8> |
-| 7124 | START World | woobl.ru | <https://woobl.ru/hls2/START_World_HD.m3u8> |
+| 7124 | START World | woobl.ru | <https://woobl.ru/hls987/START_World_HD.m3u8> |
 | 7125 | STB (720p) | 606d65214d80f.streamlock.net | <https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8> |
 | 7126 | Steelbird Music (720p) [Not 24/7] | cdn25.live247stream.com | <http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8> |
 | 7127 | Stereo 5 TV (720p) | stream1.aswifi.it | <https://stream1.aswifi.it/stereo5/live/index.m3u8> |
@@ -8887,12 +8887,12 @@
 | 8881 | viju History | IPv4 直链 | <http://135.181.115.81/russia/viasat_history/playlist.m3u8> |
 | 8882 | viju Nature | IPv4 直链 | <http://135.181.115.81/russia/viasat_nature/playlist.m3u8> |
 | 8883 | like Gecko) Mobile/15E148",Viju Sport (480p) | ott-cdn.ucom.am | <http://ott-cdn.ucom.am/s38/index.m3u8> |
-| 8884 | Viju TV1000 Action | woobl.ru | <https://woobl.ru/hls2/TV1000_action_hd.m3u8> |
+| 8884 | Viju TV1000 Action | woobl.ru | <https://woobl.ru/hls987/TV1000_action_hd.m3u8> |
 | 8885 | viju TV1000 Русское кино | IPv4 直链 | <http://135.181.115.81/russia/tv1000_russkoe_kino/playlist.m3u8> |
 | 8886 | viju Русское кино | IPv4 直链 | <http://82.209.197.187:8080/udp/239.0.100.82:1234> |
 | 8887 | viju+ Comedy | IPv4 直链 | <http://135.181.115.81/russia/vip_comedy/chunks.m3u8> |
 | 8888 | viju+ Premiere | IPv4 直链 | <http://135.181.115.81/russia/vip_premiere/chunks.m3u8> |
-| 8889 | Viju+ Serial | woobl.ru | <https://woobl.ru/hls2/Viju_plus_Serial_hd.m3u8> |
+| 8889 | Viju+ Serial | woobl.ru | <https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8> |
 | 8890 | viju+ Sport | IPv4 直链 | <http://135.181.115.81/russia/viasat_sport/playlist.m3u8> |
 | 8891 | Villa Elisa Radio TV (720p) | 59ce1298bfb98.streamlock.net | <https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8> |
 | 8892 | Village of Hastings-On-Hudson NY (WHOH-TV) (360p) | stream.swagit.com | <https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8> |
@@ -9308,7 +9308,7 @@
 | 9302 | ZOO MOO | stream.flynetwifi.com:1935 | <http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8> |
 | 9303 | Zoom (1080p) | canalzoom.itex.com.co:3027 | <https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8> |
 | 9304 | ZoomerRadio | ythls.armelin.one | <https://ythls.armelin.one/channel/UCon2a9opDXmI-i3Be6PYBQA.m3u8> |
-| 9305 | Zooпарк | woobl.ru | <https://woobl.ru/hls2/Zoopark.m3u8> |
+| 9305 | Zooпарк | woobl.ru | <https://woobl.ru/hls987/Zoopark.m3u8> |
 | 9306 | Zougla TV (720p) | zouglacam-mdc-secure.akamaized.net | <https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8> |
 | 9307 | ZTV (720p) [Not 24/7] | lb00zdigital.streamprolive.com | <https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8> |
 | 9308 | Zuglo TV (360p) | cloudfront44.lexanetwork.com:1344 | <https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8> |
@@ -9369,7 +9369,7 @@
 | 9363 | Детский мир | stream01.vnet.am | <http://stream01.vnet.am/CartoonNetwork/mono.m3u8> |
 | 9364 | Детское кино International | autopilot.catcast.tv | <https://autopilot.catcast.tv/content/38720/index.m3u8> |
 | 9365 | Диалоги о рыбалке (1080p) | strm.yandex.ru | <https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8> |
-| 9366 | Дикий | woobl.ru | <https://woobl.ru/hls2/Dikiy.m3u8> |
+| 9366 | Дикий | woobl.ru | <https://woobl.ru/hls987/Dikiy.m3u8> |
 | 9367 | Димград 24 HD | live-1.otcnet.ru | <http://live-1.otcnet.ru/dimgrad/index.m3u8> |
 | 9368 | Дождь (1080p) | 1527562093.rsc.cdn77.org | <https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8> |
 | 9369 | Дом Кино | stream01.vnet.am | <https://stream01.vnet.am/DomKino/mono.m3u8> |
@@ -9377,17 +9377,17 @@
 | 9371 | Домашний | dom-live-megafon2.mediavitrina.ru | <https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/index.m3u8> |
 | 9372 | Дон 24 | donmedia.bonus-tv.ru | <https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8> |
 | 9373 | Донбас Online (1080p) [Not 24/7] | IPv4 直链 | <http://176.110.1.30:1935/live/donbasonline/playlist.m3u8> |
-| 9374 | Дорама | woobl.ru | <https://woobl.ru/hls2/Dorama.m3u8> |
-| 9375 | Драйв | woobl.ru | <https://woobl.ru/hls2/Drive.m3u8> |
-| 9376 | Дума | woobl.ru | <https://woobl.ru/hls2/Duma_tv.m3u8> |
+| 9374 | Дорама | woobl.ru | <https://woobl.ru/hls987/Dorama.m3u8> |
+| 9375 | Драйв | woobl.ru | <https://woobl.ru/hls987/Drive.m3u8> |
+| 9376 | Дума | woobl.ru | <https://woobl.ru/hls987/Duma_tv.m3u8> |
 | 9377 | Евразия (Орск) (720p) | infochhdcdn.trkeurasia.ru | <http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8> |
 | 9378 | Еврокино | IPv4 直链 | <http://176.74.80.162:8099/EuroKino/index.m3u8> |
 | 9379 | Енисей (1080p) [Not 24/7] | hls-eniseytv.cdnvideo.ru | <https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8> |
 | 9380 | Еспресо HD | portal.ott.pink | <http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6> |
 | 9381 | Жар Птица (404p) | streamer.rtcommufa.ru:1935 | <http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8> |
-| 9382 | Живая Планета | woobl.ru | <https://woobl.ru/hls2/Zhivaya_Planeta.m3u8> |
-| 9383 | Живая природа | woobl.ru | <https://woobl.ru/hls2/Zhivaya_priroda_hd.m3u8> |
-| 9384 | ЖИВИ HD | woobl.ru | <https://woobl.ru/hls2/Jivi_hd.m3u8> |
+| 9382 | Живая Планета | woobl.ru | <https://woobl.ru/hls987/Zhivaya_Planeta.m3u8> |
+| 9383 | Живая природа | woobl.ru | <https://woobl.ru/hls987/Zhivaya_priroda_hd.m3u8> |
+| 9384 | ЖИВИ HD | woobl.ru | <https://woobl.ru/hls987/Jivi_hd.m3u8> |
 | 9385 | ЖИВИ! | streaming.tv-teleport.ru | <http://streaming.tv-teleport.ru/Zhivi/index.m3u8> |
 | 9386 | За!ТВ | streaming.televizor-24-tochka.ru | <https://streaming.televizor-24-tochka.ru/live/25.m3u8> |
 | 9387 | Загородная Жизнь | camera.global-x.ru | <http://camera.global-x.ru/ZagorodnayaJizn/index.m3u8> |
@@ -9407,14 +9407,14 @@
 | 9401 | Калейдоскоп ТВ | cdn-01.bonus-tv.ru | <https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8> |
 | 9402 | Карусель | s18209.cdn.ngenix.net | <http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8> |
 | 9403 | Карусель Int | stream02.vnet.am | <http://stream02.vnet.am/Karusel/mono.m3u8> |
-| 9404 | КВН ТВ | woobl.ru | <https://woobl.ru/hls2/KVN.m3u8> |
+| 9404 | КВН ТВ | woobl.ru | <https://woobl.ru/hls987/KVN.m3u8> |
 | 9405 | Київ | portal.ott.pink | <http://portal.ott.pink/watch/7410/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6> |
-| 9406 | Кинеко | woobl.ru | <https://woobl.ru/hls2/Kineko.m3u8> |
+| 9406 | Кинеко | woobl.ru | <https://woobl.ru/hls987/Kineko.m3u8> |
 | 9407 | Кино 1 International | kino-1.catcast.tv | <http://kino-1.catcast.tv/content/38617/index.m3u8> |
 | 9408 | Кино 1 International HD | IPv4 直链 | <http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8> |
-| 9409 | Кино ТВ | woobl.ru | <https://woobl.ru/hls2/Kino_tv.m3u8> |
+| 9409 | Кино ТВ | woobl.ru | <https://woobl.ru/hls987/Kino_tv.m3u8> |
 | 9410 | КИНО-1 INTERNATIONAL | autopilot.catcast.tv | <https://autopilot.catcast.tv/content/38617/index.m3u8> |
-| 9411 | Киномикс HD | woobl.ru | <https://woobl.ru/hls2/Kinomix_HD.m3u8> |
+| 9411 | Киномикс HD | woobl.ru | <https://woobl.ru/hls987/Kinomix_HD.m3u8> |
 | 9412 | Кинопоказ | streaming.tv-teleport.ru | <http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8> |
 | 9413 | Кинопремьера HD | stream02.vnet.am | <http://stream02.vnet.am/Kinopremera/mono.m3u8> |
 | 9414 | Кнопка ТВ | api.alpaca.t62a.com | <https://api.alpaca.t62a.com/hls/9116/index.m3u8> |
@@ -9449,13 +9449,13 @@
 | 9443 | Мир +4 (540p) [Not 24/7] | hls.mirtv.cdnvideo.ru | <http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8> |
 | 9444 | Мир +7 (540p) | hls.mirtv.cdnvideo.ru | <http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8> |
 | 9445 | Мир Белагорья (720p) | mirbelogorya.ru:8080 | <http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8> |
-| 9446 | Мир сериала | woobl.ru | <https://woobl.ru/hls2/Mir_seriala.m3u8> |
+| 9446 | Мир сериала | woobl.ru | <https://woobl.ru/hls987/Mir_seriala.m3u8> |
 | 9447 | Москва 24 | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/1661> |
 | 9448 | Мосфильм Золотая коллекция | IPv4 直链 | <http://135.181.115.81/russia/mosfilm/playlist.m3u8> |
-| 9449 | Моя Планета | woobl.ru | <https://woobl.ru/hls2/Moya_planeta.m3u8> |
+| 9449 | Моя Планета | woobl.ru | <https://woobl.ru/hls987/Moya_planeta.m3u8> |
 | 9450 | МТВ (Волгоград) (720p) [Not 24/7] | hls.volgograd1vtv.cdnvideo.ru | <http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8> |
 | 9451 | МТРК (576p) [Not 24/7] | tvcdn01.oktv.kz | <https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8> |
-| 9452 | Мужское кино | woobl.ru | <https://woobl.ru/hls2/Muzhskoe_kino_hd.m3u8> |
+| 9452 | Мужское кино | woobl.ru | <https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8> |
 | 9453 | Муз союз (576p) | hls-tvsoyuz.cdnvideo.ru | <https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8> |
 | 9454 | Муз ТВ | stream01.vnet.am | <http://stream01.vnet.am/MuzTv/mono.m3u8> |
 | 9455 | Музыка 1 International | kino-1.catcast.tv | <https://kino-1.catcast.tv/content/37745/index.m3u8> |
@@ -9463,10 +9463,10 @@
 | 9457 | Музыка Кино International | kino-1.catcast.tv | <https://kino-1.catcast.tv/content/37739/index.m3u8> |
 | 9458 | Музыка Первого | streaming.tv-teleport.ru | <http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8> |
 | 9459 | Мульт | stream01.vnet.am | <http://stream01.vnet.am/Mult/mono.m3u8> |
-| 9460 | Мульт HD | woobl.ru | <https://woobl.ru/hls2/Mult_hd.m3u8> |
+| 9460 | Мульт HD | woobl.ru | <https://woobl.ru/hls987/Mult_hd.m3u8> |
 | 9461 | Мультиландия (1080p) | strm.yandex.ru | <https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8> |
 | 9462 | Мультимания ТВ | sirius.greenhosting.ru | <http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8> |
-| 9463 | Мультимузыка | woobl.ru | <https://woobl.ru/hls2/Multimuzyka.m3u8> |
+| 9463 | Мультимузыка | woobl.ru | <https://woobl.ru/hls987/Multimuzyka.m3u8> |
 | 9464 | МҮОНТ-1 HD (1080p) | cdn3.skygo.mn | <https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8> |
 | 9465 | Надежда (720p) | live-tvhope.cdnvideo.ru | <https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8> |
 | 9466 | Надия/Новый канал (576p) [Not 24/7] | nadiya.home-net.com.ua | <http://nadiya.home-net.com.ua/mob/mystream.m3u8> |
@@ -9484,7 +9484,7 @@
 | 9478 | Ника ТВ (576p) [Not 24/7] | live-nikatv.cdnvideo.ru | <https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8> |
 | 9479 | Новое телевидение (576p) [Not 24/7] | serv25.vintera.tv:8081 | <http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8> |
 | 9480 | Ностальгия | edge02.odtv.az | <https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8> |
-| 9481 | НСТ | woobl.ru | <https://woobl.ru/hls2/NST.m3u8> |
+| 9481 | НСТ | woobl.ru | <https://woobl.ru/hls987/NST.m3u8> |
 | 9482 | НТВ | cdn.ntv.ru | <http://cdn.ntv.ru/ntv0/playlist.m3u8> |
 | 9483 | НТВ +1 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv1/playlist.m3u8> |
 | 9484 | НТВ +2 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv2/playlist.m3u8> |
@@ -9522,7 +9522,7 @@
 | 9516 | Перец | stream01.vnet.am | <http://stream01.vnet.am/Perec/mono.m3u8> |
 | 9517 | Пингвин | sirius.greenhosting.ru | <https://sirius.greenhosting.ru/PingvinRu/video.m3u8> |
 | 9518 | Плюс ТВ | IPv4 直链 | <http://178.124.179.122:8088/PlusTV/index.m3u8> |
-| 9519 | Победа | woobl.ru | <https://woobl.ru/hls2/Pobeda.m3u8> |
+| 9519 | Победа | woobl.ru | <https://woobl.ru/hls987/Pobeda.m3u8> |
 | 9520 | Поехали! | streaming.tv-teleport.ru | <http://streaming.tv-teleport.ru/MTV_Live_HD/index.m3u8> |
 | 9521 | Полтавское ТВ | cdn10.live-tv.od.ua:8081 | <http://cdn10.live-tv.od.ua:8081/hrpl/hrpl-abr/playlist.m3u8> |
 | 9522 | ПравдаТУТ (720p) | pravdatytkievshina.cdn-02.cosmonova.net.ua | <https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8> |
@@ -9544,7 +9544,7 @@
 | 9538 | РБК | edge02.odtv.az | <https://edge02.odtv.az/o1/rbktv/playlist.m3u8> |
 | 9539 | Регион 29 (Архангельск) (720p) | live-atkmedia.cdnvideo.ru | <http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8> |
 | 9540 | Рен ТВ | edge02.odtv.az | <https://edge02.odtv.az/o2/rentv/playlist.m3u8> |
-| 9541 | Рен ТВ International | woobl.ru | <https://woobl.ru/hls2/Rentv_international.m3u8> |
+| 9541 | Рен ТВ International | woobl.ru | <https://woobl.ru/hls987/Rentv_international.m3u8> |
 | 9542 | РЖД ТВ (360p) | hls.tva.cdnvideo.ru | <http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8> |
 | 9543 | Родное Кино | edge02.odtv.az | <https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8> |
 | 9544 | Родной канал (720p) [Not 24/7] | n1.slavmir.tv | <https://n1.slavmir.tv/live/slavmir/playlist.m3u8> |
@@ -9552,14 +9552,14 @@
 | 9546 | Россия 24 | IPv4 直链 | <http://135.181.115.81/russia/rossiya24/playlist.m3u8> |
 | 9547 | Россия HD | vgtrk-live-megafon2.mediavitrina.ru | <https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/index.m3u8> |
 | 9548 | Россия К | edge02.odtv.az | <https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8> |
-| 9549 | Ростов-папа | woobl.ru | <https://woobl.ru/hls2/Rostov_papa_hd.m3u8> |
+| 9549 | Ростов-папа | woobl.ru | <https://woobl.ru/hls987/Rostov_papa_hd.m3u8> |
 | 9550 | РТР Планета Азия | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/63254> |
 | 9551 | РТР Планета Евро | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/4941> |
 | 9552 | РТР Планета СНГ | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/63253> |
 | 9553 | РТР Планета США | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/63250> |
 | 9554 | Русский Бестселлер | streaming.tv-teleport.ru | <http://streaming.tv-teleport.ru/Russkiy_Bestseller/index.m3u8> |
 | 9555 | Русский Иллюзион | edge02.odtv.az | <https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8> |
-| 9556 | Русский роман | woobl.ru | <https://woobl.ru/hls2/Russkiy_roman.m3u8> |
+| 9556 | Русский роман | woobl.ru | <https://woobl.ru/hls987/Russkiy_roman.m3u8> |
 | 9557 | Русский Север (Вологда) (1080p) | live.rusevertv.ru | <http://live.rusevertv.ru/streams.rs.m3u8> |
 | 9558 | like Gecko) Mobile/15E148",Рыжий (480p) | ott-cdn.ucom.am | <http://ott-cdn.ucom.am/s57/index.m3u8> |
 | 9559 | С1 (Сургут) (1080p) [Not 24/7] | sitv.ru | <https://sitv.ru/hls/stv.m3u8> |
@@ -9581,9 +9581,9 @@
 | 9575 | Солнечногорское ТВ (360p) | hls.solntv.cdnvideo.ru | <http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8> |
 | 9576 | Солнце | tv.mediacdn.ru | <http://tv.mediacdn.ru/live/disney/playlist.m3u8> |
 | 9577 | Соловьев LIVE | player.smotrim.ru | <https://player.smotrim.ru/iframe/stream/live_id/63338> |
-| 9578 | Союз | woobl.ru | <https://woobl.ru/hls2/Soyuz.m3u8> |
+| 9578 | Союз | woobl.ru | <https://woobl.ru/hls987/Soyuz.m3u8> |
 | 9579 | СПАС | vgtrk-live-megafon2.mediavitrina.ru | <https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/index.m3u8> |
-| 9580 | Спортивный | woobl.ru | <https://woobl.ru/hls2/Sportivny_hd.m3u8> |
+| 9580 | Спортивный | woobl.ru | <https://woobl.ru/hls987/Sportivny_hd.m3u8> |
 | 9581 | Старт (1080p) | strm.yandex.ru | <https://strm.yandex.ru/kal/start/start0.m3u8> |
 | 9582 | СТАРТ Триумф | bl.webcaster.pro | <https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8> |
 | 9583 | СТБ (720p) | ctv.dc.beltelecom.by | <https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8> |
@@ -9637,9 +9637,9 @@
 | 9631 | УТРК Музыка (720p) | 64e5ed58c00d4.streamlock.net | <https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8> |
 | 9632 | УТРК Спорт (720p) | 64e5ed58c00d4.streamlock.net | <https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8> |
 | 9633 | Феникс+Кино | IPv4 直链 | <http://82.209.197.187:8080/udp/239.0.100.101:1234> |
-| 9634 | Футбольный | woobl.ru | <https://woobl.ru/hls2/Futbolniy_hd.m3u8> |
+| 9634 | Футбольный | woobl.ru | <https://woobl.ru/hls987/Futbolniy_hd.m3u8> |
 | 9635 | Херсон Плюс (576p) | IPv4 直链 | <http://46.175.163.130/ks_plus/index.m3u8> |
-| 9636 | Хоккейный | woobl.ru | <https://woobl.ru/hls2/Hokkeyny_hd.m3u8> |
+| 9636 | Хоккейный | woobl.ru | <https://woobl.ru/hls987/Hokkeyny_hd.m3u8> |
 | 9637 | Хочу всё знать (576p) | void.greenhosting.ru | <https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8> |
 | 9638 | Хузур ТВ (1080p) [Not 24/7] | hls-mycdn08724960135.cdnvideo.ru | <https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8> |
 | 9639 | Центр (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8> |
@@ -10107,4 +10107,4 @@
 | 10101 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10102 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Thu Feb 08 2024 22:10:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 00:51:34 GMT+0000 (Coordinated Universal Time)**
