@@ -661,7 +661,7 @@
 | 655 | [SD]discovery science | epg.pw | <https://epg.pw/stream/fd522630534abb24de51ba1b240e0b9ad5da0e399819ae9438141bc327368f67.m3u8> |
 | 656 | [SD]discovery turbo | epg.pw | <https://epg.pw/stream/8db9b54b28e6ea18ead4792495b8336767de5c047175a9b6d92b7ee4f27be977.m3u8> |
 | 657 | [SD]disney channel japan | epg.pw | <https://epg.pw/stream/bdb4cf3eb5c122d017fdaf589787d6393299baa620b05b81e4fbc4ab7a884722.m3u8> |
-| 658 | [SD]disney junior | epg.pw | <https://epg.pw/stream/be2313633074cc4ce87854509449c7001695359ce391d9a8e8a8940489c41cdb.m3u8> |
+| 658 | [HD]disney junior | epg.pw | <https://epg.pw/stream/286c4440ba7949441700e218a7f0cb6f492ae26a7fb9f85269da6cb1e8656d7c.ctv> |
 | 659 | [SD]disney xd | epg.pw | <https://epg.pw/stream/2284f8430383bdcad5de9f1920ef6c5a03396134a6bae87af63b77126f890c00.m3u8> |
 | 660 | [HD]diva | epg.pw | <https://epg.pw/stream/c8e423ede0bc72cac0624b86b4e322679257cb9846e198aeb71e2643044ea519.m3u8> |
 | 661 | [HD]diyar tv | epg.pw | <https://epg.pw/stream/6852bf56668da61f2055824f589f37ef9f1fe861210b14445a23f261e951733f.m3u8> |
@@ -1702,4 +1702,4 @@
 | 1696 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1697 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 09 2024 02:16:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 04:14:05 GMT+0000 (Coordinated Universal Time)**
