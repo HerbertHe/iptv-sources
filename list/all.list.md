@@ -333,7 +333,7 @@
 | 327 | [BD]sctv15 hd | epg.pw | <https://epg.pw/stream/4e80e330d2b724e6c3167e5ad30ed21b10872c292550dc075ba9d96a3b6bc7ed.m3u8> |
 | 328 | [BD]SKY CINEMA SCI-FI | epg.pw | <https://epg.pw/stream/d146b93d0bc2faf8a786a28b99081ab07e1f7657cfc71886ba7faf93d9346eba.ctv> |
 | 329 | [HD]SKY CINEMA SELECT HD | epg.pw | <https://epg.pw/stream/7d3b4b3bba1a831e2287e2b417467db5fbee348727e5b9ebc0d2aae23707b224.ctv> |
-| 330 | [HD]SKY CINEMA THRILLER | epg.pw | <https://epg.pw/stream/c01ac31ef480f0463ed4de601116c6a6fb60f779d770e4a3639cb91091fc2a63.ctv> |
+| 330 | [HD]SKY CINEMA THRILLER | epg.pw | <https://epg.pw/stream/f09929b8c2e4634be34f478cdf6905080cf20158172ca917e82e304fd7c1373a.ctv> |
 | 331 | [SD]SKYCRIME | epg.pw | <https://epg.pw/stream/7e13ecc7f0fc848411629d0f1aec3b6b1ba2e294169f509d8d9c4364851896c5.ctv> |
 | 332 | [HD]ช่อง sky sports arena | epg.pw | <https://epg.pw/stream/62d26606d9eabe527ec18ab2b2187b2eae939d7797495d54de5928e2ad9237c9.m3u8> |
 | 333 | [HD]ช่อง sky sports football | epg.pw | <https://epg.pw/stream/7b5aa5336d372a0f13ea96e900d63d682dc8be30a43034ab6893daae65926e63.m3u8> |
@@ -1067,7 +1067,7 @@
 | 1061 | [HD]sos kanal plus | epg.pw | <https://epg.pw/stream/cbe0d6f93907522b360178a66bf5697dd769d099668a8a62c372c7955c9839c0.m3u8> |
 | 1062 | [VGA]space | epg.pw | <https://epg.pw/stream/d780d85ffb8ce3b8e233739370a05d4a5900dc2c696c2765bde2df23132751fa.m3u8> |
 | 1063 | [BD]spacetoon | epg.pw | <https://epg.pw/stream/e7538ba3ef158b5c8796ede528c28252cb404f9503b484f569661e9376fc1e3f.m3u8> |
-| 1064 | [VGA]spirit tv | epg.pw | <https://epg.pw/stream/8be42e703838fda7d41aecc954bf0126d4c945383b23a96d3c9570a5f1fb4cdc.m3u8> |
+| 1064 | [HD]spirit tv | epg.pw | <https://epg.pw/stream/70b2bebc94131829f221da6331d370561b53082372094600a7d3ccf35c2db7a8.m3u8> |
 | 1065 | [HD]sport club | epg.pw | <https://epg.pw/stream/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8> |
 | 1066 | [SD]sport1 | epg.pw | <https://epg.pw/stream/b5dda13e24860830ea601c88935169dbd460917028d240dcf68bf8c968dfcc16.m3u8> |
 | 1067 | [BD]sports italia | epg.pw | <https://epg.pw/stream/5fcc7bd74c511b531db9df5b759826f38e17b7ef9868cd9bf2c6a00d37238cef.m3u8> |
@@ -1283,7 +1283,7 @@
 | 1277 | [VGA]vía televisión | epg.pw | <https://epg.pw/stream/a9a3e0bb3bd25d19c96a51d2df29289895458ac847c855ee93d4b85273e93f78.m3u8> |
 | 1278 | [BD]w9 | epg.pw | <https://epg.pw/stream/e6b6891233941963085576ef0743fe4aa217ee9ceefbdb3dd6d212d7db81a28c.m3u8> |
 | 1279 | [BD]wanasah (1080p) | epg.pw | <https://epg.pw/stream/4f15b29644f01097c624cccbc021cc9d37f0acfb5579b07971506d4476a0a1b4.m3u8> |
-| 1280 | [VGA]warner tv | epg.pw | <https://epg.pw/stream/dee18a48a8d6540053331a057488f20e31069a6fa690d9b637f0088fb5cb5f65.m3u8> |
+| 1280 | [HD]warner tv | epg.pw | <https://epg.pw/stream/747bbed203115cdac32bc80ccbfcf54ff96a5ea70119eb725fbc7e4c5c455f66.ctv> |
 | 1281 | [BD]watan tv | epg.pw | <https://epg.pw/stream/91df1d3f516a62628c00b2dfec3861b3bdda477982c3becb96f7097dc57eb41f.m3u8> |
 | 1282 | [HD]wbtv at the movies | epg.pw | <https://epg.pw/stream/f08a2567451a865cbe34ceaeaae0e1c4fed20fbd3d5fc256c9163cb4978b2e5a.m3u8> |
 | 1283 | [HD]wdr fernsehen münster (720p) [geo-blocked] | epg.pw | <https://epg.pw/stream/49f6b481527c27def25acf6f5840bfb6aecfbb54a24a41c1b60d930e8783f2e2.m3u8> |
@@ -1699,4 +1699,4 @@
 | 1693 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1694 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 09 2024 18:14:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 20:11:40 GMT+0000 (Coordinated Universal Time)**
