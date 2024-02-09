@@ -80,7 +80,7 @@
 | 74 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
 | 75 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
 | 76 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
-| 77 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
+| 77 | [HD]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
 | 78 | [HD]武汉新闻综合 | epg.pw | <https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8> |
 | 79 | [HD]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
 | 80 | [VGA]武汉电视剧 | epg.pw | <https://epg.pw/stream/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8> |
@@ -117,16 +117,15 @@
 | 111 | [SD]金鹰卡通[ipv6] | epg.pw | <https://epg.pw/stream/7412e320da381eb30066a9cdc0f6831867280a195e1e822e2233f50d17936311.m3u8> |
 | 112 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/e315ceabf401c1ff3137b66f82fda9495138bc05b689dc5c5651fc924ce0787c.m3u8> |
 | 113 | [SD]陕西公共频道[ipv6] | epg.pw | <https://epg.pw/stream/5470017543c9c867cf75298139fd35982e683ba09687433c1c02e60cd837ce0f.m3u8> |
-| 114 | [BD]陕西新闻资讯[ipv6] | epg.pw | <https://epg.pw/stream/5cb872e400f13155473960c2b2e79c7420b7a84cec0ded92c78fba19683146eb.m3u8> |
-| 115 | [SD]陕西生活频道[ipv6] | epg.pw | <https://epg.pw/stream/5002717f12891014e7a7ea89507246985c651d0d38e6d9509b9f7ba39bac0184.m3u8> |
-| 116 | [SD]陕西西部电影[ipv6] | epg.pw | <https://epg.pw/stream/89dd39b1618dc9399502b88b402e2af41c79494fe102fa0c79d912110d604ab3.m3u8> |
-| 117 | [BD]陕西都市青春[ipv6] | epg.pw | <https://epg.pw/stream/4a638cf375b7f9407de9e2367e841a8b74930dbe4f5b7466b59fcc8789b4bbd8.m3u8> |
-| 118 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
-| 119 | [BD]云南少儿 | epg.pw | <https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8> |
-| 120 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
-| 121 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
-| 122 | [VGA]黑龙江文体 | epg.pw | <https://epg.pw/stream/b79e30153b5459cfbff32c48fab86fe8a25721cfb9397fa2a3ad5c9ff27e8a2a.m3u8> |
-| 123 | [VGA]黑龙江新闻法治 | epg.pw | <https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8> |
-| 124 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
+| 114 | [SD]陕西生活频道[ipv6] | epg.pw | <https://epg.pw/stream/5002717f12891014e7a7ea89507246985c651d0d38e6d9509b9f7ba39bac0184.m3u8> |
+| 115 | [SD]陕西西部电影[ipv6] | epg.pw | <https://epg.pw/stream/89dd39b1618dc9399502b88b402e2af41c79494fe102fa0c79d912110d604ab3.m3u8> |
+| 116 | [BD]陕西都市青春[ipv6] | epg.pw | <https://epg.pw/stream/4a638cf375b7f9407de9e2367e841a8b74930dbe4f5b7466b59fcc8789b4bbd8.m3u8> |
+| 117 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
+| 118 | [BD]云南少儿 | epg.pw | <https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8> |
+| 119 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
+| 120 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
+| 121 | [VGA]黑龙江文体 | epg.pw | <https://epg.pw/stream/b79e30153b5459cfbff32c48fab86fe8a25721cfb9397fa2a3ad5c9ff27e8a2a.m3u8> |
+| 122 | [VGA]黑龙江新闻法治 | epg.pw | <https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8> |
+| 123 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Fri Feb 09 2024 04:14:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 06:14:50 GMT+0000 (Coordinated Universal Time)**
