@@ -126,4 +126,4 @@
 | 120 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 | 121 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Fri Feb 09 2024 20:11:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 22:12:02 GMT+0000 (Coordinated Universal Time)**
