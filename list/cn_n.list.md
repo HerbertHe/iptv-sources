@@ -9,7 +9,7 @@
 | 3 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8> |
 | 4 | [BD]cctv女性时尚[ipv6] | epg.pw | <https://epg.pw/stream/fe8b30a1c7e5156f844801fd71e5df52d089e315fb1ee961c73f7cbd8e6d57bf.m3u8> |
 | 5 | [VGA]cctv娱乐 | epg.pw | <https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv> |
-| 6 | [BD]cctv怀旧剧场[ipv6] | epg.pw | <https://epg.pw/stream/227eac80299df061c676390e73417f0f47a7a708d5678ff7ba8e4d69b273c226.m3u8> |
+| 6 | [BD]cctv怀旧剧场[ipv6] | epg.pw | <https://epg.pw/stream/a5f52c00f4c77e44c037e7c275b3302f808389e7f7755d19f0a4213abafcba4a.m3u8> |
 | 7 | [BD]cctv风云剧场[ipv6] | epg.pw | <https://epg.pw/stream/df039bb30b077870834b618b5e1977482db049d1309cdec5dae7a5b143bbad2c.m3u8> |
 | 8 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8> |
 | 9 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/79601350798b6a2ad47c0994421918b75b1acd8c65a31793cc463397b15f03d6.m3u8> |
@@ -18,4 +18,4 @@
 | 12 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/4e8243a55098156e8ce6d9b2c3173fee20e6ef67a64808938feba9e6b2965dac.m3u8> |
 | 13 | [BD]高尔夫网球[ipv6] | epg.pw | <https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8> |
 
-Updated at **Sat Feb 10 2024 20:11:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 10 2024 22:09:57 GMT+0000 (Coordinated Universal Time)**
