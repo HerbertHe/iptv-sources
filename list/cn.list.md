@@ -20,7 +20,7 @@
 | 14 | [BD]cctv4k超高清[ipv6] | epg.pw | <https://epg.pw/stream/3a56a84746130bd7de78e2a7a8d20c043c6f01137636ff502c49fe4c996b82b8.m3u8> |
 | 15 | [BD]cctv5[ipv6] | epg.pw | <https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.m3u8> |
 | 16 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8> |
-| 17 | [BD]cctv6[ipv6] | epg.pw | <https://epg.pw/stream/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8> |
+| 17 | [BD]cctv6 | epg.pw | <https://epg.pw/stream/7f7a88a9347cb01aa4f677473f5888177b37b66db43533f8d169e637cc420f11.m3u8> |
 | 18 | [BD]cctv-7 | epg.pw | <https://epg.pw/stream/03caf9b35e5163d56a51050ff4d887f0cfc6dcb3f06a15fd287b3403dac7c310.m3u8> |
 | 19 | [BD]cctv-8 | epg.pw | <https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8> |
 | 20 | [BD]cctv9 | epg.pw | <https://epg.pw/stream/dffb0bf94d817668a2a1e69554f375454d60d8c5a13cca40472edf682b38ecbd.m3u8> |
@@ -121,8 +121,8 @@
 | 115 | [BD]镇江新闻 | epg.pw | <https://epg.pw/stream/b0e776b726b7704f5ec03c236201983be898449519d041d2661a5c0a2c55ee4a.ctv> |
 | 116 | [BD]云南康旅 | epg.pw | <https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8> |
 | 117 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
-| 118 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8> |
+| 118 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
 | 119 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/badabef8ae961dfb192cc8fcaa5cd7f4fcdd6a6d95685ccd8b77c787bdc06a6b.m3u8> |
 | 120 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Mon Feb 12 2024 20:12:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 12 2024 22:10:31 GMT+0000 (Coordinated Universal Time)**
