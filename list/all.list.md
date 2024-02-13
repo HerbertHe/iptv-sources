@@ -338,7 +338,7 @@
 | 332 | [HD]Showtime | epg.pw | <https://epg.pw/stream/731f8691725c1735caee5cb35c78c1c56bbb3cf757e723450962ba177ff2e772.ctv> |
 | 333 | [BD]SkyArts | epg.pw | <https://epg.pw/stream/bdea6379931205827ca8c2244a9a7bad13405326af649584ff202f4aaf59b0ae.ctv> |
 | 334 | [HD]Sky Atlantic | epg.pw | <https://epg.pw/stream/03140e28150335837b0fa3797d7cdd6da3fffb7e5cccb6b12a4121ce11936fab.ctv> |
-| 335 | [HD]voyager documentaries | epg.pw | <https://epg.pw/stream/4a516500587f0b7f9c5d01a0c7503b63c07ec28d69e8bb5022c312a3400cdf60.m3u8> |
+| 335 | [HD]rakuten documentaries | epg.pw | <https://epg.pw/stream/0d7277da8c0b049a6e5821c3aabbc9197a06c2f2463e8311de35bb78c02c2dc3.m3u8> |
 | 336 | [BD]Sky Movies Comedy | epg.pw | <https://epg.pw/stream/07a09149e6b03182f89a581ac32fb42a32c16d530756d66bee0e4d826a09a652.ctv> |
 | 337 | [BD]Sky Movies Drama | epg.pw | <https://epg.pw/stream/d5634ee1a67b389b6e0676820d1674e32ea82dde9a7e87cf8b6c1272da11321b.ctv> |
 | 338 | [HD]Sky Movies Premiere | epg.pw | <https://epg.pw/stream/48afce857edb3174d2bff1cc19f92e9ff71a4b615bc2b8bf116972687d83a7c7.ctv> |
@@ -1655,4 +1655,4 @@
 | 1649 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1650 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Feb 13 2024 02:17:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 13 2024 04:13:40 GMT+0000 (Coordinated Universal Time)**
