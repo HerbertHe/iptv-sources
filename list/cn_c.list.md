@@ -119,4 +119,4 @@
 | 113 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
 | 114 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Wed Feb 14 2024 14:11:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 16:14:40 GMT+0000 (Coordinated Universal Time)**
