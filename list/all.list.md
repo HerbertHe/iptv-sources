@@ -367,7 +367,7 @@
 | 361 | [SD]star movies india (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8> |
 | 362 | [HD]star vijay hd apac | epg.pw | <https://epg.pw/stream/0561d14a69cd1453e9a460b1e946df45e2960d718daf482d86d4b1b283db4d8b.ctv> |
 | 363 | [VGA]STARZ | epg.pw | <https://epg.pw/stream/72b840227e9a7cdf1a64e5af9dc3ae0ce5ad4f9c40db5d1959406601916b4b1a.ctv> |
-| 364 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/c6f01dc79122a221828514c20c919496256e32068a3be159a8cb67e6a1668b3e.ctv> |
+| 364 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/e0048f135a99a6aee5b98c8de0786dae124b212ff26467f2226eaa36c8ac199b.ctv> |
 | 365 | [BD]STARZ WEST | epg.pw | <https://epg.pw/stream/efa9b222152ed698b138d4b1edcc6235963f876841dfe4005fac5678b359143d.ctv> |
 | 366 | [SD]sun tv | epg.pw | <https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8> |
 | 367 | [HD]Sukan RTM | epg.pw | <https://epg.pw/stream/08f5ef619248041ce109398b5996b72d4612cfcb2af7ac987c4e340dbffedd5e.ctv> |
@@ -1695,4 +1695,4 @@
 | 1689 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1690 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Feb 14 2024 16:14:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 18:14:31 GMT+0000 (Coordinated Universal Time)**
