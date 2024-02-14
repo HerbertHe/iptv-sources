@@ -51,14 +51,14 @@
 | 45 | [VGA]东北戏曲频道 | epg.pw | <https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8> |
 | 46 | [BD]云南娱乐 | epg.pw | <https://epg.pw/stream/d21c80205971396e46fdcd74fce53a0310fdf32ea0e04b91ea5c414957232d11.m3u8> |
 | 47 | [BD]云南都市 | epg.pw | <https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8> |
-| 48 | [SD]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
+| 48 | [VGA]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
 | 49 | [VGA]刘德华 | epg.pw | <https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
 | 50 | [BD]北京生活 | epg.pw | <https://epg.pw/stream/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv> |
 | 51 | [BD]北京卫视 | epg.pw | <https://epg.pw/stream/d73c6843f3a6a315cd30584ac2d52f22981d87e36ec65a33840b4c47c2eee94f.m3u8> |
 | 52 | [HD]南京十八 | epg.pw | <https://epg.pw/stream/a91e5f9c99db90161b52f4424f76cf31b3d752287ae12314271d4353db99a400.m3u8> |
 | 53 | [VGA]吉林7频道 | epg.pw | <https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8> |
 | 54 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
-| 55 | [BD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
+| 55 | [HD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
 | 56 | [VGA]吉林生活 | epg.pw | <https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8> |
 | 57 | [VGA]吉林都市 | epg.pw | <https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8> |
 | 58 | [VGA]哈尔滨影 | epg.pw | <https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8> |
@@ -128,4 +128,4 @@
 | 122 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/badabef8ae961dfb192cc8fcaa5cd7f4fcdd6a6d95685ccd8b77c787bdc06a6b.m3u8> |
 | 123 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Tue Feb 13 2024 22:12:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 00:53:01 GMT+0000 (Coordinated Universal Time)**
