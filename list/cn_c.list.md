@@ -62,7 +62,7 @@
 | 56 | [BD]广东体育 | epg.pw | <https://epg.pw/stream/d26840de961946e7425e433195853c3e8fc5797fbaf2944b4d1a9ddaa1df0d22.m3u8> |
 | 57 | [HD]延边卫视 | epg.pw | <https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8> |
 | 58 | [HD]开化新闻综合 | epg.pw | <https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8> |
-| 59 | [BD]快乐垂钓 | epg.pw | <https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv> |
+| 59 | [BD]快乐垂钓[ipv6] | epg.pw | <https://epg.pw/stream/3015f7e682a36247411faf49da29f7bc765fed9a867d292e8ae10a9b2d0a2ca9.m3u8> |
 | 60 | [BD]收藏天下 | epg.pw | <https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv> |
 | 61 | [BD]文物宝库 | epg.pw | <https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
 | 62 | [BD]三新动漫 | epg.pw | <https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv> |
@@ -116,4 +116,4 @@
 | 110 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
 | 111 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Wed Feb 14 2024 18:14:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 20:12:07 GMT+0000 (Coordinated Universal Time)**
