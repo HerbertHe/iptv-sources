@@ -42,7 +42,7 @@
 | 36 | [VGA]哈尔滨娱乐 | epg.pw | <https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
 | 37 | [VGA]哈尔滨新闻综合 | epg.pw | <https://epg.pw/stream/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8> |
 | 38 | [VGA]哈尔滨生活 | epg.pw | <https://epg.pw/stream/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8> |
-| 39 | [SD]大湾区卫视 | epg.pw | <https://epg.pw/stream/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv> |
+| 39 | [SD]大湾区卫视 | epg.pw | <https://epg.pw/stream/0b369442033524237d3fe856d8e71f5b18cb1be14e29ffdbaf45fc7f5802e165.ctv> |
 | 40 | [BD]天元围棋 | epg.pw | <https://epg.pw/stream/f5d490e9c51505ba99919f48ddb84278cf3e1b10772418182e1b4f93f1a9a9d0.ctv> |
 | 41 | [HD]安多卫视 | epg.pw | <https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8> |
 | 42 | [BD]安徽公共 | epg.pw | <https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8> |
@@ -119,4 +119,4 @@
 | 113 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
 | 114 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Wed Feb 14 2024 10:12:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 12:21:00 GMT+0000 (Coordinated Universal Time)**
