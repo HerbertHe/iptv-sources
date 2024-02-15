@@ -171,4 +171,4 @@
 | 165 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 166 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Thu Feb 15 2024 04:14:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 15 2024 06:15:14 GMT+0000 (Coordinated Universal Time)**
