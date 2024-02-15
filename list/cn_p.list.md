@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [SD]内蒙古卫视 | epg.pw | <https://epg.pw/stream/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.ctv> |
+| 1 | [SD]内蒙古卫视 | epg.pw | <https://epg.pw/stream/c69c07ebfb1a297ef682671285f4c7b4d2b286e3e5fe2ede3ea1ae5e200ee934.m3u8> |
 | 2 | [BD]北京卫视[ipv6] | epg.pw | <https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8> |
 | 3 | [BD]吉林卫视[ipv6] | epg.pw | <https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
 | 4 | [BD]四川卫视[ipv6] | epg.pw | <https://epg.pw/stream/e77a3148265777fa79a8723996fd0723c7a8ddadda261121aa57ce91a7610279.m3u8> |
@@ -38,4 +38,4 @@
 | 32 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
 | 33 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/9ca1248cb879f1f8a1dad0dc59e7faa5129551175ade0b4a2bd2b503bcdd37c7.m3u8> |
 
-Updated at **Thu Feb 15 2024 20:10:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 15 2024 22:10:40 GMT+0000 (Coordinated Universal Time)**

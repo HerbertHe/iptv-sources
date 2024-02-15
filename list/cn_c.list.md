@@ -52,7 +52,7 @@
 | 46 | [VGA]定州新闻综合 | epg.pw | <https://epg.pw/stream/e4ac775539e3deda7b1f48dc307097fbcb03725429d1188b393f60124f4e05a9.m3u8> |
 | 47 | [SD]宁夏卫视[ipv6] | epg.pw | <https://epg.pw/stream/36d06a642456bafe7043aaed3e01dd7557dba0fb2072c40a91ae029700665b25.m3u8> |
 | 48 | [SD]山东教育卫视[ipv6] | epg.pw | <https://epg.pw/stream/37d74668bd39cfcf344336b7a80e0866efe1025a765fc3db9db67a039d5d1469.m3u8> |
-| 49 | [HD]山西影视 | epg.pw | <https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv> |
+| 49 | [HD]山西影视 | epg.pw | <https://epg.pw/stream/4584ccefe859cc37a21aa46b12889b020fd2a644a2c796e70b8bd46ae97947f4.ctv> |
 | 50 | [HD]平湖新闻综合 | epg.pw | <https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8> |
 | 51 | [SD]康巴卫视[ipv6] | epg.pw | <https://epg.pw/stream/69c46cd402bb53ae4607f1f6f37de46c6b798c0ce337f965929fe89a8a188993.m3u8> |
 | 52 | [VGA]广东珠江 | epg.pw | <https://epg.pw/stream/81111a99c82a329aea72b8166dfdad9e63ffdd13b49485a2f1858dd45afcad03.ctv> |
@@ -111,4 +111,4 @@
 | 105 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
 | 106 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Thu Feb 15 2024 20:10:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 15 2024 22:10:40 GMT+0000 (Coordinated Universal Time)**
