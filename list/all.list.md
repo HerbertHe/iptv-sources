@@ -1616,7 +1616,7 @@
 | 1610 | [BD]舟山新闻综合 | epg.pw | <https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8> |
 | 1611 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
 | 1612 | [BD]华视 | epg.pw | <https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8> |
-| 1613 | [BD]华语电视3 | epg.pw | <https://epg.pw/stream/353082a76519c026043f3911199f07e25f3c51e7ace07e1b37312dbe35ffb4ab.m3u8> |
+| 1613 | [VGA]华语电视3 | epg.pw | <https://epg.pw/stream/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8> |
 | 1614 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8> |
 | 1615 | [HD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8> |
 | 1616 | [SD]卫星剧场 | epg.pw | <https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8> |
@@ -1670,4 +1670,4 @@
 | 1664 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1665 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 16 2024 02:17:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 16 2024 04:13:21 GMT+0000 (Coordinated Universal Time)**
