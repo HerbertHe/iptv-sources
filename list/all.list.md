@@ -32,9 +32,9 @@
 | 26 | [HD]al jazeera hd | epg.pw | <https://epg.pw/stream/b6c29d51a1f11276edf3fcb3e44eccf16fd4cdb1f37cdf44db68383ea85bdb30.m3u8> |
 | 27 | [BD]AMC | epg.pw | <https://epg.pw/stream/6b32afa0126c2788eb46c1a3592abdc8c7608da60041e1c2ac0da12a4499c036.ctv> |
 | 28 | [VGA]ANTV | epg.pw | <https://epg.pw/stream/e53162857f009043e08d56ff51911b40ba53247998ef0deb2522c5e24ae6e064.ctv> |
-| 29 | [BD]ASSP | epg.pw | <https://epg.pw/stream/05fbce8483eca1277130d32916bfc3aa35c5afc5f1f43ea0a36770d1dbebb6fa.ctv> |
+| 29 | [HD]ASSP | epg.pw | <https://epg.pw/stream/05fbce8483eca1277130d32916bfc3aa35c5afc5f1f43ea0a36770d1dbebb6fa.ctv> |
 | 30 | [HD]ASSP2 | epg.pw | <https://epg.pw/stream/088e72a007a4a23dee20d484996fddfc5ad3e244c3f90e23ed903a4f8ef6bf02.ctv> |
-| 31 | [VGA]ASSP3 | epg.pw | <https://epg.pw/stream/7727b3cf03ce83be6dcfd1e3d15de6778937fab069325a2aeaf6f744fe709242.ctv> |
+| 31 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/7727b3cf03ce83be6dcfd1e3d15de6778937fab069325a2aeaf6f744fe709242.ctv> |
 | 32 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/792e94f5e63636752f082a246dcdd4b47d82752dce989909d3dc20bc41cc3d7f.ctv> |
 | 33 | [SD]ASTRO AOD 311 | epg.pw | <https://epg.pw/stream/ee2ddac72f0841148b7cfeb12d1c351dc7d31ab15bf5dab79eeec2f04e5604ed.ctv> |
 | 34 | [HD]ASTRO AURA | epg.pw | <https://epg.pw/stream/28c28ff0ac71b887a5bca6517989ee736182110f5f87abda6cffc4d380610d10.ctv> |
@@ -71,7 +71,7 @@
 | 65 | [HD]BABY TV | epg.pw | <https://epg.pw/stream/6e6ba71e5a39a0f046a48c597f2238974522d0518a5ea8b6cb563a987ea6b730.ctv> |
 | 66 | [BD]BBC 1 | epg.pw | <https://epg.pw/stream/68f098b1b642ef79bc9e6a9c9bff918d7384399b250f58ac4b7170fe8f6bbae1.ctv> |
 | 67 | [HD]BBC 2 | epg.pw | <https://epg.pw/stream/ba213000e690bc151b316c5820c33ce0780f563f6626ff54b577ac4b7c620dbc.ctv> |
-| 68 | [HD]BBC 3 | epg.pw | <https://epg.pw/stream/290e87d252b5a7ad5cf015917c177d04c3c8fa977fee5bffe3981b96653e6c3a.ctv> |
+| 68 | [SD]BBC 3 | epg.pw | <https://epg.pw/stream/290e87d252b5a7ad5cf015917c177d04c3c8fa977fee5bffe3981b96653e6c3a.ctv> |
 | 69 | [HD]bbc lifestyle | epg.pw | <https://epg.pw/stream/7da14b93f070bb08fd471d54b3b098f92a846aa5a5e7e3ad3ed2db54cc43014a.ctv> |
 | 70 | [HD]ช่อง bbc parliament | epg.pw | <https://epg.pw/stream/2a814ebb03a1a96753cf97e0ed0ef9b0a81c4ebb375e351a08f23c301cdc02c6.m3u8> |
 | 71 | [HD]uk - bbc two | epg.pw | <https://epg.pw/stream/72e21a29bd72e8cdb5ada76b96d6babb01cc0f30237d45941969f0af55255322.ctv> |
@@ -145,7 +145,7 @@
 | 139 | [SD]cna | epg.pw | <https://epg.pw/stream/37607c4ea8571405a231aea90fa07d78d0ac575870182574bfa054d6e5d974ba.ctv> |
 | 140 | [VGA]cnbc | epg.pw | <https://epg.pw/stream/29fb24d2b4b2a3995c73faddfa7fb4870a9a278b28c4639192942b23b3cd0c09.m3u8> |
 | 141 | [HD]cnn go | epg.pw | <https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8> |
-| 142 | [BD]CNNHD | epg.pw | <https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv> |
+| 142 | [HD]CNNHD | epg.pw | <https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv> |
 | 143 | [HD]hln | epg.pw | <https://epg.pw/stream/32960459932c42fc75b417bd52b788d195d72c289c5a07a3db3df42e08b27e00.m3u8> |
 | 144 | [BD]usa - cnn | epg.pw | <https://epg.pw/stream/77bc5f6da43098f2e60265d02b1085906e7169bf21dcda3d46462cb4659f29cc.ctv> |
 | 145 | [HD]ช่อง cp 24 | epg.pw | <https://epg.pw/stream/34ffca8c7db968bf7d76fd056079e7311b5f59b19d06d29611fd7d9b69c5bb59.m3u8> |
@@ -225,7 +225,7 @@
 | 219 | [HD]HALLMARKMOVIES&MORE | epg.pw | <https://epg.pw/stream/d82971c86603549d7391d5075611971a595dedb636e47182f4120dcf7986f0af.ctv> |
 | 220 | [BD]HBO 2 | epg.pw | <https://epg.pw/stream/90263acab607e48f4210d302e3326b98d6878136d8b7471629e925c0933fc523.ctv> |
 | 221 | [BD]HBO 2 HD USA | epg.pw | <https://epg.pw/stream/1e0f0e21fe68695f941a033bd957ae539469496447313b58cdaed9a8cb5c3e94.ctv> |
-| 222 | [BD]HBO 3 | epg.pw | <https://epg.pw/stream/15fb1aa4e40c8c729aa87d937d35f438b19c906f6db99c82e3c2abd7202bb1eb.ctv> |
+| 222 | [HD]HBO 3 | epg.pw | <https://epg.pw/stream/15fb1aa4e40c8c729aa87d937d35f438b19c906f6db99c82e3c2abd7202bb1eb.ctv> |
 | 223 | [BD]HBO Comedy | epg.pw | <https://epg.pw/stream/85d717c7b9a6f476c0fb0ae1ac31e110afdb0117b8c814ac05dbed8791370b4b.ctv> |
 | 224 | [BD]HBO East | epg.pw | <https://epg.pw/stream/b40fb8a8fbd9310417b175a9ca468b4371793dc86cb6c9953c93cf124ae661ff.ctv> |
 | 225 | [HD]hbo family | epg.pw | <https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.ctv> |
@@ -309,7 +309,7 @@
 | 303 | [SD]NICK JR. USA | epg.pw | <https://epg.pw/stream/c6e3e888f8e0824839f65f37a77d82c3854d39f77bccf2e35527bca2cc4ee43c.ctv> |
 | 304 | [VGA]now新闻台 | epg.pw | <https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv> |
 | 305 | [HD]NTV NEWS 24 | epg.pw | <https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8> |
-| 306 | [SD]NTV7 | epg.pw | <https://epg.pw/stream/66c5158f13068ed80fda9a87b3e7f1fce8488c70d18cd930a006af2eb3dd3376.ctv> |
+| 306 | [HD]NTV7 | epg.pw | <https://epg.pw/stream/66c5158f13068ed80fda9a87b3e7f1fce8488c70d18cd930a006af2eb3dd3376.ctv> |
 | 307 | [BD]srb - nat geo | epg.pw | <https://epg.pw/stream/93a63cbcb59f99d99580153e977bb6d41521d2e8eeecb8bc574981a552020407.ctv> |
 | 308 | [HD]NatGeo Wild HD | epg.pw | <https://epg.pw/stream/6e63879ed58cf1586d37ff11ad9b74e916b87372fabcdd1c7fca655aa36d6207.ctv> |
 | 309 | [HD]NatGeoHD | epg.pw | <https://epg.pw/stream/cfe75c2ed3701ff7172684a718c1e052ba9e5694b85db489c304170972bf51e3.ctv> |
@@ -358,7 +358,7 @@
 | 352 | [BD]SYFY HD USA | epg.pw | <https://epg.pw/stream/1c96dfdde9fd5f931cc6ff92b31a78f51d800fa447c5aa026204f467acb55b50.ctv> |
 | 353 | [HD]土耳其 semerkand tv | epg.pw | <https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8> |
 | 354 | [BD]Shop Channel | epg.pw | <https://epg.pw/stream/27922108050ede0f88b4e8122e0d618f3220c7198aebcc7e419cdde1c8105b0d.m3u8> |
-| 355 | [HD]Showtime | epg.pw | <https://epg.pw/stream/633ad93115741c735ad1577c5b3c97fe1fdd7e33d7bd64affa22b4cc8c6caa8a.ctv> |
+| 355 | [BD]Showtime | epg.pw | <https://epg.pw/stream/633ad93115741c735ad1577c5b3c97fe1fdd7e33d7bd64affa22b4cc8c6caa8a.ctv> |
 | 356 | [BD]SkyArts | epg.pw | <https://epg.pw/stream/bdea6379931205827ca8c2244a9a7bad13405326af649584ff202f4aaf59b0ae.ctv> |
 | 357 | [HD]rakuten documentaries | epg.pw | <https://epg.pw/stream/0d7277da8c0b049a6e5821c3aabbc9197a06c2f2463e8311de35bb78c02c2dc3.m3u8> |
 | 358 | [BD]Sky Movies Comedy | epg.pw | <https://epg.pw/stream/07a09149e6b03182f89a581ac32fb42a32c16d530756d66bee0e4d826a09a652.ctv> |
@@ -369,7 +369,7 @@
 | 363 | [HD]SkyMoviesSci-Fi&Horror | epg.pw | <https://epg.pw/stream/8105809e2bf80258aa5ed732ae3cd75ed4ffed96ba6d6af7942b85b3223bcec0.ctv> |
 | 364 | [HD]smithsonian channel | epg.pw | <https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv> |
 | 365 | [VGA]on music hd | epg.pw | <https://epg.pw/stream/0e36ad6d0f5e371875aaa6f5ffe834e80133d631cc01712976d45b951cbb7dc3.ctv> |
-| 366 | [BD]sportv | epg.pw | <https://epg.pw/stream/ea6885ed7f6229219cedc0ca114545e6fb56604b911ed4bc73a72591250d215b.ctv> |
+| 366 | [VGA]sportv | epg.pw | <https://epg.pw/stream/ea6885ed7f6229219cedc0ca114545e6fb56604b911ed4bc73a72591250d215b.ctv> |
 | 367 | [BD]sporttv 4 | epg.pw | <https://epg.pw/stream/cfc6d8565731ea0f00021cee7159fb735d8775993b8c5f5ffe985a2cba57bd9f.m3u8> |
 | 368 | [BD]pt - sporting tv hd | epg.pw | <https://epg.pw/stream/5b8e4b9287be14a820df9fdf996b5f6f54857da4833742b1b825e105846eb412.ctv> |
 | 369 | [BD]usa - sportsnet one | epg.pw | <https://epg.pw/stream/38b92c426459759ed1a175620283d6ae44410944585e1e47c92ad1ceaf2b8322.ctv> |
@@ -383,11 +383,11 @@
 | 377 | [SD]star movies india (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8> |
 | 378 | [VGA]STARZ | epg.pw | <https://epg.pw/stream/72b840227e9a7cdf1a64e5af9dc3ae0ce5ad4f9c40db5d1959406601916b4b1a.ctv> |
 | 379 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/ede0aa8e6f23205d1d21e2574d90cb431380168710782396002c9dfb60080a01.ctv> |
-| 380 | [HD]STARZ WEST | epg.pw | <https://epg.pw/stream/efa9b222152ed698b138d4b1edcc6235963f876841dfe4005fac5678b359143d.ctv> |
+| 380 | [BD]STARZ WEST | epg.pw | <https://epg.pw/stream/efa9b222152ed698b138d4b1edcc6235963f876841dfe4005fac5678b359143d.ctv> |
 | 381 | [SD]sun tv | epg.pw | <https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8> |
 | 382 | [HD]Sukan RTM | epg.pw | <https://epg.pw/stream/08f5ef619248041ce109398b5996b72d4612cfcb2af7ac987c4e340dbffedd5e.ctv> |
 | 383 | [HD]supersport premier league | epg.pw | <https://epg.pw/stream/cd442b6a74e7d52678f4f37588756c342c7d909ad231198ddbe707d2cb4ce491.ctv> |
-| 384 | [BD]supersport cricket | epg.pw | <https://epg.pw/stream/78782b466b71f72e5367066cc8c55abbdb123bfaae9284b04396a186f66f5e20.ctv> |
+| 384 | [HD]supersport cricket | epg.pw | <https://epg.pw/stream/78782b466b71f72e5367066cc8c55abbdb123bfaae9284b04396a186f66f5e20.ctv> |
 | 385 | [BD]supersport golf | epg.pw | <https://epg.pw/stream/1c29ef48b3ed686cd0343f9b3f427a5a53de03ba82f79069d70a52ffa840a1b9.m3u8> |
 | 386 | [BD]supersport football | epg.pw | <https://epg.pw/stream/7b8b7a5fceb3b96c94e02d6733bd83d74ac6e034879af6168d95e55c62d387d0.ctv> |
 | 387 | [HD]Suria | epg.pw | <https://epg.pw/stream/1a70676d38a46b933ffba6eb0868bf4348fef829da08105c80b73e8326a97972.ctv> |
@@ -467,7 +467,7 @@
 | 461 | [BD]abu dhabi sports 1 | epg.pw | <https://epg.pw/stream/6e4ddc7c086729df13e2d0fdcdc0dc06a2c9846ad029cbbbe90974edd79be975.m3u8> |
 | 462 | [BD]abu dhabi sports 2 | epg.pw | <https://epg.pw/stream/ec38534b190a177c985e3f8fc0d30a6b89a2fcbd671506f10150e3350db8a9a4.m3u8> |
 | 463 | [VGA]ace tv (kcks-ld3) (480p) | epg.pw | <https://epg.pw/stream/a97ff42d87eeb16504e073b3baac896a6fb9a036cc2ce91ddc9b707d3ccc9107.m3u8> |
-| 464 | [HD]acs network (480p) | epg.pw | <https://epg.pw/stream/9e1182b41bb7ea1bb5301fe519954a96d6f60378b8d4093917b17084e7f98b7e.m3u8> |
+| 464 | [VGA]acs network (480p) | epg.pw | <https://epg.pw/stream/9e1182b41bb7ea1bb5301fe519954a96d6f60378b8d4093917b17084e7f98b7e.m3u8> |
 | 465 | [VGA]action (kcks-ld4) (480p) | epg.pw | <https://epg.pw/stream/afd2ffafad12c705d5cf89422cd9f7bca05de070e3bae438bdb0375988a394a8.m3u8> |
 | 466 | [VGA]africable tv | epg.pw | <https://epg.pw/stream/ab24ff8731d3ce2a468a4520ae5e789a4d166625e128eecdb87b494b0e4c7f22.m3u8> |
 | 467 | [BD]agro tv | epg.pw | <https://epg.pw/stream/731d4b97fb1660b3663bfcc24de3ce5338d74f01c35a4f08e0661a1e84d4b6fb.m3u8> |
@@ -596,7 +596,7 @@
 | 590 | [VGA]capital tv | epg.pw | <https://epg.pw/stream/dc1166504303e87cb8edec04abf453fe5c03b45ff578474019e31365533137c9.m3u8> |
 | 591 | [VGA]caracol | epg.pw | <https://epg.pw/stream/e00faf8cece8cee3cb52a8ed71a7ab5b5d63a1215c88b0beb065c338c0533efd.m3u8> |
 | 592 | [VGA]cartoon network español | epg.pw | <https://epg.pw/stream/984e811148bd17e11954a6d97e90db609a5ff4bc076c0266aaeae0c556b12f78.m3u8> |
-| 593 | [VGA]cartoonito | epg.pw | <https://epg.pw/stream/92036a566b464443eb00b90db1ea81656f5de9768cd3d341f0eabb0e58c72457.m3u8> |
+| 593 | [HD]cartoonito | epg.pw | <https://epg.pw/stream/0a93dd24f9b140d3d713408454f307fb806ae81aca6b17953629225426189516.ctv> |
 | 594 | [HD]catholic tv | epg.pw | <https://epg.pw/stream/5cf197ea062993452fe142adea0d967929ecb7ec73db8547bafc5313314e2282.m3u8> |
 | 595 | [HD]cbeebies | epg.pw | <https://epg.pw/stream/11a33eaac104de2c4a8d264fdcf8405a96c6b9e033112db7ea7e422113b453f2.m3u8> |
 | 596 | [HD]cbsn | epg.pw | <https://epg.pw/stream/35377604e986b8344ed511800fb3b647b0132fd862df4067029af8d834585e49.m3u8> |
@@ -706,7 +706,7 @@
 | 700 | [HD]english club | epg.pw | <https://epg.pw/stream/b4238bcac544d89a736cc590d8ee13b39abc2767aa339720ad4756e77da606ba.m3u8> |
 | 701 | [HD]enlace | epg.pw | <https://epg.pw/stream/5cf772b35708c469600f84ea0dcc6f8b87f4b3b59b6ada315bc1a2f7ec846d73.m3u8> |
 | 702 | [VGA]español | epg.pw | <https://epg.pw/stream/5a910aacf501a123031e9f96b8e85183f9102ddb49154585678c7251129504f9.m3u8> |
-| 703 | [HD]espn | epg.pw | <https://epg.pw/stream/f9dbce75b06b31c5a32dfd8d7985366c56ba98a9ee18bf80793fd68fe38aad9c.ctv> |
+| 703 | [BD]espn | epg.pw | <https://epg.pw/stream/f9dbce75b06b31c5a32dfd8d7985366c56ba98a9ee18bf80793fd68fe38aad9c.ctv> |
 | 704 | [HD]espn 3 | epg.pw | <https://epg.pw/stream/e926c5e02b4732c880a2e19c7932f64fc52fe88137e3eaea6083d49382032750.ctv> |
 | 705 | [BD]etv | epg.pw | <https://epg.pw/stream/ad0d706af3006aab1b254f82a568778b9cdb79165631e40ed106dffaa62e4077.m3u8> |
 | 706 | [VGA]etv+ (720p) | epg.pw | <https://epg.pw/stream/9e72f6806d0aafa13e991032598b5bffeec6eb6343cd02b3ba9b9be28bc8124e.m3u8> |
@@ -724,7 +724,7 @@
 | 718 | [HD]fap tv 2 | epg.pw | <https://epg.pw/stream/23306cc9506a751c568a3de09eea89adfb2c7772214ba0be07274a3215d10121.m3u8> |
 | 719 | [HD]fap tv 3 | epg.pw | <https://epg.pw/stream/19707922f9e1cf1b9e3c22d01aeeaae54551ecad93a00d3541204ffa1569fb10.m3u8> |
 | 720 | [BD]fashion tv hd | epg.pw | <https://epg.pw/stream/01992aea4778e0b418a88940391be0a231b3f7f998aba6936dfbae4fa5b9204b.m3u8> |
-| 721 | [VGA]fashion tv pg16 | epg.pw | <https://epg.pw/stream/671c20b6cefe6e9c7c2713d4b20403fda0b8c82a92c47ca879411427cda03ebd.m3u8> |
+| 721 | [BD]fashion tv pg16 | epg.pw | <https://epg.pw/stream/671c20b6cefe6e9c7c2713d4b20403fda0b8c82a92c47ca879411427cda03ebd.m3u8> |
 | 722 | [BD]fashiontv asia | epg.pw | <https://epg.pw/stream/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8> |
 | 723 | [HD]fight | epg.pw | <https://epg.pw/stream/c2706cf86fa0a9fcf281b7c4d94255a2c2c5e5d461e7d2ff18b0b81edcdf1e04.m3u8> |
 | 724 | [BD]fight sports2 | epg.pw | <https://epg.pw/stream/50bb724d602f81749014a9361a689c84708e43e29418b92615245f2961964cf8.m3u8> |
@@ -765,7 +765,7 @@
 | 759 | [BD]global news | epg.pw | <https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8> |
 | 760 | [BD]global tv | epg.pw | <https://epg.pw/stream/c9ba0cf59817ccb6303796ff6f876d3f1ed58f8029f927364f9fd5627a7af8de.m3u8> |
 | 761 | [HD]globo news 2 | epg.pw | <https://epg.pw/stream/4df80793f7f2f4a43e100ab8d51fe9e47fbda48087719dece1325ff981974f38.ctv> |
-| 762 | [BD]globo rj | epg.pw | <https://epg.pw/stream/285e46c2721c9ee5995cc7821fde5f5ef79201ef3ba29ac05d24d8bb67c1a9cc.m3u8> |
+| 762 | [BD]globo rj | epg.pw | <https://epg.pw/stream/206ff4192437d60cfcdc667a819685a30f3a32cabdd43eac2a2189c6002adef1.m3u8> |
 | 763 | [VGA]golden | epg.pw | <https://epg.pw/stream/b357b53eddf40be550a6d3ef55bb599b7728325d0a2afc120ee130fe98afacd2.m3u8> |
 | 764 | [SD]golf network | epg.pw | <https://epg.pw/stream/ccf2003b8ce827dbb706476ff3281f9e3cc2a9ae0a4bf1ffd9b942630bd75fc7.m3u8> |
 | 765 | [BD]gr - disney junior hd | epg.pw | <https://epg.pw/stream/40e7a80d24d41fe8e593cff0652cbf7fe26dde546f41945588319facb6fc48d8.ctv> |
@@ -913,7 +913,7 @@
 | 907 | [HD]motor1 tv | epg.pw | <https://epg.pw/stream/eafc41c974e7937c1f7842175a04bce1f8c351a942687326b267c881e6f058c1.m3u8> |
 | 908 | [HD]motorvision tv | epg.pw | <https://epg.pw/stream/a640961bbcd25a8d42b27831b1d6f771c1028cf91759085b175db8281b545c71.m3u8> |
 | 909 | [BD]moviebox (1080p) | epg.pw | <https://epg.pw/stream/8fdced464653b5e11d59eb8f49685a6e9d8cf78508d842cc941640e0347e7833.m3u8> |
-| 910 | [SD]movistar liga de campeones 4 | epg.pw | <https://epg.pw/stream/605f20b8de1d0cf6e2521cf0f2b377d53c7d04b1be74d99cc24120bc212e610d.ctv> |
+| 910 | [HD]movistar liga de campeones 4 | epg.pw | <https://epg.pw/stream/605f20b8de1d0cf6e2521cf0f2b377d53c7d04b1be74d99cc24120bc212e610d.ctv> |
 | 911 | [HD]mrtv | epg.pw | <https://epg.pw/stream/aacc8e85f7e43cc7b91cab867d56b5018c8be4012534a0f19f2833ccb80aea5c.m3u8> |
 | 912 | [SD]msnbc | epg.pw | <https://epg.pw/stream/a7b1c6e3296f96e0b03c08113b6df7766e6fc6817ec65d78a6655f2d0a25ce61.m3u8> |
 | 913 | [VGA]mtv u | epg.pw | <https://epg.pw/stream/fdb3f6c44d9e32ebffd2497c287395f15846800119c5334c7b5104ad7e91009b.ctv> |
@@ -1139,7 +1139,7 @@
 | 1133 | [HD]spirit tv | epg.pw | <https://epg.pw/stream/70b2bebc94131829f221da6331d370561b53082372094600a7d3ccf35c2db7a8.m3u8> |
 | 1134 | [HD]sport club | epg.pw | <https://epg.pw/stream/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8> |
 | 1135 | [BD]sports italia | epg.pw | <https://epg.pw/stream/5fcc7bd74c511b531db9df5b759826f38e17b7ef9868cd9bf2c6a00d37238cef.m3u8> |
-| 1136 | [BD]sporttv 1 | epg.pw | <https://epg.pw/stream/47d9fe610ae0c9ce02e19cdf979de7062ce3b30b77fa10ecef3df2bac1ea401a.m3u8> |
+| 1136 | [SD]sporttv 1 | epg.pw | <https://epg.pw/stream/47d9fe610ae0c9ce02e19cdf979de7062ce3b30b77fa10ecef3df2bac1ea401a.m3u8> |
 | 1137 | [SD]sporttv 2 | epg.pw | <https://epg.pw/stream/cb635f7ff096958bc284a5dcc046dd0f3d60bdf47339d90dc0945aa8c1cffd04.m3u8> |
 | 1138 | [BD]sportv 3 | epg.pw | <https://epg.pw/stream/56e85e15fdebcb46141e068b27f878fb6f0984ac394a1fc82ebc8c1f5683bdea.ctv> |
 | 1139 | [BD]sportystuff tv | epg.pw | <https://epg.pw/stream/2702923b2b6a4f18516640b530dd756aa9f9470dc3b35dd0577f8cf7e6b772d1.m3u8> |
@@ -1378,7 +1378,7 @@
 | 1372 | [BD]vtv | epg.pw | <https://epg.pw/stream/e0eb403ba1c25de1e68f98cf87f4a3cab01058c6af42cede62a4269d3d56d925.m3u8> |
 | 1373 | [BD]vtv cần thơ hd | epg.pw | <https://epg.pw/stream/226c01154ca98a6450ead856cc846fa7f64dd59bd87a7f2a976dc0736462b5cc.ctv> |
 | 1374 | [HD]vtv1 | epg.pw | <https://epg.pw/stream/b8a06b6f1501f2fe5f9eb691aeec533051d591c60fa95d6ce59a0d897e4b1b18.m3u8> |
-| 1375 | [HD]vtv3 web | epg.pw | <https://epg.pw/stream/a93d2a1c901f1667bfbcd8f3980271d02081473fe0363fcc0c1c9497d40409a1.ctv> |
+| 1375 | [BD]vtv3 web | epg.pw | <https://epg.pw/stream/a93d2a1c901f1667bfbcd8f3980271d02081473fe0363fcc0c1c9497d40409a1.ctv> |
 | 1376 | [BD]vtv4 hd | epg.pw | <https://epg.pw/stream/307217814bb03b1778bf2f96daf65089b2bdb864e0a2e4f249854f8111338096.ctv> |
 | 1377 | [BD]vtv5 | epg.pw | <https://epg.pw/stream/b38901cede5830d9f5c4213578c3db5c697f88156d7854e462672d5c9f96cf11.ctv> |
 | 1378 | [BD]vtv8 hd | epg.pw | <https://epg.pw/stream/e161f2927d619d8e7755f224d535e61af78eefdf11a50d5be258ad795921a15b.ctv> |
@@ -1514,7 +1514,7 @@
 | 1508 | [BD]八大综合 | epg.pw | <https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8> |
 | 1509 | [SD]兵团卫视 | epg.pw | <https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8> |
 | 1510 | [SD]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
-| 1511 | [VGA]创世.电视 | epg.pw | <https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8> |
+| 1511 | [BD]创世.电视 | epg.pw | <https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8> |
 | 1512 | [BD]刘德华 | epg.pw | <https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
 | 1513 | [BD]动物星球 | epg.pw | <https://epg.pw/stream/719dcadb77ff0d2ad596e29241da6752110e8aed49a204508df88ee5a760629a.ctv> |
 | 1514 | [BD]劲爆体育 | epg.pw | <https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.m3u8> |
@@ -1784,4 +1784,4 @@
 | 1778 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1779 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 16 2024 12:20:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 16 2024 14:11:27 GMT+0000 (Coordinated Universal Time)**
