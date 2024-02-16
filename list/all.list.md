@@ -62,7 +62,7 @@
 | 56 | [SD]ASTROAOD351 | epg.pw | <https://epg.pw/stream/5d2b406b588d91d90858f1d65f2ce50e5d3354b41c9052d22acf08c7fde0ff55.ctv> |
 | 57 | [SD]ASTRO AOD 353 | epg.pw | <https://epg.pw/stream/1cf8cc19c6d4312eebaf79ba3f271dc09a0438500346cbd2f8d56a2c087d173a.ctv> |
 | 58 | [VGA]Astro Ria | epg.pw | <https://epg.pw/stream/7d015cdb6c785c972333bae9e2029f64448f3363fb86d157f537a799add840e9.ctv> |
-| 59 | [SD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/84d8e734020c28dc21d52bbea9a47bd371bbf6e3f5bfe0e3d09f2112de4814bc.ctv> |
+| 59 | [SD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/608f1a1781c4a3d0dbe327daf519dce3c128df554a89113d2e04ffcaa3e3c9db.ctv> |
 | 60 | [SD]Astro Supersports 3 | epg.pw | <https://epg.pw/stream/1a411c5dbf9e75568246f7a50053c55fff719dd0bffb3d0d79823de7abad9f85.ctv> |
 | 61 | [SD]astrotv | epg.pw | <https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8> |
 | 62 | [BD]AstroSupersports4 | epg.pw | <https://epg.pw/stream/0e84910c1bb9161c2b5ed0d29a249a81e7adf90b0176886a3061e56d9fc8bd5e.ctv> |
@@ -1670,4 +1670,4 @@
 | 1664 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1665 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 16 2024 00:51:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 16 2024 02:17:28 GMT+0000 (Coordinated Universal Time)**
