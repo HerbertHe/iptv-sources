@@ -26,7 +26,7 @@
 | 20 | [BD]cctv世界地理[ipv6] | epg.pw | <https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.m3u8> |
 | 21 | [BD]cctv 兵器科技 | epg.pw | <https://epg.pw/stream/d78828d0dc1b036e14547a19e1b91d0d8d11868dc25749fe85aadecc1e0b646a.m3u8> |
 | 22 | [SD]cctv-7国防军事 | epg.pw | <https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8> |
-| 23 | [SD]cgtn | epg.pw | <https://epg.pw/stream/c0d35b9f6a29c454deab49e5fc4e51ac0df235ee168a054a06bb6fa0c2c003e7.ctv> |
+| 23 | [BD]cgtn[ipv6] | epg.pw | <https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8> |
 | 24 | [BD]chc家庭影院 | epg.pw | <https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv> |
 | 25 | [BD]cctv 4k[ipv6] | epg.pw | <https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8> |
 | 26 | [BD]cctv 文化精品 | epg.pw | <https://epg.pw/stream/a9fe9a5ad8a956990fba5f92c67ab88ebc37ec1afdc80dfdc59fe931f0b0a927.m3u8> |
@@ -43,7 +43,7 @@
 | 37 | [BD]lntv 1 | epg.pw | <https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8> |
 | 38 | [BD]newtv武博世界[ipv6] | epg.pw | <https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8> |
 | 39 | [BD]rt documentary | epg.pw | <https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8> |
-| 40 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
+| 40 | [VGA]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
 | 41 | [BD]上海ics外语 | epg.pw | <https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.ctv> |
 | 42 | [BD]上海都市 | epg.pw | <https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8> |
 | 43 | [SD]丘北新闻综合 | epg.pw | <https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8> |
@@ -120,7 +120,7 @@
 | 114 | [HD]云南康旅 | epg.pw | <https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8> |
 | 115 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
 | 116 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
-| 117 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/badabef8ae961dfb192cc8fcaa5cd7f4fcdd6a6d95685ccd8b77c787bdc06a6b.m3u8> |
+| 117 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8> |
 | 118 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Fri Feb 16 2024 16:14:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 16 2024 18:15:12 GMT+0000 (Coordinated Universal Time)**
