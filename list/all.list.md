@@ -62,7 +62,7 @@
 | 56 | [SD]ASTRO AOD 353 | epg.pw | <https://epg.pw/stream/1cf8cc19c6d4312eebaf79ba3f271dc09a0438500346cbd2f8d56a2c087d173a.ctv> |
 | 57 | [VGA]Astro Ria | epg.pw | <https://epg.pw/stream/7d015cdb6c785c972333bae9e2029f64448f3363fb86d157f537a799add840e9.ctv> |
 | 58 | [SD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/608f1a1781c4a3d0dbe327daf519dce3c128df554a89113d2e04ffcaa3e3c9db.ctv> |
-| 59 | [HD]AstroSupersports3 | epg.pw | <https://epg.pw/stream/8eda00ccc166a6b626ac064ae2f6c59ac0c120e835679008565feb32a2572e9d.ctv> |
+| 59 | [HD]AstroSupersports3 | epg.pw | <https://epg.pw/stream/9a94e9e9a4bf6caa471f75d196cecb0657337bcef8b0dd78661a4848fa5e5ebd.ctv> |
 | 60 | [SD]astrotv | epg.pw | <https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8> |
 | 61 | [BD]AstroSupersports4 | epg.pw | <https://epg.pw/stream/c825ef958591888f782caef25c2826747dd6a0fdd124a067910e0fc29efefb97.ctv> |
 | 62 | [BD]pak - awaz news | epg.pw | <https://epg.pw/stream/446bf1b1798dbcfdd4a86d19cbbd00ec474d6407844211269ead4eef82a21681.ctv> |
@@ -269,7 +269,7 @@
 | 263 | [SD]mbs毎日放送 | epg.pw | <https://epg.pw/stream/c55fa652c99df04aee9a9f71fa9b3c1f84278457027a8b56265af180c8f49147.m3u8> |
 | 264 | [BD]mcot9 | epg.pw | <https://epg.pw/stream/0b31059fdbbfdbb738b98503b79b20d6f83f89a01c3d89721445475cc87199ff.m3u8> |
 | 265 | [HD]mcot hd | epg.pw | <https://epg.pw/stream/d8ffdf51ec0b496e6654664d881bf1d4d5e8e2d49602e7ab09e68fa3043f58ca.m3u8> |
-| 266 | [BD]MGM | epg.pw | <https://epg.pw/stream/a77464612a0b49fa3cdc3d7560a2eb9b539345f73ee7c0d265227ca0d4084e94.ctv> |
+| 266 | [BD]MGM | epg.pw | <https://epg.pw/stream/2dac00c089841b13d4f2f3ba78e13904d29a891ce0b5624d546e9575b9a21a53.ctv> |
 | 267 | [HD]MOMO2台 | epg.pw | <https://epg.pw/stream/e2e650f547d3d9c89976ba9a7278725edf29c444dce89ac455cb43563ca543c3.m3u8> |
 | 268 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 269 | [HD]momo购物1 | epg.pw | <https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8> |
@@ -370,7 +370,7 @@
 | 364 | [HD]ช่อง sportsnet ontario | epg.pw | <https://epg.pw/stream/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8> |
 | 365 | [HD]star 2 (544p) | epg.pw | <https://epg.pw/stream/569b1f53f29b4e841c4f98f869869d499b67187c2686742e2ae5804d4b6d1126.m3u8> |
 | 366 | [HD]ind - star gold hd | epg.pw | <https://epg.pw/stream/66b7234c084c929f0338b2f9296431f315ed6816dfa81d52187689dc82afcf2b.ctv> |
-| 367 | [SD]star movies india (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8> |
+| 367 | [BD]star movies select hd | epg.pw | <https://epg.pw/stream/4858987b37963b883c0132251665807c1afde1ba2300e4e950c089080ab3a10e.ctv> |
 | 368 | [VGA]STARZ | epg.pw | <https://epg.pw/stream/0587592a68d42705618ec39430c747f84c8648fceb8d27439ef2ae20901c4119.ctv> |
 | 369 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/ede0aa8e6f23205d1d21e2574d90cb431380168710782396002c9dfb60080a01.ctv> |
 | 370 | [BD]STARZ WEST | epg.pw | <https://epg.pw/stream/efa9b222152ed698b138d4b1edcc6235963f876841dfe4005fac5678b359143d.ctv> |
@@ -1741,4 +1741,4 @@
 | 1735 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1736 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Sat Feb 17 2024 16:13:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 17 2024 18:13:19 GMT+0000 (Coordinated Universal Time)**
