@@ -106,4 +106,4 @@
 | 100 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
 | 101 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Sat Feb 17 2024 06:14:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 17 2024 08:13:32 GMT+0000 (Coordinated Universal Time)**
