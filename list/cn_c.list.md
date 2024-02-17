@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]chc动作电影[ipv6] | epg.pw | <https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8> |
-| 2 | [BD]chc高清电影[ipv6] | epg.pw | <https://epg.pw/stream/4bf0157dd83a713cbe0e7d54da3dfb23bf86d76a81e00c303103633b547cd6de.m3u8> |
+| 2 | [BD]chc高清电影[ipv6] | epg.pw | <https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8> |
 | 3 | [BD]newtv中国功夫[ipv6] | epg.pw | <https://epg.pw/stream/6c9d54cf76a2d2246f6ffca3c1bc194b5e23e716247f9b29a49279278188a1fb.m3u8> |
 | 4 | [BD]newtv家庭剧场 | epg.pw | <https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8> |
 | 5 | [BD]newtv潮妈辣婆[ipv6] | epg.pw | <https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8> |
@@ -69,7 +69,7 @@
 | 63 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
 | 64 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
 | 65 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
-| 66 | [HD]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
+| 66 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
 | 67 | [HD]武汉新闻综合 | epg.pw | <https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8> |
 | 68 | [HD]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
 | 69 | [VGA]武汉电视剧 | epg.pw | <https://epg.pw/stream/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8> |
@@ -105,4 +105,4 @@
 | 99 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
 | 100 | [HD]青海综合 | epg.pw | <https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8> |
 
-Updated at **Sat Feb 17 2024 18:13:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 17 2024 20:11:09 GMT+0000 (Coordinated Universal Time)**
