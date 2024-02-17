@@ -58,10 +58,10 @@ See <https://m3u.ibert.me> to get more.
 
 ## Q&A
 
-- [How to close the github raw content proxy | 如何关闭 GitHub raw 文件代理](https://github.com/HerbertHe/iptv-sources/discussions/38)
-- [How to set the custom github raw source proxy url | 如何设置自定义 GitHub raw 文件代理地址](https://github.com/HerbertHe/iptv-sources/discussions/39)
-- [How to use `iptv-checker` feature | 如何使用 `iptv-checker` 功能](https://github.com/HerbertHe/iptv-sources/discussions/40)
-- [How to add your own rollback urls | 如何添加自己的回滚链接](https://github.com/HerbertHe/iptv-sources/discussions/41)
+- [How to close the github raw content proxy](https://github.com/HerbertHe/iptv-sources/discussions/38)
+- [How to set the custom github raw source proxy url](https://github.com/HerbertHe/iptv-sources/discussions/39)
+- [How to use `iptv-checker` feature](https://github.com/HerbertHe/iptv-sources/discussions/40)
+- [How to add your own rollback urls](https://github.com/HerbertHe/iptv-sources/discussions/41)
 
 ## Star History
 
