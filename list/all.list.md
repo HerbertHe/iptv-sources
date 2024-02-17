@@ -94,7 +94,7 @@
 | 88 | [BD]bein sports 7 | epg.pw | <https://epg.pw/stream/250f6e4ef5dd9caaafc3ef03194f04db12bb8605c2e83d83d743643307380de3.m3u8> |
 | 89 | [SD]bernama tv | epg.pw | <https://epg.pw/stream/bd533de64226b8c9f4345b2b8f408ecc7347105f67adbafe5489225629f1aeb4.ctv> |
 | 90 | [HD]euro tv | epg.pw | <https://epg.pw/stream/b2df0d3d26e078dee035963073ed89739eddefe9a7fb3aaf083e2f976db7b9b6.m3u8> |
-| 91 | [BD]BRAVO | epg.pw | <https://epg.pw/stream/f9c673cc381b6d5c5cee452c36c18fd822f2c3f7e1272c67478e2e8f56167345.ctv> |
+| 91 | [BD]BRAVO | epg.pw | <https://epg.pw/stream/ba4c7a6091a2ef2432831f52a0f9b923d19eb6372e4da82d25c5fdc457ca24b8.ctv> |
 | 92 | [BD]th bình dương | epg.pw | <https://epg.pw/stream/bb0b1e9d02d063b3d76ad502fba03f73864c19c46afdc72bcc63afad9db9dbea.m3u8> |
 | 93 | [HD]canal 24 horas (720p) | epg.pw | <https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe78e05e.m3u8> |
 | 94 | [HD]cbc news | epg.pw | <https://epg.pw/stream/ae86121ce2929cde3584f1535de29149adf5063e2a12e616564fc49cf57061e3.m3u8> |
@@ -1749,4 +1749,4 @@
 | 1743 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1744 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Sat Feb 17 2024 02:20:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 17 2024 04:15:20 GMT+0000 (Coordinated Universal Time)**
