@@ -825,6 +825,7 @@ CBS 9 Washington DC (WUSA) (1080p),https://livevideo.tegnadigital.com/wusa/v1/ma
 CBS 10 Columbus OH (WBNS) (1080p),https://lnc-wbns.tubi.video/live.m3u8
 CBS 11 Houston TX (KHOU) (1080p),https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 CBS 12 KWCH Weather Channel / Always On Storm Team 12,https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
+CBS News Texas (720p),https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 CBS Sports Golazo Network,https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 CCI,http://stream.flynetwifi.com:1935/live/mobile-144/playlist.m3u8
 CCMA Exclusiu 1 (1080p) [Not 24/7],https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
@@ -1229,7 +1230,6 @@ Explore By TVPlayer (720p),https://alchimie-explorebytvplayer-fr-rakuten.amagi.t
 Exploris (576p) [Not 24/7],http://89.38.8.130:39419
 Expresión TV (1080p),https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 Exprezión TV (720p),https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-External Ottera (720p),https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 Ezo TV (576p) [Not 24/7],http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
 Faith TV Kenya (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8
 Fajar TV (240p) [Not 24/7],http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
@@ -1294,7 +1294,7 @@ FOX 13 Tampa Bay FL (WTVT) (720p),https://lnc-wtvt.tubi.video/index.m3u8
 Fox 15 West Texas Abilene TX (KXVA),https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 FOX 17 Grand Rapids MI (WXMI) (720p),https://lnc-wxmi.tubi.video/playlist.m3u8
 FOX 23 Tulsa OK (KOKI) (720p),https://lnc-koki3.tubi.video/playlist.m3u8
-FOX 25 Boston MA (WFXT) (720p),https://lnc-wfxt.tubi.video/playlist.m3u8
+Fox 25 Boston (WFXT-TV),https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 FOX 29 Philadelphia PA (WTXF-TV) (720p),https://lnc-wtxf.tubi.video/index.m3u8
 FOX 32 Chicago IL (WFLD) (720p),https://lnc-wfld.tubi.video/index.m3u8
 FOX 35 Orlando FL (WOFL) (720p),https://lnc-wofl.tubi.video/index.m3u8
@@ -2202,6 +2202,7 @@ NBC 6 Corpus Christi TX (KRIS) (720p),https://lnc-kris.tubi.video/playlist.m3u8
 NBC 6 New Orleans LA (WDSU) (720p),https://lnc-wdsu.tubi.video/playlist.m3u8
 NBC 8 Portland OR (KGW) (1080p),https://lnc-kgw.tubi.video/live.m3u8
 NBC 9 Denver CO (KUSA-DT1) (1080p),https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+NBC 10 Providence MA (1080p),https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 NBC 11 Atlanta GA (1080p),https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
 NBC 11 Baltimore MD (WBAL) (720p),https://lnc-wbal.tubi.video/playlist.m3u8
 NBC 11 Minneapolis / St Paul MN (KARE) (1080p),https://lnc-kare.tubi.video/live.m3u8
@@ -6906,7 +6907,6 @@ CBS News Bay Area (720p),https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1ab
 CBS News Boston (720p),https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 CBS News Chicago (720p),https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 CBS News Colorado (720p),https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-CBS News Dallas Ft Worth (720p),https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 CBS News Detroit (720p),https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 CBS News Los Angeles (720p),https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 CBS News Miami (720p),https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
@@ -6915,7 +6915,7 @@ CBS News National (720p),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8
 CBS News New York (720p),https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 CBS News Philadelphia (720p),https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 CBS News Pittsburgh (720p),https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-CBS News Sacramento (720p),https://lineup.play.cbsi.video/h/l/2.QTMMXJit-VETT1URe3SXg4aABw78mJDwS0VfXJZrx1nJAa56U-hI7f-foc7qii2JzAokCXR2tklwNM_j0WexoWsB09DQmaPaLp-xxz-Ip93vAIwRs9tc/master.m3u8
+CBS News Sacramento (720p),https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-13 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
@@ -6977,6 +6977,7 @@ Ekushey TV (480p),https://ekusheyserver.com/etvlivesn.m3u8
 El Confidencial TV (1080p),https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 EL PAÍS TV (1080p),https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 Enlight News (1080p),https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
+Entertainment Tonight (720p),https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 Erbol (720p),https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 ERT News (1080p),https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 Estrella News (1080p),https://estrella-news-oando.amagi.tv/playlist.m3u8
@@ -7244,6 +7245,7 @@ Plena TV (720p),https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist
 Ploiesti TV (1080p),https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 Plus TV (720p) [Not 24/7],https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 Pluto TV Blaze Live (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
+Pluto TV CBSN Dallas TX (720p),https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8
 Pluto TV News (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
 Pluto TV TYT Network (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 PNN News (720p),https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
@@ -8413,9 +8415,10 @@ Cocoro (1080p),https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.am
 Cúla4 (1080p),https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 Discovery Kids FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 Discovery Kids FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+Disney Channel,http://38.96.178.201/live/Disney/index.m3u8
 Disney Channel Japan (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 Disney Junior (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-Disney XD (576p),https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 Duck TV (720p),https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
 EBC YOYO (720p),https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 EBS kids (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
