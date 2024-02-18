@@ -10,7 +10,7 @@
 | 4 | CCTV-4 中文国际 | 中国移动陕西 | <http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8> |
 | 5 | CCTV-5 体育 | 中国移动陕西 | <http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8> |
 | 6 | CCTV-5+ 体育赛事 | 中国移动陕西 | <http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8> |
-| 7 | CCTV-6 电影 | 中国移动陕西 | <http://[2409:8087:7000:20::15]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8> |
+| 7 | CCTV-6 电影 | 中国移动陕西 | <http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8> |
 | 8 | CCTV-7 国防军事 | 中国移动陕西 | <http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8> |
 | 9 | CCTV-8 电视剧 | 中国移动陕西 | <http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8> |
 | 10 | CCTV-9 纪录 | 中国移动陕西 | <http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8> |
@@ -59,7 +59,7 @@
 | 53 | 甘肃卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8> |
 | 54 | 吉林卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
 | 55 | 云南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8> |
-| 56 | 三沙卫视 | IPv6 直链 | <http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS> |
+| 56 | 三沙卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8> |
 | 57 | 青海卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8> |
 | 58 | 新疆卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8> |
 | 59 | 西藏卫视 | 中国移动陕西 | <http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8> |
@@ -173,4 +173,4 @@
 | 167 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 168 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Sun Feb 18 2024 14:09:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 18 2024 16:13:44 GMT+0000 (Coordinated Universal Time)**
