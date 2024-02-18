@@ -104,4 +104,4 @@
 | 98 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8> |
 | 99 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8> |
 
-Updated at **Sun Feb 18 2024 02:19:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 18 2024 04:14:51 GMT+0000 (Coordinated Universal Time)**
