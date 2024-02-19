@@ -109,4 +109,4 @@
 | 103 | [BD]金鹰卡通 | epg.pw | <https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8> |
 | 104 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8> |
 
-Updated at **Mon Feb 19 2024 00:53:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 19 2024 02:19:16 GMT+0000 (Coordinated Universal Time)**
