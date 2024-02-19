@@ -332,7 +332,7 @@
 | 326 | [VGA]qs24.tv | epg.pw | <https://epg.pw/stream/0c4a4c6521c39d24a64a8f2fe10f6a2515e90314489ae7bdbf6eec911b7695c4.m3u8> |
 | 327 | [HD]sbs | epg.pw | <https://epg.pw/stream/9ad973e2cc77208d65cbb937822f92566f2357ce2e9d85a775a96b2ec15ac2a2.m3u8> |
 | 328 | [BD]sctv15 hd | epg.pw | <https://epg.pw/stream/4e80e330d2b724e6c3167e5ad30ed21b10872c292550dc075ba9d96a3b6bc7ed.m3u8> |
-| 329 | [HD]SKY CINEMA SCI-FI | epg.pw | <https://epg.pw/stream/7a683034b22c5fdad36ce1b6257992f61dbb55d75d0f76790552f96ed59d0f42.ctv> |
+| 329 | [HD]SKY CINEMA SCI-FI | epg.pw | <https://epg.pw/stream/24d516989b674184549a27a4f19b7bf8250ce465f77ccb45e627c93bc730a2ca.ctv> |
 | 330 | [HD]SKY CINEMA SELECT HD | epg.pw | <https://epg.pw/stream/7d3b4b3bba1a831e2287e2b417467db5fbee348727e5b9ebc0d2aae23707b224.ctv> |
 | 331 | [BD]SKY CINEMA THRILLER | epg.pw | <https://epg.pw/stream/8fdee04bd81b0e8849e902d89d3059e44da6d45881216032615f146b9b59a931.ctv> |
 | 332 | [BD]SKYCRIME | epg.pw | <https://epg.pw/stream/76523ab8f4546f7de4c3791e80e1090a6784ace512ecc3c9d446a35cd766d426.ctv> |
@@ -349,7 +349,7 @@
 | 343 | [BD]SYFY HD USA | epg.pw | <https://epg.pw/stream/1c96dfdde9fd5f931cc6ff92b31a78f51d800fa447c5aa026204f467acb55b50.ctv> |
 | 344 | [HD]土耳其 semerkand tv | epg.pw | <https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8> |
 | 345 | [BD]Shop Channel | epg.pw | <https://epg.pw/stream/27922108050ede0f88b4e8122e0d618f3220c7198aebcc7e419cdde1c8105b0d.m3u8> |
-| 346 | [HD]Showtime | epg.pw | <https://epg.pw/stream/bf247a3e333c04577e1d8dc48d0b003c089846713570c087d6046b0f14cd6fb8.ctv> |
+| 346 | [HD]Showtime | epg.pw | <https://epg.pw/stream/633ad93115741c735ad1577c5b3c97fe1fdd7e33d7bd64affa22b4cc8c6caa8a.ctv> |
 | 347 | [BD]Sky Arts | epg.pw | <https://epg.pw/stream/60e7061027cf6c826ccdc08c4f120844a4a622c38a5df9100cbf015d82855d7b.ctv> |
 | 348 | [BD]Sky Atlantic | epg.pw | <https://epg.pw/stream/7b71be67e63f4f5df429205e2d46c696b16e5d7128d326e490c89677cdbdc3c7.ctv> |
 | 349 | [HD]rakuten documentaries | epg.pw | <https://epg.pw/stream/0d7277da8c0b049a6e5821c3aabbc9197a06c2f2463e8311de35bb78c02c2dc3.m3u8> |
@@ -373,7 +373,7 @@
 | 367 | [HD]ind - star gold hd | epg.pw | <https://epg.pw/stream/66b7234c084c929f0338b2f9296431f315ed6816dfa81d52187689dc82afcf2b.ctv> |
 | 368 | [HD]star movies select hd | epg.pw | <https://epg.pw/stream/4858987b37963b883c0132251665807c1afde1ba2300e4e950c089080ab3a10e.ctv> |
 | 369 | [VGA]STARZ | epg.pw | <https://epg.pw/stream/a573ef3774661d5af930cb568d73360f529f70dc707dbcc4dafe178942668759.ctv> |
-| 370 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/100f3824c1c9a05f1041981c122b2a9ca477aaae89bc8662acc3baab77f2f748.ctv> |
+| 370 | [HD]STARZ ENCORE | epg.pw | <https://epg.pw/stream/ea40366b2f5c0d1d92f817ed2938641a38d58a3596489f9afa10aa157ba52816.ctv> |
 | 371 | [BD]STARZ WEST | epg.pw | <https://epg.pw/stream/efa9b222152ed698b138d4b1edcc6235963f876841dfe4005fac5678b359143d.ctv> |
 | 372 | [SD]sun tv | epg.pw | <https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8> |
 | 373 | [HD]Sukan RTM | epg.pw | <https://epg.pw/stream/08f5ef619248041ce109398b5996b72d4612cfcb2af7ac987c4e340dbffedd5e.ctv> |
@@ -1754,4 +1754,4 @@
 | 1748 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1749 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Mon Feb 19 2024 16:15:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 19 2024 18:15:10 GMT+0000 (Coordinated Universal Time)**
