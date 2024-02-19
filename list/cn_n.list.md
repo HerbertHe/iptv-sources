@@ -14,6 +14,5 @@
 | 8 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8> |
 | 9 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 10 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
-| 11 | [BD]高尔夫网球[ipv6] | epg.pw | <https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8> |
 
-Updated at **Mon Feb 19 2024 18:15:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 19 2024 20:12:02 GMT+0000 (Coordinated Universal Time)**
