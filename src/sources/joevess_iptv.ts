@@ -8,7 +8,9 @@ export const joevess_iptv_filter: ISource["filter"] = (
 ): [string, number] => {
     const rawArray = handle_m3u(raw)
 
-    rawArray.unshift("#EXTM3U")
+    if (!/#EXTM3U/.test(rawArray[0])) {
+        rawArray.unshift("#EXTM3U")
+    }
 
     if (caller === "normal" && collectFn) {
         for (let i = 1; i < rawArray.length; i += 2) {
