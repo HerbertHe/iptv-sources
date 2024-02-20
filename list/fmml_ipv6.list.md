@@ -55,7 +55,7 @@
 | 49 | 黑龙江卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8> |
 | 50 | 内蒙古卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8> |
 | 51 | 宁夏卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8> |
-| 52 | 陕西卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8> |
+| 52 | 陕西卫视 | 中国移动陕西 | <http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8> |
 | 53 | 甘肃卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8> |
 | 54 | 吉林卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
 | 55 | 云南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8> |
@@ -173,4 +173,4 @@
 | 167 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 168 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Tue Feb 20 2024 14:10:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 20 2024 16:14:42 GMT+0000 (Coordinated Universal Time)**
