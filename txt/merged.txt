@@ -1022,7 +1022,7 @@ Generic,#genre#
 [BD]tv1 kg,https://epg.pw/stream/1879071a4e9c399faf05927c89a887b14bb54ad6e3648d8a34eefbc2df33066c.m3u8
 [BD]tv3 [geo-blocked],https://epg.pw/stream/d7381f468d6c35ddfed307197e94085260b358ff6cfb03a67e304f67f85d5f12.m3u8
 [BD]tv5,https://epg.pw/stream/ac5defa09b85dd6965c88ba29fea5f87efa3abe7bdb77417ba6e067b1bc83bdd.m3u8
-[VGA]tv5monde asie,https://epg.pw/stream/b5bfa7bb6124d1113fd3b4c601ade948498d3de9632feb8d4bd70e56c13e175b.m3u8
+[VGA]tv5monde,https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
 [BD]tvb thai,https://epg.pw/stream/d6b32348111a75fa6fc1a0b4d2886940fecca1cc0564dda1228cde6551664b9f.m3u8
 [VGA]tve,https://epg.pw/stream/4c90d501c3b03de296f86393c4044847389459c61ae1ad384d381a60ea0d0357.m3u8
 [BD]tvikim,https://epg.pw/stream/b97255cbfb94c3e2682dfb845840b37106f009a16a4736a3b6bd0007e9e31c5a.m3u8
@@ -1235,7 +1235,7 @@ Movie,#genre#
 [BD]hbo hd,https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.m3u8
 [BD]HBO HD USA,https://epg.pw/stream/46b122f4e278d4c60906dbcd7cf91ff5acddd768291fb32031ccdeab085838c7.ctv
 [BD]usa - hbo signature,https://epg.pw/stream/d87da199b7f83c8678bcc3992c4b3e8d7cca6440ecf47c75a3897f1a4c09a37c.ctv
-[BD]HBO Signature,https://epg.pw/stream/8c60a0c9581099b9d000cf3d69a3149c00475d2874aa6c0260e9ff0983e4d827.ctv
+[HD]HBO SIGNATURE USA,https://epg.pw/stream/4425c7ed9cb5e9c60ef88743f04f2333aa1ef394f9f3390abb89d94333327188.ctv
 [HD]HBO WEST,https://epg.pw/stream/25f4e27f23b7be89d410811883afb4fb6b7828b662aea45bb804a2bc4fc195b7.ctv
 [BD]HBO ZONE USA,https://epg.pw/stream/4469ad5ca3e1c323b960dd1b068d18e9874db2ca856d000fbc51e9c104db0db6.ctv
 [BD]myx philippines,https://epg.pw/stream/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8
@@ -1684,6 +1684,7 @@ Cartoon,#genre#
 [BD]cctv14[ipv6],https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8
 [BD]cartoon network hd,https://epg.pw/stream/fb97df2a2b8aa7d512889360bdb9f1a733404a0d711573a69717228eee0f9e40.m3u8
 [HD]concord tv (concord ca) (720p),https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
+[HD]DISNEY XD,https://epg.pw/stream/10b7ed9e437ce79a726f2f648e89a561ceb0c4e042aebafb9d764362f5ca3308.ctv
 [HD]DISNEYJR,https://epg.pw/stream/fec42bc18dbefe5013371cd21277a994f2f2630b59019326322882b080b53963.ctv
 [HD]DISNEYJUNIOR,https://epg.pw/stream/96a5b7531bd5ee6f46ca731dc7bb8b14a64055ecac33f2eba587f610907b3ff0.ctv
 [SD]pt - disney channel,https://epg.pw/stream/080b51f203505c95f5030b970b81ff5ba2fb443f40d21f4ce3b04b37a23e1069.ctv
@@ -1707,7 +1708,6 @@ Cartoon,#genre#
 [BD]cúla4,https://epg.pw/stream/e637cbc4dacfd00b5b64e2c9c53e691c3843d898b535a869b020d8df2aafb4ae.m3u8
 [HD]discovery family,https://epg.pw/stream/e76004653735ef3e5bc731d698978ed3b23154e2e09c12f0a5519d059599e859.ctv
 [SD]disney channel japan,https://epg.pw/stream/bdb4cf3eb5c122d017fdaf589787d6393299baa620b05b81e4fbc4ab7a884722.m3u8
-[BD]disney xd,https://epg.pw/stream/a7c0a32f424450ca2f3ad7c6237c94fa6c61e1e81d1d5baf34f9c4d72e9c27e7.m3u8
 [SD]dk - disney junior,https://epg.pw/stream/8149397352177a684d79058f58a4a08f9c30c47ed7274f373101ae24d9536719.ctv
 [SD]dk - dr ramasjang hd,https://epg.pw/stream/9cf84557aaadfd4648dc7785a9eefedb56f8a81cd3d3028ca5e95bc85e913363.ctv
 [HD]ducktv hd,https://epg.pw/stream/d58d213489601c297ab5501337a1a043d28da1aa731211bfd8207b47fafe39be.m3u8
