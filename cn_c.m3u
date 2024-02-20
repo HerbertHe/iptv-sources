@@ -27,8 +27,6 @@ https://epg.pw/stream/a39d2f506a1d61aff55547242c58f67499e74fd9cc0b6560f2cefd3409
 https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="14185" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510150751993281_49.jpg" group-title="运动",[BD]五星体育
 https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
-#EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225428953453_32.jpg" group-title="动画",[SD]优漫卡通
-https://epg.pw/stream/5b74aacf91c14d4158f416e5082ca566dfcfa140b7b5abf3dc121bc935b08a26.m3u8
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161624183518_95.jpg" group-title="综合",[BD]内蒙古农牧
 https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="13901" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161153317523_67.jpg" group-title="其它",[SD]兵团卫视
@@ -71,10 +69,6 @@ https://epg.pw/stream/0b369442033524237d3fe856d8e71f5b18cb1be14e29ffdbaf45fc7f58
 https://epg.pw/stream/f5d490e9c51505ba99919f48ddb84278cf3e1b10772418182e1b4f93f1a9a9d0.ctv
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/01/15/large/20220115214146158986_19.png" group-title="综合",[SD]安多卫视[ipv6]
 https://epg.pw/stream/8e4f0385cec55d0651e098bc548a52dd8948995d4c052205c8667df425adb6c9.m3u8
-#EXTINF:-1 tvg-name="安徽公共" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530223544915084_16.jpg" group-title="综合",[BD]安徽公共
-https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8
-#EXTINF:-1 tvg-name="安徽国际" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530223652260036_17.jpg" group-title="综合",[BD]安徽国际
-https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
 #EXTINF:-1 tvg-name="安徽影视" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530223930402517_98.jpg" group-title="电影",[BD]安徽影视
 https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224034792412_80.jpg" group-title="综艺",[BD]安徽综艺体育
@@ -85,7 +79,7 @@ https://epg.pw/stream/af542df52a4128f36bece82b0a65ccd7cf8db5dc36951fe04bd4e656d0
 https://epg.pw/stream/e4ac775539e3deda7b1f48dc307097fbcb03725429d1188b393f60124f4e05a9.m3u8
 #EXTINF:-1 tvg-name="家庭理财" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509234235220399_96.png" group-title="其它",[SD]家庭理财[ipv6]
 https://epg.pw/stream/afac0d0bdc21669916177cb09ef2e76ed21359a3a0eeaa0715970726b0a8fe49.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="13894" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg" group-title="其它",[VGA]宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="13894" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg" group-title="其它",[SD]宁夏卫视
 https://epg.pw/stream/36d06a642456bafe7043aaed3e01dd7557dba0fb2072c40a91ae029700665b25.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719115915514158_88.jpg" group-title="其它",[SD]山东教育
 https://epg.pw/stream/ef6f085eb305d8ac9cbfe8900b1d25a5a889df1745a561fdee1a0d2d11ac8add.m3u8
@@ -116,7 +110,7 @@ https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c02
 #EXTINF:-1 tvg-name="旅行者" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="其它",[SD]置业[ipv6]
 https://epg.pw/stream/d5074fdd6fd5bee2bde0efd71f95200078599c9c4e088e255e3521e0aa0b5678.m3u8
 #EXTINF:-1 tvg-name="晋城新闻" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_246.jpg" group-title="新闻",[BD]晋城新闻
-https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8
+https://epg.pw/stream/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605005855118868_86.jpg" group-title="新闻",[SD]东方财经
 https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.ctv
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514170333461314_55.jpg" group-title="其它",[HD]上海|东方购物
