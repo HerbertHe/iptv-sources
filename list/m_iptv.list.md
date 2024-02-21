@@ -102,7 +102,7 @@
 | 96 | 第一财经 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8> |
 | 97 | 武术世界 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s> |
 | 98 | 文物宝库 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ> |
-| 99 | 梨园 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
+| 99 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
 | 100 | 天元围棋 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8> |
 | 101 | 弈坛春秋 | IPv6 直链 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 102 | 劲爆体育 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
@@ -165,12 +165,12 @@
 | 159 | 陕西公共 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 160 | 陕西体育休闲 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 161 | 陕西西部电影 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 162 | 黑龙江新闻法治 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8> |
-| 163 | 黑龙江文体 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8> |
-| 164 | 黑龙江影视 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/hljys_hd.m3u8> |
-| 165 | 黑龙江都市 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/dushi_hd.m3u8> |
-| 166 | 黑龙江公共农村 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8> |
-| 167 | 黑龙江少儿 | idclive.hljtv.com:4430 | <https://idclive.hljtv.com:4430/live/hljse_hd.m3u8> |
+| 162 | 黑龙江新闻法治 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8> |
+| 163 | 黑龙江文体 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8> |
+| 164 | 黑龙江影视 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8> |
+| 165 | 黑龙江都市 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8> |
+| 166 | 黑龙江公共农村 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8> |
+| 167 | 黑龙江少儿 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8> |
 | 168 | NewTV军事评论 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8> |
 | 169 | NewTV军旅剧场 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8> |
 | 170 | NewTV家庭剧场 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8> |
@@ -231,4 +231,4 @@
 | 225 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 226 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Wed Feb 21 2024 14:10:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 21 2024 16:15:15 GMT+0000 (Coordinated Universal Time)**
