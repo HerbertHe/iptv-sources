@@ -138,4 +138,4 @@
 | 132 | 高网 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.88:4120> |
 | 133 | 魅力时尚 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.196:9012> |
 
-Updated at **Thu Feb 22 2024 20:11:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 22 2024 22:10:51 GMT+0000 (Coordinated Universal Time)**
