@@ -48,7 +48,7 @@
 | 42 | [HD]山西影视 | epg.pw | <https://epg.pw/stream/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8> |
 | 43 | [HD]平湖新闻综合 | epg.pw | <https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8> |
 | 44 | [SD]康巴卫视 | epg.pw | <https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8> |
-| 45 | [HD]万州综合频道 | epg.pw | <https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86009618.m3u8> |
+| 45 | [SD]万州综合频道 | epg.pw | <https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86009618.m3u8> |
 | 46 | [VGA]广东珠江 | epg.pw | <https://epg.pw/stream/81111a99c82a329aea72b8166dfdad9e63ffdd13b49485a2f1858dd45afcad03.ctv> |
 | 47 | [BD]广东体育 | epg.pw | <https://epg.pw/stream/d26840de961946e7425e433195853c3e8fc5797fbaf2944b4d1a9ddaa1df0d22.m3u8> |
 | 48 | [SD]延边卫视 | epg.pw | <https://epg.pw/stream/8513d45e18cb11230fa6cf876c3420e6f9ab9a09ced9b0b849641eb890783727.ctv> |
@@ -103,4 +103,4 @@
 | 97 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8> |
 | 98 | [BD]魅力足球 | epg.pw | <https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8> |
 
-Updated at **Wed Feb 21 2024 22:10:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 22 2024 00:51:43 GMT+0000 (Coordinated Universal Time)**
