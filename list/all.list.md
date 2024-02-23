@@ -122,7 +122,7 @@
 | 116 | [HD]bein sports english 1 | epg.pw | <https://epg.pw/stream/674e8ed1471520344561a71b7adebc02889cb0894bfdad7940582912d27241f1.ctv> |
 | 117 | [BD]bein sports 7 | epg.pw | <https://epg.pw/stream/250f6e4ef5dd9caaafc3ef03194f04db12bb8605c2e83d83d743643307380de3.m3u8> |
 | 118 | [BD]bernama tv | epg.pw | <https://epg.pw/stream/c8ff2091a81e5261947f36b4209a48398e9ee6cbf1d41f0aeadc10b45f4de431.m3u8> |
-| 119 | [BD]euro tv | epg.pw | <https://epg.pw/stream/d91bd2076c882eb5fe1a7b1763cd935e4fe14f0a12c6a40685945653b62e682e.m3u8> |
+| 119 | [HD]euro tv | epg.pw | <https://epg.pw/stream/d91bd2076c882eb5fe1a7b1763cd935e4fe14f0a12c6a40685945653b62e682e.m3u8> |
 | 120 | [BD]BRAVO | epg.pw | <https://epg.pw/stream/b5740aa4c5aa4daced3371a50363f54324e60faa8fcab01e61ddeb83448c1b7e.ctv> |
 | 121 | [BD]th bình dương | epg.pw | <https://epg.pw/stream/bb0b1e9d02d063b3d76ad502fba03f73864c19c46afdc72bcc63afad9db9dbea.m3u8> |
 | 122 | [HD]canal 24 horas (720p) | epg.pw | <https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe78e05e.m3u8> |
@@ -236,7 +236,7 @@
 | 230 | [SD]pt - fox crime hd | epg.pw | <https://epg.pw/stream/16e63a159bb00692571b15ada708ce520b4509e5f33f3c8990a8f853c0fccbb1.ctv> |
 | 231 | [VGA]fox deportes | epg.pw | <https://epg.pw/stream/9b07a04a4b036b2dbb7f5bb65198fd97fe49002d024b2e87e2071cd2cb09f3d6.m3u8> |
 | 232 | [HD]ช่อง rakuten family movies | epg.pw | <https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8> |
-| 233 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/3f658f6e47f126e0e1f675a028bbe2dc2afba1632a47ebeacad0a386903451e1.ctv> |
+| 233 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/9d7bfa841a747b3f705d4bd5ba08055904beb2bc20e5120d88bc7f4db93b6031.ctv> |
 | 234 | [HD]fox newsnow | epg.pw | <https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8> |
 | 235 | [HD]fox sports 2 | epg.pw | <https://epg.pw/stream/c8acfc50c21a5ce9604c4de5efda74fc26d2f063ac6efa3251e2ad4456629b7d.ctv> |
 | 236 | [HD]fox sports501 | epg.pw | <https://epg.pw/stream/2a7376615faeed501d596d0e9dc03c9a05de386028bb2edd04d09b00cb1c8a71.ctv> |
@@ -318,7 +318,7 @@
 | 312 | [HD]momo购物1 | epg.pw | <https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8> |
 | 313 | [HD]momo购物2 | epg.pw | <https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8> |
 | 314 | [SD]MTVBASE | epg.pw | <https://epg.pw/stream/74ebea33be7a94594b9ddbb05f038a7e8be52825a10e13317049b18190297248.ctv> |
-| 315 | [HD]mtv japan | epg.pw | <https://epg.pw/stream/5b3e352681f781902e4f601dab54a0da8dccbd2bcf3dfef190d71116a4a7050a.m3u8> |
+| 315 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/5b3e352681f781902e4f601dab54a0da8dccbd2bcf3dfef190d71116a4a7050a.m3u8> |
 | 316 | [SD]MTV LIVE | epg.pw | <https://epg.pw/stream/dd07a12840a29e57114c3a18aed24c58a2625468c0f5957e545888efd3234978.ctv> |
 | 317 | [BD]pulse | epg.pw | <https://epg.pw/stream/51374f9efdf28566886b4c59d88b64c44be4726f0720d7855818ac9be177b1d2.m3u8> |
 | 318 | [SD]MTV ROCKS | epg.pw | <https://epg.pw/stream/8bbe763a8bd33e83b7d1b1036c5c02e75d769413793968e95c9a336a226a431e.ctv> |
@@ -354,8 +354,8 @@
 | 348 | [BD]newtv超级电影[ipv6] | epg.pw | <https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8> |
 | 349 | [BD]newsmaxtv | epg.pw | <https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8> |
 | 350 | [BD]nippon tv | epg.pw | <https://epg.pw/stream/eedb373e7b426e3827d80ec4b2acd8de4bdd1425b8bae5a1237fad6862099c0a.ctv> |
-| 351 | [HD]OH!K | epg.pw | <https://epg.pw/stream/01ad11bccfa469efa83fd8b1a7763093a9f3a1e9b5d4973e35620777effb49ec.ctv> |
-| 352 | [BD]ortm 1 | epg.pw | <https://epg.pw/stream/15592adadf1d69c85567b2ca51666ec2584ede123ab37275bcedf3b49cc77252.m3u8> |
+| 351 | [HD]OH!K | epg.pw | <https://epg.pw/stream/62616104cc8d88ddb7898158b6768c20759c33101b8aa64e33fecc4b9d454de5.ctv> |
+| 352 | [HD]ortm 1 | epg.pw | <https://epg.pw/stream/15592adadf1d69c85567b2ca51666ec2584ede123ab37275bcedf3b49cc77252.m3u8> |
 | 353 | [BD]crime time hd | epg.pw | <https://epg.pw/stream/09d85a12a52fdbcd51fe2067944c210448c6535f8da89cceab2aefc1db3dd4e7.m3u8> |
 | 354 | [VGA]paramount network | epg.pw | <https://epg.pw/stream/d32cffa54f4df8aa05f1f3450cc1cadd297cf81fec0d94850df7b4c3fbd7e921.m3u8> |
 | 355 | [BD]tvb pearl | epg.pw | <https://epg.pw/stream/3ce97e80d81f8f3a2626acb024afe18285832eb51c609946e365a9974ef74cba.ctv> |
@@ -380,7 +380,7 @@
 | 374 | [HD]regio tv stuttgart | epg.pw | <https://epg.pw/stream/43ec7d86bb7f0dcf43b0e26ecbc45faa2e27d23fa09225461426279372351626.m3u8> |
 | 375 | [HD]runtime ação | epg.pw | <https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8> |
 | 376 | [VGA]m24 tv | epg.pw | <https://epg.pw/stream/2deb5d2906fa800ebd514291820ced8c086f8e2a118e834e77dec28c8857908b.m3u8> |
-| 377 | [BD]sbs_ | epg.pw | <https://epg.pw/stream/34604075760f4c1822b1fed6112bf09845a6a8e96c6901ae6495468366326a48.m3u8> |
+| 377 | [HD]sbs_ | epg.pw | <https://epg.pw/stream/34604075760f4c1822b1fed6112bf09845a6a8e96c6901ae6495468366326a48.m3u8> |
 | 378 | [BD]sctv15 hd | epg.pw | <https://epg.pw/stream/4e80e330d2b724e6c3167e5ad30ed21b10872c292550dc075ba9d96a3b6bc7ed.m3u8> |
 | 379 | [HD]SKY CINEMA SCI-FI | epg.pw | <https://epg.pw/stream/45d5a9a47a39866df993ed702f73366be9c54eb059dbe5fa971c0da99bfe9d30.ctv> |
 | 380 | [BD]SKY CINEMA THRILLER | epg.pw | <https://epg.pw/stream/9cfacde787c5388331beeb8fc74d3a7366859f329a39472fdd5b44a91ac04e36.ctv> |
@@ -1169,7 +1169,7 @@
 | 1163 | [SD]panamericana tv | epg.pw | <https://epg.pw/stream/ca94b145fec8c454bbc6c04af8a87fb5b47b5c0acf95bc484a9c8da0c88ee077.m3u8> |
 | 1164 | [BD]panorama fm (1080p) | epg.pw | <https://epg.pw/stream/172f20387ce8e3a7cb90b2d4e03749fc591934b8bfaef5635e882adc7f17cdd1.m3u8> |
 | 1165 | [HD]paris premiere | epg.pw | <https://epg.pw/stream/89dc6e7bfb00ca2665c8a0fee94da522dbe2b92b78374f87d449277117dab72a.m3u8> |
-| 1166 | [BD]pars | epg.pw | <https://epg.pw/stream/e8180bd9665f119a849f19b62ab9335e98997d09c71ed83c76adef1096fef144.m3u8> |
+| 1166 | [HD]pars | epg.pw | <https://epg.pw/stream/e8180bd9665f119a849f19b62ab9335e98997d09c71ed83c76adef1096fef144.m3u8> |
 | 1167 | [BD]pbs national east (1080p) [geo-blocked][geo-blocked] | epg.pw | <https://epg.pw/stream/e724734275ebf3622663c1aa1549632cc9ff758c9741b1ae8837b2bc4f7bad92.m3u8> |
 | 1168 | [HD]pequeradio | epg.pw | <https://epg.pw/stream/87cd5b3679e27c8666d539ecd111f9342781f8dbcd58c9e92297013056cfec38.m3u8> |
 | 1169 | [BD]pet club tv | epg.pw | <https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
@@ -1995,4 +1995,4 @@
 | 1989 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1990 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Fri Feb 23 2024 02:17:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 23 2024 04:13:14 GMT+0000 (Coordinated Universal Time)**
