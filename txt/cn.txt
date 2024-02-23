@@ -61,7 +61,7 @@
 [HD]cctv17,https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 [HD]cctv7,https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
 [SD]cctv-7国防军事,https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8
-[SD]cetv1,https://epg.pw/stream/4a405cd885d87ed95cd3a89ad2f96b8c6f32fcb87b0216543803b20f58361b34.m3u8
+[BD]cetv1,https://epg.pw/stream/14867319e0bd88b95b76ec4ccfd62c4a50370f70bccf3fac4576396494640b1e.ctv
 [SD]万州科教,https://epg.pw/stream/cccb4d377bcf7b81bd7d6910b6690f2609f972e6b19d725c448c3b3a858fef25.m3u8
 [VGA]东北戏曲,https://epg.pw/stream/a64878b475426eb4f7be1a6a250b660bdc478877bd92b6eaf29d09c52c0cea83.m3u8
 [VGA]东北戏曲频道,https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8
@@ -78,12 +78,12 @@
 
 新闻,#genre#
 [SD]cctv13[ipv6],https://epg.pw/stream/dbe09664abd438c8571db1ff21d0b8ada1c9009e3a7c90681d9ec1592cf9d726.m3u8
-[BD]cctv2,https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8
+[BD]cctv2,https://epg.pw/stream/c4fe654287b623b12ae8998e38958ca0fd85d5359f11587722174cb38b6318c8.m3u8
 [BD]cctv4k[ipv6],https://epg.pw/stream/b46a351015140e5ed26ef9fb0dd209e75d9f8cdacd473f6ee53d582d9920f4d6.m3u8
 [BD]cctv 兵器科技,https://epg.pw/stream/d78828d0dc1b036e14547a19e1b91d0d8d11868dc25749fe85aadecc1e0b646a.m3u8
 [BD]cgtn[ipv6],https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
 [BD]cctv 4k[ipv6],https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8
-[VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
+[HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [VGA]亳州新闻频道,https://epg.pw/stream/cf7447d98fc73c8791cfc7032f6c35ba0dd41c3fcce500284f242c23fe55eb19.m3u8
 [BD]宿州新闻综合,https://epg.pw/stream/241171224fda0ca651365ac3e52e9762b114e9fa2176bd37c17a85eba975b6c8.m3u8
@@ -119,7 +119,8 @@ Music,#genre#
 运动,#genre#
 [BD]cctv16,https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 [BD]cctv5[ipv6],https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.m3u8
-[BD]cctv5+[ipv6],https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8
+[BD]cctv5+[ipv6],https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8
+[BD]marsh tv,https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8
 [BD]newtv武搏世界[ipv6],https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8
 [BD]哒啵赛事,https://epg.pw/stream/f50310b8b4ba2633273142fb802e916fe6ac3b2e5407f2e88302d27392fa8ef8.m3u8
 [BD]5+体育赛事,https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
