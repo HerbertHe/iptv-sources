@@ -15,4 +15,4 @@
 | 9 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 10 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
 
-Updated at **Sat Feb 24 2024 04:13:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 24 2024 06:13:49 GMT+0000 (Coordinated Universal Time)**

@@ -28,6 +28,7 @@ Sport,#genre#
 [VGA]cdn,https://epg.pw/stream/ef3e8a0898e223967c807a1cb05506695d82a89ac54415847fe2ee97dae41e3f.m3u8
 [VGA]noticias canal 10,https://epg.pw/stream/daea0a8c026f696b8b4819fe77a2d43c5b0f42aa1fced0d2ccf594c0ff53d697.m3u8
 [BD]deportv,https://epg.pw/stream/4c6b63680f7c1f2530f67883477237bb200d6339b533fa34ee155a6a7ef2bb25.m3u8
+[HD]ESPN 2,https://epg.pw/stream/69ce81697222454f8f77730bd512c15c78887a1e1a43295126356ddf570a22d1.ctv
 [SD]extreme sports,https://epg.pw/stream/59bad09d296881a1686bb1374b3c6536cb161c0cc87671f260293737ab577324.m3u8
 [VGA]fox deportes,https://epg.pw/stream/9b07a04a4b036b2dbb7f5bb65198fd97fe49002d024b2e87e2071cd2cb09f3d6.m3u8
 [BD]fox sports 2,https://epg.pw/stream/c8acfc50c21a5ce9604c4de5efda74fc26d2f063ac6efa3251e2ad4456629b7d.ctv
@@ -183,7 +184,6 @@ Sport,#genre#
 [BD]unbeaten (1080p),https://epg.pw/stream/268e1fc7b27e7133fbf1c6f7a454baf95d5da425f20113dd2a7de0d0410157a7.m3u8
 [HD]us - game show network,https://epg.pw/stream/fe26b03bee5eff6a5399ada5df35909590e52180bfc559cf9990deaaaa0e37aa.ctv
 [HD]us - golf channel,https://epg.pw/stream/5c2c16293e862f1ae507363b28da3b49022954646c7e70845fc1492f0da57a97.ctv
-[HD]usa - espn 2,https://epg.pw/stream/404f02a65c8df46d41723c544798fc76699e372effa6839328f8aa99284fa0ae.ctv
 [VGA]usil tv,https://epg.pw/stream/89d13420a5fbc7d305c2c07264a36d3d95229b9b6055917b12fe5430f536fc78.m3u8
 [HD]vtv3 web,https://epg.pw/stream/a93d2a1c901f1667bfbcd8f3980271d02081473fe0363fcc0c1c9497d40409a1.ctv
 [HD]vía televisión,https://epg.pw/stream/a9a3e0bb3bd25d19c96a51d2df29289895458ac847c855ee93d4b85273e93f78.m3u8
@@ -308,7 +308,7 @@ Generic,#genre#
 [HD]1001 noites,https://epg.pw/stream/41bc59baa4d81c40221fc66ece4e1a09bb5f93a5042cbf574ae953404f80afe8.m3u8
 [HD]TV ALHIJRAH,https://epg.pw/stream/da7374c97788be6449c801e57fca6a39f3573f54f228825cf26e0fdfa1f8d31d.ctv
 [BD]tv aberta,https://epg.pw/stream/bdf2cad4a6119b98de39302cb49793fc16e4aed9536058e4e25e4d335ef954e0.m3u8
-[BD]globo tv,https://epg.pw/stream/38648e4a66fae0a88f8c7341f23d9d178509bb8af1b26b03a01624c226a79707.m3u8
+[HD]globo tv,https://epg.pw/stream/38648e4a66fae0a88f8c7341f23d9d178509bb8af1b26b03a01624c226a79707.m3u8
 [HD]TV1 Malaysia,https://epg.pw/stream/6264b285f7aff4b17c656f4c9f9d86c4aaf181965f2581939968fb9500bf264f.ctv
 [HD]TV2 Malaysia,https://epg.pw/stream/45e25fb50d486ac0e14687fbfebf15960824ff6b04a5aaed3249bd2ece3f813a.ctv
 [BD]TV3 Malaysia,https://epg.pw/stream/601dc7a482275d05a62a8d68b5b541dc4531f63154bf6fb6ede6e9b35afd273e.m3u8
@@ -355,7 +355,6 @@ Generic,#genre#
 [BD]amg tv (1080p),https://epg.pw/stream/0f20d0158734a6dc44c5ded43f1fa5de05f24d9351207831e6964b63dc30281b.m3u8
 [HD]amman tv (720p),https://epg.pw/stream/6146eec187bc842146efbad448c67f8a73b939b3a738775bd55eb5d68070ad75.m3u8
 [HD]amrita tv (720p),https://epg.pw/stream/10b481233810460fae510236ac1284ac1e3f6cbdf4bc7e92a7e0fe241fe8c96c.m3u8
-[BD]anc,https://epg.pw/stream/4cde64b588519a756d37b6c5e9185e0a06faf906d2dab7df91a9b95f7e175db1.m3u8
 [VGA]ant1 cyprus,https://epg.pw/stream/3622f1a0b2d458e256380a4f705ebe603627b05a0c5df6c988635a8f8ec11108.m3u8
 [HD]antena 1,https://epg.pw/stream/21d0ed1230c83efdab2ed36f3df0e3192d8148cc167153d1af17f64b28886470.m3u8
 [BD]arirangtv,https://epg.pw/stream/894cdb50e0ca598eb8f69c7bf96b9fd6bb0e9fc551e90703d1602ce11e151288.m3u8
@@ -526,7 +525,7 @@ Generic,#genre#
 [HD]medi 1 tv maghreb,https://epg.pw/stream/d90058d1f41f20af705128e4ff6eb6e7b552e7c0d0b46c631f477c347a182499.m3u8
 [BD]mega,https://epg.pw/stream/aec7a7b1cb74a53cc24c04982f657a2bea3a75db47f4ec51dbb3bf391eb0494d.ctv
 [BD]mekameleen tv (1080p),https://epg.pw/stream/5e28d2bd333bffd12a7115f8bf127f19481ef5cc20212336d797e699765e0314.m3u8
-[HD]mesat,https://epg.pw/stream/1093d7d8bbb2c442d5ab17c5b147270a30b5b847ac27a76324087eff8ffe345d.m3u8
+[VGA]mesat,https://epg.pw/stream/1093d7d8bbb2c442d5ab17c5b147270a30b5b847ac27a76324087eff8ffe345d.m3u8
 [VGA]miel tv,https://epg.pw/stream/3f46c0f99bdce7f81dd9f441ef5c891e7d29dec75962770cb7b02be67068fd13.m3u8
 [HD]misa tv,https://epg.pw/stream/3e45a8d724ac8460600f5eb13ed64b990a2a5d9db8304e32378cfa9d54f4a29b.m3u8
 [BD]mitv,https://epg.pw/stream/5543c8c15c5444908413b9347018ce11057976481ef40f9d75241cc1b315e0b3.m3u8
@@ -1118,7 +1117,6 @@ News,#genre#
 [HD]ann japanews24,https://epg.pw/stream/beb99484226f224d36a2bf3ab2a40a98b195dc0ebba5404af2747a01a58081d8.m3u8
 [SD]kay tv,https://epg.pw/stream/b0eeb6ba64b55fbbd9e8b590ee29a7aa5dd16a6c3f51aa0fd5fba18e879c17b3.m3u8
 [BD]rkb news 24,https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8
-[BD]kass tv,https://epg.pw/stream/26b6a30cc3329b316765a56a7e9e9116650fc18e3b5d5fc779801744526187d5.m3u8
 [HD]kanal 26,https://epg.pw/stream/221588d3d9848ec699889f662f06cceb1c21e700c829e1ddd20dffe4ebeca471.m3u8
 [VGA]kanizsa tv,https://epg.pw/stream/ee6b6d5facc4637f304072cfbd68aaad315ff7951614da92f3624bfc937dea9f.m3u8
 [BD]mbc yeosu (여수 mbc) (1080p) [not 24/7],https://epg.pw/stream/794172db13663b24c619a56265a1a966ecba71c01c0c6dec089745ba4c2c7157.m3u8
@@ -1599,6 +1597,7 @@ Movie,#genre#
 [SD]uk - drama,https://epg.pw/stream/c0e2c2cf5c43a55aa5de946b662dd09c71a13c39a971f5c54736c8ab3dd9e688.ctv
 [SD]uk - horror channel,https://epg.pw/stream/28133aa308922ecb3842adfe74f9afdcd0f2396e0991cac7909e4bf672afe128.ctv
 [SD]viasat kino action (576p),https://epg.pw/stream/191d67043c5aaa899dabe78cc374460905c4ffad5ca31c99cd6c6e5af0e910e3.m3u8
+[HD]viju tv1000,https://epg.pw/stream/0981992899e02b3318453038c12c8268422bb816bb290cd31dfd9fae0323d738.ctv
 [SD]viju tv1000 action,https://epg.pw/stream/516833fff0c7633690e6154a0f122d0456ee1761c896a00da19a5a8bd23e2343.m3u8
 [BD]vizion plus,https://epg.pw/stream/3b78cc061fdfb6d4077be725cf4aa2888e1fb1b44b164f4cf2963d01f02e3c5d.m3u8
 [HD]wbtv at the movies,https://epg.pw/stream/f08a2567451a865cbe34ceaeaae0e1c4fed20fbd3d5fc256c9163cb4978b2e5a.m3u8
@@ -1727,6 +1726,7 @@ Documentary,#genre#
 [SD]совершенно секретно,https://epg.pw/stream/d7c60b7aa00e4270382a026bb8945ca3d6c480e659d2f1d2d786869530d034b6.m3u8
 [SD]ช่อง discovery kids hindi,https://epg.pw/stream/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18c579d4.m3u8
 [BD]上海纪实人文[ipv6],https://epg.pw/stream/5c0e19c90ae1672abb2670f246b74f7a426ed99fb1014108b9889942228ddf59.m3u8
+[BD]动物星球,https://epg.pw/stream/da42687ee508758964e66416f8d20500a4109c9d4f07784997207c80ea6cb0fc.m3u8
 [BD]金鹰纪实,https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8
 
 Entertainment,#genre#
@@ -1748,12 +1748,13 @@ Entertainment,#genre#
 [BD]eduvision (1080p),https://epg.pw/stream/1df97f260e326e268a6d2060eb0ceeb4937fe99f1dd4281438423d51b0f72667.m3u8
 [HD]channel 7 ukraine,https://epg.pw/stream/2c3122fc958bec71d7576ba29fe2d7f72ccf3b9f89f120c31ed2b439cb045974.m3u8
 [HD]Channel U,https://epg.pw/stream/724db023720aba1c32c247cd62fb8ed71212772e8eeaa40702f76e2a2b443450.ctv
+[BD]can tv,https://epg.pw/stream/e34ea2e767b4c2a1be9bda74dfdf7b9523950569e9768a3d215b24a6097e5633.m3u8
 [BD]cbc comedy,https://epg.pw/stream/47e252ad9ace16fbd672aa515160412feef198abc65295476d13559f4605223b.m3u8
 [VGA]dream tv,https://epg.pw/stream/1374ffb87084ad70e55527b0c04b8346afe2289db72db1fa04a6b4b17f0b0687.m3u8
 [HD]E! ENTERTAINMENT,https://epg.pw/stream/68e17fcb64ee7a6352120bce750d9ff256c27520f7e1bfb153bee540a6658934.ctv
 [BD]code fashion,https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab96488679b5c8.m3u8
 [BD]fashion tv,https://epg.pw/stream/971b30d1f3c3082bb5123116aa559d87460e11568085adba0c226d9bb10528c7.m3u8
-[BD]风尚音乐,https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8
+[HD]风尚音乐,https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8
 [HD]shalom tv,https://epg.pw/stream/513f53301e46cfe992f25cf5fa55aba8d0169f2db7007ed5ac50c38d1014792f.m3u8
 [HD]hosanna vision,https://epg.pw/stream/5813fc993322a2c7fe1e16cbdbeb411e6ed15e033f5cf83b2a2d13ad5b4f7f95.m3u8
 [VGA]finest tv,https://epg.pw/stream/94c3386198582fc9d31cd62ccae4892c6276be00fc068f54b3c357e7d8dd3b8d.m3u8
@@ -1776,6 +1777,7 @@ Entertainment,#genre#
 [HD]sbs_,https://epg.pw/stream/34604075760f4c1822b1fed6112bf09845a6a8e96c6901ae6495468366326a48.m3u8
 [HD]土耳其 semerkand tv,https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8
 [BD]Sky Arts,https://epg.pw/stream/20832a666d53a19fdaf3877db94d4961176aa848288b4a3311de55ecbffbdc7c.ctv
+[HD]SKY CINEMA DISNEY,https://epg.pw/stream/c7f9a3b5b6efb7b462fa8d66b305a55e9ec91de85b9915e2fa9e7767edbcd1a7.ctv
 [SD]the 360 channel,https://epg.pw/stream/47fdce87139ddc63198443f17434cea26431037889c1e4c1866db328eb4cd192.m3u8
 [HD]tjb sbs,https://epg.pw/stream/3104f963467a79aa3b62c5b7b01fe68da2039f561589846948dff8068da40fa4.m3u8
 [HD]tv asahi,https://epg.pw/stream/6e8bb63c7d32fd76c9c2910068a770b3b66a56f502c31c7215e488f0f4abbc55.ctv
