@@ -196,7 +196,7 @@
 | 190 | [BD]deportv | epg.pw | <https://epg.pw/stream/4c6b63680f7c1f2530f67883477237bb200d6339b533fa34ee155a6a7ef2bb25.m3u8> |
 | 191 | [BD]dijlah tarab | epg.pw | <https://epg.pw/stream/6a1c81a66a7b8f56a6ddd0ce57ba81e9c42cf7c46f5ecf9f670e5f9dbdcef0ce.m3u8> |
 | 192 | [HD]ind - discovery hd world | epg.pw | <https://epg.pw/stream/c92e35aa127a6058a336f6f01640a221d5964e4808a75e102c1a5f7c2bf1d57b.ctv> |
-| 193 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/a76a84edf866fa1734f79b39186ad31a964bf1a6894cb7fa447cad7cd39514a7.ctv> |
+| 193 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/9cb20c52ffe82154ddd173a9d5598b7db53b932be70cba6cf0a2066608801748.ctv> |
 | 194 | [HD]nl - disney channel nederland | epg.pw | <https://epg.pw/stream/1cbd736c7c89754b28824c4f73b2f0eeb3ac29944057f9e1ae4dc55bbc19a749.ctv> |
 | 195 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/445c52401117b58ec19d88f6d045eade4dae394795a46575eaee1604acf62ac9.ctv> |
 | 196 | [VGA]dream tv | epg.pw | <https://epg.pw/stream/1374ffb87084ad70e55527b0c04b8346afe2289db72db1fa04a6b4b17f0b0687.m3u8> |
@@ -235,7 +235,7 @@
 | 229 | [HD]global trekker-cdn6 | epg.pw | <https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
 | 230 | [SD]gulli | epg.pw | <https://epg.pw/stream/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.m3u8> |
 | 231 | [HD]HBO 2 | epg.pw | <https://epg.pw/stream/fe15fd82764af022b00a3e07e59a3fffab031707af4c5b9fb0f7b640da9c53e8.ctv> |
-| 232 | [BD]HBO Comedy | epg.pw | <https://epg.pw/stream/e6fe60bcf3014211c9bca066c6a172cf629694126966f7a16fd306f334be353c.ctv> |
+| 232 | [BD]HBO Comedy | epg.pw | <https://epg.pw/stream/a164885166a82fa8b5d36e290e21d4fc4188b16e44df5351d315971105be9daa.ctv> |
 | 233 | [BD]HBO East | epg.pw | <https://epg.pw/stream/632412f58e23160b5b87781d310d4b02eca0d16df09bec9c51f8f8dff5ad681f.ctv> |
 | 234 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv> |
 | 235 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/c2597baa297e7e9c84b3c32db9eee6aa7962f5e4f6134cbdb0be0e92fca30e80.ctv> |
@@ -1605,7 +1605,7 @@
 | 1599 | [SD]viju tv1000 action | epg.pw | <https://epg.pw/stream/516833fff0c7633690e6154a0f122d0456ee1761c896a00da19a5a8bd23e2343.m3u8> |
 | 1600 | [VGA]vision 4 (360p) | epg.pw | <https://epg.pw/stream/48207f68c97c94640c3b8955d0f00d707f7d1b273ce68a39739ce68fd56ac17f.m3u8> |
 | 1601 | [HD]viva | epg.pw | <https://epg.pw/stream/c0855e1a0da852dc79746030c522c30fa2c1b6d1e0935fc6b063ce95f862e2e7.ctv> |
-| 1602 | [VGA]viva hd | epg.pw | <https://epg.pw/stream/35546c7075bcc4b93be43469ca2a8d98be4c38ba5e27a61523f94b6eb2e7dc92.m3u8> |
+| 1602 | [BD]viva russia | epg.pw | <https://epg.pw/stream/1063669853144cb1e0926379e292b6aca16557f965a29fc4f53b17c92c4a15e6.m3u8> |
 | 1603 | [BD]vizion plus | epg.pw | <https://epg.pw/stream/3b78cc061fdfb6d4077be725cf4aa2888e1fb1b44b164f4cf2963d01f02e3c5d.m3u8> |
 | 1604 | [BD]vnews | epg.pw | <https://epg.pw/stream/28f9d671d7560b2ce132692c3e86c994cbf6cbedf067db1f11ed22615199991c.m3u8> |
 | 1605 | [BD]voa | epg.pw | <https://epg.pw/stream/0e5c64cdd108a38651b440b28f9ed70cec34d525e24d7561df6711e6a242d4d0.m3u8> |
@@ -1751,7 +1751,7 @@
 | 1745 | [BD]チャンネル银河 | epg.pw | <https://epg.pw/stream/05c4e6284ec59f5fe76f32eb012ca712fbc94e6cd48c7853026e12227677be46.m3u8> |
 | 1746 | [HD]テレビ朝日 | epg.pw | <https://epg.pw/stream/27e90d1618e586dcdbcede8f32e3c1f3bbaf5de578f4352f9395ce7c4b30a37c.m3u8> |
 | 1747 | [BD]テレビ东京 | epg.pw | <https://epg.pw/stream/7491a0a7defdc1cef4e2b14499e00beb41bce9dd23da3c65416072c5f110db67.ctv> |
-| 1748 | [SD]ファミリー剧场 | epg.pw | <https://epg.pw/stream/0a7e82ab81837b9010d73b529f08fb26d11b6cd038da70b09e7a4bff39d52315.m3u8> |
+| 1748 | [SD]ファミリー剧场 | epg.pw | <https://epg.pw/stream/6fc286d9de1e0d436af1e5c96b17d5eaf566317cb948fe42d07a782525460a65.m3u8> |
 | 1749 | [SD]フジテレビ | epg.pw | <https://epg.pw/stream/dd09f0d5f835cb5521caa5d049edc62353ffc5deecb058db0ad424d928d9405f.m3u8> |
 | 1750 | [SD]フジテレビnext | epg.pw | <https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8> |
 | 1751 | [BD]七彩戏剧 | epg.pw | <https://epg.pw/stream/80df631082249e246533cd49e915f915617b86444386fa7c3c2558f34909d7aa.ctv> |
@@ -2031,4 +2031,4 @@
 | 2025 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2026 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sat Feb 24 2024 14:09:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 24 2024 16:12:40 GMT+0000 (Coordinated Universal Time)**
