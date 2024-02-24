@@ -99,4 +99,4 @@
 | 93 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8> |
 | 94 | [BD]魅力足球 | epg.pw | <https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8> |
 
-Updated at **Fri Feb 23 2024 22:10:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 24 2024 00:49:57 GMT+0000 (Coordinated Universal Time)**
