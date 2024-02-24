@@ -30,7 +30,7 @@
 | 24 | [BD]cgtn[ipv6] | epg.pw | <https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8> |
 | 25 | [BD]chc家庭影院 | epg.pw | <https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv> |
 | 26 | [BD]风尚音乐 | epg.pw | <https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8> |
-| 27 | [BD]marsh tv | epg.pw | <https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8> |
+| 27 | [HD]marsh tv | epg.pw | <https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8> |
 | 28 | [BD]cctv 4k[ipv6] | epg.pw | <https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8> |
 | 29 | [BD]cctv-11戏曲 | epg.pw | <https://epg.pw/stream/0cb8d4fa5b25ff0deb5be55bf1ca887da769736d8c2bbc072c468a2572f713a9.m3u8> |
 | 30 | [BD]cctv央视文化精品[ipv6] | epg.pw | <https://epg.pw/stream/327444100046797b564ba98901d93685ddbcf69d79897d7b502015cd6eb94c20.m3u8> |
@@ -56,7 +56,7 @@
 | 50 | [HD]南京十八 | epg.pw | <https://epg.pw/stream/a91e5f9c99db90161b52f4424f76cf31b3d752287ae12314271d4353db99a400.m3u8> |
 | 51 | [VGA]吉林7频道 | epg.pw | <https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8> |
 | 52 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
-| 53 | [HD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
+| 53 | [BD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
 | 54 | [VGA]吉林生活 | epg.pw | <https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8> |
 | 55 | [VGA]吉林都市 | epg.pw | <https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8> |
 | 56 | [VGA]哈尔滨影 | epg.pw | <https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8> |
@@ -124,4 +124,4 @@
 | 118 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/2e3870f24b946cf8f7aaf244b719fd5c6c869a30a87868aa1dace1ff1b59530c.m3u8> |
 | 119 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Sat Feb 24 2024 00:49:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 24 2024 02:14:51 GMT+0000 (Coordinated Universal Time)**

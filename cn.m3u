@@ -51,7 +51,7 @@ https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e11
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 #EXTINF:-1 tvg-name="HOT 风尚音乐" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="综艺",[BD]风尚音乐
 https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8
-#EXTINF:-1 tvg-name="MarsTV" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/07/large/20211107010559361707_25.png" group-title="运动",[BD]marsh tv
+#EXTINF:-1 tvg-name="MarsTV" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/07/large/20211107010559361707_25.png" group-title="运动",[HD]marsh tv
 https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8
 #EXTINF:-1 tvg-name="cctv 4k" tvg-id="" tvg-country="中国大陆" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/04/20161204183424056712_11.png" group-title="新闻",[BD]cctv 4k[ipv6]
 https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8
@@ -103,7 +103,7 @@ https://epg.pw/stream/a91e5f9c99db90161b52f4424f76cf31b3d752287ae12314271d4353db
 https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8
 #EXTINF:-1 tvg-name="吉林公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224349928937_43.jpg" group-title="综合",[VGA]吉林公共
 https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
-#EXTINF:-1 tvg-name="吉林卫视v" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="综合",[HD]吉林卫视v
+#EXTINF:-1 tvg-name="吉林卫视v" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="综合",[BD]吉林卫视v
 https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 #EXTINF:-1 tvg-name="吉林生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224423300523_72.jpg" group-title="其它",[VGA]吉林生活
 https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8

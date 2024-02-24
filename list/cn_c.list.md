@@ -81,7 +81,7 @@
 | 75 | [BD]海宁生活服务 | epg.pw | <https://epg.pw/stream/7db3c65c69de1f42f26b4d7b64529f5dd6d2d47476e8d5f13515c320b1efd51a.m3u8> |
 | 76 | [VGA]吉林新闻综合 | epg.pw | <https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8> |
 | 77 | [BD]环球旅游 | epg.pw | <https://epg.pw/stream/c223eea374483c34a409beb76864cdbf86eac90f6179fab37e9465eece19707b.ctv> |
-| 78 | [HD]甘肃公共 | epg.pw | <https://epg.pw/stream/8dc185b262a055ffd5eca3ab59977debe7b5dbeb96c0988a0dc1632b9fabf520.m3u8> |
+| 78 | [SD]甘肃公共 | epg.pw | <https://epg.pw/stream/8dc185b262a055ffd5eca3ab59977debe7b5dbeb96c0988a0dc1632b9fabf520.m3u8> |
 | 79 | [BD]生活时尚[ipv6] | epg.pw | <https://epg.pw/stream/6fbff429b3ebfad73ac34bb25cb89c1a61c305b285f66e00ad1552dde3a39fc3.m3u8> |
 | 80 | [BD]石家庄娱乐 | epg.pw | <https://epg.pw/stream/4c86087cb1626c031ddc9c33a0a944e63e22e4ed9958b44c4e4ef220f4914523.m3u8> |
 | 81 | [BD]石家庄生活 | epg.pw | <https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8> |
@@ -99,4 +99,4 @@
 | 93 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8> |
 | 94 | [BD]魅力足球 | epg.pw | <https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8> |
 
-Updated at **Sat Feb 24 2024 00:49:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 24 2024 02:14:51 GMT+0000 (Coordinated Universal Time)**
