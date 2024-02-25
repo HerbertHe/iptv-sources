@@ -363,7 +363,7 @@
 | 357 | [SD]spotv2 | epg.pw | <https://epg.pw/stream/6163f57387ea31c09f2c05a364a2d9a909e2456a6d40854caff5be39dcfd6377.m3u8> |
 | 358 | [HD]土耳其 semerkand tv | epg.pw | <https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8> |
 | 359 | [BD]Shop Channel | epg.pw | <https://epg.pw/stream/27922108050ede0f88b4e8122e0d618f3220c7198aebcc7e419cdde1c8105b0d.m3u8> |
-| 360 | [BD]Showtime | epg.pw | <https://epg.pw/stream/dcb4522b0f30929f8290674e9455dd4b769cc0103819a4bfe4306c31fb1c1125.ctv> |
+| 360 | [BD]Showtime | epg.pw | <https://epg.pw/stream/9cc1b102442d7d2ce413ab0de48cf0d8937293b834af8559e5ffcae501bacfda.ctv> |
 | 361 | [BD]shraddha tv | epg.pw | <https://epg.pw/stream/864cad210f10d51926e01e3335112b4dd4824aaadac4b03ab6448d8285c4c4a4.m3u8> |
 | 362 | [HD]SKY CINEMA DISNEY | epg.pw | <https://epg.pw/stream/c7f9a3b5b6efb7b462fa8d66b305a55e9ec91de85b9915e2fa9e7767edbcd1a7.ctv> |
 | 363 | [HD]rakuten documentaries | epg.pw | <https://epg.pw/stream/0d7277da8c0b049a6e5821c3aabbc9197a06c2f2463e8311de35bb78c02c2dc3.m3u8> |
@@ -2034,4 +2034,4 @@
 | 2028 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2029 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sun Feb 25 2024 04:14:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 25 2024 06:13:56 GMT+0000 (Coordinated Universal Time)**
