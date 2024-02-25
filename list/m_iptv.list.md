@@ -1,4 +1,4 @@
-# List for **Meroser/IPTV IPTV**(Rollback)
+# List for **Meroser/IPTV IPTV**
 
 > M3U: [m_iptv.m3u](/m_iptv.m3u), TXT: [m_iptv.txt](/txt/m_iptv.txt)
 
@@ -36,7 +36,7 @@
 | 30 | 安徽卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 31 | 重庆卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8> |
 | 32 | 东南卫视 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8> |
-| 33 | 甘肃卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 33 | 甘肃卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8> |
 | 34 | 广东卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 35 | 广西卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8> |
 | 36 | 贵州卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8> |
@@ -55,7 +55,7 @@
 | 49 | 云南卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 50 | 新疆卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3> |
 | 51 | 三沙卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8> |
-| 52 | 青海卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 52 | 青海卫视 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3> |
 | 53 | 陕西卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 54 | 山西卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 55 | 西藏卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
@@ -231,4 +231,4 @@
 | 225 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 226 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Sun Feb 25 2024 02:20:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 25 2024 04:14:20 GMT+0000 (Coordinated Universal Time)**
