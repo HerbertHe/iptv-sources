@@ -122,4 +122,4 @@
 | 116 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/2e3870f24b946cf8f7aaf244b719fd5c6c869a30a87868aa1dace1ff1b59530c.m3u8> |
 | 117 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Sun Feb 25 2024 08:13:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 25 2024 10:11:12 GMT+0000 (Coordinated Universal Time)**
