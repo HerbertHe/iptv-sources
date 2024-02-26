@@ -20,8 +20,8 @@
 | 14 | [BD]cctv4k超清[ipv6] | epg.pw | <https://epg.pw/stream/434450b72fe725aa8f97b53deb7d1509a280bc5126aa9b804b48f3f7d6572b95.m3u8> |
 | 15 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8> |
 | 16 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8> |
-| 17 | [BD]cctv5 | epg.pw | <https://epg.pw/stream/1ffe16d61d03c294d0c96913c0e50a55ddd1d62dc7bf0875851dfcc54f19ff51.ctv> |
-| 18 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8> |
+| 17 | [BD]cctv5 | epg.pw | <https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.ctv> |
+| 18 | [BD]cctv5+ | epg.pw | <https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.ctv> |
 | 19 | [BD]cctv-6 | epg.pw | <https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523decc868d.ctv> |
 | 20 | [HD]cctv7 | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
 | 21 | [BD]cctv-8 | epg.pw | <https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8> |
@@ -208,7 +208,7 @@
 | 202 | [SD]福建漳浦综合 | epg.pw | <https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8> |
 | 203 | [BD]第一财经[ipv6] | epg.pw | <https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8> |
 | 204 | [BD]精彩影视[ipv6] | epg.pw | <https://epg.pw/stream/d307c9cd8ca9bfccb256d05361a226e8186b4a7096856d7c699a3d7ce7214269.m3u8> |
-| 205 | [SD]精彩电视剧 | epg.pw | <https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8> |
+| 205 | [HD]精彩电视剧 | epg.pw | <https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8> |
 | 206 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 207 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 208 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
@@ -261,4 +261,4 @@
 | 255 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 | 256 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Mon Feb 26 2024 20:12:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 26 2024 22:11:46 GMT+0000 (Coordinated Universal Time)**
