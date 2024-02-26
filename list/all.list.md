@@ -54,7 +54,7 @@
 | 48 | [HD]ASTRO AURA | epg.pw | <https://epg.pw/stream/8dbb61a703797f809ff0b3a9cbff2f96361879b9b7b5d82a3ccdce46bf5ea18e.ctv> |
 | 49 | [HD]astro cricket | epg.pw | <https://epg.pw/stream/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
 | 50 | [HD]ASTRO OASIS | epg.pw | <https://epg.pw/stream/9fca3852c0304b7508c0557a31742d4c3d0391c73385cb71050093ecdf7d01ca.ctv> |
-| 51 | [VGA]ASTRO WARNA | epg.pw | <https://epg.pw/stream/6c8d77cbab0155d78e7419325054100563b0b0c54966ee5b81a90f15ae22968a.ctv> |
+| 51 | [VGA]ASTRO WARNA | epg.pw | <https://epg.pw/stream/6578e02748ec5cbc56fd5271f6833a7d0b8980077d503d13908904e466b0b1b3.ctv> |
 | 52 | [HD]ASTRO 华丽台 | epg.pw | <https://epg.pw/stream/b55d8209decee2613f9b2391cf5c424b1d88df233cad4f4b9af96cd276bedf0c.ctv> |
 | 53 | [HD]at-x | epg.pw | <https://epg.pw/stream/99e95248c600e9fd618843ad55bcf8d982ffcf5d962252abb7c4e6410fdbe1aa.m3u8> |
 | 54 | [HD]axn | epg.pw | <https://epg.pw/stream/60d1a814f3b2abd27ed578ed604c654c1ce3e5c0931d9eaa3d5ab05c8bf85ea8.m3u8> |
@@ -101,7 +101,7 @@
 | 95 | [SD]srb - belle amie | epg.pw | <https://epg.pw/stream/6f7ef8ca19c3a70ad53e84d240d7307f982399057ea0b9db1ccaf3c04195a7e2.ctv> |
 | 96 | [SD]BERNAMA | epg.pw | <https://epg.pw/stream/72ac8b8ef4533d2515cf3df3c151ebfaaa136fa50ae53cdcdcededaf3f66e38f.ctv> |
 | 97 | [SD]bolt | epg.pw | <https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.m3u8> |
-| 98 | [HD]BOO | epg.pw | <https://epg.pw/stream/f92a9b63fd5fe725748e4dbf82c50b44527bf5d27a7b9009b0e93d64a54da41e.ctv> |
+| 98 | [HD]BOO | epg.pw | <https://epg.pw/stream/ff3b726079759042e80352db44552f02ccf4a0a77ef2895d6cde9990f0e1478a.ctv> |
 | 99 | [SD]テレビ东京 | epg.pw | <https://epg.pw/stream/6a0f993c48b264be0be120f51a6dfc393bfa8a3ff76c6f025c766d2e4b60d2a0.m3u8> |
 | 100 | [SD]bsフジ | epg.pw | <https://epg.pw/stream/31f102e0563309da6084e0237816e59421140edacc6d944c2d42e90d97d16ccd.m3u8> |
 | 101 | [SD]bs日テレ | epg.pw | <https://epg.pw/stream/73144c626c197eaf79d6a8f72745be20bfde9391354ed0a8a1c572526d431872.m3u8> |
@@ -2041,4 +2041,4 @@
 | 2035 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2036 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Mon Feb 26 2024 04:13:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 26 2024 06:16:12 GMT+0000 (Coordinated Universal Time)**
