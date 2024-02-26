@@ -233,7 +233,7 @@
 | 227 | [BD]HBO Comedy | epg.pw | <https://epg.pw/stream/a164885166a82fa8b5d36e290e21d4fc4188b16e44df5351d315971105be9daa.ctv> |
 | 228 | [BD]HBO East | epg.pw | <https://epg.pw/stream/632412f58e23160b5b87781d310d4b02eca0d16df09bec9c51f8f8dff5ad681f.ctv> |
 | 229 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv> |
-| 230 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/c2597baa297e7e9c84b3c32db9eee6aa7962f5e4f6134cbdb0be0e92fca30e80.ctv> |
+| 230 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/b575e24f33a87c9ebf769dabc28484bf8e3fc8f7cfec84776981058750a4ab21.ctv> |
 | 231 | [BD]usa - hbo signature | epg.pw | <https://epg.pw/stream/d87da199b7f83c8678bcc3992c4b3e8d7cca6440ecf47c75a3897f1a4c09a37c.ctv> |
 | 232 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/dc31095b3b045be17e1d4fca6c4d4e8c80ba78655d45cc03ff1430cf0f16b95c.ctv> |
 | 233 | [BD]HBO Zone | epg.pw | <https://epg.pw/stream/f719e365878611e8c94ad25f7e4622eac0594de7c0f123a0b91fef7a665ec294.ctv> |
@@ -311,7 +311,7 @@
 | 305 | [BD]NHK BSP4K | epg.pw | <https://epg.pw/stream/cc8ac6c9ab845a3eb79d64cab1160c9bd4f728fa1eb51ea55239141aa49953c7.m3u8> |
 | 306 | [SD]nhk e | epg.pw | <https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8> |
 | 307 | [BD][日本]nhkworldjapan(720p) | epg.pw | <https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce703ef75.m3u8> |
-| 308 | [VGA]NICKELODEON | epg.pw | <https://epg.pw/stream/a49586a15aec536b6e6e35510f332b8ad09b83174dd9d0a2f5992b65a524c557.ctv> |
+| 308 | [VGA]NICKELODEON | epg.pw | <https://epg.pw/stream/6b83520a0b5a5197937a97370463ddbcbf14ece08aae02194097a719f3685e59.ctv> |
 | 309 | [SD]noursat | epg.pw | <https://epg.pw/stream/4f9c2251aee3fafc7618e5aa402f1cb6a33b5087bbfa44ce015e29556cd39e71.m3u8> |
 | 310 | [VGA]now新闻台 | epg.pw | <https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv> |
 | 311 | [BD]NTV7 Malaysia | epg.pw | <https://epg.pw/stream/ecd6d50d97d815ea32eef76c35501a14c69a348dd4c342d690da2dc4d7995d7c.m3u8> |
@@ -2040,4 +2040,4 @@
 | 2034 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2035 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Mon Feb 26 2024 16:14:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 26 2024 18:14:19 GMT+0000 (Coordinated Universal Time)**
