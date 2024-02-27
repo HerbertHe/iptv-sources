@@ -21,7 +21,7 @@
 | 15 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8> |
 | 16 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8> |
 | 17 | [BD]cctv5 | epg.pw | <https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.ctv> |
-| 18 | [BD]cctv5+ | epg.pw | <https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.ctv> |
+| 18 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8> |
 | 19 | [BD]cctv-6 | epg.pw | <https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523decc868d.ctv> |
 | 20 | [BD]cctv-7 | epg.pw | <https://epg.pw/stream/03caf9b35e5163d56a51050ff4d887f0cfc6dcb3f06a15fd287b3403dac7c310.m3u8> |
 | 21 | [BD]cctv-8 | epg.pw | <https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8> |
@@ -260,4 +260,4 @@
 | 254 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 | 255 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Tue Feb 27 2024 20:11:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 27 2024 22:12:09 GMT+0000 (Coordinated Universal Time)**
