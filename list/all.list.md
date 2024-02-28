@@ -229,7 +229,7 @@
 | 223 | [BD]HBO Comedy | epg.pw | <https://epg.pw/stream/72ec569534e23cec01e33bf6aecb98db57a92aca33ffd6195ab578fffc8d25f3.ctv> |
 | 224 | [BD]HBO East | epg.pw | <https://epg.pw/stream/632412f58e23160b5b87781d310d4b02eca0d16df09bec9c51f8f8dff5ad681f.ctv> |
 | 225 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.m3u8> |
-| 226 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/b575e24f33a87c9ebf769dabc28484bf8e3fc8f7cfec84776981058750a4ab21.ctv> |
+| 226 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/d7ebcb223dd1b96a847ef3e646793db5a23319f5e113cc0955ad8531c32a26a5.ctv> |
 | 227 | [BD]usa - hbo signature | epg.pw | <https://epg.pw/stream/d87da199b7f83c8678bcc3992c4b3e8d7cca6440ecf47c75a3897f1a4c09a37c.ctv> |
 | 228 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/95e33b8e89f7ca974c0af4978935db7d4995a34d7b508ce41cb0f4118841963c.ctv> |
 | 229 | [BD]HBO Zone | epg.pw | <https://epg.pw/stream/f719e365878611e8c94ad25f7e4622eac0594de7c0f123a0b91fef7a665ec294.ctv> |
@@ -286,7 +286,7 @@
 | 280 | [SD]mtv (japan) | epg.pw | <https://epg.pw/stream/255bcff928d63b8f4dfec65b056b4432fddb54c7e8fab40983b059f248bc3407.m3u8> |
 | 281 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/5b3e352681f781902e4f601dab54a0da8dccbd2bcf3dfef190d71116a4a7050a.m3u8> |
 | 282 | [HD]pulse | epg.pw | <https://epg.pw/stream/51374f9efdf28566886b4c59d88b64c44be4726f0720d7855818ac9be177b1d2.m3u8> |
-| 283 | [HD]MTV UK | epg.pw | <https://epg.pw/stream/972aceaa0bc1a08e21fbb9ae44a4dd3dea54ff222526551007d91c43eecad364.ctv> |
+| 283 | [HD]MTV UK | epg.pw | <https://epg.pw/stream/4f60af6643a998adb9ea39ddca335c2323c548cb1f56c57c2ada97990ccca320.ctv> |
 | 284 | [HD]maah tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/5a69c10da4e4327ff29632cfd63b1a3c4e1142c5596056d702550769e0b2c270.m3u8> |
 | 285 | [HD]car magazine tv | epg.pw | <https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8> |
 | 286 | [VGA]marca tv | epg.pw | <https://epg.pw/stream/26d7c28125181ee6e894ac8ad536297c19949bad44b90e1066d0c88437533840.m3u8> |
@@ -382,7 +382,7 @@
 | 376 | [VGA]supersport golf | epg.pw | <https://epg.pw/stream/1c29ef48b3ed686cd0343f9b3f427a5a53de03ba82f79069d70a52ffa840a1b9.m3u8> |
 | 377 | [BD]supersport football | epg.pw | <https://epg.pw/stream/31e00adcfecd47aadee3ecd910bf3408c812613288f774b0b5a3cd1270efbd07.ctv> |
 | 378 | [HD]tbn inspire | epg.pw | <https://epg.pw/stream/154652d9d55eb88b685f11f5dce06e99346a143a86c279225ff0874ad10bf1e6.m3u8> |
-| 379 | [SD]tbs | epg.pw | <https://epg.pw/stream/6d9e1cc873e240a6e80a44acafa9ec0734dc2d40c519c9ba2a3dc8461c5349cd.m3u8> |
+| 379 | [SD]tbs | epg.pw | <https://epg.pw/stream/8203aee77eb237d792d70b4819599175397e6d79a48c6715f01cb272897861d4.m3u8> |
 | 380 | [BD]tvbs news | epg.pw | <https://epg.pw/stream/3a40834c150fd08ee006adc5919c61cffe1a79f05e5114e6112ae89a82d959bd.m3u8> |
 | 381 | [SD]tbsテレビ | epg.pw | <https://epg.pw/stream/0804490a58916340c9e3003c505c35beda3706a079d53f684ebd65f57d46d34f.m3u8> |
 | 382 | [HD]tdtv | epg.pw | <https://epg.pw/stream/44d214db9ae7d7ad991ffce10dd7fac3eb2f221e49124a89c5a757899c8ddeea.m3u8> |
@@ -2019,4 +2019,4 @@
 | 2013 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2014 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Wed Feb 28 2024 04:14:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 28 2024 06:15:06 GMT+0000 (Coordinated Universal Time)**
