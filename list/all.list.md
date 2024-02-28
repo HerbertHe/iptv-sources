@@ -2018,4 +2018,4 @@
 | 2012 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2013 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Wed Feb 28 2024 08:15:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 28 2024 08:26:10 GMT+0000 (Coordinated Universal Time)**
