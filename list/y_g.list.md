@@ -80,7 +80,7 @@
 | 74 | 吉林卫视「IPV6」 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
 | 75 | 黑龙江卫视「IPV6」 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8> |
 | 76 | 三沙卫视「IPV6」 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS> |
-| 77 | 云南卫视「IPV6」 | IPv6 直链 | <hhttp://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000024694/index.m3u8> |
+| 77 | 云南卫视「IPV6」 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000024694/index.m3u8> |
 | 78 | 甘肃卫视「IPV6」 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000017827/index.m3u8> |
 | 79 | 青海卫视「IPV6」 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000013359/index.m3u8> |
 | 80 | 凤凰香港「IPV6」 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8> |
@@ -2129,4 +2129,4 @@
 | 2123 | 足球超级猎食者(上) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8> |
 | 2124 | 足球超级猎食者(下) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8> |
 
-Updated at **Wed Feb 28 2024 14:10:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 28 2024 16:14:45 GMT+0000 (Coordinated Universal Time)**
