@@ -15,7 +15,7 @@ export const get_channel_id = (extinf: string) => {
         .replace(/ 8m/g, "")
         .replace(/([^\|]+)\|/g, "")
         .replace(/([^ⅰ]+)ⅰ/g, "")
-        .replace(/([\u4e00-\u9fff]+)\s+([\u4e00-\u9fff]+)/g,"$1$2")
+        .replace(/([\u4e00-\u9fff]+)\s+([\u4e00-\u9fff]+)/g, "$1$2")
         .replace(/ +/g, " ")
         .trim()
 }

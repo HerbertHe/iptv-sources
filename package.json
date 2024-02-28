@@ -7,7 +7,7 @@
   "type": "module",
   "license": "GPL-3.0-only",
   "scripts": {
-    "dev": "tsup --watch",
+    "dev": "cross-env NODE_ENV=development tsup --watch",
     "build": "tsup",
     "m3u": "node ./dist/index.js",
     "serve": "node ./dist/serve.js",
@@ -26,6 +26,7 @@
     "@types/markdown-it": "^13.0.7",
     "@types/node": "^20.11.21",
     "@types/opencc-js": "^1.0.3",
+    "cross-env": "^7.0.3",
     "nodemon": "^3.1.0",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
