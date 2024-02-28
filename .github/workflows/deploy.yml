@@ -40,7 +40,7 @@ jobs:
           cname: m3u.ibert.me
 
       - name: discord
-        uses: HerbertHe/discord-action@v1
+        uses: sebastianpopp/discord-action@releases/v2
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           message: ${{ github.repository }} has been successfullly updated, see https://m3u.ibert.me to get more.
