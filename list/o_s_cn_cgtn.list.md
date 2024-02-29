@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CGTN**
+# List for **iptv.org stream China CGTN**(Rollback)
 
 > M3U: [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt)
 
@@ -11,4 +11,4 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **Thu Feb 29 2024 10:13:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 12:21:05 GMT+0000 (Coordinated Universal Time)**

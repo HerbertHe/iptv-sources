@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -477,4 +477,4 @@
 | 471 | Lasa TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 472 | Xizang TV Tibetan | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Feb 29 2024 10:13:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 12:21:05 GMT+0000 (Coordinated Universal Time)**
