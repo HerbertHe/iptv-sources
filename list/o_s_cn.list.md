@@ -476,5 +476,12 @@
 | 470 | Fusung News TV | 吉林广播电视台 | <http://stream8.jlntv.cn/fs/sd/live.m3u8> |
 | 471 | Lasa TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 472 | Xizang TV Tibetan | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 473 | Nei Monggol TV | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.93:5140> |
+| 474 | Xinjiang TV 12 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.185:5140> |
+| 475 | Xinjiang TV 9 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.153:5140> |
+| 476 | Xinjiang TV 8 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.181:5140> |
+| 477 | Xinjiang TV 5 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.149:5140> |
+| 478 | Xinjiang TV 3 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.147:5140> |
+| 479 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
 
-Updated at **Thu Feb 29 2024 22:10:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 01 2024 00:57:00 GMT+0000 (Coordinated Universal Time)**
