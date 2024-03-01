@@ -30,9 +30,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Fri Mar 01 2024 01:30:10 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Fri Mar 01 2024 02:03:09 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Fri Mar 01 2024 02:00:48 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Fri Mar 01 2024 03:30:08 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Fri Mar 01 2024 04:06:09 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Fri Mar 01 2024 04:00:52 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -47,10 +47,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | Meroser/IPTV IPTV | [m_iptv.m3u](/m_iptv.m3u) <br> [m_iptv.txt](/txt/m_iptv.txt) | [List for Meroser/IPTV IPTV](/list/m_iptv.list) | 239 | - |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 9873 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 512 | - |
-| iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 479 | ✅ |
+| iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 479 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 18 | - |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 14 | - |
-| iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | ✅ |
+| iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | - |
 | epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 251 | - |
 | epg.pw China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for epg.pw China National](/list/cn_n.list) | 8 | - |
 | epg.pw China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for epg.pw China Country](/list/cn_c.list) | 104 | - |
@@ -67,11 +67,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Fri Mar 01 2024 02:22:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 01 2024 04:15:15 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
