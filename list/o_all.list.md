@@ -51,7 +51,7 @@
 | 45 | 7 TV | v4.proofix.ru | <http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8> |
 | 46 | 8 La Marina TV (576p) | streaming005.gestec-video.com | <https://streaming005.gestec-video.com/hls/canal24.m3u8> |
 | 47 | 8NTV (1080p) | 60417ddeaf0d9.streamlock.net | <https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8> |
-| 48 | 8TV (720p) | live-streams-ssai-01.tonton.com.my | <https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8> |
+| 48 | 8TV (1080p) | IPv4 直链 | <http://89.254.128.5:22280/8tv_hd/index.m3u8> |
 | 49 | 8 канал (Витебск) (576p) [Not 24/7] | IPv4 直链 | <http://95.46.208.8:24433/art> |
 | 50 | 9Gem (720p) | 9now-livestreams.akamaized.net | <https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8> |
 | 51 | 9Go! (720p) | 9now-livestreams.akamaized.net | <https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8> |
@@ -9892,4 +9892,4 @@
 | 9886 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9887 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Mar 01 2024 22:10:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 00:50:51 GMT+0000 (Coordinated Universal Time)**
