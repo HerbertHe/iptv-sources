@@ -42,9 +42,9 @@
 | 36 | [HD]ACTION MAX | epg.pw | <https://epg.pw/stream/fa0cd1d322747ee6b9d7b1c0e0083e7a42909c826763109aa49a3da8ed82e773.ctv> |
 | 37 | [HD]al jazeera hd | epg.pw | <https://epg.pw/stream/b6c29d51a1f11276edf3fcb3e44eccf16fd4cdb1f37cdf44db68383ea85bdb30.m3u8> |
 | 38 | [VGA]ANTV | epg.pw | <https://epg.pw/stream/ac0c0da52eff26341aad2c6a79728454cac50e050ed767014f16180a92e3ccf1.ctv> |
-| 39 | [HD]ASSP | epg.pw | <https://epg.pw/stream/a5709ea136deca936f83cc38e65de3274114f8a1a3380b137e357bdcbfe0dc86.ctv> |
+| 39 | [HD]ASSP | epg.pw | <https://epg.pw/stream/2e69999a24a9d69eea5486afd901ef4d265210339f99e8b64996dfc924d911b4.ctv> |
 | 40 | [HD]ASSP2 | epg.pw | <https://epg.pw/stream/ccae51589d4d3feef2fb8a168d70ea56f6c28c8562516500034187dc3bee37ae.ctv> |
-| 41 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/dee158bae1b16da827a86c9aa591b784e524286e457217728fcfa24c93431013.ctv> |
+| 41 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/a3fa45de56172d2f172ef22bfea3e2bc8efe42fab06bc8d86c84c3e10c547b44.ctv> |
 | 42 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/af713c4004306beb00d302a24951d938d10b1dbe25182d1b2003a6f2a55fd978.ctv> |
 | 43 | [BD]ASTRO AEC | epg.pw | <https://epg.pw/stream/4de39a10c677d1ab35deb2268a4cd6d3d6d566c7bf136415f9bbb989a93ee615.ctv> |
 | 44 | [SD]ASTRO AOD 311 | epg.pw | <https://epg.pw/stream/a19e7f5999b941011f0bbebafde4470d5c86dcfdef85189dba1cd9b251c1efc6.ctv> |
@@ -177,7 +177,7 @@
 | 171 | [BD]dijlah tarab | epg.pw | <https://epg.pw/stream/6a1c81a66a7b8f56a6ddd0ce57ba81e9c42cf7c46f5ecf9f670e5f9dbdcef0ce.m3u8> |
 | 172 | [HD]DISCOVERY HD | epg.pw | <https://epg.pw/stream/02c62a8368814f191e3a06459aa83cbc7c6ac6b426bdb3b763483188a45333f0.ctv> |
 | 173 | [HD]Discovery Science | epg.pw | <https://epg.pw/stream/6c78021cb9454f42913410db828d723a93b309673cf27af2bacc327241cf7d81.ctv> |
-| 174 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/347a3e2064198770873fc535ca04d37461acdb21f5e0cc58b49f9c9314e829f1.ctv> |
+| 174 | [HD]DISNEY CHANNEL | epg.pw | <https://epg.pw/stream/686bbf7a1d2c546ef819ee8f0704f3e15dacecc189be3c5817b28e4b3ee26291.ctv> |
 | 175 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/445c52401117b58ec19d88f6d045eade4dae394795a46575eaee1604acf62ac9.ctv> |
 | 176 | [HD]dreamworks | epg.pw | <https://epg.pw/stream/ad88982ed14451da4c47551f1d7635ce5e5251530fdad37370860a520d6efc3c.m3u8> |
 | 177 | [VGA]E! ENTERTAINMENT | epg.pw | <https://epg.pw/stream/31eef34b810c8bc4eeb27e3b55cf5e3997e87b220693e0f1ffbe3ee13f8cd448.ctv> |
@@ -1731,7 +1731,7 @@
 | 1725 | [BD]文物宝库 | epg.pw | <https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
 | 1726 | [BD]三新动漫 | epg.pw | <https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv> |
 | 1727 | [BD]新昌新闻综合 | epg.pw | <https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8> |
-| 1728 | [SD]新疆卫视 | epg.pw | <https://epg.pw/stream/ba74609f5ff97c464ff3140e1e89d4a2696465ab07503a47a8f5dc1607fba7d6.m3u8> |
+| 1728 | [SD]新疆卫视 | epg.pw | <https://epg.pw/stream/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8> |
 | 1729 | [SD]旅チャンネル | epg.pw | <https://epg.pw/stream/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8> |
 | 1730 | [BD]旅游卫视 | epg.pw | <https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8> |
 | 1731 | [SD]nittele g+ | epg.pw | <https://epg.pw/stream/3ab3f249b6017e2f47d33e72fd38314acf37974833de59da18b1329108f66a85.m3u8> |
@@ -1905,4 +1905,4 @@
 | 1899 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1900 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sat Mar 02 2024 16:13:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 18:14:55 GMT+0000 (Coordinated Universal Time)**
