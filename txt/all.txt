@@ -473,6 +473,7 @@ Generic,#genre#
 [HD]mahar tv,https://epg.pw/stream/2038079bfa6a55b20377a152063d5fd57a70394d8a2b36173b299110f1297bfa.m3u8
 [HD]malta,https://epg.pw/stream/cbded20c9aeb794947c96247f7a8b242846887f330d2d5c6147800fd1d1e569b.m3u8
 [BD]matele,https://epg.pw/stream/58b0ede55c9dbb7cd60423a3d32e7500dae179b28d1743fbe4befa7b02b68645.m3u8
+[BD]mbc 2,https://epg.pw/stream/8c68042857d203bed7cce8b50413d6682ecde8c622e5decce9dd81e5b44436bf.m3u8
 [BD]mbc 4,https://epg.pw/stream/9d595cb1c0a514b7f4c76c9085f916610305e3512ba6e7dae774e2bf5782c888.m3u8
 [BD]mbc fm (1080p),https://epg.pw/stream/ca270a605e8ae214105cf907501abf6c94d8fb4a7b804f3584dcadab4d198dfe.m3u8
 [BD]mbc masr 1,https://epg.pw/stream/6e4a6197a32dc7287c357654f78242458cecbffbaed0972923ce94db02f9bbbb.m3u8
@@ -1580,7 +1581,8 @@ Movies,#genre#
 
 Entertainment,#genre#
 [BD]7 info,https://epg.pw/stream/b989785be523362770d05009ef3b62aef4c73198599634cd34347207ee22e72f.m3u8
-[HD]9x tashan,https://epg.pw/stream/5b94ef6edb270be3b965f20775917e3099cbfaaaa4aec5cc0df989a9d467ec5d.m3u8
+[BD]9x jalwa,https://epg.pw/stream/e1a12567d8ced1523a8f6c5fd8e6b7afb143fd5c1cd7e37a142398a49573794b.m3u8
+[BD]9x tashan,https://epg.pw/stream/50434d7f0fb8a6563ee6a9513f872150223cd7ce512c992500d995ca7c0ac5ec.m3u8
 [VGA]9xm,https://epg.pw/stream/51fc1ab3e6ee588eddca19b8e4a5d3d899e6c156951e3e93e119578e0a0f1740.m3u8
 [VGA]al rayyan,https://epg.pw/stream/52e9ec3b3b152fe7c3929a464e10dd89bf3081d05400b6f0719c9d03c9a671dd.m3u8
 [BD]all the k-pop,https://epg.pw/stream/02562a9cd3beb1f8650fdcaaed320fb3f89985ceee19d3b0ca396f47a503f683.m3u8

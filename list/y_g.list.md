@@ -2128,4 +2128,4 @@
 | 2122 | 足球超级猎食者(上) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8> |
 | 2123 | 足球超级猎食者(下) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8> |
 
-Updated at **Sun Mar 03 2024 02:19:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 04:15:02 GMT+0000 (Coordinated Universal Time)**
