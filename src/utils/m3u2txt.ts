@@ -17,10 +17,15 @@ export const m3u2txt = (m3uArray: string[]) => {
         if (groups.has(g)) {
             groups.set(
                 g,
-                `${groups.get(g)}${reg[2].trim()},${m3uArray[i + 1]}\n`
+                `${groups.get(g)}${reg[2].trim().replace(/\s+/g, "_")},${
+                    m3uArray[i + 1]
+                }\n`
             )
         } else {
-            groups.set(g, `${reg[2].trim()},${m3uArray[i + 1]}\n`)
+            groups.set(
+                g,
+                `${reg[2].trim().replace(/\s+/g, "_")},${m3uArray[i + 1]}\n`
+            )
         }
     }
 
