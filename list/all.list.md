@@ -395,7 +395,7 @@
 | 389 | [HD]trans tv (720p) | epg.pw | <https://epg.pw/stream/1391c3867188f94451c988c800cbff65ad28a5f713853dafd56bce1f75d2e4e0.m3u8> |
 | 390 | [BD]travel channel | epg.pw | <https://epg.pw/stream/4294eb516d30ded8c5f8102815c37b75f52affe3093e287ead6873bf9b19ec77.m3u8> |
 | 391 | [HD]trutv west | epg.pw | <https://epg.pw/stream/d11ea80c14a1f28ef72385cdd402b68e33ba6e2947bdbab4901ae910db3dc4d0.m3u8> |
-| 392 | [HD]TVN MOVIES | epg.pw | <https://epg.pw/stream/3b9e476d0ce62c3a922335480712a5a5b8ae90001838c5cfea5c8c488b0e6f50.ctv> |
+| 392 | [HD]TVN MOVIES | epg.pw | <https://epg.pw/stream/f19627a3fed8e85b45325bb656a0a682fb67bbba422312312f948d6a2aaecb3c.ctv> |
 | 393 | [HD]umbria tv | epg.pw | <https://epg.pw/stream/0770098967992d7295a69846e1ea3a7fd91fc572c8ff27c41f875fffbd246765.m3u8> |
 | 394 | [SD]vh1 | epg.pw | <https://epg.pw/stream/c9ad49c6da79eeb91f3946b82d429d82328d19b774410afefa25e78f1074177c.m3u8> |
 | 395 | [BD]vinx tv | epg.pw | <https://epg.pw/stream/fef8b5451877134c6d14a76111b50c48c03b6dcdcc47f79b728a599df2c2c47b.m3u8> |
@@ -798,7 +798,7 @@
 | 792 | [SD]france 24 french | epg.pw | <https://epg.pw/stream/dcb6e77c972be0ca9171eccb549774b2524a9774328eb17f9934d998990b476b.ctv> |
 | 793 | [BD]franken fernsehen | epg.pw | <https://epg.pw/stream/82b2f926f6c8c31c749af6ec5e790ca1d7ba24521960a246fd0fb86339bb8d20.m3u8> |
 | 794 | [VGA]freedom (freeдom) (uatv) (720p) | epg.pw | <https://epg.pw/stream/7afd9e457ff760bf73b40d866e27ae281b27f6cda3ea37e3d3fe44341abf80e9.m3u8> |
-| 795 | [HD]frenchlover | epg.pw | <https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8> |
+| 795 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
 | 796 | [HD]fresh (720p) | epg.pw | <https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8> |
 | 797 | [HD]fujairah tv | epg.pw | <https://epg.pw/stream/363945bbef6a7d7aff51ff42dc5343ee6cf5f287f1eef6d8fdee0af554bca0fd.m3u8> |
 | 798 | [HD]game show central | epg.pw | <https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8> |
@@ -1904,4 +1904,4 @@
 | 1898 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1899 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sun Mar 03 2024 04:15:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 06:14:42 GMT+0000 (Coordinated Universal Time)**
