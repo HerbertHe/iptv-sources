@@ -45,8 +45,8 @@
 | 39 | [VGA]ANTV | epg.pw | <https://epg.pw/stream/ac0c0da52eff26341aad2c6a79728454cac50e050ed767014f16180a92e3ccf1.ctv> |
 | 40 | [HD]ASSP | epg.pw | <https://epg.pw/stream/2e69999a24a9d69eea5486afd901ef4d265210339f99e8b64996dfc924d911b4.ctv> |
 | 41 | [HD]ASSP2 | epg.pw | <https://epg.pw/stream/ccae51589d4d3feef2fb8a168d70ea56f6c28c8562516500034187dc3bee37ae.ctv> |
-| 42 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/a3fa45de56172d2f172ef22bfea3e2bc8efe42fab06bc8d86c84c3e10c547b44.ctv> |
-| 43 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/af713c4004306beb00d302a24951d938d10b1dbe25182d1b2003a6f2a55fd978.ctv> |
+| 42 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/bc5f8d488c4e6b19f970c4eb92081b21c0a1f715b438a1191f7e21d8f85dfc79.ctv> |
+| 43 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/3b3f704112066fb53ee824272aad39c02ab437c8dc713e9a6dd4f56075bca71b.ctv> |
 | 44 | [HD]ASTRO AEC | epg.pw | <https://epg.pw/stream/cfb71f18d906dfd698a5f6b09b8ddfb14f0ca12239b8c84d6463d8a97349d9ba.ctv> |
 | 45 | [SD]ASTRO AOD 311 | epg.pw | <https://epg.pw/stream/a19e7f5999b941011f0bbebafde4470d5c86dcfdef85189dba1cd9b251c1efc6.ctv> |
 | 46 | [HD]ASTRO AWANI | epg.pw | <https://epg.pw/stream/f2f3fbbb6ace89112010d665b565611509f06b2ff9d1f709412c83cc722649b9.ctv> |
@@ -96,7 +96,7 @@
 | 90 | [HD]ช่อง bally sports sun | epg.pw | <https://epg.pw/stream/e9b739ee16fec8cb79263313eb3fd6f1eedd3799003a7fc74cfb8b33e8d63f83.m3u8> |
 | 91 | [BD]bein sports 1 | epg.pw | <https://epg.pw/stream/4ad46e4e1c73460012131939a205007aec90eb826af7bd945281279ce511b0c5.ctv> |
 | 92 | [SD]bein sports 2 | epg.pw | <https://epg.pw/stream/ad8d47dbacb3235eb6548de4d580ca5fff17b248a39adaa34c93f0e625c1bf43.ctv> |
-| 93 | [HD]bein sports 3 | epg.pw | <https://epg.pw/stream/f952e693ff63e346e82e524d61eb52a3a3a7109a240f121f6e3de92f476147dd.ctv> |
+| 93 | [BD]bein sports 6 | epg.pw | <https://epg.pw/stream/11c89e5ed3a9defa010cf4345e5f905ab36f1269290c42139047abbe791b9c11.ctv> |
 | 94 | [BD]bein sports 7 | epg.pw | <https://epg.pw/stream/36ce383943f544c9aaf1c95f38fb952fdae5de875a26c7004bc9f21c64275b82.ctv> |
 | 95 | [BD]bein sports 7 | epg.pw | <https://epg.pw/stream/250f6e4ef5dd9caaafc3ef03194f04db12bb8605c2e83d83d743643307380de3.m3u8> |
 | 96 | [BD]bernama tv | epg.pw | <https://epg.pw/stream/c8ff2091a81e5261947f36b4209a48398e9ee6cbf1d41f0aeadc10b45f4de431.m3u8> |
@@ -1898,4 +1898,4 @@
 | 1892 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1893 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sun Mar 03 2024 16:12:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 18:13:25 GMT+0000 (Coordinated Universal Time)**
