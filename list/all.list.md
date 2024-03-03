@@ -47,7 +47,7 @@
 | 41 | [HD]ASSP2 | epg.pw | <https://epg.pw/stream/ccae51589d4d3feef2fb8a168d70ea56f6c28c8562516500034187dc3bee37ae.ctv> |
 | 42 | [BD]ASSP3 | epg.pw | <https://epg.pw/stream/a3fa45de56172d2f172ef22bfea3e2bc8efe42fab06bc8d86c84c3e10c547b44.ctv> |
 | 43 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/af713c4004306beb00d302a24951d938d10b1dbe25182d1b2003a6f2a55fd978.ctv> |
-| 44 | [HD]ASTRO AEC | epg.pw | <https://epg.pw/stream/4de39a10c677d1ab35deb2268a4cd6d3d6d566c7bf136415f9bbb989a93ee615.ctv> |
+| 44 | [HD]ASTRO AEC | epg.pw | <https://epg.pw/stream/cfb71f18d906dfd698a5f6b09b8ddfb14f0ca12239b8c84d6463d8a97349d9ba.ctv> |
 | 45 | [SD]ASTRO AOD 311 | epg.pw | <https://epg.pw/stream/a19e7f5999b941011f0bbebafde4470d5c86dcfdef85189dba1cd9b251c1efc6.ctv> |
 | 46 | [HD]ASTRO AWANI | epg.pw | <https://epg.pw/stream/f2f3fbbb6ace89112010d665b565611509f06b2ff9d1f709412c83cc722649b9.ctv> |
 | 47 | [HD]ASTRO AURA | epg.pw | <https://epg.pw/stream/8dbb61a703797f809ff0b3a9cbff2f96361879b9b7b5d82a3ccdce46bf5ea18e.ctv> |
@@ -186,7 +186,7 @@
 | 180 | [BD]code fashion | epg.pw | <https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab96488679b5c8.m3u8> |
 | 181 | [SD]fox | epg.pw | <https://epg.pw/stream/aa97e6ec59c1bc2b6ade54b4b62f37024cbbb6860394775066fe9b64a7e31e5e.m3u8> |
 | 182 | [HD]ASTRO小太阳 | epg.pw | <https://epg.pw/stream/e9b610ba509b70e022ce7c53bf627cfb438a3127f2a017d4b5ab0f68a02ab398.ctv> |
-| 183 | [HD]rakuten action movies uk (720p) | epg.pw | <https://epg.pw/stream/b295065b7ee92620e3f586f80d8adc0debdd2de5d6ae4f6bcd24f9c0677a3061.m3u8> |
+| 183 | [HD]rakuten action movies italy (720p) | epg.pw | <https://epg.pw/stream/dce11561225a65bd2e7a71eab6d3bf0d307d9ba6abf78d2afa4f672892ce19c0.m3u8> |
 | 184 | [HD]ช่อง rakuten family movies | epg.pw | <https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8> |
 | 185 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/5a5ded425067adaed9673d3fd0da126a094c6e94be94137c0a48fb322c475875.ctv> |
 | 186 | [HD]fox newsnow | epg.pw | <https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8> |
@@ -1144,7 +1144,7 @@
 | 1138 | [BD]relax | epg.pw | <https://epg.pw/stream/2fffef92d9a2b5802ea52a5049e621b5311abff277eae88f4d85de204e01a0ca.m3u8> |
 | 1139 | [BD]rete tv italia | epg.pw | <https://epg.pw/stream/448dd47c99a82fa6781fe4f4267f0b67e05bdb2bb646430e2a2fae6aabe947a8.m3u8> |
 | 1140 | [VGA]retro tv (kcks-ld9) (480p) | epg.pw | <https://epg.pw/stream/9b67f86cbc2ea57cbdc18df5d489582da0cf6292a2cdb08f3705c325faccc469.m3u8> |
-| 1141 | [VGA]retrô cartoon | epg.pw | <https://epg.pw/stream/698f67d57789a7d9c2e1ce63a5cb0079dc6f1b94d5514da0c6646ab2ffea78b0.m3u8> |
+| 1141 | [VGA]retrô cartoon | epg.pw | <https://epg.pw/stream/62c4381e6a8f80225dccbf303bf84e29147dbd24ecafa5b39c2952234917cf76.m3u8> |
 | 1142 | [BD]rfh tv (1080p) | epg.pw | <https://epg.pw/stream/8b2f9b91021414749205a3bcb7b8662c3a3d52b75167536f0efd2fd72b0c8c77.m3u8> |
 | 1143 | [HD]rheinmain tv | epg.pw | <https://epg.pw/stream/8ff1a9f3ff9ece34c3ec4f7b519d8916189e35b10e7fca74e1c0bdd89cf2ee80.m3u8> |
 | 1144 | [BD]rhema tv | epg.pw | <https://epg.pw/stream/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8> |
@@ -1415,7 +1415,7 @@
 | 1409 | [VGA]tvge | epg.pw | <https://epg.pw/stream/51df27ee9c62afe545bf7a914db862f0b3757e886e2f4e4d2cf8d91947c4fe24.m3u8> |
 | 1410 | [BD]tvikim | epg.pw | <https://epg.pw/stream/b97255cbfb94c3e2682dfb845840b37106f009a16a4736a3b6bd0007e9e31c5a.m3u8> |
 | 1411 | [BD]tvku | epg.pw | <https://epg.pw/stream/091e5cee134e2631229275d3de71cca86ba78e2c1a3017c375664c3c38e1eadb.m3u8> |
-| 1412 | [HD]tvn | epg.pw | <https://epg.pw/stream/783b753c8ea521aa47a847b292ea48cb0933e223adb64f5cf1f9799fea5a9062.m3u8> |
+| 1412 | [BD]tvn | epg.pw | <https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8> |
 | 1413 | [HD]tvn brasil | epg.pw | <https://epg.pw/stream/d31c76c412ac15c01e88ad3bf87b9a6bad694097f8adfbbdf49b270ebd18b863.m3u8> |
 | 1414 | [BD]tvn-bulgaria | epg.pw | <https://epg.pw/stream/a61319a3098639f7ce66181b247b9913a9c682f3613d38487230c42b7eeee709.m3u8> |
 | 1415 | [HD]tvo | epg.pw | <https://epg.pw/stream/49e3553eb9fd1756ffe6750415dcdf72675e1433dbf5643b2af25b402da30dc5.m3u8> |
@@ -1898,4 +1898,4 @@
 | 1892 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1893 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sun Mar 03 2024 14:10:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 16:12:38 GMT+0000 (Coordinated Universal Time)**
