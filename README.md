@@ -62,6 +62,7 @@ See <https://m3u.ibert.me> to get more.
 - [How to set the custom github raw source proxy url](https://github.com/HerbertHe/iptv-sources/discussions/39)
 - [How to use `iptv-checker` feature](https://github.com/HerbertHe/iptv-sources/discussions/40)
 - [How to add your own rollback urls](https://github.com/HerbertHe/iptv-sources/discussions/41)
+- [How to create custom sources based on the upstream](https://github.com/HerbertHe/iptv-sources/discussions/68)
 
 ## Star History
 
