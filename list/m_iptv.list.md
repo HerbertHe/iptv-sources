@@ -96,7 +96,7 @@
 | 90 | 电视指南 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8> |
 | 91 | 都市剧场 | 中国移动陕西 | <http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8> |
 | 92 | 金色学堂 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 93 | 哈哈炫动 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 93 | 哈哈炫动 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3> |
 | 94 | 游戏风云 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8> |
 | 95 | 欢笑剧场 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8> |
 | 96 | 七彩戏剧 | IPv6 直链 | <http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3> |
@@ -105,9 +105,9 @@
 | 99 | 文物宝库 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ> |
 | 100 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
 | 101 | 重温经典 | IPv4 直链 | <http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8> |
-| 102 | 天元围棋 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8> |
-| 103 | 弈坛春秋 | IPv6 直链 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 104 | 劲爆体育 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 102 | 劲爆体育 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3> |
+| 103 | 天元围棋 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8> |
+| 104 | 弈坛春秋 | IPv6 直链 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 105 | 凤凰中文 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8> |
 | 106 | 凤凰资讯 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8> |
 | 107 | 凤凰香港 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8> |
@@ -244,4 +244,4 @@
 | 238 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 239 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Mon Mar 04 2024 00:52:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 02:57:39 GMT+0000 (Coordinated Universal Time)**

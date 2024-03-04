@@ -184,7 +184,7 @@ http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/322
 #EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="数字高清",金色学堂
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png" group-title="数字高清",哈哈炫动
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",游戏风云
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1 tvg-id="hxjc" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="数字高清",欢笑剧场
@@ -201,12 +201,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字高清",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字高清",劲爆体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="tywq" tvg-name="天元围棋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png" group-title="数字高清",天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png" group-title="数字高清",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字高清",劲爆体育
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
