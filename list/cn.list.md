@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [SD]CCM | epg.pw | <https://epg.pw/stream/fb972e05ec89fe95d44782186ec0740e2f28cc7789075b5ae36cf38f9ab656ff.ctv> |
+| 1 | [SD]CCM | epg.pw | <https://epg.pw/stream/111346cba646c94d6fc05195588b94c6040c1de480a8eef28bd2ce3435a3a8ea.ctv> |
 | 2 | [BD]cctv1[ipv6] | epg.pw | <https://epg.pw/stream/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.m3u8> |
 | 3 | [BD]cctv-10 | epg.pw | <https://epg.pw/stream/b1380a97f3366ac8e7c1d54bb35fb682a1013bd5b5d73e215a7d99590dc67f00.m3u8> |
 | 4 | [BD]cctv11[ipv6] | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
@@ -238,4 +238,4 @@
 | 232 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 | 233 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Sun Mar 03 2024 22:10:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 00:52:46 GMT+0000 (Coordinated Universal Time)**
