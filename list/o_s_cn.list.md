@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -486,4 +486,4 @@
 | 480 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
 | 481 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Mar 05 2024 10:13:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 05 2024 12:20:32 GMT+0000 (Coordinated Universal Time)**
