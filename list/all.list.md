@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [HD]sada-e-haq tv | epg.pw | <https://epg.pw/stream/0d23b1f9df249a1af5fc919e2321acb6caca4563480bcd86b0f1efce7c3d1305.m3u8> |
+| 1 | [BD]usa today sportswire | epg.pw | <https://epg.pw/stream/c2250b75a9cd0cf9e8b554bcf44052f65aec9253b71c9313eb1acb5331bc136a.m3u8> |
 | 2 | [SD]1+2 | epg.pw | <https://epg.pw/stream/8f70ad3bb3354b3420ef356d84c779f27877a2c0d4288ec802b95c5514934dc1.m3u8> |
 | 3 | [BD]34100 tv | epg.pw | <https://epg.pw/stream/bb3889d7e310c21464648c4d486a8204b5a05dc1c26e6acfc65528d7b848ac6f.m3u8> |
 | 4 | [HD]adn 40 | epg.pw | <https://epg.pw/stream/a069e5adf8da7d1ac4c6840191606473238c6534c9f2fe805e56180d196495de.m3u8> |
@@ -1856,4 +1856,4 @@
 | 1850 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1851 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Mar 05 2024 12:20:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 05 2024 14:11:21 GMT+0000 (Coordinated Universal Time)**
