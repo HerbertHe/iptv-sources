@@ -486,4 +486,4 @@
 | 480 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
 | 481 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Mar 05 2024 20:12:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 05 2024 22:10:49 GMT+0000 (Coordinated Universal Time)**
