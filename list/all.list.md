@@ -1856,4 +1856,4 @@
 | 1850 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1851 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Tue Mar 05 2024 14:11:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 05 2024 16:14:08 GMT+0000 (Coordinated Universal Time)**
