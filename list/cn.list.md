@@ -230,13 +230,14 @@
 | 224 | [BD]陕西卫视[ipv6] | epg.pw | <https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8> |
 | 225 | [HD]云南康旅 | epg.pw | <https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8> |
 | 226 | [BD]云南卫视 | epg.pw | <https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv> |
-| 227 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
-| 228 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
-| 229 | [BD]风云足球 | epg.pw | <https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8> |
-| 230 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8> |
-| 231 | [BD]高尔夫网球[ipv6] | epg.pw | <https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8> |
-| 232 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/2e3870f24b946cf8f7aaf244b719fd5c6c869a30a87868aa1dace1ff1b59530c.m3u8> |
-| 233 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
-| 234 | [VGA]黑龙卫视 | epg.pw | <https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8> |
+| 227 | [HD]霸州少儿频道 | epg.pw | <https://epg.pw/stream/eb656c9023968966ef3229c21758609dd94753dffc29bb29bb61e444a72a24a1.m3u8> |
+| 228 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
+| 229 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
+| 230 | [BD]风云足球 | epg.pw | <https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8> |
+| 231 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8> |
+| 232 | [BD]高尔夫网球[ipv6] | epg.pw | <https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8> |
+| 233 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/2e3870f24b946cf8f7aaf244b719fd5c6c869a30a87868aa1dace1ff1b59530c.m3u8> |
+| 234 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
+| 235 | [VGA]黑龙卫视 | epg.pw | <https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8> |
 
-Updated at **Wed Mar 06 2024 16:14:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 06 2024 18:15:15 GMT+0000 (Coordinated Universal Time)**
