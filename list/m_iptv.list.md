@@ -19,7 +19,7 @@
 | 13 | CCTV-12 社会与法 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8> |
 | 14 | CCTV-13 新闻 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8> |
 | 15 | CCTV-14 少儿 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8> |
-| 16 | CCTV-15 音乐 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8> |
+| 16 | CCTV-15 音乐 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8> |
 | 17 | CCTV-16 奥林匹克 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8> |
 | 18 | CCTV-17 农业农村 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8> |
 | 19 | CCTV-4K 超高清 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8> |
@@ -244,4 +244,4 @@
 | 238 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 239 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Wed Mar 06 2024 10:12:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 06 2024 12:21:53 GMT+0000 (Coordinated Universal Time)**

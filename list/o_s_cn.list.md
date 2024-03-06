@@ -485,5 +485,28 @@
 | 479 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
 | 480 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
 | 481 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 482 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 483 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 484 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 485 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
+| 486 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
+| 487 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
+| 488 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
+| 489 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
+| 490 | 石家庄都市 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/dushi/playlist.m3u8> |
+| 491 | 石家庄生活 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8> |
+| 492 | 石家庄娱乐 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/yule/playlist.m3u8> |
+| 493 | 邯郸科教 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8> |
+| 494 | 邯郸新闻 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8> |
+| 495 | 邯郸公共 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8> |
+| 496 | 邢台综合 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8> |
+| 497 | 邢台城生 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8> |
+| 498 | 丰宁综合 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8> |
+| 499 | 任丘文娱 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8> |
+| 500 | 兴隆综合 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8> |
+| 501 | 山西经济 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8> |
+| 502 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
+| 503 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
+| 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 
-Updated at **Wed Mar 06 2024 10:12:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 06 2024 12:21:53 GMT+0000 (Coordinated Universal Time)**
