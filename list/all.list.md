@@ -67,7 +67,7 @@
 | 61 | [SD]india news | epg.pw | <https://epg.pw/stream/10ea8880452f4697b82dbeec3465460c3afa780bb3565639f309268c8a5e5cf4.m3u8> |
 | 62 | [HD]arise news (576p) | epg.pw | <https://epg.pw/stream/10210a2d2a6ab12f36b3f9c77b49eafe76ba4f304372098b8e74a83e561eab60.m3u8> |
 | 63 | [SD]ASTRO AOD 352 | epg.pw | <https://epg.pw/stream/f9490ee0090402fb2fa789bbf9d944e75e3601a26d64bf9e5683ae4f64da40bb.ctv> |
-| 64 | [HD]ASRTO PREMIER | epg.pw | <https://epg.pw/stream/4f7260b1feea776989cbd49bf549f5d7ee57d589610a74875a450315fcbe45dd.ctv> |
+| 64 | [HD]ASRTO PREMIER | epg.pw | <https://epg.pw/stream/dabf12d54d4c9996417187083851b8c4ec8fde6dc7730a86c8d996aa0d2368b6.ctv> |
 | 65 | [BD]astro supersport 4 | epg.pw | <https://epg.pw/stream/077115afc31a7e0c78b632dddab480dfa3255d810677733b8bf6fe9c70ddbcf5.ctv> |
 | 66 | [HD]tvs | epg.pw | <https://epg.pw/stream/352dac089e3f5f5fbec41fc8dda89abffd882b87d768ece2db8aa95085c84e74.m3u8> |
 | 67 | [HD]KPLUS HD | epg.pw | <https://epg.pw/stream/2bd53b179842e3e5602e9de8d98297b94dd47912d64c6ee5a7b642f5ed3b7100.ctv> |
@@ -1848,4 +1848,4 @@
 | 1842 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1843 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Mar 06 2024 00:52:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 06 2024 02:16:58 GMT+0000 (Coordinated Universal Time)**
