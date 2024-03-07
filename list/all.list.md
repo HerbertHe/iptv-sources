@@ -68,7 +68,7 @@
 | 62 | [HD]arise news (576p) | epg.pw | <https://epg.pw/stream/10210a2d2a6ab12f36b3f9c77b49eafe76ba4f304372098b8e74a83e561eab60.m3u8> |
 | 63 | [SD]ASTRO AOD 352 | epg.pw | <https://epg.pw/stream/f9490ee0090402fb2fa789bbf9d944e75e3601a26d64bf9e5683ae4f64da40bb.ctv> |
 | 64 | [HD]ASRTO PREMIER | epg.pw | <https://epg.pw/stream/dabf12d54d4c9996417187083851b8c4ec8fde6dc7730a86c8d996aa0d2368b6.ctv> |
-| 65 | [BD]astro supersport 4 | epg.pw | <https://epg.pw/stream/077115afc31a7e0c78b632dddab480dfa3255d810677733b8bf6fe9c70ddbcf5.ctv> |
+| 65 | [BD]astro supersport | epg.pw | <https://epg.pw/stream/cf25638bcaeed9bb65e06d5b41f1662d0734c1f3a587b250172a159f723875fe.ctv> |
 | 66 | [HD]tvs | epg.pw | <https://epg.pw/stream/352dac089e3f5f5fbec41fc8dda89abffd882b87d768ece2db8aa95085c84e74.m3u8> |
 | 67 | [HD]KPLUS HD | epg.pw | <https://epg.pw/stream/2bd53b179842e3e5602e9de8d98297b94dd47912d64c6ee5a7b642f5ed3b7100.ctv> |
 | 68 | [BD]hope channel australia | epg.pw | <https://epg.pw/stream/60076f92fff720362c4e7e66696011f043a58f626e7e3ecc46b13b81011179c4.m3u8> |
@@ -185,7 +185,7 @@
 | 179 | [HD]ASTRO小太阳 | epg.pw | <https://epg.pw/stream/18675d29ea1a9b9f7735631c4abee6ae2e322e0c2f38642dfcb8de8d7b4d678d.ctv> |
 | 180 | [HD]rakuten action movies uk (720p) | epg.pw | <https://epg.pw/stream/b295065b7ee92620e3f586f80d8adc0debdd2de5d6ae4f6bcd24f9c0677a3061.m3u8> |
 | 181 | [HD]ช่อง rakuten family movies | epg.pw | <https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8> |
-| 182 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/3f658f6e47f126e0e1f675a028bbe2dc2afba1632a47ebeacad0a386903451e1.ctv> |
+| 182 | [VGA]FOX NEWS | epg.pw | <https://epg.pw/stream/e4a79b2d82670a448a6ffdee6de561f78f6900657e69123a21b15111e66dabc2.ctv> |
 | 183 | [HD]fox newsnow | epg.pw | <https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8> |
 | 184 | [BD]fox sports 2 | epg.pw | <https://epg.pw/stream/c8acfc50c21a5ce9604c4de5efda74fc26d2f063ac6efa3251e2ad4456629b7d.ctv> |
 | 185 | [SD]fuji tv next | epg.pw | <https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8> |
@@ -1830,4 +1830,4 @@
 | 1824 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1825 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Mar 07 2024 02:11:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 07 2024 04:13:47 GMT+0000 (Coordinated Universal Time)**
