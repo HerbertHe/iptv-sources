@@ -20,7 +20,7 @@ const updatePackageJson = (version) => {
 
 const commitVersion = (version) => {
     execSync("git add .")
-    execSync(`git commit -m v${version}`)
+    execSync(`git commit -m :bookmark:v${version}`)
 }
 
 rl.question("input the release version? ex: 1.0.0\n")
