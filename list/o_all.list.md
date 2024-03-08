@@ -9945,4 +9945,4 @@
 | 9939 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9940 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Mar 08 2024 16:13:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 08 2024 18:14:43 GMT+0000 (Coordinated Universal Time)**
