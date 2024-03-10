@@ -407,7 +407,7 @@
 | 401 | [BD]a1 tv | epg.pw | <https://epg.pw/stream/bd53dc4c1167e7afb8db372a298f3edf6d44a7621616700240b82b732ee15468.m3u8> |
 | 402 | [HD]aaj news | epg.pw | <https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35fc2094.m3u8> |
 | 403 | [VGA]aaj tak (404p) | epg.pw | <https://epg.pw/stream/0313109100e9bef3beb09c03ab462e2167a565df34ebea5ab9af16d6bb19447c.m3u8> |
-| 404 | [HD]abc | epg.pw | <https://epg.pw/stream/003cedcfe495ab0180fd7396231cd2eeaacbbef89c5f45f7d25939a95ef68fc2.ctv> |
+| 404 | [SD]abc | epg.pw | <https://epg.pw/stream/50671bccafc68e5a9057a1d46556cad2e69e0e04c206073648a4c1d0a1bd82d3.m3u8> |
 | 405 | [HD]abc tv (720p) | epg.pw | <https://epg.pw/stream/fd33a74fb805774db5beb3ac313e77ca934736419575c5fcf57ee97d013314e4.m3u8> |
 | 406 | [BD]abn hd | epg.pw | <https://epg.pw/stream/fa0a699e9a50942f87c5d27e7dbc75815936d752c94db299b68365181033a185.m3u8> |
 | 407 | [HD]abn tv | epg.pw | <https://epg.pw/stream/9725549f9133b9130fc36009b63b090c70ace2b22618b5f1d33d4b0cfc913ced.m3u8> |
@@ -1473,7 +1473,7 @@
 | 1467 | [SD]просвещение (540p) [geo-blocked] | epg.pw | <https://epg.pw/stream/dfe309e352aa84ae78996723f53de68ee12aeef5f519ef2c0b7673ab86fb9ab2.m3u8> |
 | 1468 | [VGA]пятница! | epg.pw | <https://epg.pw/stream/48acf0427d86bb7346bf0a02534a7e65a6d6e2aae798ff198bb101d46524ac42.m3u8> |
 | 1469 | [SD]радость моя | epg.pw | <https://epg.pw/stream/92a276d2eb8a61bafe4f69e2aee82e74d3000ce32c1a92b0f82723551b000d55.m3u8> |
-| 1470 | [SD]рен тв | epg.pw | <https://epg.pw/stream/510c06b2803889ed19201be9ebd148c10b8329a763e04728d16313d8ea9fe006.m3u8> |
+| 1470 | [VGA]рен тв | epg.pw | <https://epg.pw/stream/f3e572e6c167b5a1872357daeae1abecf703b0d8ee4acb6e1bed301a2d48957b.m3u8> |
 | 1471 | [VGA]россия 1 | epg.pw | <https://epg.pw/stream/8d43d9e4535465077ac212d3bfe5765e5fdb7618512814cd8bc3e846a7e26345.m3u8> |
 | 1472 | [VGA]россия 24 | epg.pw | <https://epg.pw/stream/e01f27f63cfac6d28bcb23c46d7c5d70fcb553ff989b4679831edcf093dad65c.m3u8> |
 | 1473 | [SD]россия к | epg.pw | <https://epg.pw/stream/7df268a4e3752b7d2857cc01b25f96fa21d55d5cb6172d1ed502550da1c6ffc7.m3u8> |
@@ -1801,4 +1801,4 @@
 | 1795 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1796 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Mar 10 2024 20:12:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 10 2024 22:11:53 GMT+0000 (Coordinated Universal Time)**

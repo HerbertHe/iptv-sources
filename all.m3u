@@ -805,8 +805,8 @@ https://epg.pw/stream/bd53dc4c1167e7afb8db372a298f3edf6d44a7621616700240b82b732e
 https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35fc2094.m3u8
 #EXTINF:-1 tvg-name="aaj tak (404p)" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164751279327_55.png" group-title="News",[VGA]aaj tak (404p)
 https://epg.pw/stream/0313109100e9bef3beb09c03ab462e2167a565df34ebea5ab9af16d6bb19447c.m3u8
-#EXTINF:-1 tvg-name="abc" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc
-https://epg.pw/stream/003cedcfe495ab0180fd7396231cd2eeaacbbef89c5f45f7d25939a95ef68fc2.ctv
+#EXTINF:-1 tvg-name="abc" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]abc
+https://epg.pw/stream/50671bccafc68e5a9057a1d46556cad2e69e0e04c206073648a4c1d0a1bd82d3.m3u8
 #EXTINF:-1 tvg-name="abc tv (720p)" tvg-id="3357" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv (720p)
 https://epg.pw/stream/fd33a74fb805774db5beb3ac313e77ca934736419575c5fcf57ee97d013314e4.m3u8
 #EXTINF:-1 tvg-name="abn hd" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211195127207480_13.jpg" group-title="Entertainment",[BD]abn hd
@@ -2937,8 +2937,8 @@ https://epg.pw/stream/dfe309e352aa84ae78996723f53de68ee12aeef5f519ef2c0b7673ab86
 https://epg.pw/stream/48acf0427d86bb7346bf0a02534a7e65a6d6e2aae798ff198bb101d46524ac42.m3u8
 #EXTINF:-1 tvg-name="радость моя" tvg-id="6095" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/tmp/2015/12/06/large/20151206001317216404_49.jpg" group-title="Kids",[SD]радость моя
 https://epg.pw/stream/92a276d2eb8a61bafe4f69e2aee82e74d3000ce32c1a92b0f82723551b000d55.m3u8
-#EXTINF:-1 tvg-name="рен тв" tvg-id="6295" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174921581047_26.png" group-title="News",[SD]рен тв
-https://epg.pw/stream/510c06b2803889ed19201be9ebd148c10b8329a763e04728d16313d8ea9fe006.m3u8
+#EXTINF:-1 tvg-name="рен тв" tvg-id="6295" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174921581047_26.png" group-title="News",[VGA]рен тв
+https://epg.pw/stream/f3e572e6c167b5a1872357daeae1abecf703b0d8ee4acb6e1bed301a2d48957b.m3u8
 #EXTINF:-1 tvg-name="россия 1" tvg-id="5895" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174157086341_53.png" group-title="Other",[VGA]россия 1
 https://epg.pw/stream/8d43d9e4535465077ac212d3bfe5765e5fdb7618512814cd8bc3e846a7e26345.m3u8
 #EXTINF:-1 tvg-name="россия 24" tvg-id="5960" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174957550925_86.png" group-title="News",[VGA]россия 24
