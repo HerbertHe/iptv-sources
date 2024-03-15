@@ -277,7 +277,7 @@
 | 271 | [HD]FOOD NETWORK | epg.pw | <https://epg.pw/stream/ca05614fef9f090bedaf74eecfac46606417411992c65e72b72a2f4ab14f9ab9.ctv> |
 | 272 | [SD]fox | epg.pw | <https://epg.pw/stream/e6502ce254298768211fd14ea43ca17017975bea0f6ec3a03b4e504db78bf4ed.m3u8> |
 | 273 | [HD]ASTRO 小太阳 | epg.pw | <https://epg.pw/stream/c590f07dcc40605cd57844bb3f93550df15b308db52fb1d5e338ba20b526dd01.ctv> |
-| 274 | [HD]rakuten action movies uk (720p) | epg.pw | <https://epg.pw/stream/43f64d98834357958a88db57bcb0b4fd2d92bf10674a7ae28d8df940edd20c5b.m3u8> |
+| 274 | [HD]rakuten action movies germany (720p) | epg.pw | <https://epg.pw/stream/aa0062c5442ea9454cd0b46e1fd3078df97202af4ff4f20c679e53e10321f681.m3u8> |
 | 275 | [VGA]fox deportes | epg.pw | <https://epg.pw/stream/9b07a04a4b036b2dbb7f5bb65198fd97fe49002d024b2e87e2071cd2cb09f3d6.m3u8> |
 | 276 | [HD]ช่อง rakuten family movies | epg.pw | <https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8> |
 | 277 | [SD]FOX MOVIES | epg.pw | <https://epg.pw/stream/4c7afb240533d053719deb6aa51101b09e7338d1c4fcaa6bc4d6cde654803719.ctv> |
@@ -326,7 +326,7 @@
 | 320 | [HD]HBO WEST | epg.pw | <https://epg.pw/stream/969ad01eeb991d0eb287c6f497a1697eb1f814789162b58c5a02a860b676bca1.ctv> |
 | 321 | [BD]hbo xtreme hd | epg.pw | <https://epg.pw/stream/891deb5cfbc7eea03d3ee0d3386b81642bca34cbf3d769e439e2151e320d758b.ctv> |
 | 322 | [BD]myx philippines | epg.pw | <https://epg.pw/stream/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8> |
-| 323 | [BD]HBOHDUSA | epg.pw | <https://epg.pw/stream/0ae725a40c619f4fc70f3d835d8f9d43d1c03347ca218b4870050966f0257d95.ctv> |
+| 323 | [BD]HBOHDUSA | epg.pw | <https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv> |
 | 324 | [HD]HITS | epg.pw | <https://epg.pw/stream/3a28782f72f7f9e99fc4047fe25cefe2cf22c125f8348b1564f5d3edbe095cd5.ctv> |
 | 325 | [HD]HITS MOVIES | epg.pw | <https://epg.pw/stream/c6b9a2c0dd4c677f6daca7bddb0978e97eae959f1fe3e0f97176b217a4c9d282.ctv> |
 | 326 | [HD]风尚音乐[ipv6] | epg.pw | <https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8> |
@@ -2582,4 +2582,4 @@
 | 2576 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2577 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Fri Mar 15 2024 08:14:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 15 2024 10:11:49 GMT+0000 (Coordinated Universal Time)**
