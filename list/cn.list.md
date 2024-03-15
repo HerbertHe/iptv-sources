@@ -408,7 +408,7 @@
 | 402 | [BD]茶频道 | epg.pw | <https://epg.pw/stream/cb7be750ee5b6b51cff299279e49fef2dc33ae635fbb099238154089421be599.m3u8> |
 | 403 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
 | 404 | [BD]获嘉新闻综合频道 | epg.pw | <https://epg.pw/stream/5fd6898a5296770d7f6a5b0fd0b8d1542909a8a7dedf898cec0b74a7c38789a9.m3u8> |
-| 405 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8> |
+| 405 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8> |
 | 406 | [BD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/b0caa04ca1cdfdb7bd7ac07b9290e9055df283c1e5188dc024dea18640e15d30.m3u8> |
 | 407 | [BD]卫生健康 | epg.pw | <https://epg.pw/stream/d5c601a33b8ea414c6135c95a37c8a8a1ae768ccae63abd9a78934c2a114d13a.m3u8> |
 | 408 | [SD]西安商务资讯 | epg.pw | <https://epg.pw/stream/726b2da33a555705890b68bec220abe3f9bbffa4db7e728a7449de8d310e7eba.m3u8> |
@@ -486,4 +486,4 @@
 | 480 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 481 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Mar 15 2024 16:15:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 15 2024 18:15:49 GMT+0000 (Coordinated Universal Time)**
