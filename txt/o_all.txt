@@ -6275,7 +6275,6 @@ KpopTV_Play,http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 KRAL_Pop_TV_(720p),https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 KRAL_TV_(720p),https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 Kronehit_(1080p),https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-Kurdmax_Music,http://31.14.40.139:1935/music/livestream/playlist.m3u8
 Kuriakos_Music_(1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 La_98.1_TV_(720p)_[Not_24/7],https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
 La_Chilena_TV,https://vdochile.com:3134/hybrid/play.m3u8
@@ -8322,6 +8321,7 @@ BRTV_Kaku_Childrens_Channel_[Not_24/7],http://office.gofaraway.top:888/udp/238.1
 Camp_Spoopy_(576p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 CBBC_HD_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 CBeebies_(Poland)_(576p),https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8
+CBeebies_Asia_(720p),http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 CBeebies_HD_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 Chinola_TV_(480p),https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 Clan_TVE_(1080p),https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
@@ -9356,6 +9356,7 @@ Sky_Thoroughbred_Central_(720p),https://skylivetab-new.akamaized.net/hls/live/20
 Sony_Sports_Ten_1_(1080p),https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 SOS_Kanal_Plus_(720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 Sport_En_France_(1080p),https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+Sport_TV1,http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 Sportitalia_24_(720p),https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 Sportitalia_Motori_(720p),https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 Sportitalia_SoloCalcio,https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
@@ -9961,6 +9962,7 @@ Cartoon_Network_FreeLive_Latam_2_(720p),https://playout.cdn.cartoonnetwork.com.b
 Cartoon_Network_FreeLive_Latam_(720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 Cartoon_Network_Japan_(400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 Cartoon_Network_México_(720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+Cartoon_Network_Russia_(576p),http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 Cartoonito,http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 Cartoonito_FreeLive_Brazil_(720p),https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 Cartoonito_FreeLive_Latam_(720p),https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
