@@ -51,7 +51,7 @@
 | 45 | [BD]newtv家庭剧场 | epg.pw | <https://epg.pw/stream/73e4aa241af7616ce90972cd80f9a19034a562536c049c06679c831ef34af04a.m3u8> |
 | 46 | [BD]newtv爱情喜剧 | epg.pw | <https://epg.pw/stream/74dd620455d722dfb56c04f672ce3d31b5ec6d756444b07d469ec9cce42de3b7.m3u8> |
 | 47 | [BD]newtv海外剧场 | epg.pw | <https://epg.pw/stream/9b7166024df3941e461b10e7b0404889608f3b5d77ef5ede4f1a7e2cfc87d2eb.m3u8> |
-| 48 | [BD]newtv潮妈辣婆 | epg.pw | <https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8> |
+| 48 | [BD]newtv潮妈辣婆[ipv6] | epg.pw | <https://epg.pw/stream/fae32bb9001977b81f8ee52f90d59d0f343c663b9884a888d93f8472b06bfcfc.m3u8> |
 | 49 | [BD]newtv精品纪录[ipv6] | epg.pw | <https://epg.pw/stream/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8> |
 | 50 | [BD]newtv精品体育[ipv6] | epg.pw | <https://epg.pw/stream/2cfc18c6a4d620f42d5c58a51226bda61f721ac7de982c9380f89674efc6e951.m3u8> |
 | 51 | [BD]newtv超级综艺 | epg.pw | <https://epg.pw/stream/6f1605699c9df365bbf01586c437a8b88b8780049ca4d27de48840bdcb6227d3.m3u8> |
@@ -353,7 +353,7 @@
 | 347 | [VGA]湖南娱乐 | epg.pw | <https://epg.pw/stream/beb9587d88489e70e201873d98421bfb236759d0ee3f5a09437e5f23085bdad0.ctv> |
 | 348 | [VGA]湖南爱晚 | epg.pw | <https://epg.pw/stream/883c914486770e67a9c9f2333d5a9d4a2bd3eed69af1ae129a4bf2973f0ac911.ctv> |
 | 349 | [VGA]湖南经视 | epg.pw | <https://epg.pw/stream/083dd83573e39b2be5781d200c5bf2e046f39104e90d3bbca658d5a40d53d5f0.ctv> |
-| 350 | [BD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/d52964aac9910bfbdd885e0138b82fe305407bea3bb18b1f38f97190e60ec9b5.m3u8> |
+| 350 | [SD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/ceb0350bf607e7de789758adb0ee3a1e5e0de91b7de8c1a05f86e2dd6f4916ab.m3u8> |
 | 351 | [VGA]湖南都市 | epg.pw | <https://epg.pw/stream/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv> |
 | 352 | [VGA]湖南电影 | epg.pw | <https://epg.pw/stream/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.ctv> |
 | 353 | [BD]湖南电视剧 | epg.pw | <https://epg.pw/stream/1e6fee7b35c85b3a8cef363f1760680959dcd57d1807057df25d05bd6f010f97.m3u8> |
@@ -489,4 +489,4 @@
 | 483 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 484 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat Mar 16 2024 06:14:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 16 2024 08:13:42 GMT+0000 (Coordinated Universal Time)**
