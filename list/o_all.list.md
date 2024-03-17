@@ -1266,7 +1266,7 @@
 | 1260 | C4 Televisión (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8148/index.m3u8> |
 | 1261 | C5N (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8> |
 | 1262 | C8 | Github Raw | <https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8> |
-| 1263 | C9N (480p) | deh05ueq91v6s.cloudfront.net | <https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8> |
+| 1263 | C9N | alba-py-c9n-c9n.stream.mediatiquestream.com | <https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8> |
 | 1264 | C31 Melbourne (240p) | d1k6kax80wecy5.cloudfront.net | <https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8> |
 | 1265 | C Channel (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8> |
 | 1266 | C Malayalam TV (1080p) | 2-fss-2.streamhoster.com | <https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8> |
@@ -9987,4 +9987,4 @@
 | 9981 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9982 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Sat Mar 16 2024 22:10:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 17 2024 00:55:48 GMT+0000 (Coordinated Universal Time)**
