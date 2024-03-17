@@ -26,8 +26,8 @@ Promise.allSettled(
     sources.map(async (sr) => {
         console.log(`[TASK] Fetch ${sr.name}`)
         try {
-            const [status, text, now] = await getContent(sr)
-            if (/^[2]/.test(status.toString()) && !!text) {
+            const [ok, text, now] = await getContent(sr)
+            if (ok && !!text) {
                 console.log(
                     `Fetch m3u from ${sr.name} finished, cost ${
                         (parseInt(hrtime.bigint().toString()) -
@@ -36,8 +36,9 @@ Promise.allSettled(
                     } ms`
                 )
 
-                const sourcesCollector = Collector(undefined, (v) =>
-                    !/^([a-z]+)\:\/\//.test(v)
+                const sourcesCollector = Collector(
+                    undefined,
+                    (v) => !/^([a-z]+)\:\/\//.test(v)
                 )
 
                 let [m3u, count] = sr.filter(
@@ -103,9 +104,9 @@ Promise.allSettled(
             epgs_sources.map(async (epg_sr) => {
                 console.log(`[TASK] Fetch EPG ${epg_sr.name}`)
                 try {
-                    const [status, text, now] = await getContent(epg_sr)
+                    const [ok, text, now] = await getContent(epg_sr)
 
-                    if (/^[2]/.test(status.toString()) && !!text) {
+                    if (ok && !!text) {
                         console.log(
                             `Fetch EPG from ${epg_sr.name} finished, cost ${
                                 (parseInt(hrtime.bigint().toString()) -

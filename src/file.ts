@@ -14,7 +14,7 @@ export const getContent = async (src: ISource | TEPGSource) => {
         : src.url
 
     const res = await fetch(url)
-    return [res.status, await res.text(), now]
+    return [res.ok, await res.text(), now]
 }
 
 export const writeM3u = (name: string, m3u: string) => {

@@ -13,8 +13,7 @@ export const updateByRollback = async (
     try {
         const now = hrtime.bigint()
         const res = await fetch(`${rollback_urls[idx]}/${sr.f_name}.m3u`)
-        const status = res.status
-        if (/^[2]/.test(status.toString())) {
+        if (res.ok) {
             console.log(
                 `Fetch m3u from ${sr.name} with ROLLBACK from ${
                     rollback_urls[idx]
@@ -58,8 +57,7 @@ export const updateEPGByRollback = async (
     try {
         const now = hrtime.bigint()
         const res = await fetch(`${rollback_urls[idx]}/${sr.f_name}.xml`)
-        const status = res.status
-        if (/^[2]/.test(status.toString())) {
+        if (res.ok) {
             console.log(
                 `Fetch EPG from ${sr.name} with ROLLBACK from ${
                     rollback_urls[idx]
