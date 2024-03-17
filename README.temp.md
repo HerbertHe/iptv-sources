@@ -15,7 +15,7 @@ Sources are from:
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 - [joevess/IPTV](https://github.com/joevess/IPTV)
-- [Meroser/IPTV](https://github.com/Meroser/IPTV)
+- ~~[Meroser/IPTV](https://github.com/Meroser/IPTV)~~ The project content has been removed by Author
 
 EPG Sources are from:
 

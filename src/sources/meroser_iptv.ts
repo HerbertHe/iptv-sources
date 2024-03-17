@@ -19,7 +19,7 @@ export const meroser_iptv_filter: ISource["filter"] = (
 
 export const meroser_iptv_sources: TSources = [
     {
-        name: "Meroser/IPTV IPTV",
+        name: "~~Meroser/IPTV IPTV~~(Removed)",
         f_name: "m_iptv",
         url: "https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u",
         filter: meroser_iptv_filter,
