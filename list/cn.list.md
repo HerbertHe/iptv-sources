@@ -378,7 +378,7 @@
 | 372 | [BD]精彩体育 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/4bf3b369136edd530ec6493d4683a85d609d0b8ab56ae93e97bd70a821da5d75.m3u8> |
 | 373 | [BD]精彩影视 | epg.pw | <https://epg.pw/stream/d307c9cd8ca9bfccb256d05361a226e8186b4a7096856d7c699a3d7ce7214269.m3u8> |
 | 374 | [BD]精彩电影 10m1080[ipv6] | epg.pw | <https://epg.pw/stream/09ca0b7acc616a9f4328cd6e887bab3c0a7415041e7ee31db71ee27886647bcf.m3u8> |
-| 375 | [HD]精彩电视剧 | epg.pw | <https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8> |
+| 375 | [BD]精彩电视剧 | epg.pw | <https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8> |
 | 376 | [BD]精彩综艺 10m1080[ipv6] | epg.pw | <https://epg.pw/stream/39d64dac8565e2aa61beaaddcecd2886a4f137a4b36aa4d8ee45d8c9d404d735.m3u8> |
 | 377 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 378 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
@@ -476,4 +476,4 @@
 | 470 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 471 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Mar 17 2024 04:13:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 17 2024 06:14:08 GMT+0000 (Coordinated Universal Time)**
