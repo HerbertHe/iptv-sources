@@ -142,7 +142,7 @@
 | 136 | [HD]南京信息 | epg.pw | <https://epg.pw/stream/3b410af631ef86077685d36ae62eccce5a427aba62be65c39edfa08ccb2c7965.m3u8> |
 | 137 | [HD]南宁公共频道 | epg.pw | <https://epg.pw/stream/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8> |
 | 138 | [HD]南宁影视娱乐频道 | epg.pw | <https://epg.pw/stream/f3ce05c4688d29f5f5a33287b828ec3b919eb73f65c17eabf2a70fc3804903f9.m3u8> |
-| 139 | [VGA]遂宁新闻综合 | epg.pw | <https://epg.pw/stream/84edd786ecfaf13eb419762b0f946ec4fca46e2d1959302d58eae96c42da44c3.m3u8> |
+| 139 | [BD]黔南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
 | 140 | [HD]南宁都市生活频道 | epg.pw | <https://epg.pw/stream/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8> |
 | 141 | [VGA]吉林7频道 | epg.pw | <https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8> |
 | 142 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
@@ -462,4 +462,4 @@
 | 456 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 457 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Mar 17 2024 20:12:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 17 2024 22:10:24 GMT+0000 (Coordinated Universal Time)**
