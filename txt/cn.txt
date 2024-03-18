@@ -30,7 +30,7 @@
 [BD]chc动作电影[ipv6],https://epg.pw/stream/3d2b74eab95aa8de5cd4eb1567bd92f7bd993f838ccf9bf7322c488140235363.m3u8
 [BD]chc家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 [BD]chc高清电影[ipv6],https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
-[BD]newtv家庭剧场,https://epg.pw/stream/73e4aa241af7616ce90972cd80f9a19034a562536c049c06679c831ef34af04a.m3u8
+[BD]newtv家庭剧场[ipv6],https://epg.pw/stream/140b5c4f0cf2fa5f4b53dc492beec5d51344f95cec58c1290871efa47b76885e.m3u8
 [BD]newtv爱情喜剧,https://epg.pw/stream/74dd620455d722dfb56c04f672ce3d31b5ec6d756444b07d469ec9cce42de3b7.m3u8
 [BD]newtv海外剧场,https://epg.pw/stream/9b7166024df3941e461b10e7b0404889608f3b5d77ef5ede4f1a7e2cfc87d2eb.m3u8
 [BD]newtv潮妈辣婆[ipv6],https://epg.pw/stream/fae32bb9001977b81f8ee52f90d59d0f343c663b9884a888d93f8472b06bfcfc.m3u8
@@ -100,7 +100,7 @@
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [HD]云南都市,https://epg.pw/stream/873548802d8fadd57ea9b40402a41c5803ee1c5143b516b8cb636f02a12fe2b6.m3u8
 [SD]珲春新闻综合,https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8
-[BD]内蒙古新闻,https://epg.pw/stream/661c19e0bd21ad36b9c291bb055b7e957aab044c5b553e0b3ea110531fa721c5.ctv
+[VGA]内蒙古新闻,https://epg.pw/stream/661c19e0bd21ad36b9c291bb055b7e957aab044c5b553e0b3ea110531fa721c5.ctv
 [BD]兰溪新闻综合,https://epg.pw/stream/6b1d9214f9f0bf123b8f2d471ca383596f2ea35d331a14c9ca66efd8e11a3e4c.m3u8
 [BD]内黄新闻综合频道,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
 [BD]北京新闻,https://epg.pw/stream/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv
@@ -427,7 +427,7 @@
 [BD]哒啵赛事[ipv6],https://epg.pw/stream/f50310b8b4ba2633273142fb802e916fe6ac3b2e5407f2e88302d27392fa8ef8.m3u8
 [HD]广州竞赛,https://epg.pw/stream/161153177a79e66b4fa159d1f041d2bc27c5e5adc7225360d7f98c0a04828ea3.ctv
 [BD]广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-[BD]快乐垂钓[ipv6],https://epg.pw/stream/31392b9a161ad37ff6ea8cc4ffbe0712099d562a9fc828cae0d873ca280b88ad.m3u8
+[BD]快乐垂钓,https://epg.pw/stream/3fcb755b97503bdd8774874423cf6baca3dec208fa23f47e504cda745b136406.m3u8
 [SD]枣庄新闻,https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体_(480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
 [BD]江苏体育·休闲,https://epg.pw/stream/887cd4cc4dc107037b36aabd1dab73431bd3eedaa7a3792db947d8b312de65b2.m3u8
@@ -444,7 +444,6 @@
 [BD]cctv3[ipv6],https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8
 [BD]cctv风云音乐[ipv6],https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8
 [HD]风尚音乐[ipv6],https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16bb6a3b.m3u8
-[BD]newtv超级综艺,https://epg.pw/stream/6f1605699c9df365bbf01586c437a8b88b8780049ca4d27de48840bdcb6227d3.m3u8
 [BD]cctv风云音乐,https://epg.pw/stream/ad0e6beac031b3ce4fcb54a07dc72f1d11b7d1f6f86f7fec1a155db84fe98a42.m3u8
 [BD]内蒙古文体娱乐,https://epg.pw/stream/bf1fdd3406abbd3aa4c357ec7bce781f0a1c61e44bc24497e9b4588c6759eb72.m3u8
 [BD]北京淘娱乐,https://epg.pw/stream/38656ad8339111cee7e54f8e04ab6ff7aac5cf126685319a1e4b17fd35747c08.ctv

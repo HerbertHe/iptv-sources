@@ -85,8 +85,8 @@ https://epg.pw/stream/edfa06e2a3c70853eb54bc7b0a7e70194098b98704872255d210ecbc16
 https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8
 #EXTINF:-1 tvg-name="MarsTV" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/07/large/20211107010559361707_25.png" group-title="运动",[HD]marsh tv
 https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8
-#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="电影",[BD]newtv家庭剧场
-https://epg.pw/stream/73e4aa241af7616ce90972cd80f9a19034a562536c049c06679c831ef34af04a.m3u8
+#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="电影",[BD]newtv家庭剧场[ipv6]
+https://epg.pw/stream/140b5c4f0cf2fa5f4b53dc492beec5d51344f95cec58c1290871efa47b76885e.m3u8
 #EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232313817824_46.jpg" group-title="电影",[BD]newtv爱情喜剧
 https://epg.pw/stream/74dd620455d722dfb56c04f672ce3d31b5ec6d756444b07d469ec9cce42de3b7.m3u8
 #EXTINF:-1 tvg-name="NEWTV海外剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531233358868550_53.jpg" group-title="电影",[BD]newtv海外剧场
@@ -97,8 +97,6 @@ https://epg.pw/stream/fae32bb9001977b81f8ee52f90d59d0f343c663b9884a888d93f8472b0
 https://epg.pw/stream/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8
 #EXTINF:-1 tvg-name="NEWTV精品体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="运动",[BD]newtv精品体育[ipv6]
 https://epg.pw/stream/2cfc18c6a4d620f42d5c58a51226bda61f721ac7de982c9380f89674efc6e951.m3u8
-#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="综艺",[BD]newtv超级综艺
-https://epg.pw/stream/6f1605699c9df365bbf01586c437a8b88b8780049ca4d27de48840bdcb6227d3.m3u8
 #EXTINF:-1 tvg-name="NEWTV超级电视剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="电影",[BD]newtv超级电视剧
 https://epg.pw/stream/d1c3ba18ac55265e48d2063589f3c8d688e8a18a3d5695a570453eb2b7d5cee9.m3u8
 #EXTINF:-1 tvg-name="NEWTV军事评论" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234703125327_15.jpg" group-title="综合",[BD]newtv军事评论
@@ -203,7 +201,7 @@ https://epg.pw/stream/575219e81c18285840f0da521074fd1188a1c0cb569c810c79f6042e25
 https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161537672763_24.jpg" group-title="综艺",[BD]内蒙古文体娱乐
 https://epg.pw/stream/bf1fdd3406abbd3aa4c357ec7bce781f0a1c61e44bc24497e9b4588c6759eb72.m3u8
-#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531162112088785_68.jpg" group-title="新闻",[BD]内蒙古新闻
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531162112088785_68.jpg" group-title="新闻",[VGA]内蒙古新闻
 https://epg.pw/stream/661c19e0bd21ad36b9c291bb055b7e957aab044c5b553e0b3ea110531fa721c5.ctv
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224556038609_37.jpg" group-title="综合",[BD]内蒙古经济生活
 https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
@@ -433,8 +431,8 @@ https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad
 https://epg.pw/stream/b5f9874b13ffb899295a4e7132547a2ad5808a12284bd67a963c55d715c79839.m3u8
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_19.jpg" group-title="其它",[BD]德阳新闻综合
 https://epg.pw/stream/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="14009" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="运动",[BD]快乐垂钓[ipv6]
-https://epg.pw/stream/31392b9a161ad37ff6ea8cc4ffbe0712099d562a9fc828cae0d873ca280b88ad.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="14009" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="运动",[BD]快乐垂钓
+https://epg.pw/stream/3fcb755b97503bdd8774874423cf6baca3dec208fa23f47e504cda745b136406.m3u8
 #EXTINF:-1 tvg-name="承德新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031225613570894_40.jpg" group-title="新闻",[SD]承德新闻综合
 https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8
 #EXTINF:-1 tvg-name="收藏天下" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510143858915482_78.jpg" group-title="其它",[BD]收藏天下
