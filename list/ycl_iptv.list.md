@@ -36,72 +36,72 @@
 | 30 | 女性时尚 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8> |
 | 31 | 风云足球 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8> |
 | 32 | 电视指南 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8> |
-| 33 | 凤凰中文 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8> |
-| 34 | 翡翠台 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330> |
-| 35 | 明珠台 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330> |
-| 36 | 澳门澳视 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330> |
-| 37 | 北京卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8> |
-| 38 | 湖南卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8> |
-| 39 | 东方卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8> |
-| 40 | 四川卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8> |
-| 41 | 天津卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8> |
-| 42 | 安徽卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8> |
-| 43 | 山东卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8> |
-| 44 | 广东卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8> |
-| 45 | 江苏卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8> |
-| 46 | 江西卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8> |
-| 47 | 河北卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8> |
-| 48 | 河南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8> |
-| 49 | 浙江卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 50 | 海南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8> |
-| 51 | 深圳卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8> |
-| 52 | 湖北卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8> |
-| 53 | 东南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8> |
-| 54 | 贵州卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8> |
-| 55 | 辽宁卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8> |
-| 56 | 重庆卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8> |
-| 57 | 龙江卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8> |
-| 58 | 吉林卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
-| 59 | 陕西卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 60 | 山西卫视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8> |
-| 61 | 广西卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/26/live.m3u8> |
-| 62 | 甘肃卫视 | IPv6 直链 | <http://[2409:8087:7001:20:1000::87]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&IASHttpSessionId=RR1420320240313044749874014> |
-| 63 | 云南卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8> |
-| 64 | 青海卫视 | IPv6 直链 | <http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374> |
-| 65 | 新疆卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8> |
-| 66 | BRTV文艺 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8> |
-| 67 | BRTV影视 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8> |
-| 68 | BRTV财经 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E8%B4%A2%E7%BB%8F/index.m3u8> |
-| 69 | BRTV体育休闲 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8> |
-| 70 | BRTV生活 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8> |
-| 71 | BRTV国际 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8> |
-| 72 | BRTV新闻 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8> |
-| 73 | BRTV纪实科教 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E7%A7%91%E6%95%99/index.m3u8> |
-| 74 | BRTV卡酷少儿 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF/index.m3u8> |
-| 75 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0> |
-| 76 | 湖南爱晚 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23022_1.m3u8> |
-| 77 | 湖南电视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
-| 78 | 湖南电影 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23025_1.m3u8> |
-| 79 | 湖南都市 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23021_1.m3u8> |
-| 80 | 湖南国际 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23024_1.m3u8> |
-| 81 | 湖南经视 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23020_1.m3u8> |
-| 82 | 湖南娱乐 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23023_1.m3u8> |
-| 83 | 湖南教育 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23027_1.m3u8> |
-| 84 | 湖北综合 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I> |
-| 85 | 湖北影视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI> |
-| 86 | 湖北教育 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc> |
-| 87 | 湖北生活 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c> |
-| 88 | 湖北公共新闻 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI> |
-| 89 | 湖北经视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU> |
-| 90 | 湖北垄上 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo> |
-| 91 | 广东珠江 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330> |
-| 92 | 广东体育 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330> |
-| 93 | 广东新闻 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330> |
-| 94 | 广东民生 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330> |
-| 95 | 广东科教 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330> |
-| 96 | 大湾区卫视 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330> |
-| 97 | 岭南戏曲 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330> |
-| 98 | 广州綜合 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330> |
+| 33 | 翡翠台 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330> |
+| 34 | 明珠台 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330> |
+| 35 | 澳门澳视 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330> |
+| 36 | 北京卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8> |
+| 37 | 湖南卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8> |
+| 38 | 东方卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8> |
+| 39 | 四川卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8> |
+| 40 | 天津卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8> |
+| 41 | 安徽卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8> |
+| 42 | 山东卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8> |
+| 43 | 广东卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8> |
+| 44 | 江苏卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8> |
+| 45 | 江西卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8> |
+| 46 | 河北卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8> |
+| 47 | 河南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8> |
+| 48 | 浙江卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 49 | 海南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8> |
+| 50 | 深圳卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8> |
+| 51 | 湖北卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8> |
+| 52 | 东南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8> |
+| 53 | 贵州卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8> |
+| 54 | 辽宁卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8> |
+| 55 | 重庆卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8> |
+| 56 | 龙江卫视 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8> |
+| 57 | 吉林卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
+| 58 | 陕西卫视 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 59 | 山西卫视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8> |
+| 60 | 广西卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/26/live.m3u8> |
+| 61 | 甘肃卫视 | IPv6 直链 | <http://[2409:8087:7001:20:1000::87]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&IASHttpSessionId=RR1420320240313044749874014> |
+| 62 | 云南卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8> |
+| 63 | 青海卫视 | IPv6 直链 | <http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374> |
+| 64 | 新疆卫视 | IPv4 直链 | <http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8> |
+| 65 | BRTV文艺 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8> |
+| 66 | BRTV影视 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8> |
+| 67 | BRTV财经 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E8%B4%A2%E7%BB%8F/index.m3u8> |
+| 68 | BRTV体育休闲 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8> |
+| 69 | BRTV生活 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8> |
+| 70 | BRTV国际 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8> |
+| 71 | BRTV新闻 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8> |
+| 72 | BRTV纪实科教 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E7%A7%91%E6%95%99/index.m3u8> |
+| 73 | BRTV卡酷少儿 | IPv4 直链 | <http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF/index.m3u8> |
+| 74 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0> |
+| 75 | 湖南爱晚 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23022_1.m3u8> |
+| 76 | 湖南电视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
+| 77 | 湖南电影 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23025_1.m3u8> |
+| 78 | 湖南都市 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23021_1.m3u8> |
+| 79 | 湖南国际 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23024_1.m3u8> |
+| 80 | 湖南经视 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23020_1.m3u8> |
+| 81 | 湖南娱乐 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23023_1.m3u8> |
+| 82 | 湖南教育 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23027_1.m3u8> |
+| 83 | 湖北综合 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I> |
+| 84 | 湖北影视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI> |
+| 85 | 湖北教育 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc> |
+| 86 | 湖北生活 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c> |
+| 87 | 湖北公共新闻 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI> |
+| 88 | 湖北经视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU> |
+| 89 | 湖北垄上 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo> |
+| 90 | 广东珠江 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330> |
+| 91 | 广东体育 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330> |
+| 92 | 广东新闻 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330> |
+| 93 | 广东民生 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330> |
+| 94 | 广东科教 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330> |
+| 95 | 大湾区卫视 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330> |
+| 96 | 岭南戏曲 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330> |
+| 97 | 广州綜合 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330> |
+| 98 | 广州新闻 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330> |
 | 99 | 新视觉高清 | iptv.hiper25.com:42487 | <http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330> |
 | 100 | 南国都市 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/gztv.php?id=shenghuo> |
 | 101 | 湖北教育 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc> |
@@ -165,4 +165,4 @@
 | 159 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 | 160 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
 
-Updated at **Mon Mar 18 2024 08:14:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 10:13:15 GMT+0000 (Coordinated Universal Time)**

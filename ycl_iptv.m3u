@@ -63,13 +63,11 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="国际",翡翠台
+#EXTINF:-1 group-title="卫视",翡翠台
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="国际",明珠台
+#EXTINF:-1 group-title="卫视",明珠台
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="国际",澳门澳视
+#EXTINF:-1 group-title="卫视",澳门澳视
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
@@ -195,6 +193,8 @@ http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",广州綜合
 http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",广州新闻
+http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",新视觉高清
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="地方",南国都市
