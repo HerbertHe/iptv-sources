@@ -426,7 +426,7 @@
 | 420 | [HD]mntv music | epg.pw | <https://epg.pw/stream/30d1b1f12eb80dd340ef6e731f20b9cb832802a4aa0beb29ef5da3058b881727.m3u8> |
 | 421 | [HD]nat geo | epg.pw | <https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv> |
 | 422 | [HD]NatGeo HD | epg.pw | <https://epg.pw/stream/719e57db85b77cdcc97f6caa8bf76464dceffa639422d0b7d36f75f427701cca.ctv> |
-| 423 | [HD]NatGeo Wild HD | epg.pw | <https://epg.pw/stream/20c128deaefb48d41fa75a0a71e9f5b92c1a51d5cac4dcf8210c562ef1b2a3d1.ctv> |
+| 423 | [HD]NatGeoWildHD | epg.pw | <https://epg.pw/stream/afbf43cf5f4c131a1d163191d27ce31df62c1668442e02816eac802c26fd0e3e.ctv> |
 | 424 | [HD]Net. | epg.pw | <https://epg.pw/stream/6d42f6cad2019d166ade8173ead75b840bb4333bb0b81a7670d9316db6a5f115.ctv> |
 | 425 | [BD]newsmaxtv | epg.pw | <https://epg.pw/stream/ad118f1a40d7b7326cee0988453175fa6a7adbb68e8494f3a43f9866f4385970.m3u8> |
 | 426 | [SD]日本テレビ | epg.pw | <https://epg.pw/stream/f5b2f0523e7d188bd3c0a2b63401ce23f8aabc81bf4bf91bb10e18564990c10c.m3u8> |
@@ -2521,4 +2521,4 @@
 | 2515 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2516 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Mon Mar 18 2024 10:13:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 12:20:51 GMT+0000 (Coordinated Universal Time)**
