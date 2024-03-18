@@ -249,7 +249,7 @@
 | 243 | [BD]东方财经 | epg.pw | <https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv> |
 | 244 | [HD]上海东方购物 | epg.pw | <https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8> |
 | 245 | [BD]林州新闻综合频道 | epg.pw | <https://epg.pw/stream/31b2d9f1b93dfdbaf9e39b484f857ee2165f4393312a24eb40adf083e1500646.m3u8> |
-| 246 | [VGA]林正英2 | epg.pw | <https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv> |
+| 246 | [BD]林正英2 | epg.pw | <https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv> |
 | 247 | [SD]枣庄公共 | epg.pw | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
 | 248 | [SD]枣庄公共频道 | epg.pw | <https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8> |
 | 249 | [SD]枣庄教育 | epg.pw | <https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8> |
@@ -375,7 +375,7 @@
 | 369 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 370 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
 | 371 | [SD]置业频道[ipv6] | epg.pw | <https://epg.pw/stream/7c484fd904a4276d7f8e607ac3271a34248a3629a6db886f7c144a1183524e83.m3u8> |
-| 372 | [BD]老妖电影 | epg.pw | <https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv> |
+| 372 | [SD]老妖电影 | epg.pw | <https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv> |
 | 373 | [BD]聚鲨环球精选 | epg.pw | <https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv> |
 | 374 | [VGA]自贡公共 | epg.pw | <https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv> |
 | 375 | [VGA]自贡综合 | epg.pw | <https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv> |
@@ -466,4 +466,4 @@
 | 460 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 461 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Mar 18 2024 20:12:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 22:11:32 GMT+0000 (Coordinated Universal Time)**

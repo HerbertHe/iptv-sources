@@ -489,7 +489,7 @@ https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e563
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
 #EXTINF:-1 tvg-name="林州新闻综合频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101020712299758_11.jpg" group-title="新闻",[BD]林州新闻综合频道
 https://epg.pw/stream/31b2d9f1b93dfdbaf9e39b484f857ee2165f4393312a24eb40adf083e1500646.m3u8
-#EXTINF:-1 tvg-name="林正英2" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="电影",[VGA]林正英2
+#EXTINF:-1 tvg-name="林正英2" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="电影",[BD]林正英2
 https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv
 #EXTINF:-1 tvg-name="枣庄公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_85.jpg" group-title="其它",[SD]枣庄公共
 https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8
@@ -741,7 +741,7 @@ https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e86885
 https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
 #EXTINF:-1 tvg-name="置业频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510155302344647_39.jpg" group-title="综合",[SD]置业频道[ipv6]
 https://epg.pw/stream/7c484fd904a4276d7f8e607ac3271a34248a3629a6db886f7c144a1183524e83.m3u8
-#EXTINF:-1 tvg-name="老妖电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_366.jpg" group-title="电影",[BD]老妖电影
+#EXTINF:-1 tvg-name="老妖电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_366.jpg" group-title="电影",[SD]老妖电影
 https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv
 #EXTINF:-1 tvg-name="聚鲨环球精选" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827185130981252_14.png" group-title="其它",[BD]聚鲨环球精选
 https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv
