@@ -1,6 +1,6 @@
 {
   "name": "iptv-sources",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
@@ -25,7 +25,7 @@
     "@types/koa-router": "^7.4.8",
     "@types/koa-static": "^4.0.4",
     "@types/markdown-it": "^13.0.7",
-    "@types/node": "^20.11.25",
+    "@types/node": "^20.11.29",
     "@types/opencc-js": "^1.0.3",
     "cross-env": "^7.0.3",
     "nodemon": "^3.1.0",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "koa": "^2.15.0",
+    "koa": "^2.15.1",
     "koa-router": "^12.0.1",
     "koa-static": "^5.0.0",
     "markdown-it": "^14.0.0",
