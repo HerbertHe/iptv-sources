@@ -180,4 +180,4 @@
 | 174 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 | 175 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
 
-Updated at **Tue Mar 19 2024 00:52:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 19 2024 02:18:05 GMT+0000 (Coordinated Universal Time)**
