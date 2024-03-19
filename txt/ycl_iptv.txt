@@ -74,23 +74,10 @@ TVBS,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvh
 龙江卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 陕西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
-广西卫视,http://36.96.38.246:8888/newlive/live/hls/26/live.m3u8
 甘肃卫视,http://[2409:8087:7001:20:1000::87]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&IASHttpSessionId=RR1420320240313044749874014
-云南卫视,http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8
 青海卫视,http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374
-新疆卫视,http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
 
 地方,#genre#
-BRTV文艺,http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8
-BRTV影视,http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8
-BRTV财经,http://183.242.49.77:8787/live/BTV%E8%B4%A2%E7%BB%8F/index.m3u8
-BRTV体育休闲,http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8
-BRTV生活,http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8
-BRTV国际,http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
-BRTV新闻,http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8
-BRTV纪实科教,http://183.242.49.77:8787/live/BTV%E7%A7%91%E6%95%99/index.m3u8
-BRTV卡酷少儿,http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF/index.m3u8
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
@@ -106,7 +93,6 @@ BRTV卡酷少儿,http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E
 湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 湖北公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 广东珠江,http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
 广东体育,http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 广东新闻,http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
@@ -114,8 +100,6 @@ BRTV卡酷少儿,http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E
 广东科教,http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
 大湾区卫视,http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 岭南戏曲,http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
-广州綜合,http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
-广州新闻,http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
 新视觉高清,http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
