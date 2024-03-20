@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CCM" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/02265b36c6f6577f93879d5bd87123ee.jpg" group-title="电影",[SD]CCM
 https://epg.pw/stream/6edc62b82d9c1827e2e6c1b085a3ec4828b62c18213ad3302b87548978f2feed.ctv
 #EXTINF:-1 tvg-name="CCTV-戏曲" tvg-id="13984" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/24/large/20211124001035147790_28.png" group-title="电影",[VGA]cctv戏曲
-https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv
+https://epg.pw/stream/8c06dfae748f7d9827010fa09b2222463c63f94820ec9ff05c8aea28c9cce32d.ctv
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="13842" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="综合",[BD]cctv1[ipv6]
 https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[BD]cctv-10
@@ -267,7 +267,7 @@ https://epg.pw/stream/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6
 https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8
 #EXTINF:-1 tvg-name="吉林公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224349928937_43.jpg" group-title="综合",[VGA]吉林公共
 https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
-#EXTINF:-1 tvg-name="吉林卫视v" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="综合",[HD]吉林卫视v
+#EXTINF:-1 tvg-name="吉林卫视v" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="综合",[BD]吉林卫视v
 https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 #EXTINF:-1 tvg-name="吉林影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224557427041_25.jpg" group-title="电影",[VGA]吉林影视
 https://epg.pw/stream/64c6da042a172abe0b223936e2b7d91d4109fa5c8e416b5bb7a265e36e0f43d7.m3u8
@@ -439,8 +439,16 @@ https://epg.pw/stream/e31eef7ddf2d21d96039ff4259588b0a638ae137673951ebbb4421e022
 https://epg.pw/stream/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8
 #EXTINF:-1 tvg-name="旅行者" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="其它",[SD]置业[ipv6]
 https://epg.pw/stream/d5074fdd6fd5bee2bde0efd71f95200078599c9c4e088e255e3521e0aa0b5678.m3u8
+#EXTINF:-1 tvg-name="无锡娱乐频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_303.jpg" group-title="其它",[BD]无锡娱乐频道
+https://epg.pw/stream/a4befe9082287ee66a898162d8afeb777d79fc949e4004108c0cdf86f72ff022.m3u8
 #EXTINF:-1 tvg-name="无锡教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_300.jpg" group-title="其它",[BD]无锡教育
 https://epg.pw/stream/aec6eb3f203182d8a840813fc1768a06366aed043198fbabc086b6971ea0a8b6.m3u8
+#EXTINF:-1 tvg-name="无锡新闻综合频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021224830475_68.jpg" group-title="新闻",[BD]无锡新闻综合频道
+https://epg.pw/stream/5155a60412152525913e11a606f14c23e56e291be2533874edbab3e505202b6c.m3u8
+#EXTINF:-1 tvg-name="无锡生活频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021415678015_57.jpg" group-title="综合",[BD]无锡生活频道
+https://epg.pw/stream/95f30f07e88e877c5857004f768053974c85bb57659e2c571b220eb6b9c0d154.m3u8
+#EXTINF:-1 tvg-name="无锡经济频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021445574242_70.jpg" group-title="新闻",[BD]无锡经济频道
+https://epg.pw/stream/964be6e4b9fdf8b40a6edfadbcd4d59d939857669a74c974510f8b45ca578e77.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-id="13997" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/05/large/20240105001011057713_15.jpg" group-title="其它",[BD]早期教育
 https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv
 #EXTINF:-1 tvg-name="晋城公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101013917651923_84.jpg" group-title="综合",[BD]晋城公共
@@ -677,6 +685,12 @@ https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16b
 https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv
 #EXTINF:-1 tvg-name="环球旅游" tvg-id="14018" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510154855518389_14.jpg" group-title="其它",[BD]环球旅游
 https://epg.pw/stream/65ce7a72733f382aab08ff3dcf8cad595db30f8aea4a94ac193c3f9963c8d8e4.ctv
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/11/large/20211011234740111968_10.png" group-title="其它",[BD]甘肃公共应急[ipv6]
+https://epg.pw/stream/31813e5a24afc72bfa4272a22fdc53bcbc526a8e8e59548d483623fe36ebfc03.m3u8
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160527173051_66.jpg" group-title="儿童",[BD]甘肃少儿[ipv6]
+https://epg.pw/stream/d7f3a7ed65c116cddef03557fa199cc00f04cb199dce9a4506616e7faed442c7.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160657812512_67.jpg" group-title="电影",[BD]甘肃文化影视[ipv6]
+https://epg.pw/stream/e7b1ce408ae006e7549de8601f869fd041037bf7397a89399b2bba71bb0488a6.m3u8
 #EXTINF:-1 tvg-name="甘肃经济" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160740731354_59.jpg" group-title="综合",[BD]甘肃经济[ipv6]
 https://epg.pw/stream/bb13b7935cea0ee610fb6eb1d7cd12a409e392ac28b0e0322025c15bd626b072.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="13883" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg" group-title="综合",[SD]甘肃卫视
