@@ -365,8 +365,8 @@ https://epg.pw/stream/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392
 https://epg.pw/stream/5012331f8dfc7f09b457f493caa0af347c10a258f40abc319e1fe9ec6a78b487.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-id="13908" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/28/large/20220528220546451462_40.jpg" group-title="综合",[SD]康巴卫视
 https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-id="13906" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="综合",[SD]厦门卫视
-https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="13906" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="综合",[SD]厦门卫视[ipv6]
+https://epg.pw/stream/00fa0928817c3047a3208f340c1296dfdf8dc52de94a66d849ed91719cce23a8.m3u8
 #EXTINF:-1 tvg-name="广州影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135446196276_41.png" group-title="电影",[HD]广州影视
 https://epg.pw/stream/2a43a84d657a150eb0dc8688b60bed45d33503727a8d9cee72bc46dbe524e7fe.ctv
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="新闻",[HD]广州新闻
@@ -439,8 +439,6 @@ https://epg.pw/stream/e31eef7ddf2d21d96039ff4259588b0a638ae137673951ebbb4421e022
 https://epg.pw/stream/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8
 #EXTINF:-1 tvg-name="旅行者" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="其它",[SD]置业[ipv6]
 https://epg.pw/stream/d5074fdd6fd5bee2bde0efd71f95200078599c9c4e088e255e3521e0aa0b5678.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" tvg-id="13878" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719063458082916_52.jpg" group-title="综合",[BD]旅游卫视
-https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8
 #EXTINF:-1 tvg-name="无锡教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_300.jpg" group-title="其它",[BD]无锡教育
 https://epg.pw/stream/aec6eb3f203182d8a840813fc1768a06366aed043198fbabc086b6971ea0a8b6.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-id="13997" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/05/large/20240105001011057713_15.jpg" group-title="其它",[BD]早期教育
