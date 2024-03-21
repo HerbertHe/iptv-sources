@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 
-import type { ICustom } from "./define"
+import type { ICustom, ICustomRuleReplacerItem } from "./define"
 import { config_path, m3u_path, write_custom_path } from "../const"
 import { m3u2txt, trimAny } from "../../utils"
 
@@ -29,6 +29,50 @@ const getFilenames = () => {
         .readdirSync(path.join(m3u_path, "txt"))
         .map((f) => f.replace(".txt", ""))
         .filter((f) => f !== "channels")
+}
+
+const after_replaced = (
+    value: string,
+    replacers?: ICustomRuleReplacerItem[]
+) => {
+    if (!replacers || !Array.isArray(replacers) || replacers.length === 0)
+        return value
+
+    const replacer = replacers?.find((e) => {
+        if (
+            e.type === "regexp" &&
+            !!e.pattern &&
+            !!e.flags &&
+            !!e.target &&
+            new RegExp(e.pattern, e.flags).test(value)
+        ) {
+            return true
+        }
+
+        if (
+            e.type === "string" &&
+            !!e.pattern &&
+            e.target &&
+            value.includes(e.pattern)
+        ) {
+            return true
+        }
+
+        return false
+    })
+
+    if (!!replacer && replacer.type === "regexp") {
+        return value.replace(
+            new RegExp(replacer.pattern, replacer.flags),
+            replacer.target
+        )
+    }
+
+    if (!!replacer && replacer.type === "string") {
+        return value.replace(replacer.pattern, replacer.target)
+    }
+
+    return value
 }
 
 export const runCustomTask = () => {
@@ -71,17 +115,45 @@ export const runCustomTask = () => {
                 // include 的优先级高于 exclude
                 if (!!rr.include && Array.isArray(rr.include)) {
                     if (rr.include.includes(name)) {
-                        res.push(arr[i])
-                        res.push(arr[i + 1])
+                        let _extinf = arr[i]
+                        let _url = arr[i + 1]
+                        if (!!rr.replacer) {
+                            const {
+                                extinf: extinf_replacer,
+                                url: url_replacer,
+                            } = rr.replacer
+                            _extinf = after_replaced(arr[i], extinf_replacer)
+                            _url = after_replaced(arr[i + 1], url_replacer)
+                        }
+                        res.push(_extinf)
+                        res.push(_url)
                     }
                 } else if (!!rr.exclude && Array.isArray(rr.exclude)) {
                     if (!rr.exclude.includes(name)) {
-                        res.push(arr[i])
-                        res.push(arr[i + 1])
+                        let _extinf = arr[i]
+                        let _url = arr[i + 1]
+                        if (!!rr.replacer) {
+                            const {
+                                extinf: extinf_replacer,
+                                url: url_replacer,
+                            } = rr.replacer
+                            _extinf = after_replaced(arr[i], extinf_replacer)
+                            _url = after_replaced(arr[i + 1], url_replacer)
+                        }
+                        res.push(_extinf)
+                        res.push(_url)
                     }
                 } else {
-                    res.push(arr[i])
-                    res.push(arr[i + 1])
+                    let _extinf = arr[i]
+                    let _url = arr[i + 1]
+                    if (!!rr.replacer) {
+                        const { extinf: extinf_replacer, url: url_replacer } =
+                            rr.replacer
+                        _extinf = after_replaced(arr[i], extinf_replacer)
+                        _url = after_replaced(arr[i + 1], url_replacer)
+                    }
+                    res.push(_extinf)
+                    res.push(_url)
                 }
             }
 
