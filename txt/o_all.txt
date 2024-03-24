@@ -70,7 +70,6 @@ ALPO_(720p)_[Not_24/7],https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m
 Alsacias_Televisión_(ATV_|_Canal_28)_(720p),https://s.emisoras.tv:8081/atv/index.m3u8
 Altyn_Asyr_(406p)_[Not_24/7],https://alpha.tv.online.tm/hls/ch001.m3u8
 Alvin_Channel_TV_(360p)_[Not_24/7],https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-Alwasat_TV_(1080p)_[Not_24/7],https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 AM_Canal_(720p)_[Not_24/7],https://v2.tustreaming.cl/amtv/index.m3u8
 América_Estéreo_Guayaquil_(360p),https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 América_Estéreo_Ibarra_(720p),https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
@@ -862,6 +861,7 @@ RTV_Chirripó_(720p),https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 RTV_Diamant_(1080p)_[Not_24/7],https://vdo.delhost.eu:3472/stream/play.m3u8
 RTV_Diasporei_(720p)_[Not_24/7],https://video2.lhdserver.es/diasporei/live.m3u8
 RTV_Dukagjini_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCL3nrPOUK0MCcm5nFk800xQ.m3u8
+RTV_Herceg-Bosne_(576p)_[Not_24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 RTV_LOVE_(720p),https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 RTV_Meppel_(720p),https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
 RTV_Nunspeet_(720p),https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
@@ -1633,6 +1633,7 @@ Alter_Horror_(1080p),https://lnc-alter.tubi.video/playlist.m3u8
 Alternativa_TV_(Huasco)_(720p)_[Not_24/7],https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 Althaqalayn_TV,http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
 Alto_Adige_TV_(720p),https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+Alwasat_TV_(1080p)_[Not_24/7],https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 ALWifak_News_TV_(720p),http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 Amazon_Sat_(1080p),https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 AMC,http://170.254.18.106/AMC/index.m3u8
@@ -4229,7 +4230,6 @@ RTV_Dordrecht_(480p),https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/
 RTV_Drenthe_(1080p),https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 RTV_Focus_TV_(720p),https://wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/playlist.m3u8
 RTV_GO!_(1080p)_[Not_24/7],http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
-RTV_Herceg-Bosne_(576p)_[Not_24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 RTV_Horizon_(720p),https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
 RTV_Maastricht_(720p)_[Not_24/7],http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 RTV_Marbella_(720p),https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
