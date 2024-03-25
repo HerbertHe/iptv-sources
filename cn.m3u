@@ -85,8 +85,6 @@ https://epg.pw/stream/05e222355206698d11ab0e237cce2cc951137cf30d5d9fa0a583614430
 https://epg.pw/stream/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8
 #EXTINF:-1 tvg-name="NEWTV精品体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="运动",[BD]newtv精品体育[ipv6]
 https://epg.pw/stream/2cfc18c6a4d620f42d5c58a51226bda61f721ac7de982c9380f89674efc6e951.m3u8
-#EXTINF:-1 tvg-name="NEWTV军事评论" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234703125327_15.jpg" group-title="综合",[BD]newtv军事评论[ipv6]
-https://epg.pw/stream/2520f5f3d6629a7d3263ddef88f227937d6261bd33250129bb2e5482d5f3cf14.m3u8
 #EXTINF:-1 tvg-name="NEWTV军旅剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="电影",[BD]newtv军旅剧场[ipv6]
 https://epg.pw/stream/039ce88ed853e0843ddd582b05a4b05caad6c6c97ed78f541e5ce97cbd943ba9.m3u8
 #EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235315812804_65.jpg" group-title="电影",[BD]newtv惊悚悬疑[ipv6]
@@ -291,7 +289,7 @@ https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784
 https://epg.pw/stream/91b6fbb646a23956a4fff96b3c516861919dc63fd59ab71b7657c46f9fc6fdd8.ctv
 #EXTINF:-1 tvg-name="太原文体" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_93.jpg" group-title="其它",[VGA]太原文体
 https://epg.pw/stream/c4778ba5faac5ef3c472183dfb03c67bc6643caab6e72d7df653802a917960f8.ctv
-#EXTINF:-1 tvg-name="太原新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023010857799299_19.jpg" group-title="新闻",[VGA]太原新闻综合
+#EXTINF:-1 tvg-name="太原新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023010857799299_19.jpg" group-title="新闻",[BD]太原新闻综合
 https://epg.pw/stream/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv
 #EXTINF:-1 tvg-name="如东新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/02/large/20221102234617846892_18.jpg" group-title="新闻",[VGA]如东新闻综合
 https://epg.pw/stream/5e29e3486ba8cb09c6b25d831c6d47c3e7b0b9eeee4d70cb7d017dc216cb8f43.m3u8
@@ -467,8 +465,6 @@ https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387
 https://epg.pw/stream/51b73b5ccce499befe8974842ba690b10f195922e05ccccb5fef6f20a22fae44.m3u8
 #EXTINF:-1 tvg-name="梅州综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530222345567755_49.jpg" group-title="综合",[BD]梅州综合
 https://epg.pw/stream/a9929c250f4886855160fd765fd58c44495264aae3afefc773535f5c5fde5914.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/22/large/20220622212514188285_58.jpg" group-title="综艺",[BD]乐游频道[ipv6]
-https://epg.pw/stream/a35a167cf11ac7807eccc55c7d5def8b6dfd11377687b1617dd98c6202223e62.m3u8
 #EXTINF:-1 tvg-name="欧美影院" tvg-id="14032" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_478.jpg" group-title="电影",[HD]欧美影院[ipv6]
 https://epg.pw/stream/dd5a5662c2d46df78aa3b940fc3e85fbef57d1552e121dc1236c2e56b0dce703.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="14178" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605005937539488_31.jpg" group-title="电影",[BD]欢笑剧场[ipv6]
@@ -649,14 +645,8 @@ https://epg.pw/stream/b51a07038b02ce9e264d7e8686a13c27232b021d662816025b72066dd3
 https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv
 #EXTINF:-1 tvg-name="环球旅游" tvg-id="14018" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510154855518389_14.jpg" group-title="其它",[BD]环球旅游
 https://epg.pw/stream/65ce7a72733f382aab08ff3dcf8cad595db30f8aea4a94ac193c3f9963c8d8e4.ctv
-#EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/11/large/20211011234740111968_10.png" group-title="其它",[BD]甘肃公共应急[ipv6]
-https://epg.pw/stream/31813e5a24afc72bfa4272a22fdc53bcbc526a8e8e59548d483623fe36ebfc03.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160527173051_66.jpg" group-title="儿童",[BD]甘肃少儿[ipv6]
 https://epg.pw/stream/d7f3a7ed65c116cddef03557fa199cc00f04cb199dce9a4506616e7faed442c7.m3u8
-#EXTINF:-1 tvg-name="甘肃文化影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160657812512_67.jpg" group-title="电影",[BD]甘肃文化影视[ipv6]
-https://epg.pw/stream/e7b1ce408ae006e7549de8601f869fd041037bf7397a89399b2bba71bb0488a6.m3u8
-#EXTINF:-1 tvg-name="甘肃经济" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160740731354_59.jpg" group-title="综合",[BD]甘肃经济[ipv6]
-https://epg.pw/stream/bb13b7935cea0ee610fb6eb1d7cd12a409e392ac28b0e0322025c15bd626b072.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="13883" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg" group-title="综合",[SD]甘肃卫视
 https://epg.pw/stream/7332fe8cfa38d8bd2e40ae211c99a66188d4281ca4bab70fb6d41ac45a356649.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-id="14279" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2016/06/19/large/20160619172359867221_76.jpg" group-title="综合",[BD]生活时尚
