@@ -291,7 +291,7 @@ https://epg.pw/stream/4de56f91d6ac6bb347d1e5f39c827d4f7794b22dcbaa29aab748c1cb0f
 https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784abc97f.m3u8
 #EXTINF:-1 tvg-name="太原影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_247.jpg" group-title="电影",[VGA]太原影视
 https://epg.pw/stream/91b6fbb646a23956a4fff96b3c516861919dc63fd59ab71b7657c46f9fc6fdd8.ctv
-#EXTINF:-1 tvg-name="太原文体" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_93.jpg" group-title="其它",[BD]太原文体
+#EXTINF:-1 tvg-name="太原文体" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_93.jpg" group-title="其它",[VGA]太原文体
 https://epg.pw/stream/c4778ba5faac5ef3c472183dfb03c67bc6643caab6e72d7df653802a917960f8.ctv
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023010857799299_19.jpg" group-title="新闻",[VGA]太原新闻综合
 https://epg.pw/stream/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv
@@ -593,8 +593,6 @@ https://epg.pw/stream/a8ab9894627959c7764468a4edd22b475d2020d3de80982930b562e881
 https://epg.pw/stream/ce250a77d62d662d935b48d70ee4d311b5edc4f87ec3be1aff2bb8c53e1f267a.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="13875" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="综合",[SD]深圳卫视
 https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
-#EXTINF:-1 tvg-name="深圳财经生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234138078092_64.jpg" group-title="综合",[BD]深圳财经生活
-https://epg.pw/stream/ff4a2c3a5ef4fbcfb60135fb8f1a73f892d787ec18d82c36dbcae8eaa3476abb.ctv
 #EXTINF:-1 tvg-name="深圳都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234446820820_32.jpg" group-title="综合",[HD]深圳都市
 https://epg.pw/stream/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8
 #EXTINF:-1 tvg-name="深圳体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313191017567671_26.png" group-title="运动",[BD]深圳体育
@@ -783,8 +781,8 @@ https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b
 https://epg.pw/stream/cb5fe22db8a6df6819228bc2a0782c3f3ceac9940e2cd7e441798d7796b856ea.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="13881" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111314058451_54.png" group-title="综合",[SD]重庆卫视
 https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
-#EXTINF:-1 tvg-name="金川新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101020503465691_84.jpg" group-title="新闻",[BD]金川新闻综合
-https://epg.pw/stream/0d60b10a833214165e584c5860475388bb1ffcb0fb9d622cd3a43408a4dd2883.m3u8
+#EXTINF:-1 tvg-name="金湖新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101020503465691_84.jpg" group-title="新闻",[VGA]金湖新闻综合
+https://epg.pw/stream/8439749fa807ac3697e4c2ad3806fdc913ca1115914ee9ee75f34693e4843b09.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626181831266001_79.png" group-title="其它",[BD]金色学堂[ipv6]
 https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="13907" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010621421514_15.jpg" group-title="儿童",[BD]金鹰卡通

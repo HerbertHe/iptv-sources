@@ -63,54 +63,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="国际",翡翠台
-http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="国际",明珠台
-http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="国际",澳门澳视
-http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/民视.png" group-title="国际",民視高清
-http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/中视.png" group-title="国际",中視高清
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
-#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/公视.png" group-title="国际",公視高清
-http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/TVBS.png" group-title="国际",TVBS
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/非凡新闻.png" group-title="国际",非凡新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东森洋片.png" group-title="国际",東森洋片
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东森电影.png" group-title="国际",東森電影
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
-#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东森戏剧.png" group-title="国际",東森戲劇
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
-#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/年代新闻.png" group-title="国际",年代新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/中天新闻.png" group-title="国际",中天新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/寰宇新闻.png" group-title="国际",寰宇新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/中视新闻.png" group-title="国际",中視新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/台视新闻.png" group-title="国际",台視新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东森新闻.png" group-title="国际",東森新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/三立新闻.png" group-title="国际",三立新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
-#EXTINF:-1 group-title="国际",凤凰卫视
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-#EXTINF:-1 group-title="国际",凤凰资讯
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
-#EXTINF:-1 group-title="国际",HBO HD
-http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
-#EXTINF:-1 group-title="国际",AXN
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
-#EXTINF:-1 group-title="国际",HBO Signature
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
-#EXTINF:-1 group-title="国际",探索频道
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -151,7 +103,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
