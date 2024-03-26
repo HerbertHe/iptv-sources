@@ -508,5 +508,6 @@
 | 502 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
 | 503 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
+| 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 
-Updated at **Mon Mar 25 2024 22:11:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 00:52:21 GMT+0000 (Coordinated Universal Time)**
