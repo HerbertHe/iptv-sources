@@ -210,7 +210,7 @@
 | 204 | [BD]新昌新闻综合 | epg.pw | <https://epg.pw/stream/5748cb36496b7783052f8b427639961ace7b19cd6a831893a2eb13fa69e27d14.m3u8> |
 | 205 | [BD]新疆12 | epg.pw | <https://epg.pw/stream/e81da678edf80800ccb7a17c72e3ab423b94991d409c3c5641beb01e08057ef3.ctv> |
 | 206 | [BD]新疆7 | epg.pw | <https://epg.pw/stream/0d9f63737dd3269aff6e438a81f6e92c70e876674aada3003e5f691038713e2c.ctv> |
-| 207 | [SD]新疆卫视 | epg.pw | <https://epg.pw/stream/ff921b905e5d0b1628a06f833e0de3632ce26572350b4c077f113e171d27bffe.m3u8> |
+| 207 | [SD]新疆卫视 | epg.pw | <https://epg.pw/stream/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8> |
 | 208 | [BD]新野新闻综合频道 | epg.pw | <https://epg.pw/stream/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8> |
 | 209 | [SD]置业[ipv6] | epg.pw | <https://epg.pw/stream/d5074fdd6fd5bee2bde0efd71f95200078599c9c4e088e255e3521e0aa0b5678.m3u8> |
 | 210 | [BD]无锡教育 | epg.pw | <https://epg.pw/stream/aec6eb3f203182d8a840813fc1768a06366aed043198fbabc086b6971ea0a8b6.m3u8> |
@@ -293,7 +293,7 @@
 | 287 | [VGA]海安新闻综合 | epg.pw | <https://epg.pw/stream/e12fc750b8094b8cde970ed847fa1563cc259ccd485f94cc640e50c84b508df8.m3u8> |
 | 288 | [BD]海峡卫视 | epg.pw | <https://epg.pw/stream/f950666569a200f63d8bb4aebd7066fdf3deb459c84302c13e3949d71c17df29.ctv> |
 | 289 | [BD]深圳少儿 | epg.pw | <https://epg.pw/stream/b6a84da6b9df854bf6815a98c0f116a6823c958b980fe8f7747b5df8596f99e3.ctv> |
-| 290 | [SD]深圳卫视 | epg.pw | <https://epg.pw/stream/4fbfc3060dd00e1fd917f081810869767d63cfcdeea04c8f312b74848c395149.m3u8> |
+| 290 | [SD]深圳卫视 | epg.pw | <https://epg.pw/stream/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8> |
 | 291 | [HD]深圳都市 | epg.pw | <https://epg.pw/stream/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8> |
 | 292 | [BD]深圳体育 | epg.pw | <https://epg.pw/stream/bf026407d4deedbae659de44da6a15d83a6aebc0f5e365d902163a19810147ec.ctv> |
 | 293 | [BD]清河新闻综合 | epg.pw | <https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
@@ -430,4 +430,4 @@
 | 424 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 425 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Tue Mar 26 2024 02:17:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 04:13:44 GMT+0000 (Coordinated Universal Time)**
