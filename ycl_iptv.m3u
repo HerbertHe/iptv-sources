@@ -67,6 +67,22 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="卫视",翡翠台 
+https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 group-title="卫视",明珠台 
+https://iptv.hiper25.com/Pearl/video.m3u8
+#EXTINF:-1 group-title="卫视",澳門澳視 
+https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1 group-title="卫视",廣東珠江 
+https://iptv.hiper25.com/gdzj/video.m3u8
+#EXTINF:-1 group-title="卫视",廣東體育 
+https://iptv.hiper25.com/gdty/video.m3u8
+#EXTINF:-1 group-title="卫视",廣東民生 
+https://iptv.hiper25.com/gdms/video.m3u8
+#EXTINF:-1 group-title="卫视",廣東經科 
+https://iptv.hiper25.com/gdjjkj/video.m3u8
+#EXTINF:-1 group-title="卫视",大灣區衛視 
+https://iptv.hiper25.com/dwq/video.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
