@@ -510,4 +510,4 @@
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 
-Updated at **Wed Mar 27 2024 20:12:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 27 2024 22:13:04 GMT+0000 (Coordinated Universal Time)**
