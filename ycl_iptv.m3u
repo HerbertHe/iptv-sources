@@ -310,7 +310,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
-https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",ABC7 Bay Area
@@ -459,6 +459,14 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
 #EXTINF:-1 group-title="国际",SNY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 group-title="国际",Documentary+
+https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+#EXTINF:-1 group-title="国际",Tastemade
+https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+#EXTINF:-1 group-title="国际",MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 group-title="国际",Travelxp
+https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="联通",CCTV-1
 rtp://239.3.1.129:8008
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="联通",CCTV-2
