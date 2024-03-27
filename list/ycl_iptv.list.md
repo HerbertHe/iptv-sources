@@ -154,5 +154,141 @@
 | 148 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
 | 149 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 | 150 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
+| 151 | CNN | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8> |
+| 152 | BBC | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8> |
+| 153 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
+| 154 | ABC News Live | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8> |
+| 155 | Live Now FOX | fox-foxnewsnow-samsungus.amagi.tv | <https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8> |
+| 156 | NBC News Now | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8> |
+| 157 | Sky News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8> |
+| 158 | ABC7 Bay Area | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8> |
+| 159 | CBS News Bay Area | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8> |
+| 160 | Euronews Live | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8> |
+| 161 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 162 | ABC Australia | abc-iview-mediapackagestreams-2.akamaized.net | <https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8> |
+| 163 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
+| 164 | Dubai One | dminnvll.cdn.mangomolo.com | <http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8> |
+| 165 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
+| 166 | NHK World | nhkwlive-ojp.akamaized.net | <https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8> |
+| 167 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
+| 168 | KBS World | kbsworld-ott.akamaized.net | <https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8> |
+| 169 | Bloomberg Asia | epg.pw | <https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8> |
+| 170 | Bloomberg Originals | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8> |
+| 171 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
+| 172 | GB News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8> |
+| 173 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
+| 174 | TBS | IPv4 直链 | <http://143.244.60.30/TBS/index.m3u8> |
+| 175 | FXX | livex.pop-app.live | <http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8> |
+| 176 | A&E | dns.clientetv.net:8080 | <http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404> |
+| 177 | AMC | IPv4 直链 | <http://170.254.18.106/AMC/index.m3u8> |
+| 178 | Star | IPv4 直链 | <http://170.254.18.106/STAR/index.m3u8> |
+| 179 | BET | IPv4 直链 | <http://170.254.18.106/BET/index.m3u8> |
+| 180 | TNT | IPv4 直链 | <http://170.254.18.106/TNT/index.m3u8> |
+| 181 | Red Bull TV | rbmn-live.akamaized.net | <https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8> |
+| 182 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
+| 183 | TRT World | tv-trtworld.live.trt.com.tr | <https://tv-trtworld.live.trt.com.tr/master_1080.m3u8> |
+| 184 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
+| 185 | ION Plus | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8> |
+| 186 | ION | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8> |
+| 187 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
+| 188 | Disney International | sansat.net:88 | <http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284> |
+| 189 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
+| 190 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 191 | Star Movies | IPv4 直链 | <http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8> |
+| 192 | Movies Now | IPv4 直链 | <http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A> |
+| 193 | BBC America | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8> |
+| 194 | Cinemax East | dns.clientetv.net:8080 | <http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816> |
+| 195 | HBO | dns.clientetv.net:8080 | <http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848> |
+| 196 | HBO Plus | IPv4 直链 | <http://170.254.18.106/HBO_PLUS/index.m3u8> |
+| 197 | HBO West | dns.clientetv.net:8080 | <http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849> |
+| 198 | HBO 2 | IPv4 直链 | <http://170.254.18.106/HBO2/index.m3u8> |
+| 199 | HBO Family | IPv4 直链 | <http://170.254.18.106/HBO_FAMILY/index.m3u8> |
+| 200 | HBO Signature | IPv4 直链 | <http://170.254.18.106/HBO_SIG/index.m3u8> |
+| 201 | &Flix HD | IPv4 直链 | <http://89.187.177.137:8081/&FLIX/index.m3u8> |
+| 202 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
+| 203 | Wild Planet | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8> |
+| 204 | Clarity 4K | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8> |
+| 205 | Comedy Central | IPv4 直链 | <http://170.254.18.106/COMEDY_CENTRAL/index.m3u8> |
+| 206 | Nickelodeon | IPv4 直链 | <http://143.244.60.30/NICKELODEON/index.m3u8> |
+| 207 | History | IPv4 直链 | <http://170.254.18.106/HISTORY/index.m3u8> |
+| 208 | Paramount Network | IPv4 直链 | <http://170.254.18.106/PARAMOUNT/index.m3u8 > |
+| 209 | HBO Xtreme | IPv4 直链 | <http://170.254.18.106/HBO_XTREME/index.m3u8> |
+| 210 | Cinemax | IPv4 直链 | <http://170.254.18.106/CINEMAX/index.m3u8> |
+| 211 | Rakuten Comedy | rakuten-comedymovies-1-eu.rakuten.wurl.tv | <https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8> |
+| 212 | Rakuten Family | rakuten-family-1-eu.rakuten.wurl.tv | <https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8> |
+| 213 | Rakuten Action | rakuten-actionmovies-1-eu.rakuten.wurl.tv | <https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8> |
+| 214 | Sky Sport | donelfantastic.github.io | <https://donelfantastic.github.io/live/skysportsNz8.m3u8> |
+| 215 | Stadium | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8> |
+| 216 | FIFA+ | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8> |
+| 217 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
+| 218 | BBC Earth | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8> |
+| 219 | BBC Food | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8> |
+| 220 | BBC Home | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8> |
+| 221 | NBA TV | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/136> |
+| 222 | Universal Kids | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/252> |
+| 223 | Nat Geo | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/141> |
+| 224 | NASA | ntv1.akamaized.net:443 | <https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?> |
+| 225 | Start TV | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467> |
+| 226 | The Weather Channel | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/301> |
+| 227 | Pop | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/226> |
+| 228 | WE TV | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/247> |
+| 229 | Me TV | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/744> |
+| 230 | SNY | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/330> |
+| 231 | CCTV-1 | IPv4 直链 | <rtp://239.3.1.129:8008> |
+| 232 | CCTV-2 | IPv4 直链 | <rtp://239.3.1.60:8084> |
+| 233 | CCTV-3 | IPv4 直链 | <rtp://239.3.1.172:8001> |
+| 234 | CCTV-4 | IPv4 直链 | <rtp://239.3.1.105:8092> |
+| 235 | CCTV-5 | IPv4 直链 | <rtp://239.3.1.173:8001> |
+| 236 | CCTV-6 | IPv4 直链 | <rtp://239.3.1.174:8001> |
+| 237 | CCTV-7 | IPv4 直链 | <rtp://239.3.1.61:8104> |
+| 238 | CCTV-8 | 239.3.1.175:8001  | <rtp://239.3.1.175:8001 > |
+| 239 | CCTV-9 | IPv4 直链 | <rtp://239.3.1.62:8112> |
+| 240 | CCTV-10 | IPv4 直链 | <rtp://239.3.1.63:8116> |
+| 241 | CCTV-11 | IPv4 直链 | <rtp://239.3.1.152:8120> |
+| 242 | CCTV-12 | IPv4 直链 | <rtp://239.3.1.64:8124> |
+| 243 | CCTV-13 | IPv4 直链 | <rtp://239.3.1.124:8128> |
+| 244 | CCTV-14 | IPv4 直链 | <rtp://239.3.1.65:8132> |
+| 245 | CCTV-15 | IPv4 直链 | <rtp://239.3.1.153:8136> |
+| 246 | CCTV-16 | IPv4 直链 | <rtp://239.3.1.184:8001> |
+| 247 | CCTV-17 | IPv4 直链 | <rtp://239.3.1.151:8144> |
+| 248 | CCTV-4K | IPv4 直链 | <rtp://239.3.1.245:2000> |
+| 249 | 中文欧洲 | 239.3.1.213:4220  | <rtp://239.3.1.213:4220 > |
+| 250 | 中文美洲 | 239.3.1.214:4220  | <rtp://239.3.1.214:4220 > |
+| 251 | 体育赛事 | IPv4 直链 | <rtp://239.3.1.130:8004> |
+| 252 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
+| 253 | CGTN新闻 | IPv4 直链 | <rtp://239.3.1.215:4220> |
+| 254 | CGTN纪录 | IPv4 直链 | <rtp://239.3.1.216:4220> |
+| 255 | 北京卫视 | IPv4 直链 | <rtp://239.3.1.241:8000> |
+| 256 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.136:8032> |
+| 257 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.132:8012> |
+| 258 | 浙江卫视 | IPv4 直链 | <rtp://239.3.1.137:8036> |
+| 259 | 江苏卫视 | IPv4 直链 | <rtp://239.3.1.135:8028> |
+| 260 | 江西卫视 | IPv4 直链 | <rtp://239.3.1.123:8164> |
+| 261 | 河北卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
+| 262 | 深圳卫视 | IPv4 直链 | <rtp://239.3.1.134:8020> |
+| 263 | 湖北卫视 | IPv4 直链 | <rtp://239.3.1.138:8044> |
+| 264 | 天津卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
+| 265 | 安徽卫视 | IPv4 直链 | <rtp://239.3.1.211:8064> |
+| 266 | 山东卫视 | IPv4 直链 | <rtp://239.3.1.209:8052> |
+| 267 | 广东卫视 | IPv4 直链 | <rtp://239.3.1.142:8048> |
+| 268 | 贵州卫视 | IPv4 直链 | <rtp://239.3.1.149:8076> |
+| 269 | 辽宁卫视 | IPv4 直链 | <rtp://239.3.1.210:8056> |
+| 270 | 重庆卫视 | IPv4 直链 | <rtp://239.3.1.122:8160> |
+| 271 | 龙江卫视 | IPv4 直链 | <rtp://239.3.1.133:8016> |
+| 272 | 吉林卫视 | IPv4 直链 | <rtp://239.3.1.240:8172> |
+| 273 | 东南卫视 | IPv4 直链 | <rtp://239.3.1.156:8148> |
+| 274 | 北京新闻 | IPv4 直链 | <rtp://239.3.1.159:8000> |
+| 275 | 北京财经 | IPv4 直链 | <rtp://239.3.1.115:8000> |
+| 276 | 北京生活 | IPv4 直链 | <rtp://239.3.1.117:8000> |
+| 277 | 北京文艺 | IPv4 直链 | <rtp://239.3.1.242:8000> |
+| 278 | 北京影视 | IPv4 直链 | <rtp://239.3.1.158:8000> |
+| 279 | 北京国际 | IPv4 直链 | <rtp://239.3.1.235:8000> |
+| 280 | 体育休闲 | IPv4 直链 | <rtp://239.3.1.243:8000> |
+| 281 | 纪实科教 | IPv4 直链 | <rtp://239.3.1.115:8000> |
+| 282 | 卡酷少儿 | IPv4 直链 | <rtp://239.3.1.189:8000> |
+| 283 | 金鹰纪实 | IPv4 直链 | <rtp://239.3.1.58:8156> |
+| 284 | 纪实人文 | IPv4 直链 | <rtp://239.3.1.212:8060> |
+| 285 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
+| 286 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
 
-Updated at **Wed Mar 27 2024 06:15:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 27 2024 08:15:54 GMT+0000 (Coordinated Universal Time)**
