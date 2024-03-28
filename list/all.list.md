@@ -63,12 +63,12 @@
 | 57 | [HD]ASSP | epg.pw | <https://epg.pw/stream/7ddf3a319c26d3507149d407c84db0f0e7d8d1d14c53d28cd02f26ea65e1df9d.ctv> |
 | 58 | [VGA]ASSP2 | epg.pw | <https://epg.pw/stream/d508a8aafd715e852aba7254dd284683f5e8c697264c2d782029997ec61a6599.ctv> |
 | 59 | [HD]ASSP3 | epg.pw | <https://epg.pw/stream/cf7671011c623fc98d70e84e233f9e1954292cdf28fd6b61addb01ae6000d96a.ctv> |
-| 60 | [HD]ASSP4 | epg.pw | <https://epg.pw/stream/9556bf9f3c3539749edf7fefd7d540f218bb99507810ccb1e78a586c5221c768.ctv> |
+| 60 | [BD]ASSP4 | epg.pw | <https://epg.pw/stream/9556bf9f3c3539749edf7fefd7d540f218bb99507810ccb1e78a586c5221c768.ctv> |
 | 61 | [SD]ASTRO AOD 311 | epg.pw | <https://epg.pw/stream/c217fd6d0d7abee28807b2e52da23aa3ddc878f46f48c265d04e8dc8e0eb7456.ctv> |
 | 62 | [HD]ASTRO AURA | epg.pw | <https://epg.pw/stream/692da0b7eaf735434f5d1653aabb65c57377fc82ce328556ce9205e2bbab771f.ctv> |
 | 63 | [HD]ASTRO AWANI | epg.pw | <https://epg.pw/stream/c6fea1c0a7e3f376540ab6af7820ab89992d6760583d4fb081eda14a967c59db.ctv> |
 | 64 | [HD]astro arena 1 | epg.pw | <https://epg.pw/stream/b68f7dec0c6c54d659690d9813df233f61b4863bace9808e3aae93581d1ad0bb.ctv> |
-| 65 | [BD]Astro Arena 2 | epg.pw | <https://epg.pw/stream/8226b5088c07638b484b18c620c778a90742931823637cd82ad8a33e7835bf3b.ctv> |
+| 65 | [BD]astro arena 2 | epg.pw | <https://epg.pw/stream/cf86c0d878f7a5b55696305efff91b363481e0b9585dc523d7cd8b0c28142610.ctv> |
 | 66 | [HD]astro aura | epg.pw | <https://epg.pw/stream/2954c7cc40e118e6365a173204bfd87363ff6b5504bd7de9003823aabe0265f3.ctv> |
 | 67 | [SD]astro cricket | epg.pw | <https://epg.pw/stream/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
 | 68 | [HD]ASTRO OASIS | epg.pw | <https://epg.pw/stream/283a9849898ec963c14167e69d018a1cfcc0c79b56320de6fe2fec978932f959.ctv> |
@@ -299,7 +299,7 @@
 | 293 | [SD]hbo hd | epg.pw | <https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv> |
 | 294 | [BD]HBO HD USA | epg.pw | <https://epg.pw/stream/782a75d8f929655610f5046b16aa82345aa0820fbbb77f17723794894351175f.ctv> |
 | 295 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/1ae7e6de3c062c1b2719a0ed4269dcb783aca7b114f3c19253e5c9733e6162ef.ctv> |
-| 296 | [BD]hbo hits | epg.pw | <https://epg.pw/stream/365e19e58115a0330e5baa33cdde387dc023f42281e52312f82661142ec6fd1f.m3u8> |
+| 296 | [VGA]hbo hits | epg.pw | <https://epg.pw/stream/365e19e58115a0330e5baa33cdde387dc023f42281e52312f82661142ec6fd1f.m3u8> |
 | 297 | [SD]hbo signature tree | epg.pw | <https://epg.pw/stream/4ab76c5d1a19d0d513b948e1de8b7dce4d5ed4d302f0b76c31036002a63586df.ctv> |
 | 298 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv> |
 | 299 | [HD]HBO SIGNATURE USA | epg.pw | <https://epg.pw/stream/0deb2915d916a21d93a4ce028c7e4ed9030ed84ebe604c7c5442c167d4e5dcae.ctv> |
@@ -998,7 +998,7 @@
 | 992 | [HD]free | epg.pw | <https://epg.pw/stream/9f0afc1de4674df4bd67f4796cde7f4923d3a367365085a74b37a1cc8c518932.m3u8> |
 | 993 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
 | 994 | [HD]fresh (720p) | epg.pw | <https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8> |
-| 995 | [BD]ftv | epg.pw | <https://epg.pw/stream/e388b3a984a52fed101ff65a6f7bd8232ed72fbc5a88a8777a87188dc320c610.m3u8> |
+| 995 | [HD]ftv | epg.pw | <https://epg.pw/stream/e388b3a984a52fed101ff65a6f7bd8232ed72fbc5a88a8777a87188dc320c610.m3u8> |
 | 996 | [BD]futbol | epg.pw | <https://epg.pw/stream/81e83fd364f408f0729841bb5b0d9dacfaeb5b080919593bea932997cc0668ba.m3u8> |
 | 997 | [HD]fx hd | epg.pw | <https://epg.pw/stream/ea15c4acbeed6ba8a54ed92dc84e56621f4937683c7a75aa12816c9e57415875.ctv> |
 | 998 | [BD]gali kurdistan | epg.pw | <https://epg.pw/stream/fd260f5fa435c125b80b518a362910df30c577b6d09731bc73e668b9d8fc2cab.m3u8> |
@@ -2397,4 +2397,4 @@
 | 2391 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2392 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Thu Mar 28 2024 20:13:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 28 2024 22:10:55 GMT+0000 (Coordinated Universal Time)**

@@ -7,9 +7,9 @@ Sports,#genre#
 [HD]ASSP,https://epg.pw/stream/7ddf3a319c26d3507149d407c84db0f0e7d8d1d14c53d28cd02f26ea65e1df9d.ctv
 [VGA]ASSP2,https://epg.pw/stream/d508a8aafd715e852aba7254dd284683f5e8c697264c2d782029997ec61a6599.ctv
 [HD]ASSP3,https://epg.pw/stream/cf7671011c623fc98d70e84e233f9e1954292cdf28fd6b61addb01ae6000d96a.ctv
-[HD]ASSP4,https://epg.pw/stream/9556bf9f3c3539749edf7fefd7d540f218bb99507810ccb1e78a586c5221c768.ctv
+[BD]ASSP4,https://epg.pw/stream/9556bf9f3c3539749edf7fefd7d540f218bb99507810ccb1e78a586c5221c768.ctv
 [HD]astro_arena_1,https://epg.pw/stream/b68f7dec0c6c54d659690d9813df233f61b4863bace9808e3aae93581d1ad0bb.ctv
-[BD]Astro_Arena_2,https://epg.pw/stream/8226b5088c07638b484b18c620c778a90742931823637cd82ad8a33e7835bf3b.ctv
+[BD]astro_arena_2,https://epg.pw/stream/cf86c0d878f7a5b55696305efff91b363481e0b9585dc523d7cd8b0c28142610.ctv
 [SD]astro_cricket,https://epg.pw/stream/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv
 [BD]sports_tv,https://epg.pw/stream/4c976c9bf22c5d06a0fc9f7076743352d7054f64dd8b831b9158db92763c9bb3.m3u8
 [HD]Astro_Supersports_1,https://epg.pw/stream/14faab8a608c3cbccce41e01d66ef3e80dc7616c3506b9cf272d4ef3b10790b2.ctv
@@ -313,7 +313,7 @@ Movies,#genre#
 [SD]hbo_hd,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 [BD]HBO_HD_USA,https://epg.pw/stream/782a75d8f929655610f5046b16aa82345aa0820fbbb77f17723794894351175f.ctv
 [HD]HBO_HITS,https://epg.pw/stream/1ae7e6de3c062c1b2719a0ed4269dcb783aca7b114f3c19253e5c9733e6162ef.ctv
-[BD]hbo_hits,https://epg.pw/stream/365e19e58115a0330e5baa33cdde387dc023f42281e52312f82661142ec6fd1f.m3u8
+[VGA]hbo_hits,https://epg.pw/stream/365e19e58115a0330e5baa33cdde387dc023f42281e52312f82661142ec6fd1f.m3u8
 [SD]hbo_signature_tree,https://epg.pw/stream/4ab76c5d1a19d0d513b948e1de8b7dce4d5ed4d302f0b76c31036002a63586df.ctv
 [BD]HBO_Signature,https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv
 [HD]HBO_SIGNATURE_USA,https://epg.pw/stream/0deb2915d916a21d93a4ce028c7e4ed9030ed84ebe604c7c5442c167d4e5dcae.ctv
@@ -1671,7 +1671,7 @@ News,#genre#
 [BD]france_24_arabic,https://epg.pw/stream/293895dd16e0778d16355ba2dac38bf4904ac15853c9e2f6aaa8974c1a7daddd.m3u8
 [BD]france_24_english,https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
 [BD]france_24_french,https://epg.pw/stream/dcb6e77c972be0ca9171eccb549774b2524a9774328eb17f9934d998990b476b.ctv
-[BD]ftv,https://epg.pw/stream/e388b3a984a52fed101ff65a6f7bd8232ed72fbc5a88a8777a87188dc320c610.m3u8
+[HD]ftv,https://epg.pw/stream/e388b3a984a52fed101ff65a6f7bd8232ed72fbc5a88a8777a87188dc320c610.m3u8
 [BD]gali_kurdistan,https://epg.pw/stream/fd260f5fa435c125b80b518a362910df30c577b6d09731bc73e668b9d8fc2cab.m3u8
 [BD]global_news,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
 [HD]globo_news,https://epg.pw/stream/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.ctv
