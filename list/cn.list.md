@@ -20,7 +20,7 @@
 | 14 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8> |
 | 15 | [BD]cctv5 | epg.pw | <https://epg.pw/stream/a07086d0420ac12b7d34e0461250f43bfc467adc0cd59c7cc4121e7d06c26684.m3u8> |
 | 16 | [BD]cctv5+ | epg.pw | <https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8> |
-| 17 | [BD]cctv6 | epg.pw | <https://epg.pw/stream/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8> |
+| 17 | [BD]cctv6[ipv6] | epg.pw | <https://epg.pw/stream/b71ed08343e2a8ce5956c8f7d80368f6f50bc863892d63443511b9f8823cbe00.m3u8> |
 | 18 | [BD]cctv7[ipv6] | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
 | 19 | [BD]cctv-8 | epg.pw | <https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8> |
 | 20 | [BD]cctv-9 | epg.pw | <https://epg.pw/stream/86d5fa07534e30fe4105d84d72af0f06deb7673cac8a42b4e12fd3894fb72550.m3u8> |
@@ -208,7 +208,7 @@
 | 202 | [BD]新昌新闻综合 | epg.pw | <https://epg.pw/stream/5748cb36496b7783052f8b427639961ace7b19cd6a831893a2eb13fa69e27d14.m3u8> |
 | 203 | [BD]新疆12 | epg.pw | <https://epg.pw/stream/e81da678edf80800ccb7a17c72e3ab423b94991d409c3c5641beb01e08057ef3.ctv> |
 | 204 | [BD]新疆7 | epg.pw | <https://epg.pw/stream/0d9f63737dd3269aff6e438a81f6e92c70e876674aada3003e5f691038713e2c.ctv> |
-| 205 | [SD]新疆卫视 | epg.pw | <https://epg.pw/stream/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8> |
+| 205 | [SD]新疆卫视[ipv6] | epg.pw | <https://epg.pw/stream/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8> |
 | 206 | [BD]新野新闻综合频道 | epg.pw | <https://epg.pw/stream/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8> |
 | 207 | [SD]置业[ipv6] | epg.pw | <https://epg.pw/stream/d5074fdd6fd5bee2bde0efd71f95200078599c9c4e088e255e3521e0aa0b5678.m3u8> |
 | 208 | [BD]无锡教育 | epg.pw | <https://epg.pw/stream/aec6eb3f203182d8a840813fc1768a06366aed043198fbabc086b6971ea0a8b6.m3u8> |
@@ -349,13 +349,13 @@
 | 343 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8> |
 | 344 | [BD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/b0caa04ca1cdfdb7bd7ac07b9290e9055df283c1e5188dc024dea18640e15d30.m3u8> |
 | 345 | [BD]卫生健康 | epg.pw | <https://epg.pw/stream/d5c601a33b8ea414c6135c95a37c8a8a1ae768ccae63abd9a78934c2a114d13a.m3u8> |
-| 346 | [SD]西安影视频道[ipv6] | epg.pw | <https://epg.pw/stream/3c779e61a9e6fbacb116888b009c976c2e240b36988802246dd890e28b080b99.m3u8> |
-| 347 | [BD]西宁新闻综合 | epg.pw | <https://epg.pw/stream/825a5ac0b0a65e0805eeaf028bdf9c81f1b6c99b1b8c242b7096ce61d66cff6d.m3u8> |
-| 348 | [BD]西宁生活服务 | epg.pw | <https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8> |
-| 349 | [BD]西平新闻综合频道 | epg.pw | <https://epg.pw/stream/402b19b10a340d4324332c2a1fcbb98357c2a29b4d0949cf4629cb5f78bb2805.m3u8> |
-| 350 | [BD]西藏卫视 标清 | epg.pw | <https://epg.pw/stream/4dd021e99ed38670cdabe97b5fe319fd534b714110613abffccfb998084a98e4.ctv> |
-| 351 | [SD]西藏卫视 | epg.pw | <https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8> |
-| 352 | [BD]西青新闻综合 | epg.pw | <https://epg.pw/stream/4e18da522e949c1492839964cd416dd693fd1b654eb24e2af8db4d92363697bd.m3u8> |
+| 346 | [BD]西宁新闻综合频道 | epg.pw | <https://epg.pw/stream/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8> |
+| 347 | [SD]西安影视频道[ipv6] | epg.pw | <https://epg.pw/stream/3c779e61a9e6fbacb116888b009c976c2e240b36988802246dd890e28b080b99.m3u8> |
+| 348 | [BD]西宁新闻综合 | epg.pw | <https://epg.pw/stream/825a5ac0b0a65e0805eeaf028bdf9c81f1b6c99b1b8c242b7096ce61d66cff6d.m3u8> |
+| 349 | [BD]西宁生活服务 | epg.pw | <https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8> |
+| 350 | [BD]西平新闻综合频道 | epg.pw | <https://epg.pw/stream/402b19b10a340d4324332c2a1fcbb98357c2a29b4d0949cf4629cb5f78bb2805.m3u8> |
+| 351 | [BD]西藏卫视 标清 | epg.pw | <https://epg.pw/stream/4dd021e99ed38670cdabe97b5fe319fd534b714110613abffccfb998084a98e4.ctv> |
+| 352 | [SD]西藏卫视 | epg.pw | <https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8> |
 | 353 | [HD]象山新闻综合 | epg.pw | <https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8> |
 | 354 | [SD]财富天下[ipv6] | epg.pw | <https://epg.pw/stream/aa03f0728acfed94ea6c9ec35a27c0344328f04902afabfdce94cf25010ad098.m3u8> |
 | 355 | [BD]贵州卫视[ipv6] | epg.pw | <https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8> |
@@ -417,4 +417,4 @@
 | 411 | [BD]黑龙江公共农村[ipv6] | epg.pw | <https://epg.pw/stream/0623fcc677362013baa7bcc326f1d7758f1cdfea016987c2a11ca28a5eb289f2.m3u8> |
 | 412 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu Mar 28 2024 08:14:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 28 2024 10:12:16 GMT+0000 (Coordinated Universal Time)**
