@@ -107,7 +107,7 @@
 | 101 | [BD]Astro Supersports 4 | epg.pw | <https://epg.pw/stream/710622f20e9423c09be57bdbf41eff5619954bf7e7da39e49e8fcf5318e5eee8.ctv> |
 | 102 | [SD]astrotv | epg.pw | <https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8> |
 | 103 | [HD]KPLUS HD | epg.pw | <https://epg.pw/stream/ca69f32d5a6df0db81b9b7a2eee7cba68ed9381c8eb137bb0e81323daec4b760.ctv> |
-| 104 | [HD]Astro欢喜台 | epg.pw | <https://epg.pw/stream/b467bfb017e228806c40ab559952d40df87f53f7a7feae190bd58202865c2dc3.ctv> |
+| 104 | [HD]Astro欢喜台 | epg.pw | <https://epg.pw/stream/9164f62e6d7bf6ab0b95b606ea4c37e13d83b7ba54eb731f71dbe7e60edb38af.ctv> |
 | 105 | [BD]hope channel australia | epg.pw | <https://epg.pw/stream/60076f92fff720362c4e7e66696011f043a58f626e7e3ecc46b13b81011179c4.m3u8> |
 | 106 | [HD]az news | epg.pw | <https://epg.pw/stream/fc8260d594695d651d5ce6114fda868af009aeed154be879a40cdee4f66218c6.m3u8> |
 | 107 | [HD]Awesome TV | epg.pw | <https://epg.pw/stream/731599690b05311bf1da98ce64a4fcf50dcb48fa067874b6c9a47d6c0633f079.ctv> |
@@ -1303,7 +1303,7 @@
 | 1297 | [BD]okto tv (1080p) | epg.pw | <https://epg.pw/stream/122d263bb30b5181c383286ff175a355571bb0addda7343f3c3f662d52308a41.m3u8> |
 | 1298 | [BD]omega | epg.pw | <https://epg.pw/stream/a70e6607835dea8ed5111a5a06f00bb98de1cffefdb55e2190f7ead4b8cc7877.m3u8> |
 | 1299 | [BD]on football hd | epg.pw | <https://epg.pw/stream/408474e4c3fcc6dc90015f3f0b3e285bc1e01b0708fdfc07bcf8e30c730db4de.m3u8> |
-| 1300 | [BD]on golf | epg.pw | <https://epg.pw/stream/838b23e4693e8134c8a2bbed9416635067ac57b388a93985b25d27b69d5853b1.m3u8> |
+| 1300 | [BD]on golf | epg.pw | <https://epg.pw/stream/acb964fd85852b820fe0b67a1553856e85ab09cf74f2875eab148d2925748961.ctv> |
 | 1301 | [HD]on kids | epg.pw | <https://epg.pw/stream/ac4c4452f11c774abef181557bc9ec946380359fb89cae74479812fba206c259.m3u8> |
 | 1302 | [BD]on life | epg.pw | <https://epg.pw/stream/a00f8caf5dc93bf6ea83a201c6f6cb75c37ee7b2cb74122dc14d848563143e6c.m3u8> |
 | 1303 | [BD]on sports action | epg.pw | <https://epg.pw/stream/f9d758231723cb9fe40efe8023e9503293feee920e267354679cfa0dbbcb950c.ctv> |
@@ -2415,4 +2415,4 @@
 | 2409 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2410 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Thu Mar 28 2024 02:21:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 28 2024 04:13:34 GMT+0000 (Coordinated Universal Time)**
