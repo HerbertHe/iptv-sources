@@ -7051,8 +7051,8 @@
 | 7045 | SportsGrid (1080p) | sportsgrid-tribal.amagi.tv | <https://sportsgrid-tribal.amagi.tv/playlist.m3u8> |
 | 7046 | SportsTVPlus | 亚马逊AWS | <https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8> |
 | 7047 | SportyStuff TV (1080p) | cdn.rtmp1.vodhosting.com | <https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8> |
-| 7048 | SPOTV2 (1080p) | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8> |
-| 7049 | SPOTV (1080p) | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8> |
+| 7048 | SPOTV2 (720p) | IPv4 直链 | <http://202.150.161.68/spotv2/index.m3u8> |
+| 7049 | SPOTV (720p) | IPv4 直链 | <http://202.150.161.68/spotv1/index.m3u8> |
 | 7050 | SQCS Canal 4 (720p) | 5fa5de1a545ae.streamlock.net | <https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8> |
 | 7051 | SQOOL TV (STK) | ythls.armelin.one | <https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8> |
 | 7052 | Squadra Speciale Cobra 11 Italy (720p) | stitcher-ipv4.pluto.tv | <https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY> |
@@ -10007,4 +10007,4 @@
 | 10001 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10002 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Thu Mar 28 2024 22:10:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 29 2024 00:53:05 GMT+0000 (Coordinated Universal Time)**
