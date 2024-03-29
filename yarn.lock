@@ -348,10 +348,10 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/node@^20.11.29":
-  version "20.11.29"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.29.tgz#431253cede34f392d6aaf7acad427b9c23aa60f6"
-  integrity sha512-P99thMkD/1YkCvAtOd6/zGedKNA0p2fj4ZpjCzcNiSCBWgm3cNRTBfa/qjFnsKkkojxu4vVLtWpesnZ9+ap+gA==
+"@types/node@^20.11.30":
+  version "20.11.30"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.30.tgz#9c33467fc23167a347e73834f788f4b9f399d66f"
+  integrity sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==
   dependencies:
     undici-types "~5.26.4"
 
@@ -909,10 +909,10 @@ koa-static@^5.0.0:
     debug "^3.1.0"
     koa-send "^5.0.0"
 
-koa@^2.15.1:
-  version "2.15.1"
-  resolved "https://registry.yarnpkg.com/koa/-/koa-2.15.1.tgz#3d03840b8d9684c51b2b05a40ee7e7ba8621084c"
-  integrity sha512-kpxzGxsv7tlc0WmccWd6CfdWqYXk4o/FsCTjnKaDnHLjPK/Sy1MpoBkuKO5LN7GdPHgPljrAVmMO3wbFxEJTeA==
+koa@^2.15.2:
+  version "2.15.2"
+  resolved "https://registry.yarnpkg.com/koa/-/koa-2.15.2.tgz#1e4afe1482d01bd24ed6e30f630a960411f5ebf2"
+  integrity sha512-MXTeZH3M6AJ8ukW2QZ8wqO3Dcdfh2WRRmjCBkEP+NhKNCiqlO5RDqHmSnsyNrbRJrdjyvIGSJho4vQiWgQJSVA==
   dependencies:
     accepts "^1.3.5"
     cache-content-type "^1.0.0"
@@ -972,17 +972,17 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-markdown-it@^14.0.0:
-  version "14.0.0"
-  resolved "https://registry.npmmirror.com/markdown-it/-/markdown-it-14.0.0.tgz#b4b2ddeb0f925e88d981f84c183b59bac9e3741b"
-  integrity sha512-seFjF0FIcPt4P9U39Bq1JYblX0KZCjDLFFQPHpL5AzHpqPEKtosxmdq/LTVZnjfH7tjt9BxStm+wXcDBNuYmzw==
+markdown-it@^14.1.0:
+  version "14.1.0"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-14.1.0.tgz#3c3c5992883c633db4714ccb4d7b5935d98b7d45"
+  integrity sha512-a54IwgWPaeBCAAsv13YgmALOF1elABB08FxO9i+r4VFk5Vl4pKokRPeX8u5TCgSsPi6ec1otfLjdOpVcgbpshg==
   dependencies:
     argparse "^2.0.1"
     entities "^4.4.0"
     linkify-it "^5.0.0"
     mdurl "^2.0.0"
     punycode.js "^2.3.1"
-    uc.micro "^2.0.0"
+    uc.micro "^2.1.0"
 
 mdurl@^2.0.0:
   version "2.0.0"
@@ -1414,15 +1414,20 @@ type-is@^1.6.16:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typescript@^5.4.2:
-  version "5.4.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.4.2.tgz#0ae9cebcfae970718474fe0da2c090cad6577372"
-  integrity sha512-+2/g0Fds1ERlP6JsakQQDXjZdZMM+rqpamFZJEKh4kwTIn3iDkgKtby0CeNd5ATNZ4Ry1ax15TMx0W2V+miizQ==
+typescript@^5.4.3:
+  version "5.4.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.4.3.tgz#5c6fedd4c87bee01cd7a528a30145521f8e0feff"
+  integrity sha512-KrPd3PKaCLr78MalgiwJnA25Nm8HAmdwN3mYUYZgG/wizIo9EainNVQI9/yDavtVFRN2h3k8uf3GLHuhDMgEHg==
 
 uc.micro@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmmirror.com/uc.micro/-/uc.micro-2.0.0.tgz#84b3c335c12b1497fd9e80fcd3bfa7634c363ff1"
   integrity sha512-DffL94LsNOccVn4hyfRe5rdKa273swqeA5DJpMOeFmEn1wCDc7nAbbB0gXlgBCL7TNzeTv6G7XVWzan7iJtfig==
+
+uc.micro@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/uc.micro/-/uc.micro-2.1.0.tgz#f8d3f7d0ec4c3dea35a7e3c8efa4cb8b45c9e7ee"
+  integrity sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==
 
 undefsafe@^2.0.5:
   version "2.0.5"
