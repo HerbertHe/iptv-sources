@@ -1610,7 +1610,7 @@ https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f7
 #EXTINF:-1 tvg-name="ch5" tvg-id="" tvg-country="Thailand" tvg-language="Tamil" tvg-logo="https://epg.pw/media/img/tmp_logo/ch5.PNG" group-title="Generic",[BD]ch5
 https://epg.pw/stream/4e9daaa3823da0feeece03f34a40545ae4d6e9510fdde5606bbb6a29b7686fdb.m3u8
 #EXTINF:-1 tvg-name="ch7 hd" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/27/20150627021331522316_27.png" group-title="Generic",[BD]ch7 hd
-https://epg.pw/stream/1188df3ae8238ed0976e80738075f208a4ff6d49d187a001e5853117cc8b255d.m3u8
+https://epg.pw/stream/7dfb29309f17e0e7d53a0a6e8a03d59915399886fb0ba89f772a16bab06dbdfc.m3u8
 #EXTINF:-1 tvg-name="ch7 hd_" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725050956469970_33.jpg" group-title="Generic",[BD]ch7 hd_
 https://epg.pw/stream/b9151762b68e6b601411ef9296467ba1d720b932ca1b4144afe1b9502994e9e8.m3u8
 #EXTINF:-1 tvg-name="chacra tv" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/31/20140831041657161617_59.jpg" group-title="Generic",[HD]chacra tv
@@ -2997,8 +2997,8 @@ https://epg.pw/stream/ee67c581c23125768f6e517d6a3d29423276881ed8c65324d14f99c9c6
 https://epg.pw/stream/3323fab68292f54bcf3ebea285d614c2667032aa73712a2875f1984cbe599324.m3u8
 #EXTINF:-1 tvg-name="starz edge (east) us" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206121052433777_75.jpg" group-title="Movies",[BD]starz edge (east) us
 https://epg.pw/stream/15ce64675f96d532be47152da5a503e09deea38842b9dc124cd9262761eb57b2.m3u8
-#EXTINF:-1 tvg-name="studio universal" tvg-id="8099" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Knowledge",[VGA]studio universal
-https://epg.pw/stream/7e21796e4032df8e54ea4a93ab7e7bcbe6cec42f6d796daf670654731cac43cf.m3u8
+#EXTINF:-1 tvg-name="studio universal hd" tvg-id="8099" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Knowledge",[BD]studio universal hd
+https://epg.pw/stream/8ab1902ff8467408b107ee36e59937ccbc2291177d6de37a2c179f9b5453e0f0.ctv
 #EXTINF:-1 tvg-name="style" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901045625966929_87.jpg" group-title="Entertainment",[HD]style
 https://epg.pw/stream/8dc5099209e3eaa3468a692912e99e10c0d96a2806aab24853e7b3f63b4a2480.m3u8
 #EXTINF:-1 tvg-name="stz tv" tvg-id="8302" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png" group-title="News",[HD]stz tv
@@ -4499,8 +4499,8 @@ https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56
 https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_24.jpg" group-title="Movies",[SD]绍兴新闻综合
 https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
-#EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="Movies",[HD]美亚电影
-https://epg.pw/stream/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="Movies",[BD]美亚电影台
+https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv
 #EXTINF:-1 tvg-name="美好1台" tvg-id="12192" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223823758566_67.png" group-title="Entertainment",[BD]美好1台
 https://epg.pw/stream/339e4a230d110c4dae2d121a1b222a86e8e0d42c011880cbb790f5ac6af8ba9c.m3u8
 #EXTINF:-1 tvg-name="美好2台" tvg-id="11997" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223839277787_51.png" group-title="Entertainment",[BD]美好2台

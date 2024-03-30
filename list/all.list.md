@@ -809,7 +809,7 @@
 | 803 | [SD]cgtn français (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 804 | [SD]cgtn русский | epg.pw | <https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8> |
 | 805 | [BD]ch5 | epg.pw | <https://epg.pw/stream/4e9daaa3823da0feeece03f34a40545ae4d6e9510fdde5606bbb6a29b7686fdb.m3u8> |
-| 806 | [BD]ch7 hd | epg.pw | <https://epg.pw/stream/1188df3ae8238ed0976e80738075f208a4ff6d49d187a001e5853117cc8b255d.m3u8> |
+| 806 | [BD]ch7 hd | epg.pw | <https://epg.pw/stream/7dfb29309f17e0e7d53a0a6e8a03d59915399886fb0ba89f772a16bab06dbdfc.m3u8> |
 | 807 | [BD]ch7 hd_ | epg.pw | <https://epg.pw/stream/b9151762b68e6b601411ef9296467ba1d720b932ca1b4144afe1b9502994e9e8.m3u8> |
 | 808 | [HD]chacra tv | epg.pw | <https://epg.pw/stream/49f9fc70b6a0ce9a4a24fbc63365dbbe81b2f08a90483eabe0693b5b3b9e5f3a.m3u8> |
 | 809 | [HD]chada tv | epg.pw | <https://epg.pw/stream/5f62488f573082a1e53bdbec2dfde46b20b5b1cd8d7332bd7d2033d4587e1e65.m3u8> |
@@ -1503,7 +1503,7 @@
 | 1497 | [HD]star tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/ee67c581c23125768f6e517d6a3d29423276881ed8c65324d14f99c9c69a3ff5.m3u8> |
 | 1498 | [BD]starz cinema (east) us | epg.pw | <https://epg.pw/stream/3323fab68292f54bcf3ebea285d614c2667032aa73712a2875f1984cbe599324.m3u8> |
 | 1499 | [BD]starz edge (east) us | epg.pw | <https://epg.pw/stream/15ce64675f96d532be47152da5a503e09deea38842b9dc124cd9262761eb57b2.m3u8> |
-| 1500 | [VGA]studio universal | epg.pw | <https://epg.pw/stream/7e21796e4032df8e54ea4a93ab7e7bcbe6cec42f6d796daf670654731cac43cf.m3u8> |
+| 1500 | [BD]studio universal hd | epg.pw | <https://epg.pw/stream/8ab1902ff8467408b107ee36e59937ccbc2291177d6de37a2c179f9b5453e0f0.ctv> |
 | 1501 | [HD]style | epg.pw | <https://epg.pw/stream/8dc5099209e3eaa3468a692912e99e10c0d96a2806aab24853e7b3f63b4a2480.m3u8> |
 | 1502 | [HD]stz tv | epg.pw | <https://epg.pw/stream/8471fcb98910c0ac6d7bddd2f0bf507c781ec775a3f5bc3094ddd8d0740a2fb0.m3u8> |
 | 1503 | [HD]sudarshan news | epg.pw | <https://epg.pw/stream/53f3f6f7dfc68bf37c6bf6002aa72fadcfdc15754c7b1b5aecf242d93cf3f843.m3u8> |
@@ -2254,7 +2254,7 @@
 | 2248 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 2249 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 2250 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
-| 2251 | [HD]美亚电影 | epg.pw | <https://epg.pw/stream/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8> |
+| 2251 | [BD]美亚电影台 | epg.pw | <https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv> |
 | 2252 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/339e4a230d110c4dae2d121a1b222a86e8e0d42c011880cbb790f5ac6af8ba9c.m3u8> |
 | 2253 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
 | 2254 | [SD]耀才财经台 | epg.pw | <https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8> |
@@ -2387,4 +2387,4 @@
 | 2381 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2382 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sat Mar 30 2024 08:15:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 30 2024 10:12:11 GMT+0000 (Coordinated Universal Time)**
