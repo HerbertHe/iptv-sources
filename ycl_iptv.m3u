@@ -71,7 +71,7 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 group-title="卫视",明珠台 
 https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 group-title="卫视",澳門澳視 
+#EXTINF:-1 group-title="卫视",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
