@@ -350,7 +350,7 @@
 | 344 | [VGA]MNC INFOTAINMENT | epg.pw | <https://epg.pw/stream/e63dfb4e85cf803152ef819948cddd3b77bd3ee414476351d8f60c65ed6418b7.ctv> |
 | 345 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 346 | [SD]msnbc | epg.pw | <https://epg.pw/stream/a7b1c6e3296f96e0b03c08113b6df7766e6fc6817ec65d78a6655f2d0a25ce61.m3u8> |
-| 347 | [SD]MTVBASE | epg.pw | <https://epg.pw/stream/ad3311afe2c8f68f505255c16acd2e976034a37ad4703bdd510b66b4d4a04ef7.ctv> |
+| 347 | [SD]MTVBASE | epg.pw | <https://epg.pw/stream/0b1ce296b00b8b0bb77eefeb105056db3011fded0c333a2329516201f77c6192.ctv> |
 | 348 | [BD]MTV HD | epg.pw | <https://epg.pw/stream/cbdfae74d9a4b659829bb66e08224de974e62ce252a4c258bfbe8650b298c76f.ctv> |
 | 349 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8> |
 | 350 | [BD]MTV LIVE | epg.pw | <https://epg.pw/stream/5f343ac62d2bf651622b346e7ea843d89736ca9128404edf7c89389e88cc0c2a.ctv> |
@@ -801,7 +801,7 @@
 | 795 | [VGA]channel 24 sports | epg.pw | <https://epg.pw/stream/6e27089d95cc6cadddcbad5c28a65c24841e2b04698be006134f325dde732398.m3u8> |
 | 796 | [HD]channel 3 | epg.pw | <https://epg.pw/stream/294f510ed9a5d7d01299ebfceeef04ae26d53dcb612d2e53c209f44695853562.m3u8> |
 | 797 | [BD]channel news asia | epg.pw | <https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8> |
-| 798 | [BD]channel newsasia | epg.pw | <https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8> |
+| 798 | [BD]channel newsasia | epg.pw | <https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8> |
 | 799 | [SD]chelsea tv (576p) | epg.pw | <https://epg.pw/stream/67bcbf9cda082ccbb03e53177f216634c0e1d8508b9e46261587f0f9e97962bd.m3u8> |
 | 800 | [HD]christian youth channel (cyc) (1080p) | epg.pw | <https://epg.pw/stream/eb47f1cbc6c6b706b70f6fcebc5adc0df4e580731ab9e1f1a03f33d2d8f1a34a.m3u8> |
 | 801 | [HD]cine.ar (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/c6789fb80a2d097c9884120dcfd27ba80a141bce7c879a5901df9c52388f5ba3.m3u8> |
@@ -1009,7 +1009,7 @@
 | 1003 | [HD]halk tv | epg.pw | <https://epg.pw/stream/99ca116e6fc90ad66aa410a1e13014d0684e39d8fdabbb3ae3ea86706ad8f901.m3u8> |
 | 1004 | [HD]hbo2 | epg.pw | <https://epg.pw/stream/5dff9bb433f87864ace339d470271bb456b859e397fbc5d4d5d0316310ee8ba9.m3u8> |
 | 1005 | [VGA]hbtv | epg.pw | <https://epg.pw/stream/0a0808dec3812e9bb57ca89fff8cd02d700dce5f277a1cc70c4257c3bf4961bd.m3u8> |
-| 1006 | [VGA]hgtv | epg.pw | <https://epg.pw/stream/bf60ab98af08e55e5842de98f78dd657b93801ef58dbcaa564c9419bb0df3130.m3u8> |
+| 1006 | [BD]hgtv | epg.pw | <https://epg.pw/stream/25f72bd12e4c0959db2397d61d7316d61be6c8d25557bef613f4c0b68f5f6159.m3u8> |
 | 1007 | [BD]historia | epg.pw | <https://epg.pw/stream/8a088f451600742f987cff2821b8b820eb96fb607ffb195d5f37ab75f798b02f.m3u8> |
 | 1008 | [VGA]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
 | 1009 | [BD]history channel us | epg.pw | <https://epg.pw/stream/04373fdb386736182fba1db3c69380ae222311e36ce07dc7b1cf6f968fa48d3d.m3u8> |
@@ -2358,4 +2358,4 @@
 | 2352 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2353 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Sun Mar 31 2024 22:11:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 01 2024 00:57:58 GMT+0000 (Coordinated Universal Time)**
