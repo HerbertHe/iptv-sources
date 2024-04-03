@@ -7,9 +7,9 @@
 | 1 | CCTV-1 综合 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8> |
 | 2 | CCTV-2 财经 | 中国移动陕西 | <http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8> |
 | 3 | CCTV-3 综艺 | 中国移动陕西 | <http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
-| 4 | CCTV-4 中文国际 | 中国移动陕西 | <http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8> |
+| 4 | CCTV-4 中文国际 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8> |
 | 5 | CCTV-5 体育 | 中国移动陕西 | <http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8> |
-| 6 | CCTV-5+ 体育赛事 | 中国移动陕西 | <http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8> |
+| 6 | CCTV-5+ 体育赛事 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8> |
 | 7 | CCTV-6 电影 | 中国移动陕西 | <http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8> |
 | 8 | CCTV-7 国防军事 | 中国移动陕西 | <http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8> |
 | 9 | CCTV-8 电视剧 | 中国移动陕西 | <http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8> |
@@ -171,4 +171,4 @@
 | 165 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 166 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Wed Apr 03 2024 02:19:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 03 2024 04:14:49 GMT+0000 (Coordinated Universal Time)**
