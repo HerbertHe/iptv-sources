@@ -312,7 +312,7 @@
 | 306 | ACTS TV (360p) | mediagh.us:19360 | <https://mediagh.us:19360/deliverancetv/deliverancetv.m3u8> |
 | 307 | ACTV | cdn3.wowza.com | <https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8> |
 | 308 | Ada Derana News (720p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8> |
-| 309 | ADA TV (720p) | edge1.socialsmart.tv | <https://edge1.socialsmart.tv/adatv/bant1/playlist.m3u8> |
+| 309 | ADA TV (720p) | yayin1.canlitv.day | <https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8> |
 | 310 | ADB TV (1080p) | streamer-a03.videos.sapo.pt | <https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8> |
 | 311 | ADBN TV (576p) | webstreaming.viewmedia.tv | <https://webstreaming.viewmedia.tv/web_045/Stream/playlist.m3u8> |
 | 312 | Addis TV (720p) | rrsatrtmp.tulix.tv | <https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8> |
@@ -502,7 +502,7 @@
 | 496 | Al Wousta TV (1080p) | svs.itworkscdn.net | <https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8> |
 | 497 | Al Yaum TV (720p) | alyaum-tv.akamaized.net | <https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8> |
 | 498 | Al-Fady TV (1080p) [Not 24/7] | 5d658d7e9f562.streamlock.net | <https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8> |
-| 499 | Al-Iman TV (720p) | tv.rodja.live | <https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8> |
+| 499 | Al-Iman TV (720p) | tv.aliman.id | <https://tv.aliman.id/aliman/live.m3u8> |
 | 500 | Al-Jawadain TV (1080p) [Not 24/7] | live.aljawadain.org | <https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8> |
 | 501 | Al-MahdiTV (1080p) | stream.al-mahdi.tv | <https://stream.al-mahdi.tv/hls/1234.m3u8> |
 | 502 | Al-Naeem TV (576p) | nl2.livekadeh.com | <https://nl2.livekadeh.com/hls2/alnaeem.m3u8> |
@@ -10010,4 +10010,4 @@
 | 10004 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10005 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Thu Apr 04 2024 22:10:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 05 2024 00:53:30 GMT+0000 (Coordinated Universal Time)**
