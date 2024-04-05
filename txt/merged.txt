@@ -1010,7 +1010,7 @@ Generic,#genre#
 [HD]tv3,https://epg.pw/stream/7bc3a5c2d3cac36aefe46e7f50d72efd2c803c1e9bb342a76ac19b4e777c526f.m3u8
 [BD]tv5,https://epg.pw/stream/ac5defa09b85dd6965c88ba29fea5f87efa3abe7bdb77417ba6e067b1bc83bdd.m3u8
 [VGA]tv5monde,https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
-[BD]tv6_[geo-blocked][geo-blocked],https://epg.pw/stream/ec88c4195b8abbc33321c6637d0f908aa4c7f6a376698e402f1ac76a46fbd9c4.m3u8
+[VGA]tv6_[geo-blocked][geo-blocked],https://epg.pw/stream/ec88c4195b8abbc33321c6637d0f908aa4c7f6a376698e402f1ac76a46fbd9c4.m3u8
 [VGA]tvge,https://epg.pw/stream/51df27ee9c62afe545bf7a914db862f0b3757e886e2f4e4d2cf8d91947c4fe24.m3u8
 [VGA]tvi,https://epg.pw/stream/6e67aa72c205350d3571a27207443dc83114e921148a3ce1233521772f5cc220.m3u8
 [BD]tvikim,https://epg.pw/stream/a8e5a0b076fb7b51c2fc37190b9e4d872437727a48318fd603a228d919ba59de.m3u8
@@ -1208,7 +1208,7 @@ Generic,#genre#
 [VGA]黑龙卫视,https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8
 
 Other,#genre#
-[BD]影视娱乐剧场,https://epg.pw/stream/e233edd6f2a47960517dc0457f6e690fa52cb97538faa310065cebf40954830b.ctv
+[SD]影视娱乐剧场,https://epg.pw/stream/e233edd6f2a47960517dc0457f6e690fa52cb97538faa310065cebf40954830b.ctv
 [BD]逍遥君小哥ovo,https://epg.pw/stream/c132fa58a07871bc4ca71bac65b1aea22890c28dd0868fe02d0b50ed2be4305c.ctv
 [HD]30a_the_beach_show,https://epg.pw/stream/1cc3357d358e6f32e58e001ccf225d6a899736eb5cac584e0721b58a14cd8be5.m3u8
 [SD]7_tv,https://epg.pw/stream/8efc062766dd7e39c8201d68bbf0df2e06d31765e97638d8686570cfebf75009.m3u8
@@ -1280,7 +1280,7 @@ Other,#genre#
 [HD]fap_tv_3,https://epg.pw/stream/dacc765705c45acfa657ca95879921b0d19dd5e88064a899c3bc7477736d43e1.m3u8
 [SD]gemini_life,https://epg.pw/stream/97b6dc33b8c29114497251f42814b18634996cbada50384ddacadd688be7529a.ctv
 [VGA]ha_giang_tv,https://epg.pw/stream/a712de26eaa3f42f96fb028ad92ba95c2847107eca4ab4e1c74dd69800de15ab.m3u8
-[HD]hadi_tv_1,https://epg.pw/stream/6037a07d7de310a9d0045328437eb322fe067bfa45153a3d906847073b78d07a.m3u8
+[VGA]hadi_tv_1,https://epg.pw/stream/6037a07d7de310a9d0045328437eb322fe067bfa45153a3d906847073b78d07a.m3u8
 [BD]history_channel_us,https://epg.pw/stream/04373fdb386736182fba1db3c69380ae222311e36ce07dc7b1cf6f968fa48d3d.m3u8
 [BD]hope_channel_german_(1080p),https://epg.pw/stream/c35881296dcd19ec4fefc59809d320a6e2cc09dc41554c3c4dee7b6a945de421.m3u8
 [SD]hse_trend_sd,https://epg.pw/stream/efb336ed72d0bd7a06afc0d7b5abc4e77e111a24518272af67a8badcbee200f6.m3u8
@@ -2034,7 +2034,7 @@ Knowledge,#genre#
 [BD]history_hd,https://epg.pw/stream/ba1722a9a3cfe33d5e958972f92c4e8e720fd678986c5f92b40e56839cc37e10.ctv
 [SD]irib_mostanad,https://epg.pw/stream/d58739d110ce989e5f5f7f5c2a07fecb7d22b872adf1056a8024048a059e49db.m3u8
 [HD]motortrend,https://epg.pw/stream/f64f285246c248721bcb226a929fb702b51f9ccb48b4648e1757929bbd8812c4.m3u8
-[BD]muzangala_tv,https://epg.pw/stream/494d1691d9c95783ffc12c760daf0b3e4b0e52ad4b8ab3cdb93e4fd961a4b5f6.m3u8
+[HD]muzangala_tv,https://epg.pw/stream/494d1691d9c95783ffc12c760daf0b3e4b0e52ad4b8ab3cdb93e4fd961a4b5f6.m3u8
 [HD]nasa_tv_hd,https://epg.pw/stream/809433b2a0d834d826e8bf5cd8532d994c4f7e74e4168f1e1e69620988eb6008.m3u8
 [BD]nasa_tv_uhd_(2160p),https://epg.pw/stream/f4ae2a1d2e5036df6e8155cb8198118e08178be0ac4d6788048d0f3d97c1e1a9.m3u8
 [BD]nat_geo_uk,https://epg.pw/stream/7353efa72680f11ad362cca5307ca3bc36be7abed8cade8aa72d78606fe4c2c6.ctv
@@ -2321,7 +2321,7 @@ Entertainment,#genre#
 [BD]беларусь_2,https://epg.pw/stream/96fc79554337dfebab8138834b36968197292a403a18c3f6bd42a74dc1cfb617.m3u8
 [BD]кинохит_hd,https://epg.pw/stream/e3e63d6bd180bba102acc445a893ba1024706a8c1a07eb6f38100d05401a1ec6.m3u8
 [VGA]нтв,https://epg.pw/stream/a8d36b43efe8d4ee8fc7faa0822745058b6ee8ffb270550c12095456d376b058.m3u8
-[HD]радио_шансон,https://epg.pw/stream/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8
+[VGA]радио_шансон,https://epg.pw/stream/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8
 [VGA]тнт,https://epg.pw/stream/141b217e6a9add51a91cc00d05fed42a4e4ea1c04861fc295f38190f75eee223.m3u8
 [HD]ช่อง_e!_entertainment,https://epg.pw/stream/cef1380d8bbf22d74405028d855ba33f508dda7a7134c9de4b3ca3c006458755.m3u8
 [HD]ช่อง_radio_kiss_kiss_italia,https://epg.pw/stream/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8

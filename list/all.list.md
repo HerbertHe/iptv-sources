@@ -9,7 +9,7 @@
 | 3 | [BD].red hd | epg.pw | <https://epg.pw/stream/868976b75996b6ff6851adfcd8553283049d486c7b1350ad7045ef209dc406e3.m3u8> |
 | 4 | [BD].sci-fi hd | epg.pw | <https://epg.pw/stream/8a060ef7646dcd061983e13efa08107d51e4b0c5bccb9fcafcc161787e9e21f5.m3u8> |
 | 5 | [BD]1+1 | epg.pw | <https://epg.pw/stream/4c39a68ec24d0366110b6a1c43ceaef7c1eaeeb24728d54d3e8eadbdf6b26d72.m3u8> |
-| 6 | [BD]影视娱乐剧场 | epg.pw | <https://epg.pw/stream/e233edd6f2a47960517dc0457f6e690fa52cb97538faa310065cebf40954830b.ctv> |
+| 6 | [SD]影视娱乐剧场 | epg.pw | <https://epg.pw/stream/e233edd6f2a47960517dc0457f6e690fa52cb97538faa310065cebf40954830b.ctv> |
 | 7 | [HD]quarto canale flegreo | epg.pw | <https://epg.pw/stream/7905d57a8751677530b2c92423ce5136c5f349b0e1367e8abe58327d1ce19434.m3u8> |
 | 8 | [HD]adn 40 | epg.pw | <https://epg.pw/stream/a069e5adf8da7d1ac4c6840191606473238c6534c9f2fe805e56180d196495de.m3u8> |
 | 9 | [BD]fairfield fairtv government channel | epg.pw | <https://epg.pw/stream/05cdfe2d8d2a4fd933530bb2f9416031a0c14e4bf8e9c52afb887b4d68340315.m3u8> |
@@ -1014,7 +1014,7 @@
 | 1008 | [HD]haber | epg.pw | <https://epg.pw/stream/8c46550fe8272b9f87e23d122bf98a8733720252d4371ccaaf944d41268b3def.m3u8> |
 | 1009 | [BD]haber türk | epg.pw | <https://epg.pw/stream/24e0310176f397ef6b41359cc583e782173acc5a853a696c3f0c3d54d8602ba9.m3u8> |
 | 1010 | [BD]habertürk tv | epg.pw | <https://epg.pw/stream/315b75b50e8dfe0157a2a316ce7eae2e79f92423134540468ed3483f49fc462c.m3u8> |
-| 1011 | [HD]hadi tv 1 | epg.pw | <https://epg.pw/stream/6037a07d7de310a9d0045328437eb322fe067bfa45153a3d906847073b78d07a.m3u8> |
+| 1011 | [VGA]hadi tv 1 | epg.pw | <https://epg.pw/stream/6037a07d7de310a9d0045328437eb322fe067bfa45153a3d906847073b78d07a.m3u8> |
 | 1012 | [HD]hadi tv 8 | epg.pw | <https://epg.pw/stream/45ae7d43536c326d5c8e33509646e83b9a75cf4b89709fa0a0e50725f039be82.m3u8> |
 | 1013 | [HD]halk tv | epg.pw | <https://epg.pw/stream/99ca116e6fc90ad66aa410a1e13014d0684e39d8fdabbb3ae3ea86706ad8f901.m3u8> |
 | 1014 | [HD]hbo2 | epg.pw | <https://epg.pw/stream/5dff9bb433f87864ace339d470271bb456b859e397fbc5d4d5d0316310ee8ba9.m3u8> |
@@ -1202,7 +1202,7 @@
 | 1196 | [SD]music on! tv | epg.pw | <https://epg.pw/stream/ac82b173f2fd38bbb0811326dc441b31e68786e715af1a034fcf930b32e8f91a.m3u8> |
 | 1197 | [BD]music pop | epg.pw | <https://epg.pw/stream/7641b154e505b9ba5f39b6cf8c0b091a68c013367af386decc4a4ff12892580c.m3u8> |
 | 1198 | [HD]mutv | epg.pw | <https://epg.pw/stream/92b75e64e59e9cc9da72caf7a8a584f331e3ca955f890a08932b5660557fc885.m3u8> |
-| 1199 | [BD]muzangala tv | epg.pw | <https://epg.pw/stream/494d1691d9c95783ffc12c760daf0b3e4b0e52ad4b8ab3cdb93e4fd961a4b5f6.m3u8> |
+| 1199 | [HD]muzangala tv | epg.pw | <https://epg.pw/stream/494d1691d9c95783ffc12c760daf0b3e4b0e52ad4b8ab3cdb93e4fd961a4b5f6.m3u8> |
 | 1200 | [HD]my tv channel | epg.pw | <https://epg.pw/stream/f717a692f4ce7954e75b41852a549a6135e09d00ed6ff3c0576f4ee53bfb3ba5.m3u8> |
 | 1201 | [HD]mytv hit | epg.pw | <https://epg.pw/stream/5ab44db1d47dd9df6a537c5ba2d12476a70aead553cd847468dcca2f4ced0916.m3u8> |
 | 1202 | [BD]mystery science theater 3000 | epg.pw | <https://epg.pw/stream/2a94a241bc66c57328872e74ec139b9db0c672fe772930ff445772f6ab52b1d1.m3u8> |
@@ -1622,7 +1622,7 @@
 | 1616 | [BD]tv5 | epg.pw | <https://epg.pw/stream/ac5defa09b85dd6965c88ba29fea5f87efa3abe7bdb77417ba6e067b1bc83bdd.m3u8> |
 | 1617 | [HD]tv5 cambodia | epg.pw | <https://epg.pw/stream/4b9513bd7ed056dd915f26b2df84894a457ac7b35a99b9259a9acc0cbf791197.m3u8> |
 | 1618 | [VGA]tv5monde | epg.pw | <https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8> |
-| 1619 | [BD]tv6 [geo-blocked][geo-blocked] | epg.pw | <https://epg.pw/stream/ec88c4195b8abbc33321c6637d0f908aa4c7f6a376698e402f1ac76a46fbd9c4.m3u8> |
+| 1619 | [VGA]tv6 [geo-blocked][geo-blocked] | epg.pw | <https://epg.pw/stream/ec88c4195b8abbc33321c6637d0f908aa4c7f6a376698e402f1ac76a46fbd9c4.m3u8> |
 | 1620 | [SD]tv7+ | epg.pw | <https://epg.pw/stream/f04d21fd22cb7a97c2228fa8b84c791eb52e850e93bdb334172c9a35b98a66df.m3u8> |
 | 1621 | [VGA]tv84 (480p) | epg.pw | <https://epg.pw/stream/21b14da4e6055ecd12c4724b364b11957344d9fe8619a395595704ad7a2d384c.m3u8> |
 | 1622 | [BD]tvone | epg.pw | <https://epg.pw/stream/0beb077a21dc48d194838ee5ff85b1da626363286d021822baf48554ce95d626.ctv> |
@@ -1779,7 +1779,7 @@
 | 1773 | [SD]плюс | epg.pw | <https://epg.pw/stream/895ba6e71f4b931071ba3c79e06f536c43bf86ad9ab9d4e997bf87abf84ccd3d.m3u8> |
 | 1774 | [SD]просвещение (540p) [geo-blocked] | epg.pw | <https://epg.pw/stream/dfe309e352aa84ae78996723f53de68ee12aeef5f519ef2c0b7673ab86fb9ab2.m3u8> |
 | 1775 | [VGA]пятница! | epg.pw | <https://epg.pw/stream/b07bacb4f7c8964c70154534b1f7cbc9355c02098fe33cf1739d1c8dd01f30dc.m3u8> |
-| 1776 | [HD]радио шансон | epg.pw | <https://epg.pw/stream/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8> |
+| 1776 | [VGA]радио шансон | epg.pw | <https://epg.pw/stream/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8> |
 | 1777 | [SD]радость моя | epg.pw | <https://epg.pw/stream/92a276d2eb8a61bafe4f69e2aee82e74d3000ce32c1a92b0f82723551b000d55.m3u8> |
 | 1778 | [VGA]рен тв | epg.pw | <https://epg.pw/stream/f3e572e6c167b5a1872357daeae1abecf703b0d8ee4acb6e1bed301a2d48957b.m3u8> |
 | 1779 | [HD]россия 1 hd | epg.pw | <https://epg.pw/stream/3d522c107d3db11a76f9c7d3e2c7ffc5d959597fa24cf92196c7ee2553cb4cb9.m3u8> |
@@ -2365,4 +2365,4 @@
 | 2359 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2360 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 05 2024 20:13:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 05 2024 22:11:34 GMT+0000 (Coordinated Universal Time)**
