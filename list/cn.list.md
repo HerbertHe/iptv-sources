@@ -41,8 +41,8 @@
 | 35 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8> |
 | 36 | [BD]cctv高尔夫网球 | epg.pw | <https://epg.pw/stream/c132e1d0c6fdee7356c17b106dba31a4e6e2082e32472a974b620d18a1951119.ctv> |
 | 37 | [SD]cgtn | epg.pw | <https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.ctv> |
-| 38 | [BD]chc动作电影[ipv6] | epg.pw | <https://epg.pw/stream/a9542ff7b5a5dd601d5614edf37cd70c1941c9ac7b61dc3798bc2b2ddb851013.m3u8> |
-| 39 | [BD]chc家庭影院[ipv6] | epg.pw | <https://epg.pw/stream/74288b76139c493be6f3b4c08cb2f9f292ae1a917a11f4fa22db959f9d939359.m3u8> |
+| 38 | [BD]chc动作电影[ipv6] | epg.pw | <https://epg.pw/stream/7eba1db6cba9bf3607501ff6d1077081242393c056645b2ce312ba354cd5d250.m3u8> |
+| 39 | [BD]chc家庭影院 | epg.pw | <https://epg.pw/stream/d7bc567c5ab58dade0ab4202df3fa7f44a227cfcab6a1eb4bace63c7d5b6b7e2.m3u8> |
 | 40 | [BD]chc高清电影[ipv6] | epg.pw | <https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8> |
 | 41 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
 | 42 | [BD]rkb news 24 | epg.pw | <https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8> |
@@ -233,7 +233,7 @@
 | 227 | [BD]东方财经 | epg.pw | <https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv> |
 | 228 | [BD]东方购物[ipv6] | epg.pw | <https://epg.pw/stream/87894784168d47a0e2e904d567881c295c8ef55b30151cc99f5475b2bd96856c.m3u8> |
 | 229 | [BD]林州新闻综合频道 | epg.pw | <https://epg.pw/stream/31b2d9f1b93dfdbaf9e39b484f857ee2165f4393312a24eb40adf083e1500646.m3u8> |
-| 230 | [VGA]林正英2 | epg.pw | <https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv> |
+| 230 | [VGA]林正英 | epg.pw | <https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv> |
 | 231 | [SD]枣庄公共 | epg.pw | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
 | 232 | [SD]枣庄公共频道 | epg.pw | <https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8> |
 | 233 | [SD]枣庄教育 | epg.pw | <https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8> |
@@ -401,7 +401,7 @@
 | 395 | [SD]重庆移动 | epg.pw | <https://epg.pw/stream/0b4de327138d177c5efdaf9456fc6ee34e3e58c02b92873ff3ddabb6c553b972.m3u8> |
 | 396 | [BD]重庆卫视[ipv6] | epg.pw | <https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8> |
 | 397 | [VGA]金湖新闻综合 | epg.pw | <https://epg.pw/stream/8439749fa807ac3697e4c2ad3806fdc913ca1115914ee9ee75f34693e4843b09.m3u8> |
-| 398 | [BD]金色学堂[ipv6] | epg.pw | <https://epg.pw/stream/98bf0e1713e3e9bb69b454878756b3c41197e12c02aeaacbd0bb67b4457fcd8a.m3u8> |
+| 398 | [BD]金色学堂[ipv6] | epg.pw | <https://epg.pw/stream/0950e74a535638b0f24f31958edbfd892de9effddfedd476cdbcfcbb90d3749a.m3u8> |
 | 399 | [BD]金鹰卡通 | epg.pw | <https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8> |
 | 400 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/94fdc1fe964eedfca734045a102891491f6f105422ffa1916e973dee7b5e9294.m3u8> |
 | 401 | [BD]镇江新闻 | epg.pw | <https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8> |
@@ -440,4 +440,4 @@
 | 434 | [BD]黑龙新闻法治[ipv6] | epg.pw | <https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8> |
 | 435 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat Apr 06 2024 14:09:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 06 2024 16:14:26 GMT+0000 (Coordinated Universal Time)**
