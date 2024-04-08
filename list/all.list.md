@@ -126,7 +126,7 @@
 | 120 | [HD]ช่อง bbc parliament | epg.pw | <https://epg.pw/stream/2a814ebb03a1a96753cf97e0ed0ef9b0a81c4ebb375e351a08f23c301cdc02c6.m3u8> |
 | 121 | [SD]bbc two | epg.pw | <https://epg.pw/stream/ecc10d90d3bcaafe16427d8cac1980be17b75c4045921b679c2df50576c5ddf2.ctv> |
 | 122 | [SD]tv belle amie | epg.pw | <https://epg.pw/stream/31a53a21891860c321bfb6f392f417b8d9bc62a3e0c522d93eae48f84794dd82.m3u8> |
-| 123 | [SD]BERNAMA NEWS | epg.pw | <https://epg.pw/stream/b5f2654e5070d669005c009a48c0ec3cce229e8cca0b0f6b00cc480667df79d3.ctv> |
+| 123 | [SD]BERNAMANEWS | epg.pw | <https://epg.pw/stream/3d2ffacef66dcf86c0fbb0d22fe779606a1ece24b5da5a3d95efb7fe788a3f87.ctv> |
 | 124 | [SD]bolt | epg.pw | <https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.m3u8> |
 | 125 | [HD]BOO | epg.pw | <https://epg.pw/stream/f13c8b66505c5eacb7e18d63287d9a833e1762da19d5c9f806c2b8eed9e546c8.ctv> |
 | 126 | [HD]BOOMERANG | epg.pw | <https://epg.pw/stream/579c67ce95427b891e4c56197eb7cd83b203a668083c57361f99efa09ca411f8.ctv> |
@@ -295,7 +295,7 @@
 | 289 | [BD]HBO East | epg.pw | <https://epg.pw/stream/c4ec19582a57f402ad93b0a7aff987de72d6cea1e5e69ac487241b0ea4dd8e5b.ctv> |
 | 290 | [BD]hbo family (east) us | epg.pw | <https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8> |
 | 291 | [BD]HBO FAMILY USA | epg.pw | <https://epg.pw/stream/6108d37f088db61ff1b06abd72df18da4ba8986ff774b6949130aa8b4e6261fa.ctv> |
-| 292 | [HD]HBO HITS | epg.pw | <https://epg.pw/stream/fa0e5dec831e8a13a808b7184575c74b807229be92e76075575cfd9cd07c4cf5.ctv> |
+| 292 | [BD]HBO Hits | epg.pw | <https://epg.pw/stream/1fcce3c619a72f2ca98c5015508ddde1735aad4030da1f94a1caf43f4f5a9598.ctv> |
 | 293 | [HD]hbo hits | epg.pw | <https://epg.pw/stream/365e19e58115a0330e5baa33cdde387dc023f42281e52312f82661142ec6fd1f.ctv> |
 | 294 | [HD]hbo signature | epg.pw | <https://epg.pw/stream/94424564af47b3601e3f4b19f6d1f0510cc5381910567708c700a4b351bcd472.ctv> |
 | 295 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv> |
@@ -2202,7 +2202,7 @@
 | 2196 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 2197 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 2198 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
-| 2199 | [BD]美亚电影台 | epg.pw | <https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv> |
+| 2199 | [HD]美亚电影 | epg.pw | <https://epg.pw/stream/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8> |
 | 2200 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/339e4a230d110c4dae2d121a1b222a86e8e0d42c011880cbb790f5ac6af8ba9c.m3u8> |
 | 2201 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
 | 2202 | [HD]翡翠台 | epg.pw | <https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.ctv> |
@@ -2328,4 +2328,4 @@
 | 2322 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2323 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Apr 08 2024 08:15:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 08 2024 10:14:45 GMT+0000 (Coordinated Universal Time)**
