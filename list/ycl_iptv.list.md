@@ -230,4 +230,4 @@
 | 224 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 225 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
 
-Updated at **Tue Apr 09 2024 12:22:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 09 2024 14:11:27 GMT+0000 (Coordinated Universal Time)**
