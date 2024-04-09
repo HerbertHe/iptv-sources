@@ -4,25 +4,25 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | CCTV-1 综合 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv1> |
-| 2 | CCTV-2 财经 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv2> |
-| 3 | CCTV-3 综艺 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv3> |
-| 4 | CCTV-4 中文国际 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv4> |
-| 5 | CCTV-5 体育 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv5> |
-| 6 | CCTV-5+ 体育赛事 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv5p> |
-| 7 | CCTV-6 电影 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv6> |
-| 8 | CCTV-7 国防军事 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv7> |
-| 9 | CCTV-8 电视剧 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv8> |
-| 10 | CCTV-9 纪录 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv9> |
-| 11 | CCTV-10 科教 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv10> |
-| 12 | CCTV-11 戏曲 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv11> |
-| 13 | CCTV-12 社会与法 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv12> |
-| 14 | CCTV-13 新闻 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv13> |
-| 15 | CCTV-14 少儿 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv14> |
-| 16 | CCTV-15 音乐 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv15> |
-| 17 | CCTV-16 奥林匹克 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv16> |
-| 18 | CCTV-17 农业农村 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv17> |
-| 19 | CCTV-4K 超高清 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv4K> |
+| 1 | CCTV-1 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv1> |
+| 2 | CCTV-2 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv2> |
+| 3 | CCTV-3 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv3> |
+| 4 | CCTV-4 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv4> |
+| 5 | CCTV-5 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv5> |
+| 6 | CCTV-5+ | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv5p> |
+| 7 | CCTV-6 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv6> |
+| 8 | CCTV-7 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv7> |
+| 9 | CCTV-8 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv8> |
+| 10 | CCTV-9 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv9> |
+| 11 | CCTV-10 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv10> |
+| 12 | CCTV-11 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv11> |
+| 13 | CCTV-12 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv12> |
+| 14 | CCTV-13 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv13> |
+| 15 | CCTV-14 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv14> |
+| 16 | CCTV-15 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv15> |
+| 17 | CCTV-16 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv16> |
+| 18 | CCTV-17 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv17> |
+| 19 | CCTV-4K | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cctv4K> |
 | 20 | CGTN纪录 | IPv6 直链 | <http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS> |
 | 21 | 凤凰中文 | play-flive.ifeng.com | <http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8> |
 | 22 | 凤凰资讯 | play-flive.ifeng.com | <http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8> |
@@ -33,7 +33,7 @@
 | 27 | 东方卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=dfws> |
 | 28 | 天津卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=tjws> |
 | 29 | 重庆卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cqws> |
-| 30 | 黑龙江卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=hljws> |
+| 30 | 龙江卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=hljws> |
 | 31 | 辽宁卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=lnws> |
 | 32 | 甘肃卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=gsws> |
 | 33 | 山东卫视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=sdws> |
@@ -59,16 +59,16 @@
 | 53 | 吉林卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
 | 54 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0> |
 | 55 | 湖南爱晚 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23022_1.m3u8> |
-| 56 | 湖南电视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
+| 56 | 湖南视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
 | 57 | 湖南电影 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23025_1.m3u8> |
 | 58 | 湖南都市 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23021_1.m3u8> |
 | 59 | 湖南国际 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23024_1.m3u8> |
 | 60 | 湖南经视 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23020_1.m3u8> |
 | 61 | 湖南娱乐 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23023_1.m3u8> |
 | 62 | 湖南教育 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23027_1.m3u8> |
-| 63 | 上海新闻综合 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shxwzh> |
+| 63 | 上海新综 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shxwzh> |
 | 64 | 上海都市 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shds> |
-| 65 | 上海ICS外语 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shics> |
+| 65 | 上海外语 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shics> |
 | 66 | 东方影视 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=dfys> |
 | 67 | 七彩戏剧 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=qcxj> |
 | 68 | 第一财经 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=dycj> |
@@ -77,7 +77,7 @@
 | 71 | 上海教育 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shjy> |
 | 72 | 福建综合 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjzh> |
 | 73 | 福建新闻 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjxw> |
-| 74 | 福建电视剧 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjdsj> |
+| 74 | 福建视剧 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjdsj> |
 | 75 | 福建文体 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjwt> |
 | 76 | 福建少儿 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjse> |
 | 77 | 福建旅游 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=fjly> |
@@ -88,7 +88,7 @@
 | 82 | 湖北影视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI> |
 | 83 | 湖北教育 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc> |
 | 84 | 湖北生活 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c> |
-| 85 | 湖北公共新闻 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI> |
+| 85 | 湖北公共 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI> |
 | 86 | 湖北经视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU> |
 | 87 | 南国都市 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/gztv.php?id=shenghuo> |
 | 88 | 湖北教育 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc> |
@@ -115,9 +115,9 @@
 | 109 | 游戏风云 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=yxfy> |
 | 110 | 生活时尚 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=shss> |
 | 111 | 金色学堂 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=jspd> |
-| 112 | 乐游 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=qjs> |
+| 112 | 乐游频道 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=qjs> |
 | 113 | 魅力足球 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=mlzq> |
-| 114 | 茶频道 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cpd> |
+| 114 | 茶友频道 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=cpd> |
 | 115 | 快乐垂钓 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=klcd> |
 | 116 | 金鹰纪实 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=jyjs> |
 | 117 | 华语影院 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=hyyy> |
@@ -230,4 +230,4 @@
 | 224 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 225 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
 
-Updated at **Tue Apr 09 2024 04:15:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 09 2024 06:15:44 GMT+0000 (Coordinated Universal Time)**
