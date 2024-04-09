@@ -83,8 +83,6 @@ https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cde
 https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8
 #EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="电影",[BD]newtv家庭剧场[ipv6]
 https://epg.pw/stream/879f1fe20cbbe59e7575563f6683a629d66e588b919d4aa4ea62ef6437097644.m3u8
-#EXTINF:-1 tvg-name="NEWTV海外剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531233358868550_53.jpg" group-title="电影",[BD]newtv海外剧场[ipv6]
-https://epg.pw/stream/05e222355206698d11ab0e237cce2cc951137cf30d5d9fa0a5836144301a9938.m3u8
 #EXTINF:-1 tvg-name="NEWTV潮妈辣婆" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531233032918136_43.jpg" group-title="电影",[BD]newtv潮妈辣婆[ipv6]
 https://epg.pw/stream/23ba56fb3169f8afd560d79b4b3b483bebb82942a2445901cd680ebc39d3f17f.m3u8
 #EXTINF:-1 tvg-name="NEWTV精品大剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235206673137_73.jpg" group-title="电影",[BD]newtv精品大剧[ipv6]
@@ -372,7 +370,7 @@ https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="14157" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133553685102_74.png" group-title="儿童",[BD]广东少儿
 https://epg.pw/stream/cb3e1d8fe708cb08a4b3b6476fdffa8e267e5f8af1c8a52b6068f884c2241131.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130217262909_90.png" group-title="电影",[BD]广东影视
-https://epg.pw/stream/0e5e1a883fa882ec8428eb963ec6a5ba550bb484275c587fc3ac41494acc96c5.ctv
+https://epg.pw/stream/cbeb37fe05086e8a0e425d6a98c17e3ba01a9c5ef8e74b9b128bc9d5e41b4a8c.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="14230" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="新闻",[SD]广东新闻
 https://epg.pw/stream/c094302b2de4bc9600f9ebec67c3f77e247be50a6d1c0a29744b2b3d6f94d571.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="14228" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="综合",[SD]广东公共
@@ -503,7 +501,7 @@ https://epg.pw/stream/f48a17ac8af690306249e6d757cafdfdd2b0ae6b3531279fac42b64879
 https://epg.pw/stream/52e6b218b89c4eb770a708a7ad50bce31279aa79c1d0f6bed318afb57ae35287.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230012040614_78.jpg" group-title="综合",[BD]江苏城市
 https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230738460353_80.jpg" group-title="综艺",[BD]江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230738460353_80.jpg" group-title="综艺",[VGA]江苏综艺
 https://epg.pw/stream/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="13870" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",[BD]江苏卫视[ipv6]
 https://epg.pw/stream/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
@@ -583,8 +581,6 @@ https://epg.pw/stream/c56c49c74a804c2b8ed6467da5257d3f9185d87de349573e07b7585120
 https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8
 #EXTINF:-1 tvg-name="海南少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224909089129_32.jpg" group-title="儿童",[BD]海南少儿[ipv6]
 https://epg.pw/stream/baa68e39d43dc2d8018de7894fd858915089c371cf58c93057400af002c04e10.m3u8
-#EXTINF:-1 tvg-name="海南新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224744314446_96.jpg" group-title="新闻",[BD]海南新闻[ipv6]
-https://epg.pw/stream/ca0b9ca23c22a4f142cecbe38cd36a32539ca471108ac54d4d78549cebd23b90.m3u8
 #EXTINF:-1 tvg-name="海安新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2016/04/23/large/20160423152732409826_29.jpg" group-title="新闻",[VGA]海安新闻综合
 https://epg.pw/stream/e12fc750b8094b8cde970ed847fa1563cc259ccd485f94cc640e50c84b508df8.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530231150077190_51.jpg" group-title="综合",[BD]海峡卫视
@@ -795,8 +791,6 @@ https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4
 https://epg.pw/stream/94fdc1fe964eedfca734045a102891491f6f105422ffa1916e973dee7b5e9294.m3u8
 #EXTINF:-1 tvg-name="镇江新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/zhenjiangxinwen.jpg" group-title="测试",[BD]镇江新闻
 https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8
-#EXTINF:-1 tvg-name="陕西生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151311106781_13.jpg" group-title="综合",[BD]陕西生活
-https://epg.pw/stream/b0753dee13868080e83f6ab54459a26474aa7c9efdbe881e7329c5cd4cd45f2a.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="13896" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150903888489_91.jpg" group-title="综合",[SD]陕西卫视[ipv6]
 https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145148819490_20.jpg" group-title="儿童",[HD]云南少儿
@@ -832,11 +826,11 @@ https://epg.pw/stream/0fc3a6eca2f0ae9b83ca2ea16e66d620c0f80a80df85450f5a92ba24ac
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602010032742180_80.PNG" group-title="电影",[BD]黑莓电影[ipv6]
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154513515358_97.jpg" group-title="儿童",[BD]黑龙江少儿[ipv6]
-https://epg.pw/stream/29ba9c7b9d4c6529594814c28b41d3df288bc3c926ba9f0b16b4f15c99ad22d2.m3u8
+https://epg.pw/stream/5e319bddd0791b061d150e2211423872627fda288b7aaa32075ee025142b8d38.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154554180409_52.jpg" group-title="电影",[BD]黑龙江影视[ipv6]
 https://epg.pw/stream/6186d8420f7e86d3337615a008072538610d9e9a20c1d01d4087add26fcbe019.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154641916439_80.jpg" group-title="综合",[BD]黑龙江文体[ipv6]
-https://epg.pw/stream/6e2f44d66f05d13cb6f75bf47efce7ad48b6b752b462f3c67e653a3cb1962552.m3u8
+https://epg.pw/stream/010e2360e79bf13430b733bd1ffcd07addc73ff7c6ff9a16d03ada96ea34d18b.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154851022965_78.jpg" group-title="新闻",[BD]黑龙江新闻法治[ipv6]
 https://epg.pw/stream/6fa84147aa9a9981e4ad84aa4cb21c255f1ff6287fcf1201d1a97f7d4144ea54.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="13887" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg" group-title="综合",[BD]黑龙江卫视
