@@ -1,42 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV1.png" group-title="央视",CCTV-1  
-https://itv.lat/tv/live.php?&line=1&id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV2.png" group-title="央视",CCTV-2  
-https://itv.lat/tv/live.php?&line=1&id=cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV3.png" group-title="央视",CCTV-3  
-https://itv.lat/tv/live.php?&line=1&id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4.png" group-title="央视",CCTV-4  
-https://itv.lat/tv/live.php?&line=1&id=cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5.png" group-title="央视",CCTV-5  
-https://itv.lat/tv/live.php?&line=1&id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5+.png" group-title="央视",CCTV-5+  
-https://itv.lat/tv/live.php?&line=1&id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV6.png" group-title="央视",CCTV-6  
-https://itv.lat/tv/live.php?&line=1&id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV7.png" group-title="央视",CCTV-7  
-https://itv.lat/tv/live.php?&line=1&id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV8.png" group-title="央视",CCTV-8  
-https://itv.lat/tv/live.php?&line=1&id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV9.png" group-title="央视",CCTV-9 
-https://itv.lat/tv/live.php?&line=1&id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV10.png" group-title="央视",CCTV-10  
-https://itv.lat/tv/live.php?&line=1&id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV11.png" group-title="央视",CCTV-11  
-https://itv.lat/tv/live.php?&line=1&id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV12.png" group-title="央视",CCTV-12  
-https://itv.lat/tv/live.php?&line=1&id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV13.png" group-title="央视",CCTV-13  
-https://itv.lat/tv/live.php?&line=1&id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV14.png" group-title="央视",CCTV-14  
-https://itv.lat/tv/live.php?&line=1&id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV15.png" group-title="央视",CCTV-15  
-https://itv.lat/tv/live.php?&line=1&id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV16.png" group-title="央视",CCTV-16  
-https://itv.lat/tv/live.php?&line=1&id=cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV17.png" group-title="央视",CCTV-17  
-https://itv.lat/tv/live.php?&line=1&id=cctv17
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4K.png" group-title="央视",CCTV-4K  
-https://itv.lat/tv/live.php?&line=1&id=cctv4K
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" group-title="央视",CCTV1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" group-title="央视",CCTV2
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV3" group-title="央视",CCTV3
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV4" group-title="央视",CCTV4
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5+
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV6" group-title="央视",CCTV6
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7" group-title="央视",CCTV7
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV8" group-title="央视",CCTV8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV9" group-title="央视",CCTV9
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV10" group-title="央视",CCTV10
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV11" group-title="央视",CCTV11
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV12" group-title="央视",CCTV12
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV13" group-title="央视",CCTV13
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV14" group-title="央视",CCTV14
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV15" group-title="央视",CCTV15
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV16" group-title="央视",CCTV16
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV17" group-title="央视",CCTV17
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="央视",CGTN纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
@@ -49,48 +47,6 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 group-title="卫视",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视.png" group-title="卫视",北京卫视
-https://itv.lat/tv/live.php?&line=1&id=bjws
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方卫视.png" group-title="卫视",东方卫视
-https://itv.lat/tv/live.php?&line=1&id=dfws
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/天津卫视.png" group-title="卫视",天津卫视
-https://itv.lat/tv/live.php?&line=1&id=tjws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://itv.lat/tv/live.php?&line=1&id=cqws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/黑龙江卫视.png" group-title="卫视",龙江卫视
-https://itv.lat/tv/live.php?&line=1&id=hljws
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://itv.lat/tv/live.php?&line=1&id=lnws
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://itv.lat/tv/live.php?&line=1&id=gsws
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/山东卫视.png" group-title="卫视",山东卫视
-https://itv.lat/tv/live.php?&line=1&id=sdws
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://itv.lat/tv/live.php?&line=1&id=ahws
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://itv.lat/tv/live.php?&line=1&id=hunws
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://itv.lat/tv/live.php?&line=1&id=jsws
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://itv.lat/tv/live.php?&line=1&id=zjws
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://itv.lat/tv/live.php?&line=1&id=hxws
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/广东卫视.png" group-title="卫视",广东卫视
-https://itv.lat/tv/live.php?&line=1&id=gdws
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://itv.lat/tv/live.php?&line=1&id=szws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/广西卫视.png" group-title="卫视",广西卫视
-https://itv.lat/tv/live.php?&line=1&id=gxws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/云南卫视.png" group-title="卫视",云南卫视
-https://itv.lat/tv/live.php?&line=1&id=ynws
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/四川卫视.png" group-title="卫视",四川卫视
-https://itv.lat/tv/live.php?&line=1&id=scws
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://itv.lat/tv/live.php?&line=1&id=ssws
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CETV1.png" group-title="卫视",CETV1
-https://itv.lat/tv/live.php?&line=1&id=cetv1
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CETV4.png" group-title="卫视",CETV4
-https://itv.lat/tv/live.php?&line=1&id=cetv4
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
@@ -123,42 +79,6 @@ http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南教育台.png" group-title="地方",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上视新闻.png" group-title="地方",上海新综
-https://itv.lat/tv/live.php?&line=1&id=shxwzh
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上海都市.png" group-title="地方",上海都市
-https://itv.lat/tv/live.php?&line=1&id=shds
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上海外语.png" group-title="地方",上海外语
-https://itv.lat/tv/live.php?&line=1&id=shics
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方影视.png" group-title="地方",东方影视
-https://itv.lat/tv/live.php?&line=1&id=dfys
-#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/七彩戏剧.png" group-title="地方",七彩戏剧
-https://itv.lat/tv/live.php?&line=1&id=qcxj
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上海第一财经.png" group-title="地方",第一财经
-https://itv.lat/tv/live.php?&line=1&id=dycj
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/法治天地.png" group-title="地方",法治天地
-https://itv.lat/tv/live.php?&line=1&id=fztd
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方财经.png" group-title="地方",东方财经
-https://itv.lat/tv/live.php?&line=1&id=dfcj
-#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上海教育.png" group-title="地方",上海教育
-https://itv.lat/tv/live.php?&line=1&id=shjy
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建综合.png" group-title="地方",福建综合
-https://itv.lat/tv/live.php?&line=1&id=fjzh
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建新闻.png" group-title="地方",福建新闻
-https://itv.lat/tv/live.php?&line=1&id=fjxw
-#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建电视剧.png" group-title="地方",福建视剧
-https://itv.lat/tv/live.php?&line=1&id=fjdsj
-#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建文体.png" group-title="地方",福建文体
-https://itv.lat/tv/live.php?&line=1&id=fjwt
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建少儿.png" group-title="地方",福建少儿
-https://itv.lat/tv/live.php?&line=1&id=fjse
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建旅游.png" group-title="地方",福建旅游
-https://itv.lat/tv/live.php?&line=1&id=fjly
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建经济.png" group-title="地方",福建经济
-https://itv.lat/tv/live.php?&line=1&id=fjjj
-#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建公共.png" group-title="地方",福建公共
-https://itv.lat/tv/live.php?&line=1&id=fjgg
-#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建教育.png" group-title="地方",福建教育
-https://itv.lat/tv/live.php?&line=1&id=fjjy
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="地方",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北影视.png" group-title="地方",湖北影视
@@ -197,58 +117,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京纪实科教.png" group-title="数字",纪实科教
-https://itv.lat/tv/live.php?&line=1&id=bjjskj
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/纪实人文.png" group-title="数字",纪实人文
-https://itv.lat/tv/live.php?&line=1&id=shjsrw
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/动漫秀场.png" group-title="数字",动漫秀场
-https://itv.lat/tv/live.php?&line=1&id=dmxc
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/哈哈炫动.png" group-title="数字",哈哈炫动
-https://itv.lat/tv/live.php?&line=1&id=hhxd
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/欢笑剧场.png" group-title="数字",欢笑剧场
-https://itv.lat/tv/live.php?&line=1&id=hxjc
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/都市剧场.png" group-title="数字",都市剧场
-https://itv.lat/tv/live.php?&line=1&id=dsjc
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/五星体育.png" group-title="数字",五星体育
-https://itv.lat/tv/live.php?&line=1&id=wxty
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/劲爆体育.png" group-title="数字",劲爆体育
-https://itv.lat/tv/live.php?&line=1&id=jbty
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/新视觉.png" group-title="数字",新视觉
-https://itv.lat/tv/live.php?&line=1&id=xsj
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/游戏风云.png" group-title="数字",游戏风云
-https://itv.lat/tv/live.php?&line=1&id=yxfy
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/生活时尚.png" group-title="数字",生活时尚
-https://itv.lat/tv/live.php?&line=1&id=shss
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/金色学堂.png" group-title="数字",金色学堂
-https://itv.lat/tv/live.php?&line=1&id=jspd
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/乐游.png" group-title="数字",乐游频道
-https://itv.lat/tv/live.php?&line=1&id=qjs
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/魅力足球.png" group-title="数字",魅力足球
-https://itv.lat/tv/live.php?&line=1&id=mlzq
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/茶.png" group-title="数字",茶友频道
-https://itv.lat/tv/live.php?&line=1&id=cpd
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/快乐垂钓.png" group-title="数字",快乐垂钓
-https://itv.lat/tv/live.php?&line=1&id=klcd
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/金鹰纪实.png" group-title="数字",金鹰纪实
-https://itv.lat/tv/live.php?&line=1&id=jyjs
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",华语影院
-https://itv.lat/tv/live.php?&line=1&id=hyyy
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",电竞天堂
-https://itv.lat/tv/live.php?&line=1&id=djtt
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",青春动漫
-https://itv.lat/tv/live.php?&line=1&id=qcdm
-#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",星光影院
-https://itv.lat/tv/live.php?&line=1&id=xgyy
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",谍战剧场
-https://itv.lat/tv/live.php?&line=1&id=dzjc
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",全球大片
-https://itv.lat/tv/live.php?&line=1&id=qqdp
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",热门剧场
-https://itv.lat/tv/live.php?&line=1&id=rmjc
-#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",热门综艺
-https://itv.lat/tv/live.php?&line=1&id=rmzy
-#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="数字",戏曲精选
-https://itv.lat/tv/live.php?&line=1&id=xqjx
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="数字",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字",超级电影
