@@ -68,4 +68,4 @@
 | 62 | 新疆卫视 | itv.lat | <https://itv.lat/live?token=240411&id=xjws> |
 | 63 | 海南卫视 | itv.lat | <https://itv.lat/live?token=240411&id=hinws> |
 
-Updated at **Thu Apr 11 2024 06:15:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 08:15:10 GMT+0000 (Coordinated Universal Time)**
