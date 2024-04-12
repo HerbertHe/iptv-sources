@@ -305,7 +305,7 @@
 | 299 | [BD]HBO | epg.pw | <https://epg.pw/stream/634ce7f6f111aa198805dba422ee5609796ebbff0b15d76f5375a0bef7e3e7eb.ctv> |
 | 300 | [BD]HBO2HDUSA | epg.pw | <https://epg.pw/stream/bc2139587371b24c5b6e740e1d2cc666588157f78c66f934a700d9982675e3d5.ctv> |
 | 301 | [BD]HBOHDUSA | epg.pw | <https://epg.pw/stream/09ba6b4d386f2fb145b6bd458497dfa9baaf9942552a71408357ba11f544282e.ctv> |
-| 302 | [HD]HITS | epg.pw | <https://epg.pw/stream/b76c6a8683869387a89405124ff38dc24ae2ec3718f2c18dc1de6c511ba6e207.ctv> |
+| 302 | [HD]HITS | epg.pw | <https://epg.pw/stream/4aa2effa24a2c0139a65d3de8d0c82cd76e6accf0de4fa263c24c93c001b5e8e.ctv> |
 | 303 | [HD]HitsMovies | epg.pw | <https://epg.pw/stream/ab9b84568a242b604c5cf987152ab8ddac206ed35d34927b4bcd2632fc16b930.ctv> |
 | 304 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
 | 305 | [BD]htvc phim | epg.pw | <https://epg.pw/stream/1ce4f72f76d3a6541c6063a9803452c4d6cc7381ea3d8058f0fd8a8d5dd6c95c.ctv> |
@@ -431,7 +431,7 @@
 | 425 | [HD]SKY Atlantic | epg.pw | <https://epg.pw/stream/f2c6149c2ad4608ed2e89c9e504c2239b703fbf72ceffd131b7fb2001da58b15.ctv> |
 | 426 | [HD]SKY CINEMA SCI-FI | epg.pw | <https://epg.pw/stream/50b349e7403a1717079580fc678f1d7c723a6acefc150101b360dc648d6a54a0.ctv> |
 | 427 | [BD]SKY CINEMA SELECT | epg.pw | <https://epg.pw/stream/f71b9d1f3df6c831141287e27d7243c465df698c6e97ed4a8536e33200db9ce0.ctv> |
-| 428 | [HD]cineman thriller | epg.pw | <https://epg.pw/stream/4b6052eb0bc7d3cac4c348c4c3683307e7aaefeb8503f191f5d0b54f9922a268.m3u8> |
+| 428 | [HD]vf thriller | epg.pw | <https://epg.pw/stream/f4769f25d0af0b6d2d1d7563aea82611c82723cb537a8ca45585f83e0344e989.m3u8> |
 | 429 | [SD]SKYCRIME | epg.pw | <https://epg.pw/stream/9a886c80d96cbc6a14c81111fba343f127135fc0905562f448c0346811ef183d.ctv> |
 | 430 | [SD]SKY SHOWCASE | epg.pw | <https://epg.pw/stream/5331629efa8d17e4e54178c72839bec55af80808389a2372579d5521b6d8d2f5.ctv> |
 | 431 | [HD]ช่อง sky sports arena | epg.pw | <https://epg.pw/stream/62d26606d9eabe527ec18ab2b2187b2eae939d7797495d54de5928e2ad9237c9.m3u8> |
@@ -958,7 +958,7 @@
 | 952 | [HD]food tv | epg.pw | <https://epg.pw/stream/a73bbce861820ed0e28ebd0ad406c9423f6fe9d8337baeddd284b4f26cee1a94.m3u8> |
 | 953 | [BD]formula | epg.pw | <https://epg.pw/stream/2d187a60b250c569b13ba7e9f2289dd34d9580053fd97990f1eea5487ae744d4.m3u8> |
 | 954 | [BD]fox life hd | epg.pw | <https://epg.pw/stream/22b00a7e5950924ebf08dab1e269e84f012f2a85ae16aef4b5e29c56aad98707.ctv> |
-| 955 | [VGA]fox sports 3 | epg.pw | <https://epg.pw/stream/bb32750d200e34ae4a5d669f7826b1ee3b0ef60c88e2127de489955b898c5d78.ctv> |
+| 955 | [VGA]fox sports 3 | epg.pw | <https://epg.pw/stream/76fc852dc2521bb29213ca699b1161e2386c34078c8935ceff22826c00c14e52.m3u8> |
 | 956 | [HD]fox sports mexico | epg.pw | <https://epg.pw/stream/47319ef7756818e3f923bb4a4c2f3fe18f245c4e030d425f8e3d0b5146ca57f3.m3u8> |
 | 957 | [HD]fox türkiye | epg.pw | <https://epg.pw/stream/65cbbe84b200af3f107597bdad9346e39c97ff28f5a37bd59f6bf524e7405ad5.m3u8> |
 | 958 | [BD]fox weather | epg.pw | <https://epg.pw/stream/340c0e62bd18f482a03053f4437c659b2f174ce74fd51a40f51b14be440fe830.m3u8> |
@@ -2299,4 +2299,4 @@
 | 2293 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2294 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 12 2024 02:23:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 12 2024 04:14:00 GMT+0000 (Coordinated Universal Time)**
