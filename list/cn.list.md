@@ -94,7 +94,7 @@
 | 88 | [BD]全纪实 | epg.pw | <https://epg.pw/stream/2d9108efd241fb2214b9b653b9da63bfd59d91a37341f98396be49a9157ef849.ctv> |
 | 89 | [BD]兰溪新闻综合 | epg.pw | <https://epg.pw/stream/6b1d9214f9f0bf123b8f2d471ca383596f2ea35d331a14c9ca66efd8e11a3e4c.m3u8> |
 | 90 | [SD]兵团卫视 | epg.pw | <https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8> |
-| 91 | [SD]内蒙古卫 | epg.pw | <https://epg.pw/stream/593640d30db8d391eef10bca247250c4e9402eede0b7c9758294fe49e3210786.m3u8> |
+| 91 | [BD]内蒙古蒙语卫视 | epg.pw | <https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8> |
 | 92 | [BD]内黄新闻综合频道 | epg.pw | <https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8> |
 | 93 | [BD]刘德华 | epg.pw | <https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
 | 94 | [BD]劲爆体育 | epg.pw | <https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv> |
@@ -435,4 +435,4 @@
 | 429 | [BD]黑龙江公共农村[ipv6] | epg.pw | <https://epg.pw/stream/df32dd14e705b2d1512a1d04c701b0f8339148dfb9c1137ce5574cc1a15ef1d0.m3u8> |
 | 430 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Apr 14 2024 10:39:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 14 2024 14:36:02 GMT+0000 (Coordinated Universal Time)**
