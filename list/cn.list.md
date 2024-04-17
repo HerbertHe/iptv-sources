@@ -29,7 +29,7 @@
 | 23 | [BD]cctv央视文化精品 | epg.pw | <https://epg.pw/stream/e6b044e1219ab664803b8f4679634a80320363d09f5d6c65971facd1749e58a5.ctv> |
 | 24 | [BD]cctv央视台球 | epg.pw | <https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv> |
 | 25 | [BD]cctv女性时尚 | epg.pw | <https://epg.pw/stream/8f2be5fe197179fbb9d77e542fe3e91e3bb658790794d2d59e46ed3396aa29b9.ctv> |
-| 26 | [VGA]cctv怀旧剧场 | epg.pw | <https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.ctv> |
+| 26 | [VGA]cctv怀旧剧场 | epg.pw | <https://epg.pw/stream/2c3d1ac4b573288b1d3866589c6c1c80b3a865d45bf61826eddb676165cc3191.ctv> |
 | 27 | [BD]cctv第一剧场 | epg.pw | <https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.ctv> |
 | 28 | [BD]cctv 卫生健康 | epg.pw | <https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.ctv> |
 | 29 | [BD]cctv电视指南 | epg.pw | <https://epg.pw/stream/b8e394cc5ff1448dedc3638a10994d8bb02eefca9c56e70f323df8f4a55e4aaa.ctv> |
@@ -395,4 +395,4 @@
 | 389 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 390 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Wed Apr 17 2024 04:15:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 17 2024 06:18:10 GMT+0000 (Coordinated Universal Time)**
