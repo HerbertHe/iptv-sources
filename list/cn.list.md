@@ -65,7 +65,7 @@
 | 59 | [BD]lntv 1 | epg.pw | <https://epg.pw/stream/4b25ab9b9957ab1669432268f41d562abc8f079fe9264be431db05f943c77a49.m3u8> |
 | 60 | [BD]newtv超级电影[ipv6] | epg.pw | <https://epg.pw/stream/51a8268790d16215beebefee2ee05c185fbbddb69922da9b7f0b9985ebeb88a6.m3u8> |
 | 61 | [SD]七彩戏剧 | epg.pw | <https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.ctv> |
-| 62 | [VGA]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
+| 62 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
 | 63 | [BD]三沙卫视[ipv6] | epg.pw | <https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8> |
 | 64 | [BD]上虞新闻综合 | epg.pw | <https://epg.pw/stream/c6081627316b86d1cc44bc6baf9813445e9ee30c26112178e83b1f403f2536b8.m3u8> |
 | 65 | [BD]上海纪实人文[ipv6] | epg.pw | <https://epg.pw/stream/b6e98019fd687d467b5676a034e2731459d9dfad493bfef11b48d27b499713d2.m3u8> |
@@ -217,7 +217,7 @@
 | 211 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
 | 212 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
 | 213 | [SD]武义新闻综合 | epg.pw | <https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8> |
-| 214 | [HD]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
+| 214 | [VGA]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
 | 215 | [VGA]武汉电视剧 | epg.pw | <https://epg.pw/stream/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8> |
 | 216 | [BD]武术世界 | epg.pw | <https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8> |
 | 217 | [BD]永嘉新闻综合 | epg.pw | <https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8> |
@@ -243,7 +243,7 @@
 | 237 | [BD]河北影视 | epg.pw | <https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8> |
 | 238 | [SD]河北影视剧 | epg.pw | <https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8> |
 | 239 | [SD]河北经济生活 | epg.pw | <https://epg.pw/stream/586bf4844e88ed18c1a209e82e9025cd3c9e84bed96638d138a3588bf243ba69.m3u8> |
-| 240 | [BD]河北卫视 | epg.pw | <https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8> |
+| 240 | [VGA]河北卫视 | epg.pw | <https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8> |
 | 241 | [SD]河北农民台高清 | epg.pw | <https://epg.pw/stream/12a9d1748252d68c721a22688df18fa0361bc5cdc655d66a421fbf689e10dcb5.m3u8> |
 | 242 | [SD]河北都市 | epg.pw | <https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8> |
 | 243 | [SD]河北杂技 | epg.pw | <https://epg.pw/stream/0157a5813c7ee5bfd2e36419edbeccb51fd83bc1f5fe2ac5113033cc0e68ff2c.m3u8> |
@@ -303,7 +303,7 @@
 | 297 | [BD]甘肃少儿[ipv6] | epg.pw | <https://epg.pw/stream/f39eb4b8e496b25598289e72357d96f5b87c3ebc5d1923fe43f62937674bec71.m3u8> |
 | 298 | [BD]甘肃文化影视[ipv6] | epg.pw | <https://epg.pw/stream/f24b4d04dc28ddf7cd6e4bffcffc567afcca879d109a74eb4965a75b2dc32a15.m3u8> |
 | 299 | [BD]甘肃经济[ipv6] | epg.pw | <https://epg.pw/stream/95a888c5a60703f6bed79cc722df024e71cadb9b1a4a3464ce0e3f5e557e6201.m3u8> |
-| 300 | [BD]甘肃卫视 | epg.pw | <https://epg.pw/stream/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
+| 300 | [VGA]甘肃卫视 | epg.pw | <https://epg.pw/stream/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
 | 301 | [BD]甘肃都市[ipv6] | epg.pw | <https://epg.pw/stream/46c7df1cdf6f20ac222f2e4e6cd81449767cb9175dffa31f110d520aa9050294.m3u8> |
 | 302 | [BD]生活时尚 | epg.pw | <https://epg.pw/stream/9d62fc46bb74c3eb66fdba1935da47edd87f2751f434f9d082bf0b036503db29.ctv> |
 | 303 | [SD]百姓健康 | epg.pw | <https://epg.pw/stream/4091474341128abc8a6b53badeb1dfe219944284ed2229ed77733530dd3a438a.m3u8> |
@@ -390,4 +390,4 @@
 | 384 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 385 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Apr 19 2024 06:16:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 19 2024 08:15:33 GMT+0000 (Coordinated Universal Time)**
