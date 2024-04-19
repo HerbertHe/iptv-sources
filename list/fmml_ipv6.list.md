@@ -191,4 +191,4 @@
 | 185 | 金牌综艺 | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8> |
 | 186 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8> |
 
-Updated at **Fri Apr 19 2024 20:12:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 19 2024 22:10:45 GMT+0000 (Coordinated Universal Time)**
