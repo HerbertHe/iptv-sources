@@ -39,28 +39,32 @@ https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8
 https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="13851" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="知识",[BD]cctv9[ipv6]
 https://epg.pw/stream/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="知识",[BD]cctv世界地理
-https://epg.pw/stream/7172dc4342dcd2c109d6b938c82658731cd3dfb7a40a77433d0f7e52fa8172ff.ctv
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="知识",[BD]cctv 世界地理
+https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907145715165993_14.jpg" group-title="新闻",[BD]cctv 兵器科技
+https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8
 #EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145328522084_50.jpg" group-title="综合",[BD]cctv央视文化精品
 https://epg.pw/stream/e6b044e1219ab664803b8f4679634a80320363d09f5d6c65971facd1749e58a5.ctv
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011608655022_56.jpg" group-title="运动",[BD]cctv央视台球
 https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510170002648380_81.jpg" group-title="其它",[BD]cctv女性时尚
-https://epg.pw/stream/8f2be5fe197179fbb9d77e542fe3e91e3bb658790794d2d59e46ed3396aa29b9.ctv
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510170002648380_81.jpg" group-title="综合",[BD]cctv 女性时尚
+https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="电影",[BD]cctv怀旧剧场高请
 https://epg.pw/stream/58ae31cf740793564420e363abcd7e3f6ae3ae75be7c4eaf3676c103471ba907.ctv
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg" group-title="电影",[BD]cctv第一剧场
-https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.ctv
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg" group-title="电影",[BD]cctv 第一剧场
+https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510151943942201_83.jpg" group-title="其它",[BD]cctv电视指南
 https://epg.pw/stream/b8e394cc5ff1448dedc3638a10994d8bb02eefca9c56e70f323df8f4a55e4aaa.ctv
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510005553168659_67.jpg" group-title="其它",[BD]cctv风云剧场
 https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.ctv
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="运动",[BD]cctv风云足球
-https://epg.pw/stream/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.ctv
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="运动",[BD]cctv 风云足球
+https://epg.pw/stream/979137a17d3f79217229e077bc8472050be5b42eecf0f857a6b7e11a950f3949.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="综艺",[SD]cctv音乐
 https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="其它",[BD]cetv1
 https://epg.pw/stream/0bfe9795b2c1f06b657cde811fafe4c5c866d8f25937cce71a4eca84b5a7674a.ctv
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510160331830607_89.jpg" group-title="其它",[BD]cetv 早期教育
+https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9eb55b69978f187c4ccd61c33.ctv
 #EXTINF:-1 tvg-name="CGTN" tvg-id="13861" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="新闻",[SD]cgtn
 https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.ctv
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知识",[BD]rt documentary
@@ -638,7 +642,7 @@ https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4be
 #EXTINF:-1 tvg-name="舟山新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新闻",[BD]舟山新闻综合
 https://epg.pw/stream/90614ad542658061c38d8a45d79d6b13fe73a333541e413081264997404d422b.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507221938893290_22.jpg" group-title="其它",[BD]茶频道
-https://epg.pw/stream/6579e842205608bc06db160c89c6de154a4070e71dd1a6a0e8b029695653125d.ctv
+https://epg.pw/stream/cb7be750ee5b6b51cff299279e49fef2dc33ae635fbb099238154089421be599.ctv
 #EXTINF:-1 tvg-name="荆州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031230159254376_46.jpg" group-title="新闻",[BD]荆门新闻综合
 https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
 #EXTINF:-1 tvg-name="万州科教" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827022846359819_64.png" group-title="其它",[SD]万州科教频道
