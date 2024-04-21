@@ -22,8 +22,8 @@
 | 16 | CCTV-15 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8> |
 | 17 | CCTV-16 | IPv6 直链 | <http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8> |
 | 18 | CCTV-17 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8> |
-| 19 | CGTN新闻 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV+Z9aFwSHAnd8F70VqU6TYif81mMC79YJ+EEiYI8DYDTaxhzE> |
-| 20 | CGTN纪实 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE+hMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4> |
+| 19 | CGTN新闻 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.215:4220> |
+| 20 | CGTN纪录 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.216:4220> |
 | 21 | CCTV-4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8> |
 | 22 | 第一剧场 | IPv4 直链 | <http://118.254.203.236:8888/rtp/239.76.254.49:9000> |
 | 23 | 风云剧场 | IPv4 直链 | <http://118.254.203.236:8888/rtp/239.76.254.50:9000> |
@@ -118,9 +118,9 @@
 | 112 | 黑龙江少儿 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8> |
 | 113 | 黑龙江文化 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8> |
 | 114 | 黑龙江影视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8> |
-| 115 | CHC动作电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ> |
+| 115 | CHC高清电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04> |
 | 116 | CHC家庭影院 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4> |
-| 117 | CHC高清电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04> |
+| 117 | CHC动作电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ> |
 | 118 | 纯享4K | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8> |
 | 119 | 乐游 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
 | 120 | 茶频道 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.165:8001> |
@@ -240,8 +240,9 @@
 | 234 | Documentary+ | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8> |
 | 235 | Tastemade | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8> |
 | 236 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
-| 237 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
-| 238 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
-| 239 | NextUp Live Comedy | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8> |
+| 237 | The Guardian | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8> |
+| 238 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
+| 239 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
+| 240 | NextUp Live Comedy | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8> |
 
-Updated at **Sun Apr 21 2024 02:23:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 21 2024 04:14:21 GMT+0000 (Coordinated Universal Time)**
