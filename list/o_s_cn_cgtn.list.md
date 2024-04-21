@@ -11,4 +11,4 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **Sat Apr 20 2024 22:11:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 21 2024 00:57:56 GMT+0000 (Coordinated Universal Time)**
