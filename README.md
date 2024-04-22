@@ -29,10 +29,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Mon Apr 22 2024 18:40:13 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Mon Apr 22 2024 19:30:09 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Mon Apr 22 2024 20:06:01 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Mon Apr 22 2024 20:00:51 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.b2og.com> | per 2h | Mon Apr 22 2024 20:40:13 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.helima.net> | per 2.5h | Mon Apr 22 2024 21:30:06 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Mon Apr 22 2024 22:05:29 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Mon Apr 22 2024 22:00:53 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -71,7 +71,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Mon Apr 22 2024 20:13:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 22 2024 22:12:45 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
