@@ -70,36 +70,37 @@
 | 64 | CETV-2 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8> |
 | 65 | CETV-3 | IPv6 直链 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 66 | CETV-4 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8> |
-| 67 | CGTN英语 | CGTN | <http://live.cgtn.com/1000/prog_index.m3u8> |
-| 68 | CGTN记录 | IPv6 直链 | <http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS> |
-| 69 | 爱上4K | IPv6 直链 | <http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS> |
-| 70 | 纪实人文 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8> |
-| 71 | 纪实科教 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8> |
-| 72 | 卡酷少儿 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8> |
-| 73 | 金鹰卡通 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8> |
-| 74 | 哒啵赛事 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8> |
-| 75 | 优漫卡通 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8> |
-| 76 | 哈哈炫动 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8> |
-| 77 | 黑莓动画 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8> |
-| 78 | 黑莓电影 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8> |
-| 79 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
-| 80 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
-| 81 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
-| 82 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
-| 83 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
-| 84 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
-| 85 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
-| 86 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
-| 87 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
-| 88 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
-| 89 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
-| 90 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
-| 91 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
-| 92 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
-| 93 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
-| 94 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
-| 95 | 精品萌宠 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8> |
-| 96 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
-| 97 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
+| 67 | 五星体育 | IPv6 直链 | <http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS> |
+| 68 | CGTN英语 | CGTN | <http://live.cgtn.com/1000/prog_index.m3u8> |
+| 69 | CGTN记录 | IPv6 直链 | <http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS> |
+| 70 | 爱上4K | IPv6 直链 | <http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS> |
+| 71 | 纪实人文 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8> |
+| 72 | 纪实科教 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8> |
+| 73 | 卡酷少儿 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8> |
+| 74 | 金鹰卡通 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8> |
+| 75 | 哒啵赛事 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8> |
+| 76 | 优漫卡通 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8> |
+| 77 | 哈哈炫动 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8> |
+| 78 | 黑莓动画 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8> |
+| 79 | 黑莓电影 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8> |
+| 80 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
+| 81 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
+| 82 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
+| 83 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
+| 84 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
+| 85 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
+| 86 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
+| 87 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
+| 88 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
+| 89 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
+| 90 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
+| 91 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
+| 92 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
+| 93 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
+| 94 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
+| 95 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
+| 96 | 精品萌宠 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8> |
+| 97 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
+| 98 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
 
-Updated at **Mon Apr 22 2024 08:16:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 22 2024 10:14:24 GMT+0000 (Coordinated Universal Time)**
