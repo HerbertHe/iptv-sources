@@ -26,7 +26,7 @@
 | 20 | CGTN新闻 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.215:4220> |
 | 21 | CGTN纪录 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.216:4220> |
 | 22 | 中文欧洲 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.213:4220> |
-| 23 | 中文国际 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.214:4220> |
+| 23 | 中文美洲 | IPv4 直链 | <http://221.219.66.252:18888/rtp/239.3.1.214:4220> |
 | 24 | 兵器科技 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2> |
 | 25 | 第一剧场 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2> |
 | 26 | 风云足球 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2> |
@@ -195,4 +195,4 @@
 | 189 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 | 190 | NextUp Live Comedy | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8> |
 
-Updated at **Tue Apr 23 2024 04:14:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 23 2024 06:17:10 GMT+0000 (Coordinated Universal Time)**
