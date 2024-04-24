@@ -393,8 +393,8 @@ https://epg.pw/stream/6fb28b3f31cd927a048f858d9a53b12e1c272472810709bca205694128
 https://epg.pw/stream/3587d2a664f1ed6cd95d0075b42f605bb091c9dc57a6edd13adfa56e6d9b4294.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="13882" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="综合",[BD]东南卫视[ipv6]
 https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="13872" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="综合",[BD]东方卫视[ipv6]
-https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="13872" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="综合",[BD]东方卫视
+https://epg.pw/stream/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605005855118868_86.jpg" group-title="新闻",[BD]东方财经
 https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.ctv
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514170333461314_55.jpg" group-title="其它",[HD]上海|东方购物
@@ -507,8 +507,6 @@ https://epg.pw/stream/8e593f2c3e21fab31359c76961f8bac3f30190acb69d62e4f2719af9ef
 https://epg.pw/stream/8b98df967ed168dec0a6ccaa4e186dc27c2ffb698be5ef9c00bf6a5c30345a02.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/09/13/large/20210913004059839717_73.png" group-title="综合",[BD]海南卫视[ipv6]
 https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530231150077190_51.jpg" group-title="综合",[BD]海峡卫视
-https://epg.pw/stream/6952b14b453dab09ad0ecb007d59372a5e622003284eb3f834df48db2950d18a.ctv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="13875" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="综合",[BD]深圳卫视
 https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
 #EXTINF:-1 tvg-name="深圳都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234446820820_32.jpg" group-title="综合",[BD]深圳都市
@@ -609,10 +607,6 @@ https://epg.pw/stream/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c
 https://epg.pw/stream/40fc8dc4eeb13fb9cf776df7cf3ee583e54267571621ab8084c2102b033a4662.ctv
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233208605714_26.jpg" group-title="其它",[BD]福建旅游
 https://epg.pw/stream/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.ctv
-#EXTINF:-1 tvg-name="福建综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg" group-title="综合",[BD]福建综合
-https://epg.pw/stream/ac432f5852f51e8885e4954e3d7729691e8ae7dbd899b13a027f1cb2ad0740ca.ctv
-#EXTINF:-1 tvg-name="福建电视剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530232528048400_14.jpg" group-title="电影",[BD]福建电视剧
-https://epg.pw/stream/9dfd84ae9f8ab252dff2526c8f7836a72710ae25b14b6dc980230cb268ff7f46.ctv
 #EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116221721249151_66.jpg" group-title="新闻",[BD]第一财经
 https://epg.pw/stream/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.ctv
 #EXTINF:-1 tvg-name="绍兴公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015600126561_54.jpg" group-title="综合",[HD]绍兴公共频道

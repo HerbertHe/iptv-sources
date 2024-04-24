@@ -132,7 +132,7 @@
 [BD]杭州明珠,https://epg.pw/stream/f4d3cf07fef647405506f59e802ffec1fa076cdb1b03535bdb398588a6af6fc8.ctv
 [BD]杭州生活,https://epg.pw/stream/612c148cb9395dfc3d60bfcb37ca7de7180ae4bc53d91447643dc83bf1589e2e.ctv
 [BD]东南卫视[ipv6],https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
-[BD]东方卫视[ipv6],https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
+[BD]东方卫视,https://epg.pw/stream/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8
 [SD]枣庄公共频道,https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8
 [VGA]江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
 [BD]江苏卫视[ipv6],https://epg.pw/stream/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
@@ -155,7 +155,6 @@
 [BD]海南公共[ipv6],https://epg.pw/stream/c56c49c74a804c2b8ed6467da5257d3f9185d87de349573e07b7585120d9c38f.m3u8
 [BD]海南文旅[ipv6],https://epg.pw/stream/8e593f2c3e21fab31359c76961f8bac3f30190acb69d62e4f2719af9ef53bebf.m3u8
 [BD]海南卫视[ipv6],https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8
-[BD]海峡卫视,https://epg.pw/stream/6952b14b453dab09ad0ecb007d59372a5e622003284eb3f834df48db2950d18a.ctv
 [BD]深圳卫视,https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
 [BD]深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 [BD]湖北公共,https://epg.pw/stream/8c1b6fe77020c3e735423253173adb2eb9b8d3917b4d84a8e5ee1a6473c562f9.m3u8
@@ -173,7 +172,6 @@
 [BD]生活时尚,https://epg.pw/stream/9d62fc46bb74c3eb66fdba1935da47edd87f2751f434f9d082bf0b036503db29.ctv
 [SD]河北石家庄生活,https://epg.pw/stream/0e9a8e1b6d002bd0b389680c3f9f1e32d790b27ce4a9972f315082cfeaa6ddc5.m3u8
 [BD]福建公共,https://epg.pw/stream/f360921efb0a71c93da96942d59a1978e3c33ed5bec935261543ee749d8a815f.ctv
-[BD]福建综合,https://epg.pw/stream/ac432f5852f51e8885e4954e3d7729691e8ae7dbd899b13a027f1cb2ad0740ca.ctv
 [HD]绍兴公共频道,https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
 [VGA]自贡公共,https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv
 [VGA]自贡综合,https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
@@ -237,7 +235,6 @@
 [BD]湖南电视剧,https://epg.pw/stream/1e6fee7b35c85b3a8cef363f1760680959dcd57d1807057df25d05bd6f010f97.m3u8
 [BD]滨海影视,https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
 [BD]甘肃文化影视[ipv6],https://epg.pw/stream/f24b4d04dc28ddf7cd6e4bffcffc567afcca879d109a74eb4965a75b2dc32a15.m3u8
-[BD]福建电视剧,https://epg.pw/stream/9dfd84ae9f8ab252dff2526c8f7836a72710ae25b14b6dc980230cb268ff7f46.ctv
 [HD]绍兴文化影院,https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
 [SD]绍兴新闻综合,https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
 [BD]都市剧场,https://epg.pw/stream/aeed1fd62be98710bed4f273aefbc3b80f86975e4eb7d86210c93bac52819bc2.ctv
