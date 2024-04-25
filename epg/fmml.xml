@@ -11619,173 +11619,41 @@
 	<channel id="NOW新闻台">
 		<display-name lang="zh">NOW新闻台</display-name>
 	</channel>
-	<programme channel="NOW新闻台" start="20240426000000 +0800" stop="20240426003000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426000000 +0800" stop="20240426020000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426003000 +0800" stop="20240426010000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426020000 +0800" stop="20240426040000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426010000 +0800" stop="20240426013000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426040000 +0800" stop="20240426060000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426013000 +0800" stop="20240426020000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426060000 +0800" stop="20240426080000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426020000 +0800" stop="20240426023000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426080000 +0800" stop="20240426100100 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426023000 +0800" stop="20240426030000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426100100 +0800" stop="20240426120000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426030000 +0800" stop="20240426033000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426120000 +0800" stop="20240426140000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426033000 +0800" stop="20240426040000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426140000 +0800" stop="20240426160000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426040000 +0800" stop="20240426043000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426160000 +0800" stop="20240426190000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426043000 +0800" stop="20240426050000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426190000 +0800" stop="20240426200000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426050000 +0800" stop="20240426053000 +0800">
-		<title lang="zh">Now深宵新闻</title>
+	<programme channel="NOW新闻台" start="20240426200000 +0800" stop="20240426220000 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="NOW新闻台" start="20240426053000 +0800" stop="20240426060000 +0800">
-		<title lang="zh">Now深宵新闻</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426060000 +0800" stop="20240426063000 +0800">
-		<title lang="zh">Now早晨-20240426第一节[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426063000 +0800" stop="20240426070000 +0800">
-		<title lang="zh">Now早晨-20240426第一节</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426070000 +0800" stop="20240426073000 +0800">
-		<title lang="zh">Now早晨-20240426第二节[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426073000 +0800" stop="20240426080000 +0800">
-		<title lang="zh">Now早晨-20240426第二节</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426080000 +0800" stop="20240426083000 +0800">
-		<title lang="zh">Now早晨-20240426第三节[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426083000 +0800" stop="20240426090000 +0800">
-		<title lang="zh">Now早晨-20240426第三节</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426090000 +0800" stop="20240426093000 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426093000 +0800" stop="20240426120000 +0800">
-		<title lang="zh">时事全方位-20240426[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426120000 +0800" stop="20240426123000 +0800">
-		<title lang="zh">Now午间新闻[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426123000 +0800" stop="20240426130000 +0800">
-		<title lang="zh">Now午间新闻</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426130000 +0800" stop="20240426133000 +0800">
-		<title lang="zh">Now午间新闻[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426133000 +0800" stop="20240426140000 +0800">
-		<title lang="zh">Now午间新闻</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426140000 +0800" stop="20240426142500 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426142500 +0800" stop="20240426143000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426143000 +0800" stop="20240426145500 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426145500 +0800" stop="20240426150000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426150000 +0800" stop="20240426153000 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426153000 +0800" stop="20240426160000 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426160000 +0800" stop="20240426163000 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426163000 +0800" stop="20240426170000 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426170000 +0800" stop="20240426172500 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426172500 +0800" stop="20240426173000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426173000 +0800" stop="20240426175500 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426175500 +0800" stop="20240426180000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426180000 +0800" stop="20240426182400 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426182400 +0800" stop="20240426183000 +0800">
-		<title lang="zh">新闻智库[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426183000 +0800" stop="20240426185400 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426185400 +0800" stop="20240426190000 +0800">
-		<title lang="zh">新闻智库</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426190000 +0800" stop="20240426192500 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426192500 +0800" stop="20240426193000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426193000 +0800" stop="20240426195500 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426195500 +0800" stop="20240426200000 +0800">
-		<title lang="zh">世味天下</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426200000 +0800" stop="20240426203000 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426203000 +0800" stop="20240426210000 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426210000 +0800" stop="20240426211600 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426211600 +0800" stop="20240426213000 +0800">
-		<title lang="zh">杏林在线-20240426</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426213000 +0800" stop="20240426215100 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426215100 +0800" stop="20240426220000 +0800">
-		<title lang="zh">中信股份呈献:碳中和</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426220000 +0800" stop="20240426222400 +0800">
-		<title lang="zh">Now新闻报道[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426222400 +0800" stop="20240426223000 +0800">
-		<title lang="zh">新闻智库</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426223000 +0800" stop="20240426225400 +0800">
-		<title lang="zh">Now新闻报道</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426225400 +0800" stop="20240426230000 +0800">
-		<title lang="zh">新闻智库</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426230000 +0800" stop="20240426233000 +0800">
-		<title lang="zh">Now深宵新闻[直播]</title>
-	</programme>
-	<programme channel="NOW新闻台" start="20240426233000 +0800" stop="20240426000000 +0800">
-		<title lang="zh">Now深宵新闻[直播]</title>
+	<programme channel="NOW新闻台" start="20240426220000 +0800" stop="20240426235900 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
 	<channel id="NOW爆谷台">
 		<display-name lang="zh">NOW爆谷台</display-name>
@@ -53856,9 +53724,6 @@
 	<programme channel="纯享4K" start="20240426052400 +0800" stop="20240426053800 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第7集</title>
 	</programme>
-	<programme channel="纯享4K" start="20240426053800 +0800" stop="20240426060300 +0800">
-		<title lang="zh">在乡村4K 第5集 理想的房子</title>
-	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64179,9 +64044,6 @@
 	<programme channel="黑莓动画" start="20240426051500 +0800" stop="20240426053900 +0800">
 		<title lang="zh">12_入间同学入魔了</title>
 	</programme>
-	<programme channel="黑莓动画" start="20240426053900 +0800" stop="20240426060500 +0800">
-		<title lang="zh">11_雷欧奥特曼 重制版 普通话版</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64740,9 +64602,6 @@
 	<programme channel="newtv超级电视剧" start="20240426051200 +0800" stop="20240426055300 +0800">
 		<title lang="zh">09_索玛花开</title>
 	</programme>
-	<programme channel="newtv超级电视剧" start="20240426055300 +0800" stop="20240426063500 +0800">
-		<title lang="zh">10_索玛花开</title>
-	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64826,9 +64685,6 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240426045000 +0800" stop="20240426053600 +0800">
 		<title lang="zh">12_大秦帝国之裂变</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20240426053600 +0800" stop="20240426062200 +0800">
-		<title lang="zh">13_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -64932,9 +64788,6 @@
 	<programme channel="newtv动作电影" start="20240426040800 +0800" stop="20240426053900 +0800">
 		<title lang="zh">沙丘魔蚁</title>
 	</programme>
-	<programme channel="newtv动作电影" start="20240426053900 +0800" stop="20240426072600 +0800">
-		<title lang="zh">龙之战</title>
-	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65001,9 +64854,6 @@
 	<programme channel="newtv军事评论" start="20240426051700 +0800" stop="20240426054300 +0800">
 		<title lang="zh">以军称误击埃及哨所 美欲强化中东防空力量 澳将首次参加美日指挥所演习</title>
 	</programme>
-	<programme channel="newtv军事评论" start="20240426054300 +0800" stop="20240426060800 +0800">
-		<title lang="zh">以军突袭加沙遭伏击 菲律宾在仁爱礁再挑衅 美方站台背书用心险恶</title>
-	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -65034,9 +64884,6 @@
 	<programme channel="newtv炫舞未来" start="20240426053000 +0800" stop="20240426053400 +0800">
 		<title lang="zh">幸福中国糖-毕刚（舞蹈展示）</title>
 	</programme>
-	<programme channel="newtv炫舞未来" start="20240426054000 +0800" stop="20240426065700 +0800">
-		<title lang="zh">刘振宇演唱《繁花》热曲《偷心》 唱出了多少男女的回忆（20240408）</title>
-	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65052,9 +64899,6 @@
 	<programme channel="newtv精品综合" start="20240426045100 +0800" stop="20240426053700 +0800">
 		<title lang="zh">34_黄河在咆哮</title>
 	</programme>
-	<programme channel="newtv精品综合" start="20240426053700 +0800" stop="20240426062300 +0800">
-		<title lang="zh">35_黄河在咆哮</title>
-	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -65066,9 +64910,6 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240426042100 +0800" stop="20240426054600 +0800">
 		<title lang="zh">死亡之谜之双鱼玉佩</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240426054600 +0800" stop="20240426070500 +0800">
-		<title lang="zh">时间见证</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
