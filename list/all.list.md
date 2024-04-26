@@ -2239,4 +2239,4 @@
 | 2233 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2234 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 26 2024 00:54:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 26 2024 02:22:05 GMT+0000 (Coordinated Universal Time)**
