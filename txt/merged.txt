@@ -9356,12 +9356,12 @@ ZDFneo_(720p),https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m
 Zed_TV,http://190.2.148.141:8080/bar7657/index.m3u8
 Zee_24_Ghanta_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
 Zee_24_Kalak_(720p),https://livetv-channels.b-cdn.net/8077/playlist.m3u8
-Zee_24_Taas_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCVbsFo8aCgvIRIO9RYwsQMA.m3u8
+Zee_24_Taas,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zee24taas
 Zee_Aflam_(720p),https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 Zee_Alwan_(720p),https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-Zee_Bihar_Jharkhand_(720p),https://d3dxf2v5wg5rcy.cloudfront.net/out/v1/349f643193e347609b16671d8e0bfb4a/index.m3u8
+Zee_Bihar_Jharkhand,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebiharjharkhand
 Zee_Bioskop_(360p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
-Zee_Hindustan_(720p),https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
+Zee_Hindustan,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebharat
 Zee_Keralam_(576p),https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
 Zee_Madhya_Pradesh_Chhattisgarh,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeemadhyapradeshchattisgarh
 Zee_Marathi_(720p),https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8
@@ -11303,11 +11303,11 @@ Yoganadam_News_(720p),https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u
 YTN_Korean_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 ZBC_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCxiW1iTMYgjyh7Qgkiyj2PQ.m3u8
 Zee_Delhi_NCR_Haryana_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
-Zee_Kannada_News_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
+Zee_Kannada_News,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeekannada
 Zee_Nepal_(720p),http://43.245.85.211:5563/live/zeenepaltv/playlist.m3u8
 Zee_News,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeenews
 Zee_News_Malayalam_(720p),https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
-Zee_Telugu_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
+Zee_Telugu_News,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeetelugu
 Zerouno_TV_News_(720p),https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 Апостроф_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
 Башкортостан_24_(Уфа),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
@@ -12154,7 +12154,6 @@ Monse_Teve_(720p)_[Not_24/7],https://cp.panelchs.com:1936/jczwykvkpm/jczwykvkpm/
 Moon_TV_(180p),https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/Moon_tv/5-hls/live-media.m3u8
 MRTV_Entertainment_(480p),http://183.89.246.119:8881/play/a07t/index.m3u8
 MTV_France_(720p)_[Not_24/7],http://190.2.155.162:8080/mtvfrance/mpegts
-MTV_Germany_(1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 MTV_HD,http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 MTV_Japan_(720p),http://jp.vthanhnetwork.com/MTV/index.m3u8
 MTV_Portugal_(576p),http://176.79.76.155:8000/play/a01x/index.m3u8
@@ -12676,7 +12675,6 @@ Discovery_Kids_FreeLive_Latam_(720p),https://playout.cdn.cartoonnetwork.com.br/p
 Disney_Channel,http://38.96.178.201/live/Disney/index.m3u8
 Disney_Channel_Japan_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 Disney_Junior_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-Disney_XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 Duck_TV_(720p),https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
 EBC_YOYO_(720p),https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 EBS_kids_(400p)_[Not_24/7],https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
@@ -14049,6 +14047,11 @@ Telepace_3_(360p),https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2ed
 
 Education;Outdoor,#genre#
 Paryawaran_TV_(1080p),https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+
+Outdoor;Travel,#genre#
+Peer_TV_Alto_Adige_(1280p),https://iptv.peer.biz/live/peertv-it.m3u8
+Peer_TV_South_Tyrol_(1280p),https://iptv.peer.biz/live/peertv-en.m3u8
+Peer_TV_Südtirol_(1080p),https://iptv.peer.biz/live/peertv.m3u8
 
 Animation;Entertainment;Movies;Series,#genre#
 PlanetaTV_90s_(720p),https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8

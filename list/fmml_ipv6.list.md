@@ -103,4 +103,4 @@
 | 97 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
 | 98 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
 
-Updated at **Fri Apr 26 2024 22:12:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 27 2024 00:53:40 GMT+0000 (Coordinated Universal Time)**
