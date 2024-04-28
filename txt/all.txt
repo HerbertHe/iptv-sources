@@ -360,7 +360,7 @@ Entertainment,#genre#
 [HD]raly_tv,https://epg.pw/stream/785de8ea3e56ce5946029bf009f1bc680914ab1c0928a26415e79df257ed5338.m3u8
 [BD]6+_hd,https://epg.pw/stream/c36c66a65569457256002bbbfff1affbae08e4d105e1fd7a181d95f545c24117.m3u8
 [BD]kiss_tv,https://epg.pw/stream/182f2cedef05e8d52de6225ad5c245471b1c6dca34de584c8baef8f8461647d8.m3u8
-[BD]music_pop,https://epg.pw/stream/7641b154e505b9ba5f39b6cf8c0b091a68c013367af386decc4a4ff12892580c.m3u8
+[BD]pop,https://epg.pw/stream/e02bb385efafb2c4920732417dc2ae306bc305f5f410cf4fe856e776be1488c1.ctv
 [VGA]kurd_channel,https://epg.pw/stream/c786d2ef8c29b29e5c9b960c953fd9824ebd0e9f3b450e902a4beb1e88d3742e.m3u8
 [BD]lifetime,https://epg.pw/stream/010e6202b2edf64f0c4ac091bb6c50a391d399374694723591feede511ab6521.m3u8
 [BD]LIFETIME,https://epg.pw/stream/d3e4fbc5e969cb04d8863b7e8ac11c30c36142aecbb7d09bda53b697b2086171.ctv
@@ -1518,7 +1518,7 @@ News,#genre#
 [HD]la_c_news_24,https://epg.pw/stream/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
 [HD]abc_news_live_9_(720p),https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f2fbb70.m3u8
 [SD]india_news_uttar_pradesh,https://epg.pw/stream/e673cd48c64f62f6d2cd2ce9444a9208fba9a8ca524c8a61fb62a36b118d08c3.m3u8
-[BD]al_horreya,https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8
+[HD]al_horreya,https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8
 [BD]al_jazeera_arabic,https://epg.pw/stream/75c81e21141af76074419a0489f0903a7dd329b0816d243fef491c52d9f49813.m3u8
 [BD]asharq_news_(1080p),https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
 [HD]ASTROAWANI,https://epg.pw/stream/84602e07a3ac5507b6f9f8dea7d174b22cdb51ad653806c75255afc1b0f430c4.ctv
@@ -1885,7 +1885,7 @@ Sports,#genre#
 [BD]sports_tv,https://epg.pw/stream/4c976c9bf22c5d06a0fc9f7076743352d7054f64dd8b831b9158db92763c9bb3.m3u8
 [BD]arena_3_sport,https://epg.pw/stream/78017019278796f5c14c93b08d148831fb32a307bc7fc02edfde79c2038609b6.m3u8
 [HD]AstroSupersports1,https://epg.pw/stream/a128a2e3f868fca436fcab08c7e947d79a49c1fbfe01cbb70e55dbe098971bf0.ctv
-[BD]astro_supersport_2,https://epg.pw/stream/24629eff58f2e1960df17c9ac5812b392302a3cb921d01b0ff5a5458a3485a36.ctv
+[SD]AstroSupersports2,https://epg.pw/stream/5ed4ea3c4f3789782f2aac4006aa4863eef91a885a3f525e65af6c17ad584d28.ctv
 [SD]Astro_Supersports_3,https://epg.pw/stream/2aacbb9c3183dd8951beee5c6b249d3dd4ac03217e03a5d3844500cf55d42ad8.ctv
 [BD]Astro_Supersports_4,https://epg.pw/stream/8ec4a64020f21f3f87389fddb0c1bc9d032bfb6b2705c04314d93eb2a9c17c88.ctv
 [HD]astro_supersport_5_fhd_,https://epg.pw/stream/df12a3d051f7e6a6d9e7d8fd437d89c526aa9df00780ca1467f674d6b9fa9cdc.ctv
