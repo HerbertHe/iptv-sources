@@ -1,4 +1,4 @@
-# List for **fanmingming/live ipv6**
+# List for **fanmingming/live ipv6**(Rollback)
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
@@ -98,4 +98,4 @@
 | 92 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
 | 93 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
 
-Updated at **Mon Apr 29 2024 16:15:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 29 2024 18:15:40 GMT+0000 (Coordinated Universal Time)**
