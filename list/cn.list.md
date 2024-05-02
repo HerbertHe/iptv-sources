@@ -17,7 +17,7 @@
 | 11 | [BD]cctv3[ipv6] | epg.pw | <https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8> |
 | 12 | [SD]cctv4 | epg.pw | <https://epg.pw/stream/e883b241b7e6be61d2659dd68b1d538f0dc881bae104df44b9a6f8323b6234c9.m3u8> |
 | 13 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8> |
-| 14 | [BD]cctv-5 | epg.pw | <https://epg.pw/stream/5d87b72abed547c39b57952d93571c111a6d426bf6d12ef84d4d49147828360e.ctv> |
+| 14 | [BD]cctv5[ipv6] | epg.pw | <https://epg.pw/stream/ed02b8de7e8694705eda998a5905fbae21da95504360f6328c731da79a3a9162.m3u8> |
 | 15 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/d2529b5f7645b56e457452755e6f4e7baf9816b7d2b9ce093720b8b1f92f031e.m3u8> |
 | 16 | [BD]cctv6[ipv6] | epg.pw | <https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8> |
 | 17 | [BD]cctv7[ipv6] | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
@@ -366,4 +366,4 @@
 | 360 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 361 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu May 02 2024 18:15:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 02 2024 20:13:30 GMT+0000 (Coordinated Universal Time)**
