@@ -153,7 +153,7 @@ Movies,#genre#
 [HD]one_hd,https://epg.pw/stream/9b40a9027169cbd5ba90226c48db7390996b6f4d2c1b8f6fd4c665bd45869c00.m3u8
 [BD]ช่อง_sky_showcase,https://epg.pw/stream/c390742190a5cf6a93d34e24ce8b01d1ad98d4be2316d14802f6afe35b086e2e.ctv
 [HD]Showtime,https://epg.pw/stream/43a7e7da1f2aeda8a2106d1b412595d23cd4adca3e3860c7cf5f937bea7d8476.ctv
-[HD]SKYCINEMAACTIONHD,https://epg.pw/stream/9823c22b608744fc933b08774f5fc4178c10befca2a9ab1e278330db8ad24d48.ctv
+[HD]SKYCINEMAACTIONHD,https://epg.pw/stream/3ebed929fe2363c6c714a0641f11230f11dc8530907145fd7044cedd0089e15e.ctv
 [VGA]sky-movies_comedy,https://epg.pw/stream/0f42edeed73414463706c45a5f2b5f0d874c57e20d1513305f377f343907a75e.m3u8
 [VGA]action_(kcks-ld4)_(480p),https://epg.pw/stream/5560a2b4c67b3baafd6bafb690e4a81a10e5be33c6d7849e11d6e95e9ad3ac60.m3u8
 [HD]Sky_Premiere,https://epg.pw/stream/110273a9d6601d05d3c5ae69d3fb558ecef879050538bca6f9b6566767a8b07e.ctv
@@ -1577,7 +1577,7 @@ News,#genre#
 [HD]euronews,https://epg.pw/stream/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8
 [SD]euronews_france,https://epg.pw/stream/fb8b4b2d0b63b3691d8ecaf70303f43f44bdb3474f4d672c6d43d81898978120.ctv
 [HD]euronews_greek,https://epg.pw/stream/d9ead41a0aa16c62e269007e77e6e80e4811bff14dc70d0eafd21cbd19efdc65.m3u8
-[HD]euronews,https://epg.pw/stream/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8
+[SD]euronews,https://epg.pw/stream/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8
 [HD]euronews_español,https://epg.pw/stream/2ea9ab407416dd7c05d75df5a7622aceb1c52ea045c984543455a7f59196bec0.m3u8
 [HD]euronews_english,https://epg.pw/stream/63ea86a01926017a8ef84abb2a3ce1fe31f5ce3c791dbcb4cde08a1602f005a0.m3u8
 [HD]euronews_português,https://epg.pw/stream/c6d3f410b0c5de912d41fb66e31ec22ff1ad39df6de26a714f763c96d4251425.m3u8
@@ -1870,7 +1870,7 @@ Sports,#genre#
 [BD]sport1_hd,https://epg.pw/stream/485c510beccfff2a30b7c254ddbe73aab277d2cc8c835ff86faa9ef8c3ed2170.m3u8
 [HD]fubo_sports_network_(720p),https://epg.pw/stream/604ddc6809052ab8ef1d0efb806f35b815b7d40aea4ff74120dae94ec1f899b6.m3u8
 [BD]cctv16[ipv6],https://epg.pw/stream/ef0fd5d8e6b94b53627f9bb92127c5505ea28fb9b0a824956c635db17942c10d.m3u8
-[BD]cctv-5,https://epg.pw/stream/5d87b72abed547c39b57952d93571c111a6d426bf6d12ef84d4d49147828360e.ctv
+[BD]cctv5[ipv6],https://epg.pw/stream/ed02b8de7e8694705eda998a5905fbae21da95504360f6328c731da79a3a9162.m3u8
 [BD]cctv5+[ipv6],https://epg.pw/stream/d2529b5f7645b56e457452755e6f4e7baf9816b7d2b9ce093720b8b1f92f031e.m3u8
 [BD]cctv_央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 [BD]cctv_风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
