@@ -696,7 +696,7 @@
 | 690 | [BD]hello tv | epg.pw | <https://epg.pw/stream/8cf0eb3506dab42c11fa7a4fff0c7b54db10aacf90c4dfb40010aee9f807446b.m3u8> |
 | 691 | [BD]home hiroshima news | epg.pw | <https://epg.pw/stream/505326b6e6c0ce15d505573e4a85e7662e0c851ba3f780d12f25ecc8a9df65ef.m3u8> |
 | 692 | [SD]viju history | epg.pw | <https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8> |
-| 693 | [HD]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
+| 693 | [VGA]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
 | 694 | [VGA]history channel | epg.pw | <https://epg.pw/stream/dcda1c68bf96b22ee5e68b4b241d433b1fb1ad85931d6b4b35e5f59b93798033.ctv> |
 | 695 | [SD]MTV HITS | epg.pw | <https://epg.pw/stream/a0fca669f3809c995fb7879bb61629c5ab82b5048083e5872e1993e875f24830.ctv> |
 | 696 | [HD]hollywire (720p) | epg.pw | <https://epg.pw/stream/6a2a52e829be531eb5684018e2fa835461a26161fe4059732eebfaf0ba2a5dd7.m3u8> |
@@ -2126,4 +2126,4 @@
 | 2120 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2121 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon May 06 2024 18:17:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 06 2024 20:12:40 GMT+0000 (Coordinated Universal Time)**
