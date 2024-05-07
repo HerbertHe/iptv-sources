@@ -664,6 +664,7 @@ Kəpəz_TV_(540p)_[Not_24/7],http://85.132.81.184:8080/arbkepez/live/index.m3u8
 Kiskőrös_TV_(720p),https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
 Knal_4_Quiché_(720p)_[Not_24/7],https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 Komáromi_Televízió_(400p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+Kommu_TV_(720p)_[Not_24/7],http://31.10.19.12:8066/live/999/0.m3u8
 Korea_Economy_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
 Krem_TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 Kurdistan_TV_(720p)_[Not_24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
@@ -1173,6 +1174,7 @@ Televilla_(720p)_[Not_24/7],https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 Televisa_Ensenada_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 Televisão_Santomense_(720p),https://tvsonlin.com/hls/tvs.m3u8
 Televisió_Sant_Cugat_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
+Télévision_de_Mauritanie_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 Télévision_La_Brise_(Ch._28_Les_Cayes)_(720p),http://lakay.online/public/telelabrise/index.m3u8
 Televisión_Metrópolis_19.1_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 Televisión_Metrópolis_19.2_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
@@ -2975,7 +2977,6 @@ Kókshe_(720p)_[Not_24/7],https://stream.kaztrk.kz/regional/kokshetautv/index.m3
 Kolkata_TV_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 Komala_TV_(1080p),https://live.tvkomala.com/live/komala/playlist.m3u8
 Komlós_TV_(1080p)_[Not_24/7],https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
-Kommu_TV_(720p)_[Not_24/7],http://31.10.19.12:8066/live/999/0.m3u8
 Kon_Tum_TV_(720p),https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 Kon_TV_(720p),https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
 Kontra_Channel_(1080p),https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
@@ -4638,7 +4639,6 @@ Televisa_Zacatecas_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCQb3i7gu
 Televisiete_(480p)_[Not_24/7],https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8
 Televisión_Aranda_(720p),https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 Televisión_Comayagua_Canal_40_(720p)_[Not_24/7],https://mediacp.us:8081/8034/index.m3u8
-Télévision_de_Mauritanie_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 Télévision_Locale_du_Choletais,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Tlc-Cholet.m3u8
 Televízia_OSEM_(576p),http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 Televizija_5_(576p),https://balkanmedia.dynu.net/hls/tv5web.m3u8
@@ -6717,10 +6717,9 @@ Baladna_(720p),http://htvmada.mada.ps:8888/baladna/index.m3u8
 Bangla_TV_(720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 Bansal_News_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8
 BBC_Arabic_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-BBC_News_(North_America)_(1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC_News_(720p),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC_News_Arabic_(1080p),https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 BBC_News_Asia_Pacific_(720p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-BBC_News_HD_(720p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC_Persian_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 BBC_World_News_South_Asia,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 BBN_Türk_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8
