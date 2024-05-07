@@ -23244,9 +23244,6 @@
 	<programme channel="咪咕足球" start="20240508031700 +0800" stop="20240508054000 +0800">
 		<title lang="zh">23/24赛季德甲第29轮全场回放：勒沃库森5:0云达不莱梅（胡小凡、鲁靖明）（50帧原画）</title>
 	</programme>
-	<programme channel="咪咕足球" start="20240508054000 +0800" stop="20240508073700 +0800">
-		<title lang="zh">23/24赛季德甲第29轮全场回放：奥格斯堡2:0柏林联（周楚雄）</title>
-	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -47316,9 +47313,6 @@
 	<programme channel="黑莓动画" start="20240508051600 +0800" stop="20240508054100 +0800">
 		<title lang="zh">36_入间同学入魔了</title>
 	</programme>
-	<programme channel="黑莓动画" start="20240508054100 +0800" stop="20240508060600 +0800">
-		<title lang="zh">35_雷欧奥特曼 重制版 普通话版</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47610,9 +47604,6 @@
 	<programme channel="newtv超级综艺" start="20240508042100 +0800" stop="20240508054200 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
-	<programme channel="newtv超级综艺" start="20240508054200 +0800" stop="20240508063100 +0800">
-		<title lang="zh">幸福账单</title>
-	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47738,9 +47729,6 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240508045100 +0800" stop="20240508053800 +0800">
 		<title lang="zh">24_京城四少</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20240508053800 +0800" stop="20240508062500 +0800">
-		<title lang="zh">25_京城四少</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47895,9 +47883,6 @@
 	<programme channel="newtv潮妈辣婆" start="20240508050000 +0800" stop="20240508054500 +0800">
 		<title lang="zh">05_谁懂女儿心</title>
 	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240508054500 +0800" stop="20240508063000 +0800">
-		<title lang="zh">06_谁懂女儿心</title>
-	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47912,9 +47897,6 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240508050700 +0800" stop="20240508053200 +0800">
 		<title lang="zh">美舰擅闯中国南沙仁爱礁邻近海域 以色列在红海部署舰艇</title>
-	</programme>
-	<programme channel="newtv军事评论" start="20240508053200 +0800" stop="20240508055800 +0800">
-		<title lang="zh">美菲开启多国海上联演 日媒炒作“针对中国” 美国陷“援乌经济危机”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47961,9 +47943,6 @@
 	<programme channel="newtv炫舞未来" start="20240508053000 +0800" stop="20240508053300 +0800">
 		<title lang="zh">广场舞金曲《养生健身操》 舞蹈：北京天通圆梦缘健身队</title>
 	</programme>
-	<programme channel="newtv炫舞未来" start="20240508053300 +0800" stop="20240508055400 +0800">
-		<title lang="zh">对你爱不完-毕刚（完整版）</title>
-	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47981,9 +47960,6 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240508045600 +0800" stop="20240508054300 +0800">
 		<title lang="zh">19_红色娘子军</title>
-	</programme>
-	<programme channel="newtv精品综合" start="20240508054300 +0800" stop="20240508063000 +0800">
-		<title lang="zh">20_红色娘子军</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -48080,9 +48056,6 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240508045000 +0800" stop="20240508054000 +0800">
 		<title lang="zh">女子枪术</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240508054000 +0800" stop="20240508061200 +0800">
-		<title lang="zh">女子超轻量级拳王统一战：凯蒂-泰勒VS尚特尔-卡梅隆</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
