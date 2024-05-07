@@ -327,7 +327,7 @@
 | 321 | [VGA]自贡公共 | epg.pw | <https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv> |
 | 322 | [VGA]自贡综合 | epg.pw | <https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv> |
 | 323 | [BD]舟山新闻综合 | epg.pw | <https://epg.pw/stream/90614ad542658061c38d8a45d79d6b13fe73a333541e413081264997404d422b.m3u8> |
-| 324 | [BD]茶频道 | epg.pw | <https://epg.pw/stream/6579e842205608bc06db160c89c6de154a4070e71dd1a6a0e8b029695653125d.ctv> |
+| 324 | [HD]茶频道 | epg.pw | <https://epg.pw/stream/ae7a5c5facb09bb350845514b6f0cd926728ead8425821905f0da1b276b5027b.m3u8> |
 | 325 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
 | 326 | [SD]万州科教频道 | epg.pw | <https://epg.pw/stream/7e3fe3daac6d9a8fbc6044d9ec44ee54e74d7daa6fe664a265206c4e72460c89.m3u8> |
 | 327 | [HD]苏州文化生活 | epg.pw | <https://epg.pw/stream/3516d79810c910f94a17902f64a82f94cbc576e868c068a24a75b19f2b853e4d.m3u8> |
@@ -386,4 +386,4 @@
 | 380 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 381 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Tue May 07 2024 06:16:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 07 2024 08:15:26 GMT+0000 (Coordinated Universal Time)**
