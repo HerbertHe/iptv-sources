@@ -91,6 +91,8 @@ https://epg.pw/stream/1946bec8d07be21c635903a8d0cfd851031fb0c900f2f1278020d7bb67
 https://epg.pw/stream/72fac97153551a22d22c584e51dde830cbd0a4e3664fa714879f9cb5d126a0cc.m3u8
 #EXTINF:-1 tvg-name="A&E" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/12/large/20231112220940758880_63.png" group-title="Generic",[HD]A&EHD
 https://epg.pw/stream/a8109b2f600a8e2fd8a603e005b1f9be7f11c21f7986c913bf8380b27aed17e1.ctv
+#EXTINF:-1 tvg-name="A&E BRAZIL 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718123624720654_35.png" group-title="Movies",[BD]a&e
+https://epg.pw/stream/44b6012f501c8938266af9dc8983611a1c2ec8f5e95f6ee2f01a9896897e52d1.m3u8
 #EXTINF:-1 tvg-name="A1 BALKAN TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/14/20151214020411619270_71.jpg" group-title="Entertainment",[BD]a1 tv
 https://epg.pw/stream/bd53dc4c1167e7afb8db372a298f3edf6d44a7621616700240b82b732ee15468.m3u8
 #EXTINF:-1 tvg-name="AAJ NEWS" tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/04/20151004095125363612_20.png" group-title="News",[HD]aaj news
@@ -869,7 +871,7 @@ https://epg.pw/stream/3814759f4d46e24b0c5506d23d208a13ba1ae5cef65c051ada76b934ed
 https://epg.pw/stream/96758c5c9b1031505a9068122f4b00350c9170aa3a074c820f8f20899a075282.ctv
 #EXTINF:-1 tvg-name="Comedy Central (NL)" tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]comedycentral hd
 https://epg.pw/stream/4f5667762877168499772a6263e6fe695692b2dc9c11c5629a72cee2ed7b2f59.m3u8
-#EXTINF:-1 tvg-name="Comedy Central Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625231317409396_23.jpg" group-title="Entertainment",[SD]comedy central animation
+#EXTINF:-1 tvg-name="Comedy Central Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625231317409396_23.jpg" group-title="Entertainment",[HD]comedy central animation
 https://epg.pw/stream/aa615fb47abe5996b79051fbb10e86e6c17dcee1ed601e48a6a1f3baa8c9c56c.m3u8
 #EXTINF:-1 tvg-name="Comedy Central Sweden" tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/" group-title="Movies",[BD]comedy central
 https://epg.pw/stream/ca28a428e38131d9e65cdb713297f42375a7f338e3e892741836cf0c55df5244.ctv
@@ -1021,8 +1023,6 @@ https://epg.pw/stream/46ce2ecb8fbda691a429acb6bc8ba2a1ea1014becbbfe39de306551b5b
 https://epg.pw/stream/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13833d5e.ctv
 #EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="Sports",[HD]ESPN 2
 https://epg.pw/stream/16d9e98c99b14d1d56fbe7e9ccc6a748afa0106196effd6bd26a09e611d1b4fa.ctv
-#EXTINF:-1 tvg-name="ESPN 3" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/12/20160512220011575873_25.png" group-title="Sports",[BD]espn 3
-https://epg.pw/stream/e926c5e02b4732c880a2e19c7932f64fc52fe88137e3eaea6083d49382032750.ctv
 #EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2014/11/25/large/20141125170114178278_47.jpg" group-title="Sports",[HD]espn hd
 https://epg.pw/stream/7b447a6c9b1a121a6a2eb4f739da07fb8b98b6433d96ab4d8a28ec1584a55fe9.ctv
 #EXTINF:-1 tvg-name="ESPN NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/25/large/20220625152948057557_76.png" group-title="Sports",[HD]ESPNNEWS
@@ -1651,7 +1651,7 @@ https://epg.pw/stream/22644b6b17b378a9a1998ecd8a7132d5a1ea99884fda7b44872ae1a878
 https://epg.pw/stream/8389c87ec74e0ae312f616c7f6756e7bab18f4f4b3ae57d56d38a2ab6327b4b6.ctv
 #EXTINF:-1 tvg-name="MITV Burmese" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/12/20170312021120503161_80.jpg" group-title="Generic",[BD]mitv
 https://epg.pw/stream/5da7a628a46d48bb8f31461c3068903e5c1c80aabcfb6503aba8b997fc11b046.m3u8
-#EXTINF:-1 tvg-name="MLB" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/05/20/large/20150520020557529187_86.jpg" group-title="Sports",[SD]mlb
+#EXTINF:-1 tvg-name="MLB" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/05/20/large/20150520020557529187_86.jpg" group-title="Sports",[HD]mlb
 https://epg.pw/stream/5b8beb00f1e943d7ea77720dfda4593c39db5dd3d2ff1cd0eaaf1886217e330d.m3u8
 #EXTINF:-1 tvg-name="MOB TV" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/975f6e97f9a2f1d458e921173ff8ac7e.jpg" group-title="Other",[BD]m2o tv
 https://epg.pw/stream/ada97b1864e2f6b948f92196d9c59e6644b6c6f9c956f5e66cfc440917b0e08a.m3u8
@@ -1947,7 +1947,7 @@ https://epg.pw/stream/f7b08eceedb0723cc62be360cf2de6ba73fb7feee9d97cf128ead1d42f
 https://epg.pw/stream/e480d1d0e052371dc04bf4590bc19b3aee91b9f22af9df44edc5e7f030cf78a4.ctv
 #EXTINF:-1 tvg-name="OSN BOX Office 3" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131100312514240_50.jpg" group-title="Movies",[HD]ช่อง box office 2022 3
 https://epg.pw/stream/1c3ea906b4fc345fba1e2d018b0c7de6c34ffb10390867cc26a69743f5cf454a.ctv
-#EXTINF:-1 tvg-name="OSN Fight HD UAE" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206130741475165_87.jpg" group-title="Sports",[HD]fight
+#EXTINF:-1 tvg-name="OSN Fight HD UAE" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206130741475165_87.jpg" group-title="Sports",[VGA]fight
 https://epg.pw/stream/c2706cf86fa0a9fcf281b7c4d94255a2c2c5e5d461e7d2ff18b0b81edcdf1e04.m3u8
 #EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174115798438_73.png" group-title="Generic",[BD]oberpfalz tv
 https://epg.pw/stream/c9f55b0cfe878c351661566c27f4c043472b060cae1dd929e8f6838b03d7e170.m3u8
@@ -2203,7 +2203,7 @@ https://epg.pw/stream/d03ce6ed52d1adaaf8bce62475e916fac2139d9eb6a57dbdd251dae67e
 https://epg.pw/stream/ff3977b0f29d8e26a3c3ec33caa1db79c99c91ef5a8cd2eaf85e57c63488273c.m3u8
 #EXTINF:-1 tvg-name="Rede TV" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014859531100_61.jpg" group-title="Generic",[BD]redetv
 https://epg.pw/stream/990f7baf8ce3a5a80557ef390da20d0a45235405e7c6c001135188e75baec6ad.m3u8
-#EXTINF:-1 tvg-name="Rede TV! Paraná (Brazil)" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719182915287272_32.png" group-title="Entertainment",[VGA]rede qdm
+#EXTINF:-1 tvg-name="Rede TV! Paraná (Brazil)" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719182915287272_32.png" group-title="Entertainment",[HD]rede qdm
 https://epg.pw/stream/778ac55d7063d04863f1da60a47be1e391a7afa2eda392e6c2bbf05b8406b069.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]rede vida
 https://epg.pw/stream/857121562c2444347e9dc8917c74c459016646d33a9a44505afc2affabb476c2.m3u8
@@ -2819,6 +2819,8 @@ https://epg.pw/stream/2f50f73c93cad9603fb0e3b6300018098c5360a70281c53b9c5b0f9b8a
 https://epg.pw/stream/016fc055a4a276dd462d454e9b948f775455828d61e58d392fb2c8600a51fb1c.m3u8
 #EXTINF:-1 tvg-name="TeleCaribe" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[VGA]telecaribe
 https://epg.pw/stream/ab2de2389450ec8c07696b1fca5f0ae24e921678ce31bb8214b19b972fb7083c.ctv
+#EXTINF:-1 tvg-name="TeleFórmula México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]telefórmula
+https://epg.pw/stream/79b5546b52a87f79922e9e1cc9f0d46c70a7e2572287d309908c757dbe3d6dbd.m3u8
 #EXTINF:-1 tvg-name="TeleHit México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Generic",[SD]telehit
 https://epg.pw/stream/e13377fa499fc25577ddd9521cb7adece05a1753d6c62eef7d3420cdf81a6f80.m3u8
 #EXTINF:-1 tvg-name="TeleRomagna" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/" group-title="Generic",[VGA]teleromagna
@@ -2915,8 +2917,8 @@ https://epg.pw/stream/886ce48c2c239f372b0852d71022784d3a2d1766410408aa9dd8a2ef1e
 https://epg.pw/stream/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8
 #EXTINF:-1 tvg-name="Trace Urban" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/05/large/20170305225651838974_57.png" group-title="Entertainment",[BD]trace urban hd
 https://epg.pw/stream/165df2286674ccee4163c5d39e205b894ad792cfc06918f792d791717b5d5da0.m3u8
-#EXTINF:-1 tvg-name="Trans 7" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173905554266_72.png" group-title="Entertainment",[HD]trans angels
-https://epg.pw/stream/1af043f54693b46ae1077735b593003a67a347227508ca5153ace5a4f9a3f40c.m3u8
+#EXTINF:-1 tvg-name="Trans 7" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173905554266_72.png" group-title="Entertainment",[HD]ช่อง trans 7
+https://epg.pw/stream/72e1ed1a6011a09ca2882a29b2a502dfba7afd9fb3e54fab51dc52315892ad23.m3u8
 #EXTINF:-1 tvg-name="Trans TV" tvg-id="11695" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175027845161_49.png" group-title="Entertainment",[HD]trans tv
 https://epg.pw/stream/345cebb71db4fbbd3798b88f7ef92b89846f0e0b4af28a5c594be122eabae64d.m3u8
 #EXTINF:-1 tvg-name="Trans7 Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105170548620217_75.jpg" group-title="Generic",[HD]trans7
@@ -3015,8 +3017,8 @@ https://epg.pw/stream/ffcc844de27daa8f666db71ec1bb45bc243503514e09b0e79e5ae6a18a
 https://epg.pw/stream/5470461ad9af414e1ddb443a00c3df6971b244338237698fa8f47211d87a235e.m3u8
 #EXTINF:-1 tvg-name="Velayat TV" tvg-id="" tvg-country="Iran" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701233857755146_93.jpg" group-title="Other",[VGA]velayat tv
 https://epg.pw/stream/3eed8f883409db0d8eda5cd2799fa03189d088aa0a4ca9fd274827e287b3c262.m3u8
-#EXTINF:-1 tvg-name="Venus TV UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]venus
-https://epg.pw/stream/c8287a225b5d575751638449ae0a61f60c99c6f276d127120a1f727907c992f2.m3u8
+#EXTINF:-1 tvg-name="Venus TV UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]venus hd
+https://epg.pw/stream/e8d511f83acc920b1818cd55d2c33a2d125a72f0ee98a5c16962fdefde86b97d.m3u8
 #EXTINF:-1 tvg-name="Vera_TV" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/25/20140825023834718047_41.jpg" group-title="Generic",[HD]vera tv
 https://epg.pw/stream/6a23abdbb7ed96101d38dc06756723eae21a5fb358688aa00fbf7b0c765d5a72.m3u8
 #EXTINF:-1 tvg-name="Viasat Baltic Sweden" tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/" group-title="Sports",[BD]7 baltic
@@ -3123,7 +3125,7 @@ https://epg.pw/stream/5c39ec6a8508b566742b9b21f22fb8aed4bdad4b7a9d9ff3d6ddef70ee
 https://epg.pw/stream/97c08d8c195096826a8ce4efb69a530c3668ef9184fb55e15700d96876ac3c56.m3u8
 #EXTINF:-1 tvg-name="al sirat tv" tvg-id="" tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/05/20170105072732971546_90.jpg" group-title="Entertainment",[SD]assirat tv
 https://epg.pw/stream/b86473e8aa95277ab69a96269b5c9a4f89598fa329028a9af9b49c476410eab1.m3u8
-#EXTINF:-1 tvg-name="ala tv" tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229040218017164_53.jpg" group-title="Other",[SD]salam tv
+#EXTINF:-1 tvg-name="ala tv" tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229040218017164_53.jpg" group-title="Other",[BD]salam tv
 https://epg.pw/stream/af5ba9001535445ba1e0165d554259f81f9735f179d5bf0ab1bbb372d9477110.m3u8
 #EXTINF:-1 tvg-name="alanwar" tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821035216701756_16.jpg" group-title="Generic",[BD]alanwar tv
 https://epg.pw/stream/5cf9fdf0c93107ec62a8c836e181f6c1dc578ce9a79d5eb1b5856fe36d5a9b02.ctv
