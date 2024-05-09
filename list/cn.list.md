@@ -170,7 +170,7 @@
 | 164 | [BD]广州影视 | epg.pw | <https://epg.pw/stream/2a43a84d657a150eb0dc8688b60bed45d33503727a8d9cee72bc46dbe524e7fe.m3u8> |
 | 165 | [BD]广州新闻 | epg.pw | <https://epg.pw/stream/23e2042f052e6d5b3f33bab813fe3db2fd6b946b491363a38a14b4e5c9e5f388.m3u8> |
 | 166 | [BD]广州法治 | epg.pw | <https://epg.pw/stream/8485c44482853e90faa8fd02078a9c2cc644e0757d1099eaf10d2ce269aeb2ca.m3u8> |
-| 167 | [BD]广州综合 | epg.pw | <https://epg.pw/stream/a0e9caf340aadd0adb81902a099b7c9463282ea19d60993d3b6a757c4adc3295.m3u8> |
+| 167 | [BD]广州综合 | epg.pw | <https://epg.pw/stream/8eaa691d9efefac9313b45bb1ed3b848c27de7f95c34f8af7ed2ff02608928bc.m3u8> |
 | 168 | [SD]万州综合频道 | epg.pw | <https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86009618.m3u8> |
 | 169 | [SD]广东少儿 | epg.pw | <https://epg.pw/stream/e650067a3fc9f9f38a86072d95f16c04f4df8867d927b5078278f6b73aa794d9.m3u8> |
 | 170 | [SD]广东影视 | epg.pw | <https://epg.pw/stream/cf1cb04544b8324a474a732a218abf171a9a5f5df5d9709f683907682348a2b5.m3u8> |
@@ -379,4 +379,4 @@
 | 373 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 374 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu May 09 2024 10:14:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 09 2024 12:22:23 GMT+0000 (Coordinated Universal Time)**
