@@ -1036,7 +1036,7 @@ Señal_Colombia_(1080p),https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smi
 SenJeunes_TV_(480p)_[Not_24/7],https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 Sent_TV_Global_Network_(720p)_[Not_24/7],https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
 Sent_TV_Global_Network_Atlanta_(SGTN-49)_(720p),http://stgn-49.tulix.tv/live19/Stream1/playlist.m3u8
-SEO_TV_1_(1080p),https://live.seo.tv.bo/live/SEO-1.m3u8
+SEO_TV_1_(1080p),https://seo.tv.bo/tv/ATV_1FHD.m3u8
 Sertão_TV_(720p),http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 SET_TV_1_(1080p),https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 SF_Commons_Channel_29_(San_Francisco_CA)_(480p),https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
@@ -4478,6 +4478,7 @@ TBN_Smile_(480p),https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 TBN_UK_(720p),https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 TBN_Україна_(720p),https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
 TBS_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+TBS_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 TBS_Seoul_(720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 TCI_(1080p),https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
 TCSM_(1080p),https://blueeyecaboverde.com/cam1/memfs/e8e6696b-2102-45b9-9b5c-f9c101266d90.m3u8
@@ -7191,7 +7192,6 @@ Sutra_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCAqc7EsDfuWb29hao
 Suvarna_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8
 Syrian_News_Channel_(360p)_[Not_24/7],http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 T13_(720p),https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-TBS_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 TCH_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8
 TCM_10_HD_(1080p),https://live.tcm10.com.br/tcm10hd/stream.m3u8
 Tele_Sondrio_News_(480p)_[Not_24/7],https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
@@ -8259,7 +8259,6 @@ Salto_MaLive_(1080p),https://live.salto.nl/hls/malive_high.m3u8
 Sana_TV_(576p)_[Not_24/7],http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 SAS_TV_(720p),https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 Señal_Positiva_TV_(1080p),https://eu1.servers10.com:8081/8108/index.m3u8
-SEO_TV_6_(1080p),https://live.seo.tv.bo/live/SEO-6.m3u8
 SET_TV_2_(1080p),https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 Shabakeh_7_(576p),https://t.northtelecom.org/Shabakeh.m3u8
 Shamshad_TV_[Not_24/7],https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
@@ -8592,7 +8591,7 @@ Pluto_TV_Weddings_(720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/c
 Pluto_TV_Wild_'N_Out_(720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 Pluto_TV_Wipeout_(360p)_[Not_24/7],https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 Pluto_TV_Yo!_MTV_(720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-SEO_TV_3_Novelas_(1080p),https://live.seo.tv.bo/live/SEO-3.m3u8
+SEO_TV_3_Novelas_(1080p),https://seo.tv.bo/tv/ATV3.m3u8
 Serie_Teen_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 SIC_Novelas_(720p),https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 The_Bob_Ross_Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
@@ -8651,7 +8650,7 @@ Pluto_TV_Stand_Up_(720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/em
 Pluto_TV_TV_Land_Sitcoms_(720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Redbox_2:_Comedy_(1080p),https://comedy-redbox.amagi.tv/playlist.m3u8
 Scherzi_e_risate_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-SEO_TV_7_(1080p),https://live.seo.tv.bo/live/SEO-7.m3u8
+SEO_TV_7_(1080p),https://seo.tv.bo/tv/ATV7.m3u8
 SoloStandUp_(480p)_[Not_24/7],https://paneltv.online:1936/8116/8116/playlist.m3u8
 TV2_Comedy_(576p),http://194.76.186.33:8000/play/a031/index.m3u8
 TVMatic_Comedy_(720p),http://cdn.tvmatic.net/comedy.m3u8
@@ -8776,7 +8775,7 @@ pocket.watch_(1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocket
 Rai_YoYo_(576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 Ryan_and_Friends,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
 Sat_7_Kids_(1080p),https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-SEO_TV_2_Kids_(1080p),https://live.seo.tv.bo/live/SEO-2.m3u8
+SEO_TV_2_Kids_(1080p),https://seo.tv.bo/tv/ATV2.m3u8
 SKWAD_(1080p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 Super_Simple_Songs_(1080p),https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8
 Super!_Brothers_and_Sisters_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -9007,7 +9006,7 @@ Rakuten_TV_Top_Films_(720p),https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlis
 Redbox_1:_Spotlight_(1080p),https://spotlight-redbox.amagi.tv/playlist.m3u8
 Retro_Plus_3_HD_(720p),https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 Rotana_Cinema_KSA_(1080p),https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-SEO_TV_4_Películas_(1080p),https://live.seo.tv.bo/live/SEO-4.m3u8
+SEO_TV_4_Películas_(1080p),https://seo.tv.bo/tv/ATV4_HD.m3u8
 ServusTV_(1080p),https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 ServusTV_Deutschland_(720p),https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
 SL_1_(720p),https://slonehls.wns.live/hls/stream.m3u8
@@ -9356,7 +9355,7 @@ Realitatea_Sportivă_(720p),https://streamx.realitatea.net/realitatea/sportiva_m
 Red_Bull_TV_(1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 RTA_Sport_(720p),https://hls.rtasport.live/hls/stream.m3u8
 San_Marino_RTV_Sport_(720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-SEO_TV_5_Deportes_(1080p)_[Not_24/7],https://live.seo.tv.bo/live/SEO-5.m3u8
+SEO_TV_5_Deportes_(1080p)_[Not_24/7],https://seo.tv.bo/tv/Btv_5sd.m3u8
 Sharjah_Sports_TV_(1080p),https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Ski_TV_(1080p)_[Not_24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 Sky_Racing_1_(720p),https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
