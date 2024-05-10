@@ -22470,9 +22470,6 @@
 	<programme channel="咪咕综合体育" start="20240511043200 +0800" stop="20240511053800 +0800">
 		<title lang="zh">动感地带b7中国街舞联赛校园赛北部大区晋级赛个人海选回放</title>
 	</programme>
-	<programme channel="咪咕综合体育" start="20240511053800 +0800" stop="20240511060500 +0800">
-		<title lang="zh">2024WTT仁川冠军赛男单1/16决赛回放：Fb7勒布伦3-1安德斯b7林德（小马哥）</title>
-	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -56679,9 +56676,6 @@
 	<programme channel="newtv超级综艺" start="20240511031100 +0800" stop="20240511053500 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
 	</programme>
-	<programme channel="newtv超级综艺" start="20240511053500 +0800" stop="20240511063500 +0800">
-		<title lang="zh">黄金100秒</title>
-	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -56736,9 +56730,6 @@
 	<programme channel="newtv超级电视剧" start="20240511045700 +0800" stop="20240511053900 +0800">
 		<title lang="zh">25_余生，请多指教</title>
 	</programme>
-	<programme channel="newtv超级电视剧" start="20240511053900 +0800" stop="20240511061600 +0800">
-		<title lang="zh">26_余生，请多指教</title>
-	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -56786,9 +56777,6 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240511045400 +0800" stop="20240511053300 +0800">
 		<title lang="zh">云南丽江为都墓地（三）</title>
-	</programme>
-	<programme channel="newtv精品纪录" start="20240511053300 +0800" stop="20240511062000 +0800">
-		<title lang="zh">04_金色起点</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -56838,9 +56826,6 @@
 	<programme channel="newtv军旅剧场" start="20240511045700 +0800" stop="20240511054200 +0800">
 		<title lang="zh">08_致命追踪</title>
 	</programme>
-	<programme channel="newtv军旅剧场" start="20240511054200 +0800" stop="20240511062700 +0800">
-		<title lang="zh">09_致命追踪</title>
-	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -56883,9 +56868,6 @@
 	<programme channel="newtv热播精选" start="20240511045800 +0800" stop="20240511054200 +0800">
 		<title lang="zh">30_逐浪之爱</title>
 	</programme>
-	<programme channel="newtv热播精选" start="20240511054200 +0800" stop="20240511062500 +0800">
-		<title lang="zh">31_逐浪之爱</title>
-	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -56903,9 +56885,6 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240511044700 +0800" stop="20240511053300 +0800">
 		<title lang="zh">14_大捕房</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240511053300 +0800" stop="20240511061900 +0800">
-		<title lang="zh">15_大捕房</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -56955,9 +56934,6 @@
 	<programme channel="newtv怡伴健康" start="20240511051500 +0800" stop="20240511054200 +0800">
 		<title lang="zh">保护山地生态——山高水长（上）</title>
 	</programme>
-	<programme channel="newtv怡伴健康" start="20240511054200 +0800" stop="20240511081200 +0800">
-		<title lang="zh">京梆两下锅《红鬃烈马》</title>
-	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -56993,9 +56969,6 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240511051700 +0800" stop="20240511054200 +0800">
 		<title lang="zh">热血河山 第三集 高歌进行曲</title>
-	</programme>
-	<programme channel="newtv军事评论" start="20240511054200 +0800" stop="20240511060700 +0800">
-		<title lang="zh">热血河山 第四集 跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -57035,9 +57008,6 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240511051800 +0800" stop="20240511053600 +0800">
 		<title lang="zh">草原的月亮-孙爱迪（完整版）</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240511053600 +0800" stop="20240511055700 +0800">
-		<title lang="zh">印度姑娘-尚岩</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -57155,9 +57125,6 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240511041100 +0800" stop="20240511054300 +0800">
 		<title lang="zh">男子太极拳</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240511054300 +0800" stop="20240511062500 +0800">
-		<title lang="zh">轻量级排位赛：奥尔蒂斯VS洛马琴科</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
