@@ -244,4 +244,4 @@
 | 238 | 咪咕直播-41 | IPv6 直链 | <http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8> |
 | 239 | 咪咕直播-42 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8> |
 
-Updated at **Fri May 10 2024 04:14:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 10 2024 06:16:22 GMT+0000 (Coordinated Universal Time)**
