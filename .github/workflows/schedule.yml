@@ -26,7 +26,6 @@ jobs:
       - run: yarn install
       - run: yarn build
       - run: CLOSE_SOURCE_PROXY=true && yarn m3u
-      - run: yarn matrix
 
       - name: "Jekyll theme"
         run: mv ./_config.temp.yml ./m3u/_config.yml
