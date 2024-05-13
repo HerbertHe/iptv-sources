@@ -63,9 +63,6 @@
 	<programme channel="4K综艺" start="20240514041400 +0800" stop="20240514053400 +0800">
 		<title lang="zh">亲爱的客栈第三季20191206</title>
 	</programme>
-	<programme channel="4K综艺" start="20240514053400 +0800" stop="20240514065500 +0800">
-		<title lang="zh">亲爱的客栈第三季20191213</title>
-	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -63507,9 +63504,6 @@
 	<programme channel="黑莓动画" start="20240514051300 +0800" stop="20240514053700 +0800">
 		<title lang="zh">04_入间同学入魔了</title>
 	</programme>
-	<programme channel="黑莓动画" start="20240514053700 +0800" stop="20240514060300 +0800">
-		<title lang="zh">47_雷欧奥特曼 重制版 普通话版</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64026,9 +64020,6 @@
 	<programme channel="newtv超级综艺" start="20240514045400 +0800" stop="20240514054200 +0800">
 		<title lang="zh">幸福账单</title>
 	</programme>
-	<programme channel="newtv超级综艺" start="20240514054200 +0800" stop="20240514063300 +0800">
-		<title lang="zh">艺览天下</title>
-	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -64110,9 +64101,6 @@
 	<programme channel="newtv精品大剧" start="20240514045600 +0800" stop="20240514054100 +0800">
 		<title lang="zh">08_返城年代</title>
 	</programme>
-	<programme channel="newtv精品大剧" start="20240514054100 +0800" stop="20240514062700 +0800">
-		<title lang="zh">09_返城年代</title>
-	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -64164,9 +64152,6 @@
 	<programme channel="newtv古装剧场" start="20240514044800 +0800" stop="20240514053600 +0800">
 		<title lang="zh">14_厨子当官</title>
 	</programme>
-	<programme channel="newtv古装剧场" start="20240514053600 +0800" stop="20240514062500 +0800">
-		<title lang="zh">15_厨子当官</title>
-	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -64214,9 +64199,6 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240514045800 +0800" stop="20240514054000 +0800">
 		<title lang="zh">18_爱拼会赢</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20240514054000 +0800" stop="20240514062100 +0800">
-		<title lang="zh">19_爱拼会赢</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -64373,9 +64355,6 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240514052900 +0800" stop="20240514054400 +0800">
 		<title lang="zh">纸月亮-饶子龙（完整版）</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240514054400 +0800" stop="20240514060500 +0800">
-		<title lang="zh">印度姑娘-尚岩</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
