@@ -471,14 +471,6 @@ Fuping_TV-2,http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/888888
 Fusung_News_TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 Lasa_TV,http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 Xizang_TV_Tibetan,http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-Nei_Monggol_TV,http://106.124.90.74:8888/udp/238.125.7.93:5140
-Xinjiang_TV_12,http://106.124.90.74:8888/udp/238.125.3.185:5140
-Xinjiang_TV_9,http://106.124.90.74:8888/udp/238.125.7.153:5140
-Xinjiang_TV_8,http://106.124.90.74:8888/udp/238.125.3.181:5140
-Xinjiang_TV_5,http://106.124.90.74:8888/udp/238.125.7.149:5140
-Xinjiang_TV_3,http://106.124.90.74:8888/udp/238.125.7.147:5140
-Xinjiang_TV_2,http://106.124.90.74:8888/udp/238.125.3.175:5140
-BRTV_Kaku_Childrens_Channel_[Not_24/7],http://office.gofaraway.top:888/udp/238.125.2.216:5140
 Sichuan_Kangba_Tibetan_TV,http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -503,6 +495,7 @@ Sichuan_Kangba_Tibetan_TV,http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?ke
 山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
 山西法治,http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
 山西文体,http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
+BRTV_Kaku_Childrens_Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 Ando_TV_(576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
