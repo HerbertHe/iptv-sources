@@ -270,7 +270,7 @@
 | 264 | [BD]fubo sports network | epg.pw | <https://epg.pw/stream/88a353790a2622fcbc9b10545f6288cbce188229fb1d693f09208df15f9dfa1c.m3u8> |
 | 265 | [BD]bsn | epg.pw | <https://epg.pw/stream/bee5c79b417d428bc58a00ae526820ba1da5a42b70a0d70bcc44158f5ea6931e.m3u8> |
 | 266 | [BD]cctv-11戏曲高清 | epg.pw | <https://epg.pw/stream/e9be97e5572456880d76a26cb5ae8a5be04d89f378d9d5b6750f69d691918847.ctv> |
-| 267 | [BD]cctv1[ipv6] | epg.pw | <https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8> |
+| 267 | [BD]cctv1[ipv6] | epg.pw | <https://epg.pw/stream/607c5648b5a826285f1e94ceab76066c767e2ba5e1623b753a6ab2f4e380199d.m3u8> |
 | 268 | [VGA]rthk33 | epg.pw | <https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8> |
 | 269 | [BD]cctv10[ipv6] | epg.pw | <https://epg.pw/stream/65a98eb1bc5fc38505f2c025c2f0c88f31429e43104486845616deb65bf9c895.m3u8> |
 | 270 | [BD]cctv11[ipv6] | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
@@ -590,7 +590,7 @@
 | 584 | [SD]gulli | epg.pw | <https://epg.pw/stream/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.m3u8> |
 | 585 | [BD]nh tv | epg.pw | <https://epg.pw/stream/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 586 | [HD]hadi tv 8 | epg.pw | <https://epg.pw/stream/45ae7d43536c326d5c8e33509646e83b9a75cf4b89709fa0a0e50725f039be82.m3u8> |
-| 587 | [SD]hbo | epg.pw | <https://epg.pw/stream/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv> |
+| 587 | [HD]hbo 1 | epg.pw | <https://epg.pw/stream/32a4dcff0fa69cb6b54e7bbb7b192c6169d595f2dd1d2fb76b3cec6f1898fb97.m3u8> |
 | 588 | [HD]hbo 2 | epg.pw | <https://epg.pw/stream/7af5cf94965dace7620ccb00c33caf2022a5b31bf6994ac888db9ea5dfc90998.m3u8> |
 | 589 | [BD]hbo 2 hd | epg.pw | <https://epg.pw/stream/8207b0dc347bfad890d06de16d0bee32695bd5dcb3a02da940fe167190998bfa.ctv> |
 | 590 | [HD]hbo 3 | epg.pw | <https://epg.pw/stream/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
@@ -1608,7 +1608,7 @@
 | 1602 | [BD]内蒙古经济生活 | epg.pw | <https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8> |
 | 1603 | [BD]内蒙古蒙语文化 | epg.pw | <https://epg.pw/stream/259625f9cd412bc5d6d12bcbbe529129a32a8dd00caf955bd6479233d348d174.m3u8> |
 | 1604 | [SD]内蒙古卫视 | epg.pw | <https://epg.pw/stream/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8> |
-| 1605 | [BD]内蒙古农牧 | epg.pw | <https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8> |
+| 1605 | [VGA]内蒙古农牧 | epg.pw | <https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8> |
 | 1606 | [BD]内黄新闻综合频道 | epg.pw | <https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8> |
 | 1607 | [BD]全纪实 | epg.pw | <https://epg.pw/stream/2d9108efd241fb2214b9b653b9da63bfd59d91a37341f98396be49a9157ef849.ctv> |
 | 1608 | [BD]八大戏剧台HD | epg.pw | <https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8> |
@@ -1768,7 +1768,7 @@
 | 1762 | [SD]霸州少儿频道 | epg.pw | <https://epg.pw/stream/eb656c9023968966ef3229c21758609dd94753dffc29bb29bb61e444a72a24a1.m3u8> |
 | 1763 | [VGA]东北戏曲 | epg.pw | <https://epg.pw/stream/3587d2a664f1ed6cd95d0075b42f605bb091c9dc57a6edd13adfa56e6d9b4294.m3u8> |
 | 1764 | [BD]东南卫视[ipv6] | epg.pw | <https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8> |
-| 1765 | [BD]东方卫视 | epg.pw | <https://epg.pw/stream/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8> |
+| 1765 | [BD]东方卫视[ipv6] | epg.pw | <https://epg.pw/stream/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8> |
 | 1766 | [BD]东方财经 hd | epg.pw | <https://epg.pw/stream/f16d8dfb37a570ed94a1b31d5e64dd6ba1f8f6586a63bf3277eb03794a345a8d.ctv> |
 | 1767 | [BD]东映チャンネル | epg.pw | <https://epg.pw/stream/4fccab3e90515b3e3ea76a7364478750f9fc435e5a06958b972634dfdd0c3e94.m3u8> |
 | 1768 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
@@ -2003,4 +2003,4 @@
 | 1997 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1998 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu May 16 2024 14:12:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 16 2024 16:15:12 GMT+0000 (Coordinated Universal Time)**
