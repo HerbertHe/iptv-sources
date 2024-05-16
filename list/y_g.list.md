@@ -115,98 +115,98 @@
 | 109 | 咪咕直播 𝟛𝟜「IPV6」 | IPv6 直链 | <http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8> |
 | 110 | 咪咕直播 𝟛𝟝「IPV6」 | IPv6 直链 | <http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8> |
 | 111 | 咪咕直播 𝟛𝟞「IPV6」 | IPv6 直链 | <http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8> |
-| 112 | 「虎牙」英雄联盟 𝟙 | tv.iill.top | <https://tv.iill.top/huya/660000> |
-| 113 | 「虎牙」英雄联盟 𝟚 | tv.iill.top | <https://tv.iill.top/huya/660001> |
-| 114 | 「斗鱼」英雄联盟 𝟙 | tv.iill.top | <https://tv.iill.top/douyu/288016> |
-| 115 | 「斗鱼」英雄联盟 𝟚 | tv.iill.top | <https://tv.iill.top/douyu/998> |
-| 116 | 「虎牙」王者荣耀 𝟙 | tv.iill.top | <https://tv.iill.top/huya/660002> |
-| 117 | 「虎牙」王者荣耀 𝟚 | tv.iill.top | <https://tv.iill.top/huya/660164> |
-| 118 | 「斗鱼」王者荣耀 𝟙 | tv.iill.top | <https://tv.iill.top/douyu/1863767> |
-| 119 | 「斗鱼」王者荣耀 𝟚 | tv.iill.top | <https://tv.iill.top/douyu/1984839> |
-| 120 | 「虎牙」绝地求生 𝟙 | tv.iill.top | <https://tv.iill.top/huya/660004> |
-| 121 | 「虎牙」绝地求生 𝟚 | tv.iill.top | <https://tv.iill.top/huya/660005> |
-| 122 | 「斗鱼」绝地求生 | tv.iill.top | <https://tv.iill.top/douyu/100> |
-| 123 | 「虎牙」和平精英 | tv.iill.top | <https://tv.iill.top/huya/660006> |
-| 124 | 「斗鱼」和平精英 | tv.iill.top | <https://tv.iill.top/douyu/999> |
-| 125 | 「虎牙」金铲铲之战 | tv.iill.top | <https://tv.iill.top/huya/660579> |
-| 126 | 「斗鱼」金铲铲之战 | tv.iill.top | <https://tv.iill.top/douyu/9715241> |
-| 127 | 「斗鱼」CSGO | tv.iill.top | <https://tv.iill.top/douyu/601514> |
-| 128 | 「虎牙」DOTA2 | tv.iill.top | <https://tv.iill.top/huya/660118> |
-| 129 | 「斗鱼」DOTA2 | tv.iill.top | <https://tv.iill.top/douyu/3811559> |
-| 130 | 「斗鱼」云顶之弈 | tv.iill.top | <https://tv.iill.top/douyu/522423> |
-| 131 | 「虎牙」永劫无间 | tv.iill.top | <https://tv.iill.top/huya/660115> |
-| 132 | 「虎牙」使命召唤•手游 | tv.iill.top | <https://tv.iill.top/huya/11718629> |
-| 133 | 「斗鱼」使命召唤•手游 | tv.iill.top | <https://tv.iill.top/douyu/9223245> |
-| 134 | 「虎牙」穿越火线 | tv.iill.top | <https://tv.iill.top/huya/660101> |
-| 135 | 「斗鱼」穿越火线 𝟙 | tv.iill.top | <https://tv.iill.top/douyu/605964> |
-| 136 | 「斗鱼」穿越火线 𝟚 | tv.iill.top | <https://tv.iill.top/douyu/5388537> |
-| 137 | 「虎牙」穿越火线•手游 | tv.iill.top | <https://tv.iill.top/huya/660102> |
-| 138 | 「虎牙」第五人格 | tv.iill.top | <https://tv.iill.top/huya/idvesports> |
-| 139 | 「斗鱼」第五人格 𝟙 | tv.iill.top | <https://tv.iill.top/douyu/3226194> |
-| 140 | 「斗鱼」第五人格 𝟚 | tv.iill.top | <https://tv.iill.top/douyu/11030737> |
-| 141 | 「虎牙」逆战 | tv.iill.top | <https://tv.iill.top/huya/nsl2021> |
-| 142 | 「斗鱼」原神 | tv.iill.top | <https://tv.iill.top/douyu/10853239> |
-| 143 | 「斗鱼」QQ飞车•手游 | tv.iill.top | <https://tv.iill.top/douyu/5040227> |
-| 144 | 「虎牙」无畏契约 𝟙 | tv.iill.top | <https://tv.iill.top/huya/660679> |
-| 145 | 「斗鱼」无畏契约 𝟚 | tv.iill.top | <https://tv.iill.top/douyu/4585645> |
-| 146 | 「斗鱼」JJ斗地主 | tv.iill.top | <https://tv.iill.top/douyu/488743> |
-| 147 | 「斗鱼」我的世界 | tv.iill.top | <https://tv.iill.top/douyu/738878> |
-| 148 | 「斗鱼」FIFA | tv.iill.top | <https://tv.iill.top/douyu/7692166> |
-| 149 | 「斗鱼」火影忍者 | tv.iill.top | <https://tv.iill.top/douyu/1997723> |
-| 150 | 「斗鱼」跑跑卡丁车 | tv.iill.top | <https://tv.iill.top/douyu/7722576> |
-| 151 | 「斗鱼」跑跑卡丁车•手游 | tv.iill.top | <https://tv.iill.top/douyu/6672862> |
-| 152 | 埋堆堆 𝟙 | tv.iill.top | <https://tv.iill.top/huya/23740156> |
-| 153 | 埋堆堆 𝟚 | tv.iill.top | <https://tv.iill.top/huya/23749096> |
-| 154 | 埋堆堆 𝟛 | tv.iill.top | <https://tv.iill.top/huya/23735126> |
-| 155 | 埋堆堆 𝟜 | tv.iill.top | <https://tv.iill.top/huya/23903123> |
-| 156 | 埋堆堆 𝟝 | tv.iill.top | <https://tv.iill.top/huya/23734169> |
-| 157 | 埋堆堆 𝟞 | tv.iill.top | <https://tv.iill.top/huya/23863804> |
-| 158 | 埋堆堆 𝟟 | tv.iill.top | <https://tv.iill.top/huya/23865080> |
-| 159 | 埋堆堆 𝟠 | tv.iill.top | <https://tv.iill.top/huya/23864973> |
-| 160 | 埋堆堆 𝟡 | tv.iill.top | <https://tv.iill.top/huya/23903130> |
-| 161 | 埋堆堆 𝟙𝟘 | tv.iill.top | <https://tv.iill.top/huya/23860039> |
-| 162 | 埋堆堆 𝟙𝟙 | tv.iill.top | <https://tv.iill.top/huya/23903183> |
-| 163 | 埋堆堆 𝟙𝟚 | tv.iill.top | <https://tv.iill.top/huya/23903196> |
-| 164 | 埋堆堆 𝟙𝟛 | tv.iill.top | <https://tv.iill.top/huya/23728674> |
-| 165 | 埋堆堆 𝟙𝟜 | tv.iill.top | <https://tv.iill.top/huya/23865036> |
-| 166 | 埋堆堆 𝟙𝟝 | tv.iill.top | <https://tv.iill.top/huya/23829543> |
-| 167 | 埋堆堆 𝟙𝟞 | tv.iill.top | <https://tv.iill.top/huya/23865161> |
-| 168 | 埋堆堆 𝟙𝟟 | tv.iill.top | <https://tv.iill.top/huya/23865058> |
-| 169 | 埋堆堆 𝟙𝟠 | tv.iill.top | <https://tv.iill.top/huya/23824164> |
-| 170 | 埋堆堆 𝟙𝟡 | tv.iill.top | <https://tv.iill.top/huya/23863796> |
-| 171 | 埋堆堆 𝟚𝟘 | tv.iill.top | <https://tv.iill.top/huya/23734183> |
-| 172 | 埋堆堆 𝟚𝟙 | tv.iill.top | <https://tv.iill.top/huya/23728660> |
-| 173 | 埋堆堆 𝟚𝟚 | tv.iill.top | <https://tv.iill.top/huya/23865142> |
-| 174 | 埋堆堆 𝟚𝟛 | tv.iill.top | <https://tv.iill.top/huya/23734246> |
-| 175 | 埋堆堆 𝟚𝟜 | tv.iill.top | <https://tv.iill.top/huya/23865171> |
-| 176 | 埋堆堆 𝟚𝟝 | tv.iill.top | <https://tv.iill.top/huya/23734256> |
-| 177 | 埋堆堆 𝟚𝟞 | tv.iill.top | <https://tv.iill.top/huya/23749083> |
-| 178 | 音乐石榴「音乐」 | tv.iill.top | <https://tv.iill.top/huya/17091681> |
-| 179 | 音乐速递「音乐」 | tv.iill.top | <https://tv.iill.top/huya/19439762> |
-| 180 | 治愈•放松「音乐」 | tv.iill.top | <https://tv.iill.top/huya/21241811> |
-| 181 | 阅读•学习「音乐」 | tv.iill.top | <https://tv.iill.top/huya/21241813> |
-| 182 | 电视剧•1「解说」 | tv.iill.top | <https://tv.iill.top/huya/21277391> |
-| 183 | 电视剧•2「解说」 | tv.iill.top | <https://tv.iill.top/huya/25018873> |
-| 184 | 电影•1「解说」 | tv.iill.top | <https://tv.iill.top/huya/20289754> |
-| 185 | 电影•2「解说」 | tv.iill.top | <https://tv.iill.top/huya/24983280> |
-| 186 | 电影•3「解说」 | tv.iill.top | <https://tv.iill.top/huya/24396428> |
-| 187 | 动漫•1「解说」 | tv.iill.top | <https://tv.iill.top/huya/19757963> |
-| 188 | 恐怖电影「解说」 | tv.iill.top | <https://tv.iill.top/huya/23419131> |
-| 189 | 漫威「解说」 | tv.iill.top | <https://tv.iill.top/huya/17089779> |
-| 190 | 美剧「解说」 | tv.iill.top | <https://tv.iill.top/huya/20488841> |
-| 191 | 七龙珠「解说」 | tv.iill.top | <https://tv.iill.top/huya/25650806> |
-| 192 | 止戈电影「解说」 | tv.iill.top | <https://tv.iill.top/huya/19863777> |
-| 193 | 挨饿德•1「其他」 | tv.iill.top | <https://tv.iill.top/huya/20985858> |
-| 194 | 挨饿德•2「其他」 | tv.iill.top | <https://tv.iill.top/huya/17693860> |
-| 195 | 互扇巴掌大赛「其他」 | tv.iill.top | <https://tv.iill.top/huya/20072873> |
-| 196 | 荒野求生「其他」 | tv.iill.top | <https://tv.iill.top/huya/593667> |
-| 197 | 野行者「其他」 | tv.iill.top | <https://tv.iill.top/huya/20072663> |
-| 198 | 跳舞「其他」 | tv.iill.top | <https://tv.iill.top/huya/24634408> |
-| 199 | 茶啊二中「动画」 | tv.iill.top | <https://tv.iill.top/huya/11213191> |
-| 200 | 哆啦A梦「动漫」 | tv.iill.top | <https://tv.iill.top/huya/11601963> |
-| 201 | 航海王「动漫」 | tv.iill.top | <https://tv.iill.top/huya/16913382> |
-| 202 | 七龙珠「动漫」 | tv.iill.top | <https://tv.iill.top/huya/11601966> |
-| 203 | 猫和老鼠「动漫」 | tv.iill.top | <https://tv.iill.top/huya/11352879> |
-| 204 | 中华小当家「动漫」 | tv.iill.top | <https://tv.iill.top/huya/11342413> |
+| 112 | 「虎牙」英雄联盟 𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=660000> |
+| 113 | 「虎牙」英雄联盟 𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=660001> |
+| 114 | 「斗鱼」英雄联盟 𝟙 | live.iill.top | <http://live.iill.top/douyu.php?id=288016> |
+| 115 | 「斗鱼」英雄联盟 𝟚 | live.iill.top | <http://live.iill.top/douyu.php?id=998> |
+| 116 | 「虎牙」王者荣耀 𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=660002> |
+| 117 | 「虎牙」王者荣耀 𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=660164> |
+| 118 | 「斗鱼」王者荣耀 𝟙 | live.iill.top | <http://live.iill.top/douyu.php?id=1863767> |
+| 119 | 「斗鱼」王者荣耀 𝟚 | live.iill.top | <http://live.iill.top/douyu.php?id=1984839> |
+| 120 | 「虎牙」绝地求生 𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=660004> |
+| 121 | 「虎牙」绝地求生 𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=660005> |
+| 122 | 「斗鱼」绝地求生 | live.iill.top | <http://live.iill.top/douyu.php?id=100> |
+| 123 | 「虎牙」和平精英 | live.iill.top | <http://live.iill.top/huya.php?id=660006> |
+| 124 | 「斗鱼」和平精英 | live.iill.top | <http://live.iill.top/douyu.php?id=999> |
+| 125 | 「虎牙」金铲铲之战 | live.iill.top | <http://live.iill.top/huya.php?id=660579> |
+| 126 | 「斗鱼」金铲铲之战 | live.iill.top | <http://live.iill.top/douyu.php?id=9715241> |
+| 127 | 「斗鱼」CSGO | live.iill.top | <http://live.iill.top/douyu.php?id=601514> |
+| 128 | 「虎牙」DOTA2 | live.iill.top | <http://live.iill.top/huya.php?id=660118> |
+| 129 | 「斗鱼」DOTA2 | live.iill.top | <http://live.iill.top/douyu.php?id=3811559> |
+| 130 | 「斗鱼」云顶之弈 | live.iill.top | <http://live.iill.top/douyu.php?id=522423> |
+| 131 | 「虎牙」永劫无间 | live.iill.top | <http://live.iill.top/huya.php?id=660115> |
+| 132 | 「虎牙」使命召唤•手游 | live.iill.top | <http://live.iill.top/huya.php?id=11718629> |
+| 133 | 「斗鱼」使命召唤•手游 | live.iill.top | <http://live.iill.top/douyu.php?id=9223245> |
+| 134 | 「虎牙」穿越火线 | live.iill.top | <http://live.iill.top/huya.php?id=660101> |
+| 135 | 「斗鱼」穿越火线 𝟙 | live.iill.top | <http://live.iill.top/douyu.php?id=605964> |
+| 136 | 「斗鱼」穿越火线 𝟚 | live.iill.top | <http://live.iill.top/douyu.php?id=5388537> |
+| 137 | 「虎牙」穿越火线•手游 | live.iill.top | <http://live.iill.top/huya.php?id=660102> |
+| 138 | 「虎牙」第五人格 | live.iill.top | <http://live.iill.top/huya.php?id=idvesports> |
+| 139 | 「斗鱼」第五人格 𝟙 | live.iill.top | <http://live.iill.top/douyu.php?id=3226194> |
+| 140 | 「斗鱼」第五人格 𝟚 | live.iill.top | <http://live.iill.top/douyu.php?id=11030737> |
+| 141 | 「虎牙」逆战 | live.iill.top | <http://live.iill.top/huya.php?id=nsl2021> |
+| 142 | 「斗鱼」原神 | live.iill.top | <http://live.iill.top/douyu.php?id=10853239> |
+| 143 | 「斗鱼」QQ飞车•手游 | live.iill.top | <http://live.iill.top/douyu.php?id=5040227> |
+| 144 | 「虎牙」无畏契约 𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=660679> |
+| 145 | 「斗鱼」无畏契约 𝟚 | live.iill.top | <http://live.iill.top/douyu.php?id=4585645> |
+| 146 | 「斗鱼」JJ斗地主 | live.iill.top | <http://live.iill.top/douyu.php?id=488743> |
+| 147 | 「斗鱼」我的世界 | live.iill.top | <http://live.iill.top/douyu.php?id=738878> |
+| 148 | 「斗鱼」FIFA | live.iill.top | <http://live.iill.top/douyu.php?id=7692166> |
+| 149 | 「斗鱼」火影忍者 | live.iill.top | <http://live.iill.top/douyu.php?id=1997723> |
+| 150 | 「斗鱼」跑跑卡丁车 | live.iill.top | <http://live.iill.top/douyu.php?id=7722576> |
+| 151 | 「斗鱼」跑跑卡丁车•手游 | live.iill.top | <http://live.iill.top/douyu.php?id=6672862> |
+| 152 | 埋堆堆 𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=23740156> |
+| 153 | 埋堆堆 𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=23749096> |
+| 154 | 埋堆堆 𝟛 | live.iill.top | <http://live.iill.top/huya.php?id=23735126> |
+| 155 | 埋堆堆 𝟜 | live.iill.top | <http://live.iill.top/huya.php?id=23903123> |
+| 156 | 埋堆堆 𝟝 | live.iill.top | <http://live.iill.top/huya.php?id=23734169> |
+| 157 | 埋堆堆 𝟞 | live.iill.top | <http://live.iill.top/huya.php?id=23863804> |
+| 158 | 埋堆堆 𝟟 | live.iill.top | <http://live.iill.top/huya.php?id=23865080> |
+| 159 | 埋堆堆 𝟠 | live.iill.top | <http://live.iill.top/huya.php?id=23864973> |
+| 160 | 埋堆堆 𝟡 | live.iill.top | <http://live.iill.top/huya.php?id=23903130> |
+| 161 | 埋堆堆 𝟙𝟘 | live.iill.top | <http://live.iill.top/huya.php?id=23860039> |
+| 162 | 埋堆堆 𝟙𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=23903183> |
+| 163 | 埋堆堆 𝟙𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=23903196> |
+| 164 | 埋堆堆 𝟙𝟛 | live.iill.top | <http://live.iill.top/huya.php?id=23728674> |
+| 165 | 埋堆堆 𝟙𝟜 | live.iill.top | <http://live.iill.top/huya.php?id=23865036> |
+| 166 | 埋堆堆 𝟙𝟝 | live.iill.top | <http://live.iill.top/huya.php?id=23829543> |
+| 167 | 埋堆堆 𝟙𝟞 | live.iill.top | <http://live.iill.top/huya.php?id=23865161> |
+| 168 | 埋堆堆 𝟙𝟟 | live.iill.top | <http://live.iill.top/huya.php?id=23865058> |
+| 169 | 埋堆堆 𝟙𝟠 | live.iill.top | <http://live.iill.top/huya.php?id=23824164> |
+| 170 | 埋堆堆 𝟙𝟡 | live.iill.top | <http://live.iill.top/huya.php?id=23863796> |
+| 171 | 埋堆堆 𝟚𝟘 | live.iill.top | <http://live.iill.top/huya.php?id=23734183> |
+| 172 | 埋堆堆 𝟚𝟙 | live.iill.top | <http://live.iill.top/huya.php?id=23728660> |
+| 173 | 埋堆堆 𝟚𝟚 | live.iill.top | <http://live.iill.top/huya.php?id=23865142> |
+| 174 | 埋堆堆 𝟚𝟛 | live.iill.top | <http://live.iill.top/huya.php?id=23734246> |
+| 175 | 埋堆堆 𝟚𝟜 | live.iill.top | <http://live.iill.top/huya.php?id=23865171> |
+| 176 | 埋堆堆 𝟚𝟝 | live.iill.top | <http://live.iill.top/huya.php?id=23734256> |
+| 177 | 埋堆堆 𝟚𝟞 | live.iill.top | <http://live.iill.top/huya.php?id=23749083> |
+| 178 | 音乐石榴「音乐」 | live.iill.top | <http://live.iill.top/huya.php?id=17091681> |
+| 179 | 音乐速递「音乐」 | live.iill.top | <http://live.iill.top/huya.php?id=19439762> |
+| 180 | 治愈•放松「音乐」 | live.iill.top | <http://live.iill.top/huya.php?id=21241811> |
+| 181 | 阅读•学习「音乐」 | live.iill.top | <http://live.iill.top/huya.php?id=21241813> |
+| 182 | 电视剧•1「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=21277391> |
+| 183 | 电视剧•2「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=25018873> |
+| 184 | 电影•1「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=20289754> |
+| 185 | 电影•2「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=24983280> |
+| 186 | 电影•3「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=24396428> |
+| 187 | 动漫•1「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=19757963> |
+| 188 | 恐怖电影「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=23419131> |
+| 189 | 漫威「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=17089779> |
+| 190 | 美剧「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=20488841> |
+| 191 | 七龙珠「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=25650806> |
+| 192 | 止戈电影「解说」 | live.iill.top | <http://live.iill.top/huya.php?id=19863777> |
+| 193 | 挨饿德•1「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=20985858> |
+| 194 | 挨饿德•2「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=17693860> |
+| 195 | 互扇巴掌大赛「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=20072873> |
+| 196 | 荒野求生「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=593667> |
+| 197 | 野行者「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=20072663> |
+| 198 | 跳舞「其他」 | live.iill.top | <http://live.iill.top/huya.php?id=24634408> |
+| 199 | 茶啊二中「动画」 | live.iill.top | <http://live.iill.top/huya.php?id=11213191> |
+| 200 | 哆啦A梦「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11601963> |
+| 201 | 航海王「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=16913382> |
+| 202 | 七龙珠「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11601966> |
+| 203 | 猫和老鼠「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11352879> |
+| 204 | 中华小当家「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11342413> |
 
-Updated at **Thu May 16 2024 06:14:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 16 2024 12:23:45 GMT+0000 (Coordinated Universal Time)**
