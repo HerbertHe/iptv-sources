@@ -160,7 +160,7 @@
 | 154 | [BD]安徽综艺体育 | epg.pw | <https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8> |
 | 155 | [BD]安徽卫视 | epg.pw | <https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424ea16a1.m3u8> |
 | 156 | [BD]迁安新闻综合 | epg.pw | <https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8> |
-| 157 | [BD]家有购物 | epg.pw | <https://epg.pw/stream/7af28c28b31c89c46dfab0d9db6876f77a110eb08009be21298b7d45fa2e4a41.ctv> |
+| 157 | [VGA]家有购物 | epg.pw | <https://epg.pw/stream/7af28c28b31c89c46dfab0d9db6876f77a110eb08009be21298b7d45fa2e4a41.ctv> |
 | 158 | [SD]宁夏卫视[ipv6] | epg.pw | <https://epg.pw/stream/9da9d86dd9a71ab4526a2165e888246611ce4172aad35eb960f1eafaeec30f90.m3u8> |
 | 159 | [HD]咸宁经济生活 | epg.pw | <https://epg.pw/stream/91aa26e5f08c654b7d2ea59dbfa50d5d5b4bfd4cdd7cbde4eae417575f18f510.m3u8> |
 | 160 | [BD]山东公共 | epg.pw | <https://epg.pw/stream/1d1ce325a4910f55dc5890c6dee79e7968d417dbb87f701102d2f01b6dd589e0.m3u8> |
@@ -416,4 +416,4 @@
 | 410 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 411 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri May 17 2024 10:13:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 17 2024 12:22:20 GMT+0000 (Coordinated Universal Time)**
