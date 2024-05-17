@@ -648,6 +648,7 @@ Kanal_9_Erzgebirge_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCtd99m_
 Kanal12_Spremberg_TV_(404p)_[Not_24/7],https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 KANAL_58_(1080p)_[Not_24/7],https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 Kanal_D_Romania_(360p),https://stream1.kanald.ro/iphone/knd-live.m3u8
+Kanal_Hovedstaden_(720p)_[Not_24/7],http://khkbh.dk:8080/hls/livestream/index.m3u8
 Kanal_Jadid_(720p),https://kjhls.wns.live/hls/stream.m3u8
 Kanizsa_TV_(400p),https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 Kapital_TV_(576p)_[Not_24/7],https://testcam.go.ro:8080/hls/livestream.m3u8
@@ -2249,7 +2250,6 @@ Dheeran_TV_(576p),https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Dhoho_TV_(720p),https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 Diavata_TV_(720p),https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Didgah_TV_(280p),https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
-Die_Neue_Zeit_(576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dien_Bien_TV_(406p),https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 Diez_TV_Úbeda_(1080p),https://streaming.cloud.innovasur.es/mmj/index.m3u8
 DigiOne_(720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
@@ -2915,7 +2915,6 @@ Kanal_D2_(360p),https://stream2.kanald.ro/iphone/knd-live.m3u8
 Kanal_D_(1080p),https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 Kanal_Firat_(720p)_[Not_24/7],https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 Kanal_Hayat_(1080p),https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
-Kanal_Hovedstaden_(720p)_[Not_24/7],http://khkbh.dk:8080/hls/livestream/index.m3u8
 Kanal_Sim_(576p)_[Not_24/7],https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 Kanal_Urfa_(576p)_[Not_24/7],https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
 Kanal_V_(720p)_[Not_24/7],http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
@@ -7558,6 +7557,7 @@ Dare_To_Dream_Network_(3ABN)_(720p),https://3abn-live.akamaized.net/hls/live/201
 Daystar_TV_(720p),https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 Derakhte_Zendegi_TV_(404p),http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
 Destiny_Voices_TV_(480p),https://apps.digitaltv.co.ke/live/2004.m3u8
+Die_Neue_Zeit_(576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dios_Te_Ve_(720p),https://s.emisoras.tv:8081/diostevetv/index.m3u8
 Divya_Darshan_TV_(720p),http://live.divyadarshantv.com/hls/stream.m3u8
 Diyar_TV_(1080p),https://yayin30.haber100.com/live/diyartv/playlist.m3u8
