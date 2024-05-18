@@ -187,9 +187,9 @@
 | 181 | [SD]康巴卫视[ipv6] | epg.pw | <https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8> |
 | 182 | [SD]厦门卫视 | epg.pw | <https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8> |
 | 183 | [BD]潍坊新闻综合 | epg.pw | <https://epg.pw/stream/013c2248a4d67fd74b0eb4be384c00bf88488d264c38006200f4f42880de0f4c.ctv> |
-| 184 | [BD]广州影视 | epg.pw | <https://epg.pw/stream/2a43a84d657a150eb0dc8688b60bed45d33503727a8d9cee72bc46dbe524e7fe.m3u8> |
+| 184 | [BD]广州影视 | epg.pw | <https://epg.pw/stream/6569ff08025b99653d6173dccf5aafb69b2c79ab797d6b87e82bae00fedb4511.m3u8> |
 | 185 | [BD]广州新闻 | epg.pw | <https://epg.pw/stream/23e2042f052e6d5b3f33bab813fe3db2fd6b946b491363a38a14b4e5c9e5f388.m3u8> |
-| 186 | [BD]广州综合 | epg.pw | <https://epg.pw/stream/a0e9caf340aadd0adb81902a099b7c9463282ea19d60993d3b6a757c4adc3295.m3u8> |
+| 186 | [BD]广州综合 | epg.pw | <https://epg.pw/stream/91ae862b8b3ce7a58fb837900e84984ae323afa312699797c3eb21ac4ff060df.m3u8> |
 | 187 | [BD]广东少儿频道 | epg.pw | <https://epg.pw/stream/d18bbaaf970df65cdfd5ac717f7ad75d351dd28b1540d8a5923de2ae1d30105c.m3u8> |
 | 188 | [SD]广东影视 | epg.pw | <https://epg.pw/stream/cf1cb04544b8324a474a732a218abf171a9a5f5df5d9709f683907682348a2b5.m3u8> |
 | 189 | [SD]广东新闻 | epg.pw | <https://epg.pw/stream/c094302b2de4bc9600f9ebec67c3f77e247be50a6d1c0a29744b2b3d6f94d571.m3u8> |
@@ -416,4 +416,4 @@
 | 410 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 411 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat May 18 2024 20:13:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 18 2024 22:10:43 GMT+0000 (Coordinated Universal Time)**
