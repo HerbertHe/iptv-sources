@@ -696,7 +696,6 @@ Latina_TV_(1080p),https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3
 Latina_TV_Internacional_(720p),https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 Lavras_CE_TV_(480p),https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 Lawndale_City_TV_(720p),http://67.53.122.248/live-4/live/live.m3u8
-LBC_(1080p),https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 Le_Cronache_TV_(720p),http://77.68.40.210:8888/hls/cronache.m3u8
 Le_Figaro_IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 LEO_Middelsé_TV_(480p),https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
@@ -2319,7 +2318,6 @@ DTV_Oss_&_Bernheze_(1080p),https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dt
 Dua_Channel_(720p),https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 Duck_Hunting_TV,https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 Due_Fantagenitori_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-Duhk_Wa_Bas_(1080p),https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
 Dukh_Nivaran_(720p)_[Not_24/7],http://cdn12.henico.net:8080/live/dncal/index.m3u8
 Dumskaya_TV_(720p),http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 Duna_TV_(1080p),http://146.59.85.40:89/dunahd/index.m3u8
@@ -2511,6 +2509,7 @@ Fox_Sports_en_Espanol_(720p),https://lnc-fox-sports-espanol2.tubi.video/index.m3
 FranceInfo_Radio,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfoRadio.m3u8
 Francophonie24_(1080p),https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 Franken_Fernsehen_(Nürnberg)_(1080p)_[Not_24/7],https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+FrankenPlus_(1080p),https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
 Frecuencia_Musical_TV_[Not_24/7],https://s2.tvdatta.com:3307/hybrid/play.m3u8
 Free_Speech_TV_(720p),https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 Freebie_TV_(720p)_[Not_24/7],https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
@@ -4158,7 +4157,6 @@ Satranç_TV_(480p)_[Not_24/7],http://139.162.182.79/live/test/index.m3u8
 Satsang_TV_(1080p),https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 Satsang_Web_TV_(1080p),https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 Saudia_Radio_(720p),https://edge.taghtia.com/sa/11.m3u8
-Sayedat_Alshasha_(1080p),https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 SBN_(1080p),https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
 SBS_CJB_(540p)_[Not_24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 SBS_G1_(360p)_[Not_24/7],http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
@@ -6387,8 +6385,6 @@ Reyali_(614p),https://eu1.servers10.com:8081/8090/index.m3u8
 RHT_Guadeloupe_(720p),https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 RLV_TV_(720p)_[Not_24/7],https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
 Rock_TV_(720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-Rotana_Khalijia_(1080p),https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-Rotana_Music_(1080p),https://daiconnect.com/live/hls/rotana/music/.m3u8
 RTL_Today_Radio_(720p),https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 RTV_Music_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 RTV_Vida_(1080p),https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
@@ -7683,7 +7679,6 @@ INPO_TV_(720p),https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 Iqra_Bangla_(720p),https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 Iqra_TV_(576p),https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8
 Iqraa_(576p)_[Not_24/7],https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-Iqraa_Europe_Africa_(576p)_[Not_24/7],https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 Iran_Jewish_TV_(720p),http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 Islam_Channel_(576p)_[Not_24/7],https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 Islam_Channel_Urdu,https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
@@ -9195,7 +9190,6 @@ Pluto_TV_Series_Retro_(720p),https://service-stitcher.clusters.pluto.tv/stitch/h
 Pluto_TV_The_Love_Boat_(720p)_[Not_24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Retrô_Cartoon_(480p)_[Not_24/7],https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 Retrox_TV_(720p),https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
-Rotana_Classic_(1080p),https://daiconnect.com/live/hls/rotana/classical/.m3u8
 Samuel_Goldwyn_Classics_(720p),https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8
 The_Archive_(1080p),https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 The_Carol_Burnett_Show,https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
