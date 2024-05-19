@@ -509,7 +509,7 @@
 | 503 | [BD]lfm tv | epg.pw | <https://epg.pw/stream/102adbd265ded0ab167fb16a7a419337a9e4af0a8626f6c2d282367a85e05d96.m3u8> |
 | 504 | [HD]gfn tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/96944814e18a9c0ea3d11c0bc37a417caaa4e5d172065b1db782df01ac060d7a.m3u8> |
 | 505 | [HD]fox | epg.pw | <https://epg.pw/stream/f4b9b3a1550b8b6860c71e21f81dc17b9591c1b2f076166872e547574a3ddf9c.m3u8> |
-| 506 | [HD]rakuten action movies germany (720p) | epg.pw | <https://epg.pw/stream/aa0062c5442ea9454cd0b46e1fd3078df97202af4ff4f20c679e53e10321f681.m3u8> |
+| 506 | [HD]rakuten action movies | epg.pw | <https://epg.pw/stream/1d204c7804a7bbcb96fc683a5fe8921a4b2058f387b3fc8de64d5b1ca101d098.m3u8> |
 | 507 | [HD]ช่อง rakuten family movies | epg.pw | <https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8> |
 | 508 | [HD]fox news now | epg.pw | <https://epg.pw/stream/6679774314bcd43124f862bb08f35501a86878b5766e33d426a81f3ca0113ded.m3u8> |
 | 509 | [HD]fox sports | epg.pw | <https://epg.pw/stream/12ddd2d62f18efbc2ce3a05bcec79750928aa4dcac80c0ba8c540d0d305c30f4.m3u8> |
@@ -1968,4 +1968,4 @@
 | 1962 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1963 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun May 19 2024 10:11:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 19 2024 12:22:11 GMT+0000 (Coordinated Universal Time)**
