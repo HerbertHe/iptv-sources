@@ -54990,9 +54990,6 @@
 	<programme channel="纯享4K" start="20240521045500 +0800" stop="20240521052500 +0800">
 		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
 	</programme>
-	<programme channel="纯享4K" start="20240521052500 +0800" stop="20240521055500 +0800">
-		<title lang="zh">村庄故事4K 山水岩龙（下）</title>
-	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66183,9 +66180,6 @@
 	<programme channel="黑莓动画" start="20240521050500 +0800" stop="20240521052900 +0800">
 		<title lang="zh">17_入间同学入魔了</title>
 	</programme>
-	<programme channel="黑莓动画" start="20240521052900 +0800" stop="20240521055400 +0800">
-		<title lang="zh">18_入间同学入魔了</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66819,9 +66813,6 @@
 	<programme channel="newtv精品纪录" start="20240521051100 +0800" stop="20240521053600 +0800">
 		<title lang="zh">04_王的女人</title>
 	</programme>
-	<programme channel="newtv精品纪录" start="20240521053600 +0800" stop="20240521062500 +0800">
-		<title lang="zh">02_是你告诉我 爱情的模样</title>
-	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66873,9 +66864,6 @@
 	<programme channel="newtv军旅剧场" start="20240521043700 +0800" stop="20240521052400 +0800">
 		<title lang="zh">06_爱在战火纷飞时</title>
 	</programme>
-	<programme channel="newtv军旅剧场" start="20240521052400 +0800" stop="20240521061100 +0800">
-		<title lang="zh">07_爱在战火纷飞时</title>
-	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66897,9 +66885,6 @@
 	<programme channel="newtv家庭剧场" start="20240521043200 +0800" stop="20240521051800 +0800">
 		<title lang="zh">18_梦中的那片海</title>
 	</programme>
-	<programme channel="newtv家庭剧场" start="20240521051800 +0800" stop="20240521060400 +0800">
-		<title lang="zh">19_梦中的那片海</title>
-	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66914,9 +66899,6 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240521044200 +0800" stop="20240521052700 +0800">
 		<title lang="zh">08_拯救大明星</title>
-	</programme>
-	<programme channel="newtv热播精选" start="20240521052700 +0800" stop="20240521061300 +0800">
-		<title lang="zh">09_拯救大明星</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -66981,9 +66963,6 @@
 	<programme channel="newtv怡伴健康" start="20240521045600 +0800" stop="20240521052300 +0800">
 		<title lang="zh">都市野趣（下）</title>
 	</programme>
-	<programme channel="newtv怡伴健康" start="20240521052300 +0800" stop="20240521055000 +0800">
-		<title lang="zh">山林里的生命舞台</title>
-	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67041,9 +67020,6 @@
 	<programme channel="newtv军事评论" start="20240521043000 +0800" stop="20240521052100 +0800">
 		<title lang="zh">芦花深处荡敌寇：冀中平原抗战记忆 第4集 地下奇兵</title>
 	</programme>
-	<programme channel="newtv军事评论" start="20240521052100 +0800" stop="20240521060800 +0800">
-		<title lang="zh">芦花深处荡敌寇：冀中平原抗战记忆 第5集 克敌制胜</title>
-	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67076,9 +67052,6 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240521051200 +0800" stop="20240521051600 +0800">
 		<title lang="zh">风含情水含笑-孙爱迪（舞蹈展示）</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240521053100 +0800" stop="20240521055200 +0800">
-		<title lang="zh">印度姑娘-尚岩</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>

@@ -1,4 +1,4 @@
-# List for **joevess/IPTV home**(Rollback)
+# List for **joevess/IPTV home**
 
 > M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
 
@@ -56,4 +56,4 @@
 | 50 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 51 | CETV3中国教育电视台三套 | iptv.luas.edu.cn | <https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/063125215c-0-0-7677012e61c4b04f692f5f8e49d953c9/index.m3u8> |
 
-Updated at **Mon May 20 2024 20:13:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 20 2024 22:11:29 GMT+0000 (Coordinated Universal Time)**
