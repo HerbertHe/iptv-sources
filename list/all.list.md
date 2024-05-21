@@ -379,7 +379,7 @@
 | 373 | [HD]chile channel | epg.pw | <https://epg.pw/stream/238bf5ff87d0b4a8384de41cb4e18928c53b7690f62ee1f8c6dc0d0d52d1668b.m3u8> |
 | 374 | [SD]home drama channel | epg.pw | <https://epg.pw/stream/ba596832e8f9008bae3d17e45481c21368d983975550f682a2446c943c3181e5.m3u8> |
 | 375 | [BD]channels tv | epg.pw | <https://epg.pw/stream/05d7976eebc61b46cf5ee63e95b9352c3c6b05879ab6102540e10f6bdddf5a40.m3u8> |
-| 376 | [SD]rtl television | epg.pw | <https://epg.pw/stream/391d826c1a669b490c69597839b8dbc1c9a4886fefbf38998007372ffa94ac65.m3u8> |
+| 376 | [HD]30a television channel | epg.pw | <https://epg.pw/stream/fa818e01d9ec26dbae457bad395de7941a0d898d944a42403d8291caf79e6492.m3u8> |
 | 377 | [SD]chelsea tv (576p) | epg.pw | <https://epg.pw/stream/67bcbf9cda082ccbb03e53177f216634c0e1d8508b9e46261587f0f9e97962bd.m3u8> |
 | 378 | [BD]christian youth channel (cyc) (1080p) | epg.pw | <https://epg.pw/stream/eb47f1cbc6c6b706b70f6fcebc5adc0df4e580731ab9e1f1a03f33d2d8f1a34a.m3u8> |
 | 379 | [HD]can tv (720p) | epg.pw | <https://epg.pw/stream/38e9d7d636e3d1b914e47f70ffda084b9d62fb1e2df3c58206fa91f27b247523.m3u8> |
@@ -604,7 +604,7 @@
 | 598 | [HD]hallmark movies & mysteries hd | epg.pw | <https://epg.pw/stream/e6341df5c003e08f931c01865fdb2e04a1ce9be1005ccb35e78b988a272309df.m3u8> |
 | 599 | [HD]shalom tv | epg.pw | <https://epg.pw/stream/513f53301e46cfe992f25cf5fa55aba8d0169f2db7007ed5ac50c38d1014792f.m3u8> |
 | 600 | [BD]noa 4 hamburg | epg.pw | <https://epg.pw/stream/a4945a72e9e893ce70f348a01d955144fa636e88cf413b7d3799e6cfd387b56b.m3u8> |
-| 601 | [BD]ph hillsong channel | epg.pw | <https://epg.pw/stream/2bcbde60b2d325d6b54fdc063d4bf8ee001714986eb93edf2eb503d5ebcc6745.ctv> |
+| 601 | [BD]Hillsong channel | epg.pw | <https://epg.pw/stream/2bcbde60b2d325d6b54fdc063d4bf8ee001714986eb93edf2eb503d5ebcc6745.ctv> |
 | 602 | [BD]home hiroshima news | epg.pw | <https://epg.pw/stream/505326b6e6c0ce15d505573e4a85e7662e0c851ba3f780d12f25ecc8a9df65ef.m3u8> |
 | 603 | [SD]viju history | epg.pw | <https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8> |
 | 604 | [HD]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
@@ -849,7 +849,7 @@
 | 843 | [BD]news 12 new york (1080p) | epg.pw | <https://epg.pw/stream/abf1d5317e0b18af87f69a16b0407962ada2c26a88b677b6177e78f87583517b.m3u8> |
 | 844 | [BD]cnanews-hd（新加坡） | epg.pw | <https://epg.pw/stream/7b52a960c67bf9995ac3e640b82672436167255803ade528381a939e99ea08c3.m3u8> |
 | 845 | [HD]polsat news | epg.pw | <https://epg.pw/stream/b77337dacf03b2078341641c429dc96631676cdc5621e97c1b80b7dcddcd89ee.m3u8> |
-| 846 | [BD]ph one news hd | epg.pw | <https://epg.pw/stream/1486c2f8d581eeb8cc73757b7d65ebb8a4f84001e334392b2977f9d57011e5b4.ctv> |
+| 846 | [BD]One Ph News | epg.pw | <https://epg.pw/stream/1486c2f8d581eeb8cc73757b7d65ebb8a4f84001e334392b2977f9d57011e5b4.ctv> |
 | 847 | [BD]channel newsasia | epg.pw | <https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8> |
 | 848 | [BD]newsmaxtv | epg.pw | <https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8> |
 | 849 | [BD]nghệ an | epg.pw | <https://epg.pw/stream/39a7a4c22d35dc8293b3c46b132c4ba9f79080bd4e4222cfc889b356b526f4b9.m3u8> |
@@ -1958,4 +1958,4 @@
 | 1952 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1953 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue May 21 2024 10:13:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 21 2024 12:23:12 GMT+0000 (Coordinated Universal Time)**
