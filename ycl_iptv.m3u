@@ -49,12 +49,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",央视高网
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
-https://tv.iill.top/jd/fhzw
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
-https://tv.iill.top/jd/fhzx
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
-http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
@@ -161,8 +155,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北经视.png" group-title="地方",湖北经视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-#EXTINF:-1 tvg-id="HB03" tvg-name="湖北教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei3.png" group-title="地方",湖北教育
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="地方",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="地方",黑莓动画
@@ -347,115 +339,3 @@ https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="联通",CCTV-1
-rtp://239.3.1.129:8008
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="联通",CCTV-2
-rtp://239.3.1.60:8084
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="联通",CCTV-3
-rtp://239.3.1.172:8001
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="联通",CCTV-4
-rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="联通",CCTV-5
-rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="联通",CCTV-6
-rtp://239.3.1.174:8001
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="联通",CCTV-7
-rtp://239.3.1.61:8104
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="联通",CCTV-8
-rtp://239.3.1.175:8001
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="联通",CCTV-9
-rtp://239.3.1.62:8112
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="联通",CCTV-10
-rtp://239.3.1.63:8116
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="联通",CCTV-11
-rtp://239.3.1.152:8120
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="联通",CCTV-12
-rtp://239.3.1.64:8124
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="联通",CCTV-13
-rtp://239.3.1.124:8128
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="联通",CCTV-14
-rtp://239.3.1.65:8132
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="联通",CCTV-15
-rtp://239.3.1.153:8136
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="联通",CCTV-16
-rtp://239.3.1.184:8001
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="联通",CCTV-17
-rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="联通",CCTV-4K
-rtp://239.3.1.245:2000
-#EXTINF:-1 tvg-id="CCTV4AEURO" tvg-name="CCTV4EURO" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="联通",中文欧洲
-rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="联通",中文美洲
-rtp://239.3.1.214:4220
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="联通",体育赛事
-rtp://239.3.1.130:8004
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="联通",中国教育
-rtp://239.3.1.57:8152
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",CGTN新闻
-rtp://239.3.1.215:4220
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",CGTN纪录
-rtp://239.3.1.216:4220
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="联通",北京卫视
-rtp://239.3.1.241:8000
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方卫视.png" group-title="联通",东方卫视
-rtp://239.3.1.136:8032
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南卫视.png" group-title="联通",湖南卫视
-rtp://239.3.1.132:8012
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江卫视.png" group-title="联通",浙江卫视
-rtp://239.3.1.137:8036
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏卫视.png" group-title="联通",江苏卫视
-rtp://239.3.1.135:8028
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="联通",江西卫视
-rtp://239.3.1.123:8164
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北卫视.png" group-title="联通",河北卫视
-rtp://239.3.1.148:8072
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳卫视.png" group-title="联通",深圳卫视
-rtp://239.3.1.134:8020
-#EXTINF:-1 tvg-id="45" tvg-name="湖北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北卫视.png" group-title="联通",湖北卫视
-rtp://239.3.1.138:8044
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津卫视.png" group-title="联通",天津卫视
-rtp://239.3.1.148:8072
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽卫视.png" group-title="联通",安徽卫视
-rtp://239.3.1.211:8064
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东卫视.png" group-title="联通",山东卫视
-rtp://239.3.1.209:8052
-#EXTINF:-1 tvg-id="33" tvg-name="广东联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东卫视.png" group-title="联通",广东卫视
-rtp://239.3.1.142:8048
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州卫视.png" group-title="联通",贵州卫视
-rtp://239.3.1.149:8076
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁卫视.png" group-title="联通",辽宁卫视
-rtp://239.3.1.210:8056
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆卫视.png" group-title="联通",重庆卫视
-rtp://239.3.1.122:8160
-#EXTINF:-1 tvg-id="46" tvg-name="龙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="联通",龙江卫视
-rtp://239.3.1.133:8016
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林卫视.png" group-title="联通",吉林卫视
-rtp://239.3.1.240:8172
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南卫视.png" group-title="联通",东南卫视
-rtp://239.3.1.156:8148
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="联通",北京新闻
-rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京财经.png" group-title="联通",北京财经
-rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京生活.png" group-title="联通",北京生活
-rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京文艺.png" group-title="联通",北京文艺
-rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="联通",北京影视
-rtp://239.3.1.158:8000
-#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="联通",北京国际
-rtp://239.3.1.235:8000
-#EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京体育休闲.png" group-title="联通",体育休闲
-rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="联通",纪实科教
-rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="联通",卡酷少儿
-rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/金鹰纪实.png" group-title="联通",金鹰纪实
-rtp://239.3.1.58:8156
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="联通",纪实人文
-rtp://239.3.1.212:8060
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/茶友频道.png" group-title="联通",茶友频道
-rtp://239.3.1.165:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="联通",快乐垂钓
-rtp://239.3.1.164:8001
