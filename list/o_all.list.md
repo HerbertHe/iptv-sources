@@ -3693,7 +3693,7 @@
 | 3687 | Kadak Hits (1080p) [Not 24/7] | live.hungama.com | <https://live.hungama.com/linear/kadak-hits/playlist.m3u8> |
 | 3688 | Kaif TV (576p) [Not 24/7] | IPv4 直链 | <http://82.212.74.2:8000/live/hls/7311.m3u8> |
 | 3689 | Kaifa TV (576p) | IPv4 直链 | <http://82.212.74.2:8000/live/7311.m3u8> |
-| 3690 | Kairali News (720p) | ythls.armelin.one | <https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8> |
+| 3690 | Kairali News | ythls.armelin.one | <https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8> |
 | 3691 | Kairali We (396p) | yuppmedtaorire.akamaized.net | <https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8> |
 | 3692 | Kajou TV (480p) [Not 24/7] | video1.getstreamhosting.com:1936 | <https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8> |
 | 3693 | Kalac TV (1080p) | edge.vedge.infomaniak.com | <https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8> |
@@ -9990,4 +9990,4 @@
 | 9984 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9985 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Wed May 22 2024 22:11:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 23 2024 00:56:12 GMT+0000 (Coordinated Universal Time)**

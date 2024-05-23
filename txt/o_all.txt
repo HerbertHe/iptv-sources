@@ -1381,6 +1381,7 @@ TV_Zagora_(576p),http://zagoratv.ddns.net:8080/tvzagora.m3u8
 TV_Zapad_(1080p)_[Not_24/7],http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 TV_Zdravkin_(400p),http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 TVC_Rio_(1080p),https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+TVCom,https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 TVCOM_DF_(360p),https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 TVCOM_Maceió_(480p),https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 TVenLinea_(720p)_[Not_24/7],https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
@@ -4968,7 +4969,6 @@ TVCentro_Andalucía_(720p)_[Not_24/7],https://5fa5de1a545ae.streamlock.net/8052/
 TVCG_1_(720p)_[Not_24/7],http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 TVCG_2_(720p)_[Not_24/7],http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 TVCG_MNE_(720p)_[Not_24/7],http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-TVCom,https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 TVD_Momo_5_(720p),http://183.89.246.119:8881/play/a0a9/index.m3u8
 TVE_Internacional_America_(1080p),https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 TVE_RS_(1080p),http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -6949,7 +6949,7 @@ Jovem_Pan_News_(JP_News)_(1080p)_[Not_24/7],https://d6yfbj4xxtrod.cloudfront.net
 Joy_News_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 K21_News_(480p)_[Not_24/7],https://ythls.armelin.one/channel/UC7g-LI8ueb6qTFZ5-gDgrGg.m3u8
 K_News_India_(1080p),https://knews.livebox.co.in/youtubehls/live.m3u8
-Kairali_News_(720p),https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
+Kairali_News,https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 Kalaignar_Seithikal_(576p)_[Not_24/7],http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 Kanak_News_(720p)_[Not_24/7],https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 Kanal_S_(720p),https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
