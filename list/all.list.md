@@ -580,7 +580,7 @@
 | 574 | [BD]hbo fhd | epg.pw | <https://epg.pw/stream/619d0fc686a38f7e3f11b2347fd408722a907899fcf2d8bb02bcfd12001f4c30.ctv> |
 | 575 | [HD]hbo 2 | epg.pw | <https://epg.pw/stream/cdf62fe1971d0d7f812d839d603e58e6766d7adb963d1825f723cba96c711e31.m3u8> |
 | 576 | [HD]hbo 3 | epg.pw | <https://epg.pw/stream/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
-| 577 | [BD]ช่อง hbo family | epg.pw | <https://epg.pw/stream/d0eb1c9294187aa5282b570dcf4646b9d35512e3c5aa48af7b528c8e4e82014c.ctv> |
+| 577 | [HD]ph hbo family | epg.pw | <https://epg.pw/stream/965e2d33cb39f9d820527791576af17254ba7f6c608d8b2558c8d94f6cbba3ae.ctv> |
 | 578 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/45da6dd2e8207334bc7c9b0d6f688cdd11da8c1e3cc2d53302e641ec3372da58.m3u8> |
 | 579 | [BD]hbo hits tree | epg.pw | <https://epg.pw/stream/6a9d6485a532bf89d1e2125c76436bf8c1593c268f57ac64603dd6f875445321.ctv> |
 | 580 | [VGA]plus | epg.pw | <https://epg.pw/stream/38d270a6b5979a0523aedca5ad02e0b2a72c0266259cc7f586f944ffe7398006.m3u8> |
@@ -1952,4 +1952,4 @@
 | 1946 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1947 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat May 25 2024 08:15:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 10:13:13 GMT+0000 (Coordinated Universal Time)**
