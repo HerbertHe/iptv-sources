@@ -1,4 +1,4 @@
-# List for **YanG-1989 Gather**
+# List for **YanG-1989 Gather**(Rollback)
 
 > M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
 
@@ -209,4 +209,4 @@
 | 203 | 猫和老鼠「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11352879> |
 | 204 | 中华小当家「动漫」 | live.iill.top | <http://live.iill.top/huya.php?id=11342413> |
 
-Updated at **Sat May 25 2024 00:55:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 02:24:52 GMT+0000 (Coordinated Universal Time)**

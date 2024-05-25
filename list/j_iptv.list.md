@@ -1,4 +1,4 @@
-# List for **joevess/IPTV iptv**
+# List for **joevess/IPTV iptv**(Rollback)
 
 > M3U: [j_iptv.m3u](/j_iptv.m3u), TXT: [j_iptv.txt](/txt/j_iptv.txt)
 
@@ -508,4 +508,4 @@
 | 502 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 503 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Sat May 25 2024 00:55:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 02:24:51 GMT+0000 (Coordinated Universal Time)**
