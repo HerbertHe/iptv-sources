@@ -1,4 +1,4 @@
-# List for **fanmingming/live ipv6**(Rollback)
+# List for **fanmingming/live ipv6**
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
@@ -142,4 +142,4 @@
 | 136 | CGTN西语 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2> |
 | 137 | CGTN阿语 | CGTN | <http://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Sat May 25 2024 14:11:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 16:14:06 GMT+0000 (Coordinated Universal Time)**
