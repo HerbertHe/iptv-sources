@@ -25,17 +25,17 @@
 | 19 | [BD]cctv7[ipv6] | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
 | 20 | [BD]cctv8[ipv6] | epg.pw | <https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8> |
 | 21 | [BD]cctv9[ipv6] | epg.pw | <https://epg.pw/stream/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8> |
-| 22 | [BD]cctv 世界地理 | epg.pw | <https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8> |
+| 22 | [VGA]cctv 世界地理 | epg.pw | <https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8> |
 | 23 | [BD]cctv 兵器科技 | epg.pw | <https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8> |
 | 24 | [BD]cctv-7国防军事高清 | epg.pw | <https://epg.pw/stream/ddcff2c894d5927c864767c29b8c77310d2f00c2eb4a62b64c5f57ea35b9251a.ctv> |
 | 25 | [BD]cctv 文化精品 | epg.pw | <https://epg.pw/stream/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.ctv> |
 | 26 | [BD]cctv 央视台球 | epg.pw | <https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8> |
 | 27 | [SD]cctv 女性时尚 | epg.pw | <https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8> |
 | 28 | [SD]cctv 怀旧剧场 | epg.pw | <https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8> |
-| 29 | [BD]cctv 第一剧场 | epg.pw | <https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8> |
+| 29 | [VGA]cctv 第一剧场 | epg.pw | <https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8> |
 | 30 | [SD]cctv 电视指南 | epg.pw | <https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8> |
 | 31 | [BD]cctv 风云剧场 | epg.pw | <https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv> |
-| 32 | [BD]cctv 风云足球 | epg.pw | <https://epg.pw/stream/979137a17d3f79217229e077bc8472050be5b42eecf0f857a6b7e11a950f3949.m3u8> |
+| 32 | [VGA]cctv 风云足球 | epg.pw | <https://epg.pw/stream/979137a17d3f79217229e077bc8472050be5b42eecf0f857a6b7e11a950f3949.m3u8> |
 | 33 | [SD]cctv音乐 | epg.pw | <https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8> |
 | 34 | [SD]cetv-1 | epg.pw | <https://epg.pw/stream/c8ce7c4d9d42e9e6b3fd3caa3ea3a7909ac08fc4a03b6b053a2de9f562b4995a.m3u8> |
 | 35 | [BD]cetv 早期教育 | epg.pw | <https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9eb55b69978f187c4ccd61c33.ctv> |
@@ -403,4 +403,4 @@
 | 397 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 398 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun May 26 2024 18:15:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 26 2024 20:12:17 GMT+0000 (Coordinated Universal Time)**
