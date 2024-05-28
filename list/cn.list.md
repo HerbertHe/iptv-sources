@@ -149,7 +149,7 @@
 | 143 | [SD]四川卫视[ipv6] | epg.pw | <https://epg.pw/stream/3c264c25b1f8debffea48cd474ef8b830ced737528778624f006949a84930657.m3u8> |
 | 144 | [HD]四海钓鱼 | epg.pw | <https://epg.pw/stream/035da715c6d55f2764d231c3be66f457fd5ce09f4593e9e8cc7d60f79c1e8292.ctv> |
 | 145 | [BD]大湾区卫视 | epg.pw | <https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8> |
-| 146 | [VGA]天津卫视 | epg.pw | <https://epg.pw/stream/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8> |
+| 146 | [BD]天津卫视 | epg.pw | <https://epg.pw/stream/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8> |
 | 147 | [VGA]天津体育 | epg.pw | <https://epg.pw/stream/e550462ba6e8b39f7caf7c0bdc83da7588e66a734647e08fe81a12e1ade63fcd.m3u8> |
 | 148 | [VGA]太原影视 | epg.pw | <https://epg.pw/stream/91b6fbb646a23956a4fff96b3c516861919dc63fd59ab71b7657c46f9fc6fdd8.ctv> |
 | 149 | [VGA]太原文体 | epg.pw | <https://epg.pw/stream/c4778ba5faac5ef3c472183dfb03c67bc6643caab6e72d7df653802a917960f8.ctv> |
@@ -418,4 +418,4 @@
 | 412 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 413 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Tue May 28 2024 04:17:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 28 2024 06:17:29 GMT+0000 (Coordinated Universal Time)**
