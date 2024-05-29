@@ -1396,6 +1396,7 @@ TVG_Channel_28_(528p)_[Not_24/7],http://190.80.3.28/TVG/TVG.isml/index.m3u8
 TVGE_(480p),http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 TVI_África_(480p),https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 TVitapé_(720p),https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+TVK_(720p),https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 TVM_(480p),http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 TVM_Internacional_(480p)_[Not_24/7],http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 TVMarineret_(1080p),http://sdream.info:8080/hls/livestream/index.m3u8
@@ -4959,8 +4960,6 @@ TVG_Evento_5_(720p)_[Not_24/7],https://amodino-crtvg.flumotion.com/playlist.m3u8
 TVG_Momentos_G_(720p),https://momentog-crtvg.flumotion.com/playlist.m3u8
 TVI_Ficção_(480p),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 TVIKIM,https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-TVK_2_(720p),https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-TVK_(720p),https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 TVKU_(720p),http://103.30.1.14:8080/hls/live.m3u8
 TVL_(720p)_[Not_24/7],https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 TVM3_(1080p),https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
@@ -7381,6 +7380,7 @@ TV_Maya_(480p),https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3
 TV_Nuevo_León_Canal_28_(XHMNL-TDT)_(720p),https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 TV_UFG_(720p)_[Not_24/7],http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 TV_UJAT_(XHUJAT-TDT)_(720p)_[Not_24/7],https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+TVK_2_(720p),https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 TVU_Universidad_Nacional_de_La_Plata_(720p)_[Not_24/7],https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 UCSG_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8
 UCTV_University_of_California_(720p)_[Not_24/7],https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
