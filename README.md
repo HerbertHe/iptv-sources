@@ -30,8 +30,8 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Wed May 29 2024 00:40:10 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Tue May 28 2024 23:30:09 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Wed May 29 2024 00:05:56 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Wed May 29 2024 01:30:12 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Wed May 29 2024 02:06:14 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
 | https | <https://iptv.002397.xyz> | per 2h | Get Updated Failed: **** | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
@@ -71,7 +71,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed May 29 2024 01:00:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 29 2024 02:29:26 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
