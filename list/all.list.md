@@ -986,7 +986,7 @@
 | 980 | [BD]rti 1 | epg.pw | <https://epg.pw/stream/562f78696f230190e73cc54156c870e2c088c9942c8bfda0b6bc106f3a3cc754.m3u8> |
 | 981 | [BD]cruz tv | epg.pw | <https://epg.pw/stream/e4705b1263859ab1d7cdcf1dfb61b6af976f42f9a0df9badb47cb8cb7e269d16.m3u8> |
 | 982 | [HD]documentary+ | epg.pw | <https://epg.pw/stream/5986fca5ac45dec0c34219746e4d95d2f4409c48c2bb2ba70e338139afa8f1e6.m3u8> |
-| 983 | [BD]radio weser tv bremen | epg.pw | <https://epg.pw/stream/6b5b02030b4cbde4b0d4b4910ede47c2e28a4796bf4d57c66cb9156c848bc6bf.m3u8> |
+| 983 | [SD]radio weser tv bremen | epg.pw | <https://epg.pw/stream/6b5b02030b4cbde4b0d4b4910ede47c2e28a4796bf4d57c66cb9156c848bc6bf.m3u8> |
 | 984 | [HD]ช่อง radio kiss kiss italia | epg.pw | <https://epg.pw/stream/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8> |
 | 985 | [BD]rhema tv | epg.pw | <https://epg.pw/stream/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8> |
 | 986 | [HD]rai 3 | epg.pw | <https://epg.pw/stream/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8> |
@@ -1943,4 +1943,4 @@
 | 1937 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1938 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed May 29 2024 08:17:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 29 2024 10:15:04 GMT+0000 (Coordinated Universal Time)**
