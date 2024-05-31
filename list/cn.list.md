@@ -325,7 +325,7 @@
 | 319 | [BD]滨海影视 | epg.pw | <https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8> |
 | 320 | [BD]滨海新闻综合 | epg.pw | <https://epg.pw/stream/394aa08730faa44c59ee4137d34571c2e5c91fe38d66ecb286e5a6abe1d34b8a.ctv> |
 | 321 | [SD]富阳新闻综合 | epg.pw | <https://epg.pw/stream/184765df59a5f2ec47a324d683f98b89feb48a64bfeafeef5702b2aa982c051f.m3u8> |
-| 322 | [VGA]熊猫频道 | epg.pw | <https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8> |
+| 322 | [HD]熊猫频道 | epg.pw | <https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8> |
 | 323 | [BD]牡丹区新闻综合 | epg.pw | <https://epg.pw/stream/1939516432084953a2ae91246d88dc2d06492a30be240e6b1f86d1649b895237.ctv> |
 | 324 | [VGA]吉林新闻综合 | epg.pw | <https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8> |
 | 325 | [VGA]威海新闻综合 | epg.pw | <https://epg.pw/stream/40ff4da5f3a70fd00be3f503656834169afd2a7364de26e620c08346cce700fb.ctv> |
@@ -416,4 +416,4 @@
 | 410 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 411 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri May 31 2024 06:18:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 31 2024 08:16:40 GMT+0000 (Coordinated Universal Time)**
