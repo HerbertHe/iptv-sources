@@ -684,7 +684,7 @@ Generic,#genre#
 [HD]rede_vida,https://epg.pw/stream/23f635f7129247aaf96af0013a145eee226e229e4f11863e92019a68a232460a.m3u8
 [BD]regio8_tv,https://epg.pw/stream/aa5bdf4764d31220af31c1dc263581eeccc213b9a8f557062351cb82ee64a8f4.m3u8
 [BD]relax,https://epg.pw/stream/21fefe9adbc0227e52ee53e472ed1429e8f39c2a41872ec2bf3bb7bf8cabfcda.m3u8
-[BD]rotana_m+,https://epg.pw/stream/371579bbe0a3558fd20176715f238327c91955c76b75993502b89a8a103b27fb.m3u8
+[HD]rotana_m+,https://epg.pw/stream/371579bbe0a3558fd20176715f238327c91955c76b75993502b89a8a103b27fb.m3u8
 [BD]rudaw_tv,https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8
 [HD]mahar_tv,https://epg.pw/stream/2038079bfa6a55b20377a152063d5fd57a70394d8a2b36173b299110f1297bfa.m3u8
 [SD]sat.1,https://epg.pw/stream/543a51e58f8dded1e4304128058359ff57794f721dffe415f796af29c6d6e4b0.m3u8
@@ -1318,6 +1318,7 @@ News,#genre#
 [BD]bbs,https://epg.pw/stream/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8
 [BD]bernama,https://epg.pw/stream/4eba8a5e3bc92d0811f88013725d377eb3a47033056e652f3efcb2f2f1ebe7c2.m3u8
 [HD]new_brasil,https://epg.pw/stream/930b55e553a62e3d89c7a64f2b22fac6243493404f20dba4375d9852b2318b76.m3u8
+[BD]bs11_hd,https://epg.pw/stream/0732b776746f251cb1cd4f8d7ba02e92aa5b27ce223bb95ca90366b9bbd796b0.m3u8
 [HD]テレビ东京,https://epg.pw/stream/5a2f7754e3ca2a4166034033ac40a7eaf54aee18c27f42437ceaadfe0556236d.m3u8
 [HD]bsフジ,https://epg.pw/stream/cf520ce3d47f2bbcb8b44f70a479c16afac4dd3ea652cf1637751a20f851bd4f.m3u8
 [SD]bs日テレ,https://epg.pw/stream/73144c626c197eaf79d6a8f72745be20bfde9391354ed0a8a1c572526d431872.m3u8
@@ -1443,7 +1444,7 @@ News,#genre#
 [BD]ptc_chakde,https://epg.pw/stream/b199b8084a7cfc9a2b57906916913f71aeb90e952069f4eaf3f3aad2ffe810ea.m3u8
 [BD]ptc_news,https://epg.pw/stream/4fc2ca8745998a92a0695f55bfa10e881f31fdeaa2baf60551484a23f9e62761.m3u8
 [VGA]palestine_tv_pbc,https://epg.pw/stream/e38ae5f05b5dbd126d0d3eaa830cf9d18f8995751cde287e6023d3ab185c7e6e.m3u8
-[BD]parliament_of_kenya,https://epg.pw/stream/c8538a37659f98fb33d56a2750ffb453a713d794a117b7d8e0a861dd9b17b831.m3u8
+[BD]parliament_tv_(1080p),https://epg.pw/stream/8e3044805603a1e17ab4db7a502430ccd5e7eabe7b7702759593811879e2b103.m3u8
 [HD]polsat_2,https://epg.pw/stream/8203a0cae6226a27707941fd2c3953393ce3a61bf8a47ec5d8c91173ad9c4a51.m3u8
 [BD]rit,https://epg.pw/stream/6720ad90eaeaa9e39016b53893b0a452f844abac3a0ec697082202889c9a18c8.m3u8
 [HD]rt,https://epg.pw/stream/880db4c0058e3c127284170e73bef1f1b08a3f60c1e7aeae18878e3847d04180.m3u8
@@ -1660,7 +1661,7 @@ Sports,#genre#
 [SD]eurosport_1,https://epg.pw/stream/9ba229a252d78226c73f8a8db9f9af6c437d9124451b1ec18100b3904a04a6e6.m3u8
 [BD]eurosport,https://epg.pw/stream/939db10d4f6ace86bea02259d6c9b1f3c510c38f57e0e99da3f4170e46d9acfb.m3u8
 [BD]eurosport2_hd,https://epg.pw/stream/e4466dea03448556da48794e9f21bcdaa68647d8357c4c2e095299b3f841d7aa.m3u8
-[BD]extreme_channel,https://epg.pw/stream/2c006ab78310fce853df5eff2b8036f35921b35f4a2f23865b1ea1390574d517.m3u8
+[HD]extreme_channel,https://epg.pw/stream/2c006ab78310fce853df5eff2b8036f35921b35f4a2f23865b1ea1390574d517.m3u8
 [HD]fox_sports,https://epg.pw/stream/12ddd2d62f18efbc2ce3a05bcec79750928aa4dcac80c0ba8c540d0d305c30f4.m3u8
 [HD]fox_sports_2,https://epg.pw/stream/dad9ad8731fc9ea2a3784e3dcf6fb40fb0022fab29f794abcff60ac3818cda18.m3u8
 [BD]fubo_sports_network,https://epg.pw/stream/4b7d52c84e5abbbb787c1fe303e8ba7a10669a51d9e216cc1ef94c8477d06564.m3u8
@@ -1805,7 +1806,7 @@ Sports,#genre#
 Kids,#genre#
 [HD]3abn,https://epg.pw/stream/325d72328c939779e2ec3eeda6c7e64276bfae816b19c0a755c990499e155127.m3u8
 [VGA]Animax_Philippines,https://epg.pw/stream/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv
-[BD]animax_hd,https://epg.pw/stream/cd1fdb65c6021794d5705f84c99d963a892ab57e79736edcbe8a1511a5db4074.ctv
+[SD]animax_hd,https://epg.pw/stream/c22b18b1384bd6ebc036b9b296bb6b8c213aed61387b9751bac83ad2c087c412.m3u8
 [HD]box_anime_hd,https://epg.pw/stream/967dff6b854142214378de065e3bbd990003074d7ad28526eb94b4a091305754.m3u8
 [HD]anime_all_day,https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8
 [SD]india_news,https://epg.pw/stream/10ea8880452f4697b82dbeec3465460c3afa780bb3565639f309268c8a5e5cf4.m3u8
