@@ -364,7 +364,7 @@
 | 358 | [BD]足球频道 | epg.pw | <https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8> |
 | 359 | [BD]农林卫视 | epg.pw | <https://epg.pw/stream/b6580d571ce867004e2f439aa34969e7b2dc9e820c9fcf85be54a9729e2de629.m3u8> |
 | 360 | [BD]连云港新闻综合 | epg.pw | <https://epg.pw/stream/045d80238eacbe26e6a10fab68908a34cd55e26fcd729ffd2d618fa7cd4cbe5b.m3u8> |
-| 361 | [HD]运城科技教育 | epg.pw | <https://epg.pw/stream/681840c6c612a0a3f013206c2eac5b3dafde5ab0c29573642aa03f41a681884b.m3u8> |
+| 361 | [SD]山西运城科技教育 | epg.pw | <https://epg.pw/stream/e1b4177dab9a555b05cc0250dac9fcd0d46b0456978a8dfbccb322ef3f564775.m3u8> |
 | 362 | [BD]辽宁卫视 | epg.pw | <https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8> |
 | 363 | [HD]邢台综合频道 | epg.pw | <https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8> |
 | 364 | [HD]嵊州新闻综合 | epg.pw | <https://epg.pw/stream/ef74d8c6fb28e86adc1144bccb3e9cb4981c609d36dbeecae2bfb93a646daa4f.m3u8> |
@@ -406,4 +406,4 @@
 | 400 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 401 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Jun 03 2024 04:17:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 03 2024 06:17:53 GMT+0000 (Coordinated Universal Time)**
