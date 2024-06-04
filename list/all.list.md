@@ -134,7 +134,7 @@
 | 128 | [BD]amg tv (1080p) | epg.pw | <https://epg.pw/stream/0f20d0158734a6dc44c5ded43f1fa5de05f24d9351207831e6964b63dc30281b.m3u8> |
 | 129 | [HD]amozhgary tv | epg.pw | <https://epg.pw/stream/96729c5fb968ecd5dfeef51ab049a16282ff9ba26ebbd7d0f0ec21283cb38c5b.m3u8> |
 | 130 | [VGA]ha giang tv | epg.pw | <https://epg.pw/stream/91fbd3dbc3a80063a655868c079322d5026d5b12f6322e7dd662f281527faaf8.m3u8> |
-| 131 | [HD]animal planet | epg.pw | <https://epg.pw/stream/3aee16e33aaf007b84646156662aa315dfad43771cbc5b5783313a8beb500254.ctv> |
+| 131 | [SD]ช่อง animal planet | epg.pw | <https://epg.pw/stream/08ca0d93ede180aa5e00447d6cd17920b6a2f340364769a627940166dcfa588e.m3u8> |
 | 132 | [VGA]Animax Philippines | epg.pw | <https://epg.pw/stream/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv> |
 | 133 | [SD]animax hd | epg.pw | <https://epg.pw/stream/c22b18b1384bd6ebc036b9b296bb6b8c213aed61387b9751bac83ad2c087c412.m3u8> |
 | 134 | [HD]box anime hd | epg.pw | <https://epg.pw/stream/967dff6b854142214378de065e3bbd990003074d7ad28526eb94b4a091305754.m3u8> |
@@ -420,7 +420,7 @@
 | 414 | [SD]discovery science | epg.pw | <https://epg.pw/stream/fd522630534abb24de51ba1b240e0b9ad5da0e399819ae9438141bc327368f67.m3u8> |
 | 415 | [BD]discovery | epg.pw | <https://epg.pw/stream/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8> |
 | 416 | [SD]discovery turbo | epg.pw | <https://epg.pw/stream/8db9b54b28e6ea18ead4792495b8336767de5c047175a9b6d92b7ee4f27be977.m3u8> |
-| 417 | [HD]disney channel | epg.pw | <https://epg.pw/stream/59e191089b7826e0b698d87980ba746b302ba6976712ffd8f0273a02d8fab920.ctv> |
+| 417 | [SD]disney channel | epg.pw | <https://epg.pw/stream/bb53c4c86e69d5fabc93f8bbb95869978d099fdcf27e8e09d7561370a932034c.m3u8> |
 | 418 | [SD]disney channel japan | epg.pw | <https://epg.pw/stream/bdb4cf3eb5c122d017fdaf589787d6393299baa620b05b81e4fbc4ab7a884722.m3u8> |
 | 419 | [HD]disney jr | epg.pw | <https://epg.pw/stream/db30042ed99b79d4bd557d0dd6c573256b446b89da7fe87ec98ffc368a66881e.m3u8> |
 | 420 | [HD]disney junior | epg.pw | <https://epg.pw/stream/be2313633074cc4ce87854509449c7001695359ce391d9a8e8a8940489c41cdb.m3u8> |
@@ -1893,4 +1893,4 @@
 | 1887 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1888 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jun 03 2024 22:12:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 04 2024 00:58:10 GMT+0000 (Coordinated Universal Time)**

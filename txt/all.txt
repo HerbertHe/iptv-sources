@@ -969,7 +969,7 @@ Knowledge,#genre#
 [BD]cafetv24_veneto,https://epg.pw/stream/c4040386cd485d7cd5c622ee0d02bc0c08f4c69d62fd5beddbd8dda7a57085a0.m3u8
 [HD]3sat_hd,https://epg.pw/stream/525e92bdd275ea21d0d056b75cc1773a98674717a9742824866fd2f09ed2a6ac.m3u8
 [BD]amazing_discoveries_tv,https://epg.pw/stream/a473d839315eba554030b8215773d27c228c4855f78b91c2dbff1396dabbed9d.m3u8
-[HD]animal_planet,https://epg.pw/stream/3aee16e33aaf007b84646156662aa315dfad43771cbc5b5783313a8beb500254.ctv
+[SD]ช่อง_animal_planet,https://epg.pw/stream/08ca0d93ede180aa5e00447d6cd17920b6a2f340364769a627940166dcfa588e.m3u8
 [HD]bbc_earth,https://epg.pw/stream/9da1ad4525b15b0512a4b8baa84cb38e7604910d0a0417691348d65fe852d945.m3u8
 [BD]this_is_bulgaria_hd_(1080p),https://epg.pw/stream/a45cd92abc8b188ad369c9a0ffd38591b4bf8d9edcea80a33b225e6c0e23f32c.m3u8
 [VGA]canal_savoir,https://epg.pw/stream/e442714b66fdb976381509d2800b3c5d5aa378dfecfc0f6d82f9533af27a6e78.m3u8
@@ -1824,7 +1824,7 @@ Kids,#genre#
 [VGA]cetelmón_tv,https://epg.pw/stream/6bf3343ebe39446eb55da62cd9db441ebb43d6e97cf8670e88c4c0bcaa329ffd.m3u8
 [BD]cúla4,https://epg.pw/stream/e637cbc4dacfd00b5b64e2c9c53e691c3843d898b535a869b020d8df2aafb4ae.m3u8
 [BD]didiktv_kpm,https://epg.pw/stream/2c823b08c345718158044af5fc2bb6b3539aa5412263b80a3eb0bf0edfcaff49.m3u8
-[HD]disney_channel,https://epg.pw/stream/59e191089b7826e0b698d87980ba746b302ba6976712ffd8f0273a02d8fab920.ctv
+[SD]disney_channel,https://epg.pw/stream/bb53c4c86e69d5fabc93f8bbb95869978d099fdcf27e8e09d7561370a932034c.m3u8
 [SD]disney_channel_japan,https://epg.pw/stream/bdb4cf3eb5c122d017fdaf589787d6393299baa620b05b81e4fbc4ab7a884722.m3u8
 [HD]disney_jr,https://epg.pw/stream/db30042ed99b79d4bd557d0dd6c573256b446b89da7fe87ec98ffc368a66881e.m3u8
 [HD]disney_junior,https://epg.pw/stream/be2313633074cc4ce87854509449c7001695359ce391d9a8e8a8940489c41cdb.m3u8

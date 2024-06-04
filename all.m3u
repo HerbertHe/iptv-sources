@@ -259,8 +259,8 @@ https://epg.pw/stream/0f20d0158734a6dc44c5ded43f1fa5de05f24d9351207831e6964b63dc
 https://epg.pw/stream/96729c5fb968ecd5dfeef51ab049a16282ff9ba26ebbd7d0f0ec21283cb38c5b.m3u8
 #EXTINF:-1 tvg-name="An Giang TV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/21/20140521152818110227_63.jpg" group-title="Other",[VGA]ha giang tv
 https://epg.pw/stream/91fbd3dbc3a80063a655868c079322d5026d5b12f6322e7dd662f281527faaf8.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png" group-title="Knowledge",[HD]animal planet
-https://epg.pw/stream/3aee16e33aaf007b84646156662aa315dfad43771cbc5b5783313a8beb500254.ctv
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png" group-title="Knowledge",[SD]ช่อง animal planet
+https://epg.pw/stream/08ca0d93ede180aa5e00447d6cd17920b6a2f340364769a627940166dcfa588e.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="Kids",[VGA]Animax Philippines
 https://epg.pw/stream/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv
 #EXTINF:-1 tvg-name="Animax HD" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2024/04/05/large/20240405115758039506_43.png" group-title="Kids",[SD]animax hd
@@ -831,8 +831,8 @@ https://epg.pw/stream/fd522630534abb24de51ba1b240e0b9ad5da0e399819ae9438141bc327
 https://epg.pw/stream/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164746474483_68.png" group-title="Knowledge",[SD]discovery turbo
 https://epg.pw/stream/8db9b54b28e6ea18ead4792495b8336767de5c047175a9b6d92b7ee4f27be977.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Kids",[HD]disney channel
-https://epg.pw/stream/59e191089b7826e0b698d87980ba746b302ba6976712ffd8f0273a02d8fab920.ctv
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Kids",[SD]disney channel
+https://epg.pw/stream/bb53c4c86e69d5fabc93f8bbb95869978d099fdcf27e8e09d7561370a932034c.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152136271795_75.png" group-title="Kids",[SD]disney channel japan
 https://epg.pw/stream/bdb4cf3eb5c122d017fdaf589787d6393299baa620b05b81e4fbc4ab7a884722.m3u8
 #EXTINF:-1 tvg-name="Disney Jr" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/16/large/20200116165755665560_74.PNG" group-title="Kids",[HD]disney jr
