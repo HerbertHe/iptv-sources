@@ -53,7 +53,6 @@
 [SD]绍兴新闻综合,https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
 [BD]都市剧场[ipv6],https://epg.pw/stream/b9d115e06f8bb5892885eae3b1060787b5441d17d5306cff65a2428726897a20.m3u8
 [BD]重庆影视,https://epg.pw/stream/8190b9b44502f6f3fa5d452106b2facb600047ca0d6388c0dc629809f2e9d1d3.ctv
-[BD]陕西影视,https://epg.pw/stream/43bcdf054ea221c3cf1472a9309be926c9aecfde71f57cfb556c44fadf365032.ctv
 [BD]黑莓电影[ipv6],https://epg.pw/stream/b57ebbb43beedb167f0e70549346b3a1eef0f3a226cdcb6643e393ad6a5759be.m3u8
 [BD]黑龙江影视_8m1080,https://epg.pw/stream/2b6af76ec639c5dec60b79d46668472d9e2efabb9691fc1236aa49e1830e80f4.m3u8
 
@@ -242,10 +241,7 @@
 [BD]石家庄都市,https://epg.pw/stream/5c6dc51a858afd7dc98890f21bbb7893b929f7e3bfb5352c1b80eb505246e8c5.m3u8
 [SD]义乌商贸,https://epg.pw/stream/a0992a40ba538004d9280bf3e8310d7ebf16d3f2b531b67d88c12b56d1f1cba5.m3u8
 [HD]荆州垄上,https://epg.pw/stream/3aab400214d70d9b22489ec74f4ffe5e67271689579e0de9f27dd245599d1393.m3u8
-[HD]苏州文化生活,https://epg.pw/stream/26265daf6f376f86650f111517a9997bc94773bb4635fd10c99b14c96ad5b161.m3u8
 [SD]苏州新闻综合,https://epg.pw/stream/f91e20288a67e6217c5e58b41451eb8c18ac5ae767ff64681fe03f0e869951ce.m3u8
-[HD]苏州生活资讯,https://epg.pw/stream/ce4b97684775a454b441990714e8152c3fd8ec83e8fdd92549ccd809bc9a85b9.m3u8
-[HD]苏州社会经济,https://epg.pw/stream/31ef7c6fe092a17d515f7e98880d29948371ec52beaf5bd407243ed990211e2a.m3u8
 [SD]西宁生活,https://epg.pw/stream/dd5254c5a934c3213ca8601bcff5104bdcf96b9900b18f8ef8cbd6e9844dcd49.m3u8
 [BD]西宁生活服务,https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8
 [BD]西藏影视文化,https://epg.pw/stream/c81a555962f383888669f729afa0303c466520db6b41f649f3d7036a0a5a6065.ctv
@@ -338,7 +334,7 @@
 儿童,#genre#
 [BD]cctv-14,https://epg.pw/stream/1d3b426c9fa06939dd399e831e8a2de95ab3698db955bd1ac9c5caa0ab8b26e5.m3u8
 [SD]优漫卡通[ipv6],https://epg.pw/stream/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
-[VGA]内蒙古少儿,https://epg.pw/stream/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8
+[BD]内蒙古少儿,https://epg.pw/stream/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8
 [BD]动漫秀场[ipv6],https://epg.pw/stream/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
 [BD]北京淘baby,https://epg.pw/stream/546678813022c60ce2cda8d4db354fb34f59fa03eff6d2d8285e52f52049ea82.ctv
 [SD]山东少儿,https://epg.pw/stream/f831e2e48f0f4f069e4d8bb7cfd7f7cc00c38685edeb9d2cd84445c662d106a0.m3u8
@@ -393,7 +389,7 @@
 [BD]快乐垂钓[ipv6],https://epg.pw/stream/7cb0483c83dc3ae526125c8357bb3ae38e32b2e3bf6a1b1649a841da9542489f.m3u8
 [SD]枣庄新闻,https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体_(480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
-[BD]深圳体育健康,https://epg.pw/stream/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8
+[VGA]深圳体育健康,https://epg.pw/stream/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8
 [BD]足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 [BD]风云足球[ipv6],https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 [BD]高尔夫网球[ipv6],https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8
