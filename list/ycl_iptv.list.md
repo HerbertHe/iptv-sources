@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Thu Jun 06 2024 14:12:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 06 2024 16:15:59 GMT+0000 (Coordinated Universal Time)**
