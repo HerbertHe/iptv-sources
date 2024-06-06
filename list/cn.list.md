@@ -132,7 +132,7 @@
 | 126 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
 | 127 | [VGA]吉林影视 | epg.pw | <https://epg.pw/stream/64c6da042a172abe0b223936e2b7d91d4109fa5c8e416b5bb7a265e36e0f43d7.m3u8> |
 | 128 | [VGA]吉林生活 | epg.pw | <https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8> |
-| 129 | [HD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
+| 129 | [BD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
 | 130 | [VGA]吉林都市 | epg.pw | <https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8> |
 | 131 | [VGA]吉林乡村 (900p) [not 24/7] | epg.pw | <https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8> |
 | 132 | [BD]咪咕视频3 | epg.pw | <https://epg.pw/stream/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8> |
@@ -304,7 +304,7 @@
 | 298 | [BD]湖南爱晚 | epg.pw | <https://epg.pw/stream/979def7879470562a0551607bc455bf72b9f560183735baf9657278e69d4dde7.m3u8> |
 | 299 | [BD]湖南教育台 | epg.pw | <https://epg.pw/stream/8eaa860edc46f79ad63763a2531b71738fe72fcb35f10148c2b86ab4bf129770.m3u8> |
 | 300 | [BD]湖南经视 | epg.pw | <https://epg.pw/stream/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.m3u8> |
-| 301 | [VGA]湖南卫视 | epg.pw | <https://epg.pw/stream/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
+| 301 | [BD]湖南卫视 | epg.pw | <https://epg.pw/stream/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
 | 302 | [BD]湖南都市 | epg.pw | <https://epg.pw/stream/cd5dc84044dc167790fe4779b5464579d07507db046f833864fc73eea1bd8000.m3u8> |
 | 303 | [VGA]湖南电影 | epg.pw | <https://epg.pw/stream/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.ctv> |
 | 304 | [VGA]湖南电视剧 | epg.pw | <https://epg.pw/stream/b120df2d0fb5b5673337708c5554944f75b32425d7b685d47b53a5305dbee9a7.ctv> |
@@ -397,4 +397,4 @@
 | 391 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 392 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu Jun 06 2024 10:13:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 06 2024 12:24:31 GMT+0000 (Coordinated Universal Time)**
