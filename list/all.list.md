@@ -946,7 +946,7 @@
 | 940 | [HD]rt | epg.pw | <https://epg.pw/stream/880db4c0058e3c127284170e73bef1f1b08a3f60c1e7aeae18878e3847d04180.m3u8> |
 | 941 | [HD]tbn africa | epg.pw | <https://epg.pw/stream/8ce553e535ab233b144d3d69d748dc9235d74a8a0eefbf272037f67792ff0415.m3u8> |
 | 942 | [BD]rtb sukmaindera | epg.pw | <https://epg.pw/stream/c7faa82062fe74bdb1f06df338284e33ec2ab99bb205721a81bf13162f5678ab.m3u8> |
-| 943 | [BD]rt france (1080p) [geo-blocked] | epg.pw | <https://epg.pw/stream/de1375e1613f342e04b5f6ac1f0b262cc9f6a79522df1be08e88d0af284d98c5.m3u8> |
+| 943 | [BD]rt france (1080p) | epg.pw | <https://epg.pw/stream/de1375e1613f342e04b5f6ac1f0b262cc9f6a79522df1be08e88d0af284d98c5.m3u8> |
 | 944 | [BD]rtg hd | epg.pw | <https://epg.pw/stream/4e909262470f3e0d01c9aeb62721388d44a3f3f1a53c65ff48e900bd0a749391.m3u8> |
 | 945 | [VGA]rthk35 | epg.pw | <https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8> |
 | 946 | [HD]rthk 32 | epg.pw | <https://epg.pw/stream/b8905a684bdf1d40a6937853ee11c48901bbffda24ab46530eefb688e4582dd7.m3u8> |
@@ -1885,4 +1885,4 @@
 | 1879 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1880 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Jun 05 2024 22:12:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 06 2024 00:57:39 GMT+0000 (Coordinated Universal Time)**
