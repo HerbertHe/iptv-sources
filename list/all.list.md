@@ -403,7 +403,7 @@
 | 397 | [HD]dtx | epg.pw | <https://epg.pw/stream/3af63f2a8332ea6e08fa8a8b9d23d0a22df3772c885f0d5f35d22992c91ac1f1.m3u8> |
 | 398 | [VGA]dua channel | epg.pw | <https://epg.pw/stream/a2becccd5e8156534b8931399b1bab9d580228b00f27cad2e89ee4fd36dbd00f.m3u8> |
 | 399 | [BD]dunia sinema hd | epg.pw | <https://epg.pw/stream/ddf54cadce8e92b387ceac6fd58787748b3e748e9cd32d4a03285cd6e1fe450f.m3u8> |
-| 400 | [HD]dunya news | epg.pw | <https://epg.pw/stream/da5d2773bba2c3ae52e66731c94586194244cdcd0263fcf6533adc2774e15667.m3u8> |
+| 400 | [BD]dunya news | epg.pw | <https://epg.pw/stream/da5d2773bba2c3ae52e66731c94586194244cdcd0263fcf6533adc2774e15667.m3u8> |
 | 401 | [SD]da vinci | epg.pw | <https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8> |
 | 402 | [BD]das erste | epg.pw | <https://epg.pw/stream/111b41504e849105102b9851ca490e9fd97b896851a99e3602f216c477fb9e97.m3u8> |
 | 403 | [HD]das erste hd | epg.pw | <https://epg.pw/stream/2d14a6bf57755b3bba7fe9bcd17cf6ba29ee704ca57846ce03fc4226f935450f.m3u8> |
@@ -856,7 +856,7 @@
 | 850 | [BD]axs tv now (1080p) | epg.pw | <https://epg.pw/stream/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8> |
 | 851 | [HD]globo sp | epg.pw | <https://epg.pw/stream/12605cfbe1ae02e931089f050e62745be0cccabac6e92c6cad9aea7637eb94b8.m3u8> |
 | 852 | [HD]vos tv (720p) | epg.pw | <https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8> |
-| 853 | [BD]sony movies | epg.pw | <https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8> |
+| 853 | [VGA]sony movies | epg.pw | <https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8> |
 | 854 | [BD]德国 ok dessau | epg.pw | <https://epg.pw/stream/f8971072c48052bd340770c0ac5d58e2dcdedb3a360a20914e17600d4a60b56a.m3u8> |
 | 855 | [BD]ok magdeburg | epg.pw | <https://epg.pw/stream/8c88b4aec07152d595f8b945d7a3c99d1a0eeab7d65e9d87a26e622a33638436.m3u8> |
 | 856 | [BD]德国 ok wernigerode | epg.pw | <https://epg.pw/stream/c8339e35991be737f6cc5eecdbeb4ff8ae8863b449bd58f27881e276907477b5.m3u8> |
@@ -1361,7 +1361,7 @@
 | 1355 | [HD]weathernation los angeles | epg.pw | <https://epg.pw/stream/9f0d07aad7ed92ef8f4d983b603dfff030bc2396274030e770f162ee4c1da055.m3u8> |
 | 1356 | [BD]Weathernews | epg.pw | <https://epg.pw/stream/0cf0120f7e30d48181a59c493ca9c540280027bccd530ecae51486fcfd81c606.m3u8> |
 | 1357 | [HD]webtv paraná | epg.pw | <https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf163829c01f4c8af83e3ad6650e883e912.m3u8> |
-| 1358 | [SD]welt | epg.pw | <https://epg.pw/stream/932d240ddb845e3ba0bffd018b0bf15e7f17ad773a0b7602064ff1e880eda522.m3u8> |
+| 1358 | [BD]welt der wunder tv | epg.pw | <https://epg.pw/stream/1b5f417e70ec7be138ae8a65a9ddaf33f087208c9e6c3e2bf723b13afd587c7a.m3u8> |
 | 1359 | [HD]wild 'n out | epg.pw | <https://epg.pw/stream/e7e7652d293b746926d18357cf094d94d6ef36789fe21a50676795885cc07d6d.m3u8> |
 | 1360 | [HD]workpoint tv | epg.pw | <https://epg.pw/stream/7743045788634f547e973fb89641b9024095f5bf888924ec3d252284576cb84c.m3u8> |
 | 1361 | [BD]world fishing network | epg.pw | <https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8> |
@@ -1869,4 +1869,4 @@
 | 1863 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1864 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Jun 08 2024 06:16:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 08 2024 08:14:39 GMT+0000 (Coordinated Universal Time)**

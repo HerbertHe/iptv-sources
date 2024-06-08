@@ -95,7 +95,7 @@ Movies,#genre#
 [BD]newtv惊悚悬疑[ipv6],https://epg.pw/stream/e58b03bfd507e0a80eabeca0e7c42e0204fcc777ae692448daa4b2f9ce4fe01e.m3u8
 [BD]newtv超级电影,https://epg.pw/stream/8b97f44358106b24174cb9f3d9354f29ce4011d518465dd5a8e7b76ec52c20d0.m3u8
 [HD]globo_sp,https://epg.pw/stream/12605cfbe1ae02e931089f050e62745be0cccabac6e92c6cad9aea7637eb94b8.m3u8
-[BD]sony_movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
+[VGA]sony_movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
 [HD]premiere_hd,https://epg.pw/stream/32c0712b127267f8927c677c4e4576f9b230c1a54798f0fc2215b22f28aa5b31.m3u8
 [HD]one_31,https://epg.pw/stream/a7dea70ed254e90ddc9d7f09dd08e17f20bbf313e226fe3070b0c458f3b18cb0.m3u8
 [BD]okto_tv_(1080p),https://epg.pw/stream/122d263bb30b5181c383286ff175a355571bb0addda7343f3c3f662d52308a41.m3u8
@@ -805,7 +805,7 @@ Generic,#genre#
 [BD]vocea_basarabiei_tv,https://epg.pw/stream/4b6a51e7dcab0883b090bb15eb076e1a8f4144c1ed5da783938c12347be391d3.m3u8
 [SD]wowow_live,https://epg.pw/stream/abd0f37a544a5d07cf2302fab8319c1f4be79ba88f88654ed9975a4d859546df.m3u8
 [BD]wanasah_(1080p),https://epg.pw/stream/4f15b29644f01097c624cccbc021cc9d37f0acfb5579b07971506d4476a0a1b4.m3u8
-[SD]welt,https://epg.pw/stream/932d240ddb845e3ba0bffd018b0bf15e7f17ad773a0b7602064ff1e880eda522.m3u8
+[BD]welt_der_wunder_tv,https://epg.pw/stream/1b5f417e70ec7be138ae8a65a9ddaf33f087208c9e6c3e2bf723b13afd587c7a.m3u8
 [HD]zdf_hd,https://epg.pw/stream/54a6a222954f0e5e0c2b9a9b71cb428c854df1fb965040486154e1f288fb0b43.m3u8
 [BD]alanwar_tv,https://epg.pw/stream/5cf9fdf0c93107ec62a8c836e181f6c1dc578ce9a79d5eb1b5856fe36d5a9b02.ctv
 [BD]amedia_1_hd,https://epg.pw/stream/084e427e700b28e2a2e6431f5388df0d9d763d3cf172ab2204d97846bc35f291.m3u8
@@ -1344,7 +1344,7 @@ News,#genre#
 [SD]home_drama_channel,https://epg.pw/stream/ba596832e8f9008bae3d17e45481c21368d983975550f682a2446c943c3181e5.m3u8
 [HD]30a_television_channel,https://epg.pw/stream/fa818e01d9ec26dbae457bad395de7941a0d898d944a42403d8291caf79e6492.m3u8
 [HD]the_craft_store_(720p),https://epg.pw/stream/2039243b4365f9341d887bc92503a21c2be5efa3f84551ff391935e65638b164.m3u8
-[HD]dunya_news,https://epg.pw/stream/da5d2773bba2c3ae52e66731c94586194244cdcd0263fcf6533adc2774e15667.m3u8
+[BD]dunya_news,https://epg.pw/stream/da5d2773bba2c3ae52e66731c94586194244cdcd0263fcf6533adc2774e15667.m3u8
 [SD]digi_24,https://epg.pw/stream/a4fc9ce1bf5764e5b56b2a6d96b185e12ab8aa74b6c4d7606d50242caa4af3d4.m3u8
 [HD]dijlah_tarab,https://epg.pw/stream/6a1c81a66a7b8f56a6ddd0ce57ba81e9c42cf7c46f5ecf9f670e5f9dbdcef0ce.m3u8
 [HD]dotto_tv,https://epg.pw/stream/5918f3e6a3744dfb92480240c6f233071d8cf12c7291777cc25f9582d998c732.m3u8
