@@ -8,7 +8,7 @@
 | 2 | [BD]cctv10 | epg.pw | <https://epg.pw/stream/33ea22757cba1b0db1f39c0b43548c021c847049eb781d27e3c96ce7edf818c9.m3u8> |
 | 3 | [SD]cctv11 | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
 | 4 | [BD]cctv12 | epg.pw | <https://epg.pw/stream/606785673559b89523ae9a7b643efa266ff08386ce678c2a204216cc78c3efdd.m3u8> |
-| 5 | [BD]cctv13 | epg.pw | <https://epg.pw/stream/df448f4501182889cd8f21f0cd0c9dcf0b152a34f0da0467b841e49cc44c065f.m3u8> |
+| 5 | [BD]cctv13 | epg.pw | <https://epg.pw/stream/069b3db18ed7e22abd36bc19d185900fc7b42b88e7ffb7c04bbec2300ed1aada.ctv> |
 | 6 | [BD]cctv14[ipv6] | epg.pw | <https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8> |
 | 7 | [SD]cctv15 | epg.pw | <https://epg.pw/stream/329b5587846f1679265191173697ccd184bb84d792d72f98aa739cb2d0d8bfbe.m3u8> |
 | 8 | [HD]cctv16 | epg.pw | <https://epg.pw/stream/90bfaec7908423d502fc444f46d6aa727f5b5d36f67d3492d2ddaa559108372e.m3u8> |
@@ -402,4 +402,4 @@
 | 396 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 397 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Jun 10 2024 08:17:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 10 2024 10:14:47 GMT+0000 (Coordinated Universal Time)**
