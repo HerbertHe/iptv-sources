@@ -1036,7 +1036,7 @@
 | 1030 | [HD]srf 1 hd | epg.pw | <https://epg.pw/stream/dcaed3c7322950f7a15f5cba9210711176efe9c356d9f43b8332b721e3b27ff9.m3u8> |
 | 1031 | [BD]srf | epg.pw | <https://epg.pw/stream/b180aa079ad0571a8b53687b68e0022cc6ae5b3a457647c517da6e4122f755a8.m3u8> |
 | 1032 | [HD]star channel | epg.pw | <https://epg.pw/stream/b2582e013e86d944398ab25381b9c1eba8f1766d28e064503f2f3887e1e297c1.m3u8> |
-| 1033 | [HD]star channel 2 | epg.pw | <https://epg.pw/stream/022664d17b33294e9767af6e3532131f02295b1fd933579a5faec21790c95b4c.m3u8> |
+| 1033 | [HD]star channel 2 | epg.pw | <https://epg.pw/stream/429f0cc48066e45f8d6d2d52637489b120d53414166ad072a97422b80503af73.m3u8> |
 | 1034 | [HD]star channel 3 | epg.pw | <https://epg.pw/stream/d5be925db554f89fd5faae1df741e0b5d155bcbc48e545c9295e611f26b24959.m3u8> |
 | 1035 | [HD]star (720p) | epg.pw | <https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
 | 1036 | [HD]studio universal | epg.pw | <https://epg.pw/stream/7e21796e4032df8e54ea4a93ab7e7bcbe6cec42f6d796daf670654731cac43cf.ctv> |
@@ -1375,7 +1375,7 @@
 | 1369 | [SD]iqra tv | epg.pw | <https://epg.pw/stream/95be3edb52a8a658f7dd65307e7ddbe94627c7acf4e4e0f2896e042aa1e1e6ae.m3u8> |
 | 1370 | [HD]best films hd | epg.pw | <https://epg.pw/stream/2f756616cbefeeebcd2ce9145fc49a7f736aeee3b2ac07ac268a3542388a53c2.m3u8> |
 | 1371 | [HD]halk tv | epg.pw | <https://epg.pw/stream/37ca92d9f2f4fc466c0654db41b1656cda56729e9a4207e7c93f23ce7b501e93.m3u8> |
-| 1372 | [VGA]i24 news arabic (720p) | epg.pw | <https://epg.pw/stream/aa7a2798883f801e0450ef55f854453f2d8235705ea0fe4223caf547a3ca3d7d.m3u8> |
+| 1372 | [SD]i24 news arabic (720p) | epg.pw | <https://epg.pw/stream/aa7a2798883f801e0450ef55f854453f2d8235705ea0fe4223caf547a3ca3d7d.m3u8> |
 | 1373 | [BD]idman | epg.pw | <https://epg.pw/stream/8eba6cc8cb028eb11920b553052f1a23b5bd8b57185de54f9b6971917095793e.m3u8> |
 | 1374 | [BD]inews | epg.pw | <https://epg.pw/stream/15745ac37203220d71916d0ae23a11cfb024bb6f2a2fec09adeff50208b7ccf7.m3u8> |
 | 1375 | [SD]ifilm 2 | epg.pw | <https://epg.pw/stream/7cabb48cda91ace02c0adf13ca071b4105890de42d665260ce944bc2bf505d94.m3u8> |
@@ -1877,4 +1877,4 @@
 | 1871 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1872 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jun 10 2024 22:13:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 11 2024 00:58:48 GMT+0000 (Coordinated Universal Time)**
