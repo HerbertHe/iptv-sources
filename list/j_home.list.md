@@ -52,4 +52,4 @@
 | 46 | CETV1中国教育电视台一套 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel33/1300.m3u8> |
 | 47 | CETV4空中课堂频道 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8> |
 
-Updated at **Wed Jun 12 2024 12:24:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 12 2024 14:12:18 GMT+0000 (Coordinated Universal Time)**
