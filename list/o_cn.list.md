@@ -8,7 +8,7 @@
 | 2 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 3 | Angel TV Chinese (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8> |
 | 4 | Ankang TV-1 News | IPv4 直链 | <http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8> |
-| 5 | BBC News Asia Pacific (720p) | cdns.jp-primehome.com:8000 | <http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15> |
+| 5 | BBC News Asia Pacific (720p) | cdn4.skygo.mn | <https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8> |
 | 6 | Beijing Traffic Radio TV | IPv4 直链 | <http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8> |
 | 7 | Beijing Youth Radio | audiolive.rbc.cn:1935 | <http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8> |
 | 8 | BesTV超级 (576p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8> |
@@ -539,4 +539,4 @@
 | 533 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 534 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Tue Jun 11 2024 22:12:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 12 2024 00:58:57 GMT+0000 (Coordinated Universal Time)**
