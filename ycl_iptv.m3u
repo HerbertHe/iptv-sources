@@ -205,6 +205,14 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-name="海南公共" group-title="地方",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1 group-title="地方",冀都新综
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="地方",冀都娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="地方",冀都生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="地方",冀都都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙经济
@@ -297,7 +305,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/wion.png" group-title="国际",Wion News
+#EXTINF:-1 group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
@@ -319,12 +327,8 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",TBS
-http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
@@ -333,14 +337,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",&Flix HD
-http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Wild Planet

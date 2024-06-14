@@ -107,74 +107,74 @@
 | 101 | 海南文旅 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS> |
 | 102 | 海南少儿 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS> |
 | 103 | 海南公共 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS> |
-| 104 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800> |
-| 105 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800> |
-| 106 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800> |
-| 107 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800> |
-| 108 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800> |
-| 109 | CHC影迷电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04> |
-| 110 | CHC家庭影院 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4> |
-| 111 | CHC动作电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ> |
-| 112 | 乐游频道 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 113 | 欢笑剧场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 114 | 法治天地 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 115 | 七彩戏剧 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 116 | 动漫秀场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 117 | 生活时尚 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 118 | 都市剧场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 119 | 金色学堂 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 120 | 求索纪录 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281> |
-| 121 | 求索科学 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281> |
-| 122 | 求索生活 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281> |
-| 123 | 求索动物 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281> |
-| 124 | 文物宝库 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ> |
-| 125 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
-| 126 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
-| 127 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
-| 128 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
-| 129 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
-| 130 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
-| 131 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
-| 132 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
-| 133 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
-| 134 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
-| 135 | 精品萌宠 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8> |
-| 136 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
-| 137 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
-| 138 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
-| 139 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
-| 140 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
-| 141 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
-| 142 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
-| 143 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
-| 144 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
-| 145 | CNN | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8> |
-| 146 | BBC | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8> |
-| 147 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
-| 148 | NBC News Now | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8> |
-| 149 | Sky News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8> |
-| 150 | Wion News | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
-| 151 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 152 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
-| 153 | Dubai One | dminnvll.cdn.mangomolo.com | <http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8> |
-| 154 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
-| 155 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
-| 156 | Bloomberg Asia | epg.pw | <https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8> |
-| 157 | Bloomberg Originals | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8> |
-| 158 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
-| 159 | GB News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8> |
-| 160 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
-| 161 | TBS | IPv4 直链 | <http://143.244.60.30/TBS/index.m3u8> |
-| 162 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
-| 163 | TRT World | tv-trtworld.live.trt.com.tr | <https://tv-trtworld.live.trt.com.tr/master_1080.m3u8> |
-| 164 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
-| 165 | ION Plus | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8> |
-| 166 | ION | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8> |
-| 167 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
-| 168 | Disney International | sansat.net:88 | <http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284> |
-| 169 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
-| 170 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 171 | &Flix HD | IPv4 直链 | <http://89.187.177.137:8081/&FLIX/index.m3u8> |
+| 104 | 冀都新综 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd> |
+| 105 | 冀都娱乐 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd> |
+| 106 | 冀都生活 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd> |
+| 107 | 冀都都市 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd> |
+| 108 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800> |
+| 109 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800> |
+| 110 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800> |
+| 111 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800> |
+| 112 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800> |
+| 113 | CHC影迷电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04> |
+| 114 | CHC家庭影院 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4> |
+| 115 | CHC动作电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ> |
+| 116 | 乐游频道 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 117 | 欢笑剧场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 118 | 法治天地 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 119 | 七彩戏剧 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 120 | 动漫秀场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 121 | 生活时尚 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 122 | 都市剧场 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 123 | 金色学堂 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 124 | 求索纪录 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281> |
+| 125 | 求索科学 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281> |
+| 126 | 求索生活 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281> |
+| 127 | 求索动物 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281> |
+| 128 | 文物宝库 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ> |
+| 129 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
+| 130 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
+| 131 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
+| 132 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
+| 133 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
+| 134 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
+| 135 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
+| 136 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
+| 137 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
+| 138 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
+| 139 | 精品萌宠 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8> |
+| 140 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
+| 141 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
+| 142 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
+| 143 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
+| 144 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
+| 145 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
+| 146 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
+| 147 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
+| 148 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
+| 149 | CNN | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8> |
+| 150 | BBC | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8> |
+| 151 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
+| 152 | NBC News Now | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8> |
+| 153 | Sky News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8> |
+| 154 | Wion News | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
+| 155 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 156 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
+| 157 | Dubai One | dminnvll.cdn.mangomolo.com | <http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8> |
+| 158 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
+| 159 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
+| 160 | Bloomberg Asia | epg.pw | <https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8> |
+| 161 | Bloomberg Originals | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8> |
+| 162 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
+| 163 | GB News | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8> |
+| 164 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
+| 165 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
+| 166 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
+| 167 | ION Plus | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8> |
+| 168 | ION | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8> |
+| 169 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
+| 170 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
+| 171 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
 | 172 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
 | 173 | Wild Planet | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8> |
 | 174 | Clarity 4K | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8> |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Fri Jun 14 2024 14:13:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 14 2024 16:15:22 GMT+0000 (Coordinated Universal Time)**
