@@ -23,8 +23,8 @@
 | 17 | CCTV-16 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8> |
 | 18 | CCTV-17 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8> |
 | 19 | CCTV-4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8> |
-| 20 | CGTN新闻 | w.yao87.com:4022 | <http://w.yao87.com:4022/udp/239.76.245.66:1234> |
-| 21 | CGTN纪录 | w.yao87.com:4022 | <http://w.yao87.com:4022/udp/239.76.245.67:1234> |
+| 20 | CGTN新闻 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2> |
+| 21 | CGTN纪录 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2> |
 | 22 | 兵器科技 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2> |
 | 23 | 第一剧场 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2> |
 | 24 | 风云足球 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2> |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Fri Jun 14 2024 12:24:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 14 2024 14:13:38 GMT+0000 (Coordinated Universal Time)**
