@@ -34,7 +34,7 @@
 | 28 | 文化精品 | mail.petzhu.top:7000 | <http://mail.petzhu.top:7000/rtp/239.254.201.229:7260> |
 | 29 | 凤凰中文 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23280_1.m3u8> |
 | 30 | 凤凰资讯 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23279_1.m3u8> |
-| 31 | 凤凰香港 | epg.pw | <https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8> |
+| 31 | 凤凰香港 | IPv4 直链 | <http://103.95.24.37:880/fhxgt.m3u8> |
 | 32 | 北京卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8> |
 | 33 | 东方卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8> |
 | 34 | 天津卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8> |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Fri Jun 14 2024 08:16:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 14 2024 10:13:42 GMT+0000 (Coordinated Universal Time)**
