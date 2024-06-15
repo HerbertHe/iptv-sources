@@ -32,8 +32,8 @@
 | 26 | 央视台球 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2> |
 | 27 | 央视高网 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2> |
 | 28 | 文化精品 | mail.petzhu.top:7000 | <http://mail.petzhu.top:7000/rtp/239.254.201.229:7260> |
-| 29 | 凤凰中文 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23280_1.m3u8> |
-| 30 | 凤凰资讯 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23279_1.m3u8> |
+| 29 | 凤凰中文 | IPv4 直链 | <http://103.95.24.37:880/fhws.m3u8> |
+| 30 | 凤凰资讯 | IPv4 直链 | <http://103.95.24.37:880/fhzx.m3u8> |
 | 31 | 凤凰香港 | IPv4 直链 | <http://103.95.24.37:880/fhxgt.m3u8> |
 | 32 | 北京卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8> |
 | 33 | 东方卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8> |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Sat Jun 15 2024 12:22:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 15 2024 14:11:48 GMT+0000 (Coordinated Universal Time)**
