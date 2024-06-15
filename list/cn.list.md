@@ -443,7 +443,7 @@
 | 437 | [VGA]湖南卫视 | stream.freetv.fun | <https://stream.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
 | 438 | [VGA]湖南都市 | stream.freetv.fun | <https://stream.freetv.fun/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv> |
 | 439 | [BD]湖南电影 | stream.freetv.fun | <https://stream.freetv.fun/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.m3u8> |
-| 440 | [HD]湖南电视剧 | stream.freetv.fun | <https://stream.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8> |
+| 440 | [SD]湖南电视剧 | stream.freetv.fun | <https://stream.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8> |
 | 441 | [HD]平湖新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8> |
 | 442 | [VGA]湘潭公共 | stream.freetv.fun | <https://stream.freetv.fun/0ad3314d33c744b84bf595fb5d1afaad1416a21eb2594f260e62df85ac247eb0.m3u8> |
 | 443 | [VGA]湘潭新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/1339b25bb4b8c5e7ca8e89b7759e249511077cfd06283fb502e1329ff74b712e.m3u8> |
@@ -622,4 +622,4 @@
 | 616 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 617 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat Jun 15 2024 16:16:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 15 2024 18:17:05 GMT+0000 (Coordinated Universal Time)**
