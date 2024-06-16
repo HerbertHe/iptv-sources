@@ -10,7 +10,7 @@
 | 4 | [SD]cctvnews | stream.freetv.fun | <https://stream.freetv.fun/0866222a6bd6679e584d645784a8621d4e67a00a01171a512ee5b8bba148e7aa.m3u8> |
 | 5 | [HD]cctv-4国际 | stream.freetv.fun | <https://stream.freetv.fun/832b0c9a35fabdb4e691094648a6a98c4e7e487668685441742a27454bfd8bd9.m3u8> |
 | 6 | [HD]cctv俄语 | stream.freetv.fun | <https://stream.freetv.fun/30619b9aee973db0f502be74f1c741f50f391fc11fbe81fd43c51966626b5e79.ctv> |
-| 7 | [VGA]cctv11-戏曲 | stream.freetv.fun | <https://stream.freetv.fun/3c5720a09d1fa7eb4a40e5c37bbf4e65308d5b767513a24d51aa59dd090e385a.m3u8> |
+| 7 | [BD]cctv11-戏曲 | stream.freetv.fun | <https://stream.freetv.fun/3c5720a09d1fa7eb4a40e5c37bbf4e65308d5b767513a24d51aa59dd090e385a.m3u8> |
 | 8 | [HD]cctv阿拉伯语 | stream.freetv.fun | <https://stream.freetv.fun/7f15651627ffa00ae6cfc4fc6432aa48f436117b6a4c3f8de586a5c044523d95.ctv> |
 | 9 | [BD]cctv1 | stream.freetv.fun | <https://stream.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.m3u8> |
 | 10 | [BD]cctv10[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d737df451cd90.m3u8> |
@@ -37,7 +37,7 @@
 | 31 | [BD]cctv-9 | stream.freetv.fun | <https://stream.freetv.fun/86d5fa07534e30fe4105d84d72af0f06deb7673cac8a42b4e12fd3894fb72550.m3u8> |
 | 32 | [BD]cctv世界地理 | stream.freetv.fun | <https://stream.freetv.fun/8dcd3c4f7162eb65ef10eb0117cba771d8330c4a28407d9c811a1739671eb13f.ctv> |
 | 33 | [BD]cctv兵器科技[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8> |
-| 34 | [SD]cctv7国防军事 | stream.freetv.fun | <https://stream.freetv.fun/e7db8539118559b0f7b6d867bf77a8fc496b6ca0668cf41a2cf2bb1afb47f432.m3u8> |
+| 34 | [SD]cctv7国防军事 | stream.freetv.fun | <https://stream.freetv.fun/ca9bf41f3a9f4e06e20200034fa186fa8a1edd2e8fb11f993830d08e19585d3d.m3u8> |
 | 35 | [BD]cctv 文化精品 | stream.freetv.fun | <https://stream.freetv.fun/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.ctv> |
 | 36 | [BD]cctv 央视台球[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8> |
 | 37 | [BD]cctv女性时尚 | stream.freetv.fun | <https://stream.freetv.fun/8f2be5fe197179fbb9d77e542fe3e91e3bb658790794d2d59e46ed3396aa29b9.ctv> |
@@ -113,7 +113,7 @@
 | 107 | [HD]佛山综合 | stream.freetv.fun | <https://stream.freetv.fun/113f4826ae1bd5f09abaf62679abd28fbdd95fc9fc20307f3833633c6c66d4d2.ctv> |
 | 108 | [HD]佛山顺德 | stream.freetv.fun | <https://stream.freetv.fun/fcc18f695a93ba59da10b06c0a4343ca22c71a726800cd162e98d31f8b31d7e0.ctv> |
 | 109 | [HD]康定新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/0ffbc753d196337847675af05336c0ceea979ac78aa55f17350f57dd32d355e5.m3u8> |
-| 110 | [VGA]保定生活健康 | stream.freetv.fun | <https://stream.freetv.fun/e8bd0fa85686c285051e470a05ecbbe3fc0bc7f5a754e458572baaa47744c4ff.m3u8> |
+| 110 | [SD]保定生活健康 | stream.freetv.fun | <https://stream.freetv.fun/e8bd0fa85686c285051e470a05ecbbe3fc0bc7f5a754e458572baaa47744c4ff.m3u8> |
 | 111 | [BD]信阳综合 | stream.freetv.fun | <https://stream.freetv.fun/6a0809ba49366e79d2aee93f1fb2aaedf0a6d21a4738a632a1e8b71b8e67f09e.m3u8> |
 | 112 | [SD]优漫卡通[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8> |
 | 113 | [SD]先锋乒羽 | stream.freetv.fun | <https://stream.freetv.fun/83b2fe417db849436600b7ab59aab62f22d09391426fdcd21fec4cf0cc9930b5.ctv> |
@@ -597,4 +597,4 @@
 | 591 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 592 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Jun 16 2024 14:11:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 16 2024 16:14:33 GMT+0000 (Coordinated Universal Time)**
