@@ -129,7 +129,7 @@
 [BD]梅州综合,https://stream.freetv.fun/a9929c250f4886855160fd765fd58c44495264aae3afefc773535f5c5fde5914.ctv
 [SD]枣庄公共频道,https://stream.freetv.fun/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8
 [BD]汕尾综合1080p,https://stream.freetv.fun/7ee0220c223315991aab21d123349cd1560a2c6a3ed98478e29c69e8389637b2.ctv
-[BD]汕头综合,https://stream.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
+[BD]汕头综合1080p,https://stream.freetv.fun/7a8c6046d18d03230cbc1aa4a17ba1572fbd72b1705f1ce75d8fd10dbd78f00b.ctv
 [BD]江苏城市,https://stream.freetv.fun/382af609ebebedcd3beff96d1a1690f0d93113599507454e0695a2d002ae7623.ctv
 [BD]江苏卫视,https://stream.freetv.fun/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
 [HD]江西公共,https://stream.freetv.fun/8f30d15daed386d5c15ab43669d8e28864d599d0b0ab16414e2a5ebce05bb768.m3u8
@@ -291,7 +291,6 @@
 [VGA]湘潭新闻综合,https://stream.freetv.fun/1339b25bb4b8c5e7ca8e89b7759e249511077cfd06283fb502e1329ff74b712e.m3u8
 [SD]漳浦综合,https://stream.freetv.fun/ced76c07c7151a939f0e7f281532a51f34da2e24fc3e8bc170e5e989d49ddc12.m3u8
 [HD]蓬安新闻综合,https://stream.freetv.fun/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8
-[VGA]济南新闻,https://stream.freetv.fun/ca2f5079fee287a1c1534ec031fab4d8aa35fe155130c7740d3b8adfdeeca67c.ctv
 [BD]济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 [BD]滨海新闻综合,https://stream.freetv.fun/32cb4e15a80f4d13c36e97c42bf47ee572ba3816d6087bc1e07fecbc2e3a70c8.ctv
 [SD]富阳新闻综合,https://stream.freetv.fun/184765df59a5f2ec47a324d683f98b89feb48a64bfeafeef5702b2aa982c051f.m3u8
@@ -559,7 +558,7 @@
 运动,#genre#
 [HD]cctv16,https://stream.freetv.fun/90bfaec7908423d502fc444f46d6aa727f5b5d36f67d3492d2ddaa559108372e.m3u8
 [BD]cctv5[ipv6],https://stream.freetv.fun/3ed9341237260a09900c248ff826ccf81261cd09ae271204977923af44d83947.m3u8
-[BD]cctv5,https://stream.freetv.fun/30b5057144df998642e4e5fadca27edde2f06387a34dc26b5c6b6db6bbdaba7a.m3u8
+[BD]cctv5-体育,https://stream.freetv.fun/d9e148fdff7597b0727f7bcadb5cb9da59ec38ddde8d7cd675a45f66f048518c.m3u8
 [SD]cctv5+[ipv6],https://stream.freetv.fun/7af3bda5e82b9a70b557cd982a25e9b06490881a5e7a06f2f2027cdf1d8cf065.m3u8
 [BD]cctv_央视台球[ipv6],https://stream.freetv.fun/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 [BD]cctv风云足球,https://stream.freetv.fun/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.m3u8
@@ -595,7 +594,7 @@
 
 知识,#genre#
 [BD]cctv-9,https://stream.freetv.fun/86d5fa07534e30fe4105d84d72af0f06deb7673cac8a42b4e12fd3894fb72550.m3u8
-[BD]cctv世界地理,https://stream.freetv.fun/8dcd3c4f7162eb65ef10eb0117cba771d8330c4a28407d9c811a1739671eb13f.ctv
+[BD]cctv世界地理,https://stream.freetv.fun/844fc263d51e6ccc1001b98fabd09b357be8b8839d9771d6277bb7b03e6b66fe.m3u8
 [VGA]cgtn_documentary,https://stream.freetv.fun/6d34bb468001fdfe56553b6fa75a5ff1b3583f303f5d8b1a35ca95e2938220d4.ctv
 [BD]newtv精品纪录[ipv6],https://stream.freetv.fun/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8
 [BD]上海纪实[ipv6],https://stream.freetv.fun/8ac1ae4645256326dd6c40921eef849353e2016519743a1b8eb8ee5a96867948.m3u8
