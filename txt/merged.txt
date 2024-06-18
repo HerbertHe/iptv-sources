@@ -82,7 +82,7 @@ Movies,#genre#
 [HD]hbo_family_china_sub,https://stream.freetv.fun/a3ed3710de496758f4312c29780469d55b194a375acc379d8360750a5cc1283e.ctv
 [BD]hbo_family_hd,https://stream.freetv.fun/098cd934c1ea9ec594186561bc0020689b1db99a4dbaec1baa8174772af2df10.ctv
 [BD]hbo_hd,https://stream.freetv.fun/45da6dd2e8207334bc7c9b0d6f688cdd11da8c1e3cc2d53302e641ec3372da58.ctv
-[HD]HBO_HITS,https://stream.freetv.fun/29d780907660af2b300a62458e32ca4b07f04d6ebe75fe69947ab1a2e56bfbbf.ctv
+[HD]HBO_HITS,https://stream.freetv.fun/d61e372ad5755e235a651a4901f6e8cb2b22b01a1fbd7d5379fe5038f31996f7.ctv
 [VGA]hbo_hits,https://stream.freetv.fun/6ed172d342d02d16b56fe723091787313f2e7cadfb92ce604fe39057f9f939af.ctv
 [BD]travelxp_netherlands,https://stream.freetv.fun/53e62294ee965e9234d47cf2f3288922200c1a51603cb6bff8b668b5ad29ac70.m3u8
 [VGA]hbo_plus,https://stream.freetv.fun/ab3a170b34c9550c87def7472e6d2b7da09a66bb6a5634b4320f991e73faaadb.m3u8
@@ -1263,7 +1263,7 @@ Knowledge,#genre#
 [BD]cafetv24_veneto,https://stream.freetv.fun/c4040386cd485d7cd5c622ee0d02bc0c08f4c69d62fd5beddbd8dda7a57085a0.m3u8
 [HD]3sat_hd,https://stream.freetv.fun/525e92bdd275ea21d0d056b75cc1773a98674717a9742824866fd2f09ed2a6ac.m3u8
 [BD]amazing_discoveries_tv,https://stream.freetv.fun/a473d839315eba554030b8215773d27c228c4855f78b91c2dbff1396dabbed9d.m3u8
-[BD]animal_planet,https://stream.freetv.fun/33210aafc6ca01d9c090ab1bda025dacfef5db6da209935511717ddd325edd04.m3u8
+[HD]ช่อง_animal_planet,https://stream.freetv.fun/d3eb427465a5eef77eb2a544861dbd370ff2565a822db442e61b2996a8f289df.ctv
 [HD]bbc_earth,https://stream.freetv.fun/9da1ad4525b15b0512a4b8baa84cb38e7604910d0a0417691348d65fe852d945.m3u8
 [BD]this_is_bulgaria_hd_(1080p),https://stream.freetv.fun/a45cd92abc8b188ad369c9a0ffd38591b4bf8d9edcea80a33b225e6c0e23f32c.m3u8
 [VGA]canal_savoir,https://stream.freetv.fun/e442714b66fdb976381509d2800b3c5d5aa378dfecfc0f6d82f9533af27a6e78.m3u8
@@ -1688,7 +1688,7 @@ News,#genre#
 [HD]92_news,https://stream.freetv.fun/c49c9acc3efc41093b012ae7149e7cc1d737c7b5cc51d2aea047bca7111f3970.m3u8
 [HD]tv9_telugu,https://stream.freetv.fun/1299da931e816f328e8c3f1387a15c537806635227baee5057c0458caa64f61e.m3u8
 [VGA]aaj_tak,https://stream.freetv.fun/7a5b2b0f0dff95940f25312e999bad78add2c31ed7adbbb8b8f4cf9802c27074.m3u8
-[SD]23_abc_(kero),https://stream.freetv.fun/ea48fd6a6ccf4b3cfdb0db91c4ea913429bae67ce10ad4172a34329f42447732.m3u8
+[HD]abc_7,https://stream.freetv.fun/08d68c92577facbf750f38204867965453a4253b173b2123c55de8fee0f168c5.ctv
 [HD]abc_australia,https://stream.freetv.fun/1b6285653f4fe5545e4e4aa4811354a8f5cd2f673fff51e9eb7ed879c91f450a.ctv
 [HD]abc_hd,https://stream.freetv.fun/a7b8cbc7b04b772f5ccce5a53697dcd71bceeacbb743804b42ca4d8e1829c0ac.m3u8
 [HD]abc_news_us,https://stream.freetv.fun/5af00900afe22713a00ca927c7e3deb22ef347a2ca9019eef9d42e020f1c7574.m3u8
@@ -2541,7 +2541,8 @@ Kids,#genre#
 [HD]龙华动画,https://stream.freetv.fun/34f3bb82caad54b71cadb2be5e93bad19b2655c66bf397791e66a5030576e675.ctv
 
 Music,#genre#
-[BD]cctv15,https://stream.freetv.fun/6f28a65b45b8576f65b6502e1d07edd0ef3e0956da0f25493c01114dc9fd5f61.m3u8
+[BD]cctv15[ipv6],https://stream.freetv.fun/4974eff58acc19c287446abc265703375f2e0c3b3c78e483e9c67707ea9f305b.m3u8
+[BD]rama_channel,https://stream.freetv.fun/19424da4b391c17147743657e8f9ead864e7dc553e7ef4d105e830b5c859bef5.m3u8
 [SD]MTV_Base,https://stream.freetv.fun/f4c4618782faf817c908544d2224cc27c9de5cceb67f4ea6415b6f79265e928e.ctv
 [BD]mtv_hd,https://stream.freetv.fun/16725b68b507291dd056d5445ef650ab817d913fe39c723efe412c96c9a907ce.ctv
 [SD]mtv_japan,https://stream.freetv.fun/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8
@@ -3168,7 +3169,7 @@ Test,#genre#
 [BD]黑龙江影视_8m1080,https://stream.freetv.fun/2b6af76ec639c5dec60b79d46668472d9e2efabb9691fc1236aa49e1830e80f4.m3u8
 
 音乐,#genre#
-[BD]cctv15,https://stream.freetv.fun/6f28a65b45b8576f65b6502e1d07edd0ef3e0956da0f25493c01114dc9fd5f61.m3u8
+[BD]cctv15[ipv6],https://stream.freetv.fun/4974eff58acc19c287446abc265703375f2e0c3b3c78e483e9c67707ea9f305b.m3u8
 
 知识,#genre#
 [BD]cctv-9,https://stream.freetv.fun/86d5fa07534e30fe4105d84d72af0f06deb7673cac8a42b4e12fd3894fb72550.m3u8

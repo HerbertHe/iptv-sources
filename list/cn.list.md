@@ -20,7 +20,7 @@
 | 14 | [BD]cctv12[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8> |
 | 15 | [BD]cctv13 | stream.freetv.fun | <https://stream.freetv.fun/c92658f2e78926bac3fafe31855e6ef360b3e25e974deae70e74d425dcb4b2c1.m3u8> |
 | 16 | [BD]cctv14[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8> |
-| 17 | [BD]cctv15 | stream.freetv.fun | <https://stream.freetv.fun/6f28a65b45b8576f65b6502e1d07edd0ef3e0956da0f25493c01114dc9fd5f61.m3u8> |
+| 17 | [BD]cctv15[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/4974eff58acc19c287446abc265703375f2e0c3b3c78e483e9c67707ea9f305b.m3u8> |
 | 18 | [HD]cctv16 | stream.freetv.fun | <https://stream.freetv.fun/90bfaec7908423d502fc444f46d6aa727f5b5d36f67d3492d2ddaa559108372e.m3u8> |
 | 19 | [BD]cctv17[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8> |
 | 20 | [BD]cctv2[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8> |
@@ -608,4 +608,4 @@
 | 602 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 603 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Tue Jun 18 2024 02:29:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 18 2024 04:15:44 GMT+0000 (Coordinated Universal Time)**
