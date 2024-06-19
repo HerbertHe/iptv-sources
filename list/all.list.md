@@ -103,7 +103,7 @@
 | 97 | [HD]astro prima | stream.freetv.fun | <https://stream.freetv.fun/85cc74caae51a97d19e510e870ee1e3e18fc1f3535b318d7d2d3738cac114f6e.ctv> |
 | 98 | [HD]Astro Ria | stream.freetv.fun | <https://stream.freetv.fun/75edf61dae1ed50f002bf04b39ab632eba441979c23d4ef74fa281bdc923ad91.ctv> |
 | 99 | [HD]astro rania | stream.freetv.fun | <https://stream.freetv.fun/0cdc22f7493e31943ef0a6a5b8c61e53389d5a9f18794648583eb450d5f90f6e.ctv> |
-| 100 | [SD]ASTRO WARNA | stream.freetv.fun | <https://stream.freetv.fun/45a0b14b03a340d39f1e8519dbc0cd181c36300a0449aa4bf4113222b8640d26.ctv> |
+| 100 | [SD]ASTRO WARNA | stream.freetv.fun | <https://stream.freetv.fun/2af71ac46d370cb711f731cd19abb88d94e329b1065f0d4ed091fd72fd8b062f.ctv> |
 | 101 | [BD]ASTRO 华丽台 | stream.freetv.fun | <https://stream.freetv.fun/08a4cf76c196813d9db8b5d65c610c4def2550510f3a03cc48bb84587d76d7c5.ctv> |
 | 102 | [HD]at-x | stream.freetv.fun | <https://stream.freetv.fun/8d15f34d967e538bf36bad5813b35c62ff85d417ffbd5ea50f5fdf20707a23b4.m3u8> |
 | 103 | [HD]tvri world | stream.freetv.fun | <https://stream.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
@@ -2618,4 +2618,4 @@
 | 2612 | [BD]소상공인방송 | stream.freetv.fun | <https://stream.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2613 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Jun 19 2024 08:16:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 19 2024 10:14:31 GMT+0000 (Coordinated Universal Time)**
