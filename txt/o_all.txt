@@ -1545,7 +1545,7 @@ Zurquí_TV_(720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpam
 Мир_+2_(540p)_[Not_24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Мир_+4_(540p)_[Not_24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 Мир_+7_(540p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-НТВ,http://cdn.ntv.ru/ntv0/playlist.m3u8
+НТВ,https://cdn.ntv.ru/ntv0/playlist.m3u8
 НТВ-Беларусь,http://82.209.197.187:8080/udp/239.0.100.6:1234
 НТК_ТВ_(1080p)_[Not_24/7],https://stream.ntktv.ua/s/ntk/ntk.m3u8
 ОНТ_(576p)_[Not_24/7],https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
@@ -5417,16 +5417,16 @@ Zylo_ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Наука_2.0,http://stream01.vnet.am/Nauka/mono.m3u8
 Наше_ТВ_(Витебск)_(576p),http://95.46.208.8:26259/nashe
 НВК_Саха_(1080p)_[Not_24/7],https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-Неизвестная_Россия,http://cdn.ntv.ru/unknown_russia/playlist.m3u8
+Неизвестная_Россия,https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Нижний_Новгород_24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 Ника_ТВ_(576p)_[Not_24/7],https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 Новое_телевидение_(576p)_[Not_24/7],http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-НТВ_+1,http://cdn.ntv.ru/ntv1/playlist.m3u8
-НТВ_+2,http://cdn.ntv.ru/ntv2/playlist.m3u8
-НТВ_+4,http://cdn.ntv.ru/ntv4/playlist.m3u8
-НТВ_+7,http://cdn.ntv.ru/ntv7/playlist.m3u8
+НТВ_+1,https://cdn.ntv.ru/ntv1/playlist.m3u8
+НТВ_+2,https://cdn.ntv.ru/ntv2/playlist.m3u8
+НТВ_+4,https://cdn.ntv.ru/ntv4/playlist.m3u8
+НТВ_+7,https://cdn.ntv.ru/ntv7/playlist.m3u8
 НТВ_Мир,http://stream02.vnet.am/HTB/mono.m3u8
-НТВ_Право,http://cdn.ntv.ru/th_pravo/playlist.m3u8
+НТВ_Право,https://cdn.ntv.ru/th_pravo/playlist.m3u8
 НТМ_(Народное_телевидение_Мордовии)_(720p)_[Not_24/7],https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 НТН_(576p),https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
 НТС_(Севастополь)_(1080p)_[Not_24/7],https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
@@ -8474,7 +8474,7 @@ Vanity_Fair_(720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfa
 Vogue_(720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 Wapp_(1080p),https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 ЖИВИ!,http://streaming.tv-teleport.ru/Zhivi/index.m3u8
-НТВ_Стиль,http://cdn.ntv.ru/th_hit/playlist.m3u8
+НТВ_Стиль,https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 Series,#genre#
 9Rush_(720p),https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
@@ -8633,8 +8633,8 @@ TV_Series_1_As_Panteras_(480p),https://stmv1.srvif.com/tvserie/tvserie/playlist.
 TVE_Star_HD_(1080p),https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 Walker_Texas_Ranger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
 XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-НТВ_Сериал,http://cdn.ntv.ru/th_serial/playlist.m3u8
-НТВ_Хит,http://cdn.ntv.ru/th_style/playlist.m3u8
+НТВ_Сериал,https://cdn.ntv.ru/th_serial/playlist.m3u8
+НТВ_Хит,https://cdn.ntv.ru/th_style/playlist.m3u8
 
 Lifestyle;Relax,#genre#
 10_Bold_(720p),https://i.mjh.nz/10bold-nsw.m3u8
