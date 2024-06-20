@@ -830,7 +830,7 @@
 | 824 | [VGA]hbo 2 | stream.freetv.fun | <https://stream.freetv.fun/a58fb939e95a931316e724be4d8412e1732a30b732530fbe22358af1be2555fa.ctv> |
 | 825 | [BD]hbo 2 hd | stream.freetv.fun | <https://stream.freetv.fun/97a7107818b3ac16730435a86e061fd3fdbfaf49f1a1a5c0edc289f2ab617d45.ctv> |
 | 826 | [HD]hbo 3 | stream.freetv.fun | <https://stream.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
-| 827 | [BD]HBO Comedy | stream.freetv.fun | <https://stream.freetv.fun/d1463b641ee449c6923e66ebb5adfa0da22f3d0c170cb3153ce73fef541ca49b.ctv> |
+| 827 | [BD]HBO Comedy | stream.freetv.fun | <https://stream.freetv.fun/e1ca8f7b7d0b874edf6f7c6b3a8a2f58485040a6d6ba2eba8e525d67d124bfe6.ctv> |
 | 828 | [HD]hbo 2 east | stream.freetv.fun | <https://stream.freetv.fun/3f1cb397a5f371604685e6e47ffd22434f3425ea94c96367cff7eb8ed72134d4.m3u8> |
 | 829 | [VGA]hbo family | stream.freetv.fun | <https://stream.freetv.fun/6b2946c9fe4dea6f041b1fcf732697bce9060a35f9e72f54046c0461c38c6bb4.m3u8> |
 | 830 | [BD]hbo family hd | stream.freetv.fun | <https://stream.freetv.fun/098cd934c1ea9ec594186561bc0020689b1db99a4dbaec1baa8174772af2df10.ctv> |
@@ -2929,4 +2929,4 @@
 | 2923 | [BD]소상공인방송 | stream.freetv.fun | <https://stream.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2924 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Jun 20 2024 10:13:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 20 2024 12:24:19 GMT+0000 (Coordinated Universal Time)**
