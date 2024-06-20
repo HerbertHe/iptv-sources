@@ -119,17 +119,17 @@ https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="地方",第一财经
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="东方财经" group-title="地方",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="地方",东方财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="东方影视" group-title="地方",东方影视
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="地方",第一财经
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海都市" group-title="地方",上海都市
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海新闻" group-title="地方",上海新综
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新综
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海外语" group-title="地方",上海外语
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="地方",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -139,34 +139,46 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南爱晚.png" group-title="地方",湖南爱晚
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电视剧.png" group-title="地方",湖南视剧
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方",湖南视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电影.png" group-title="地方",湖南电影
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方",湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南都市.png" group-title="地方",湖南都市
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="地方",湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南国际.png" group-title="地方",湖南国际
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="地方",湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南经视.png" group-title="地方",湖南经视
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方",湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png" group-title="地方",湖南娱乐
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方",湖南娱乐
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南教育台.png" group-title="地方",湖南教育
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="地方",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="地方",湖北综合
+#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei1.png" group-title="地方",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北影视.png" group-title="地方",湖北影视
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei2.png" group-title="地方",湖北影视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北教育.png" group-title="地方",湖北教育
+#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei3.png" group-title="地方",湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北生活.png" group-title="地方",湖北生活
+#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei4.png" group-title="地方",湖北生活
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北公共新闻.png" group-title="地方",湖北公共
+#EXTINF:-1 tvg-id="湖北公共新闻" tvg-name="湖北公共" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei5.png" group-title="地方",湖北公共
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北经视.png" group-title="地方",湖北经视
+#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei6.png" group-title="地方",湖北经视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
+#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hubei7.png" group-title="地方",湖北垄上
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+#EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="地方",甘肃经济
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
+#EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方",甘肃公共
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000325/index.m3u8?
+#EXTINF:-1 tvg-id="GS03" tvg-name="甘肃都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu1.png" group-title="地方",甘肃都市
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
+#EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu4.png" group-title="地方",甘肃少儿
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
+#EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu3.png" group-title="地方",甘肃文化
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="地方",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="地方",黑莓动画
@@ -187,32 +199,24 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" group-title="地方",龙江文体
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="地方",龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" group-title="地方",龙江都市
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="地方",龙江都市
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" group-title="地方",龙江少儿
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang6.png" group-title="地方",龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江文化" group-title="地方",龙江文化
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" group-title="地方",龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="地方",龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-name="海南自贸" group-title="地方",海南自贸
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan2.png" group-title="地方",海南新闻
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan6.png" group-title="地方",海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南文旅" group-title="地方",海南文旅 
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="地方",海南文旅 
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南少儿" group-title="地方",海南少儿 
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="地方",海南少儿 
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南公共" group-title="地方",海南公共
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="地方",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 group-title="地方",冀都新综
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="地方",冀都娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="地方",冀都生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="地方",冀都都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙经济
