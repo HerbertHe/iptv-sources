@@ -4,32 +4,32 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | CCTV-1综合 | event.pull.hebtv.com | <https://event.pull.hebtv.com/jishi/cp3.m3u8> |
+| 1 | CCTV-1综合 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/index.m3u8> |
 | 2 | CCTV-2财经 | liveop.cctv.cn | <http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8> |
 | 3 | CCTV-3综艺 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8> |
 | 4 | CCTV-4中文国际 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8> |
-| 5 | CCTV-5体育 | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8> |
-| 6 | CCTV-5+体育赛事 | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8> |
-| 7 | CCTV-6电影 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8> |
+| 5 | CCTV-5体育 | IPv4 直链 | <http://113.200.75.119:1688/hls/1005/index.m3u8> |
+| 6 | CCTV-5+体育赛事 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8> |
+| 7 | CCTV-6电影 | IPv4 直链 | <http://120.211.119.222:8899/hls/6/index.m3u8> |
 | 8 | CCTV-7国防军事 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8> |
 | 9 | CCTV-8电视剧 | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8> |
 | 10 | CCTV-9纪录 | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8> |
-| 11 | CCTV-10科教 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8> |
+| 11 | CCTV-10科教 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/2300.m3u8> |
 | 12 | CCTV-11戏曲 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8> |
 | 13 | CCTV-12社会与法 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8> |
-| 14 | CCTV-13新闻 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/1300.m3u8> |
+| 14 | CCTV-13新闻 | event.pull.hebtv.com | <https://event.pull.hebtv.com/jishi/cp4.m3u8> |
 | 15 | CCTV-14少儿 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8> |
 | 16 | CCTV-15音乐 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8> |
-| 17 | CCTV-17农业农村 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/1300.m3u8> |
+| 17 | CCTV-17农业农村 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/2300.m3u8> |
 | 18 | CCTV-4K超高清 | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8> |
-| 19 | 北京卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/1300.m3u8> |
+| 19 | 北京卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8> |
 | 20 | 东方卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8> |
 | 21 | 天津卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/1300.m3u8> |
-| 22 | 重庆卫视 | sjlivecdn9.cbg.cn | <https://sjlivecdn9.cbg.cn/202406221019/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
-| 23 | 吉林卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8> |
+| 22 | 重庆卫视 | sjlivecdn9.cbg.cn | <https://sjlivecdn9.cbg.cn/202406221220/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 23 | 吉林卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/2300.m3u8> |
 | 24 | 辽宁卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/1300.m3u8> |
 | 25 | 宁夏卫视 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8> |
-| 26 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1873c3ec1719022946> |
+| 26 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8> |
 | 27 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-uAGMRT.m3u8> |
 | 28 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/z3sq5R0.m3u8> |
 | 29 | 山东卫视 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8> |
@@ -44,15 +44,15 @@
 | 38 | 深圳卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8> |
 | 39 | 广西卫视 | mobilelive.gxtv.cn | <https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8> |
 | 40 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
-| 41 | 贵州卫视 | 9bwaz8y2.gzstv.com | <http://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=ee655961eeb76517c73394a7088173d9&txTime=667648F8> |
-| 42 | 四川卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8> |
+| 41 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=cd0c3a6a1726e516ab7f56ebc540d6c4&txTime=66765057> |
+| 42 | 四川卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/2300.m3u8> |
 | 43 | 新疆卫视 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8> |
 | 44 | 兵团卫视 | 兵团在线网站 | <https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8> |
-| 45 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=b175fde5a833a31bb951ec4d267d93a7&time=66764e0b> |
+| 45 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ca44cff980f1af9346429440b56b807f&time=66765668> |
 | 46 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=92b6c2e81719034236> |
-| 47 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=31b539871719030177> |
+| 47 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=8ccc41dc1719037383> |
 | 48 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 49 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 50 | CETV4空中课堂频道 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8> |
 
-Updated at **Sat Jun 22 2024 04:14:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 22 2024 06:17:30 GMT+0000 (Coordinated Universal Time)**
