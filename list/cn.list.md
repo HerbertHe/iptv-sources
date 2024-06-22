@@ -75,7 +75,7 @@
 | 69 | [VGA]1905电影 | stream.freetv.fun | <https://stream.freetv.fun/61392fc1ae021454a811ebaaea81d561535e945a9b8f56481f49e2a76d111f72.ctv> |
 | 70 | [VGA]ebs少儿 | stream.freetv.fun | <https://stream.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999a9d411d1cd276e1bc7681.m3u8> |
 | 71 | [BD]newtv中国功夫[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/b369393f24743f52a076fce406a3366109e03981cfb05aa3f1f32a2fd9f2acc2.m3u8> |
-| 72 | [BD]newtv动作电影 | stream.freetv.fun | <https://stream.freetv.fun/cd45c9084dc87d55ffc777cf4b47a0f93d6ea1565e97185673f070207f7cdb25.m3u8> |
+| 72 | [BD]newtv动作电影[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/64ae14c9b37f1a130d501e4907333418bb690e75119714ef911d3201d70f47cd.m3u8> |
 | 73 | [BD]newtv古装剧场 | stream.freetv.fun | <https://stream.freetv.fun/87b410a4d03daf80d3bc0114e5df6f63bc21382a23f1d1aab0772e9f838af38f.m3u8> |
 | 74 | [BD]newtv家庭剧场[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/879f1fe20cbbe59e7575563f6683a629d66e588b919d4aa4ea62ef6437097644.m3u8> |
 | 75 | [BD]newtv爱情喜剧 | stream.freetv.fun | <https://stream.freetv.fun/a93310f76ba5b160fa55d4b9b5bf78c239981ce43ecdb44984a0492e26aaf425.m3u8> |
@@ -675,4 +675,4 @@
 | 669 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 670 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat Jun 22 2024 16:15:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 22 2024 18:15:55 GMT+0000 (Coordinated Universal Time)**
