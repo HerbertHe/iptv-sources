@@ -808,7 +808,7 @@
 | 802 | [BD]hbo 2 hd | stream.freetv.fun | <https://stream.freetv.fun/97a7107818b3ac16730435a86e061fd3fdbfaf49f1a1a5c0edc289f2ab617d45.ctv> |
 | 803 | [HD]hbo 3 | stream.freetv.fun | <https://stream.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
 | 804 | [BD]hbo comedy | stream.freetv.fun | <https://stream.freetv.fun/0c493268d37cad81d6e08895ec61e8591018a479b1037661115692b99e97f86e.ctv> |
-| 805 | [BD]HBO East | stream.freetv.fun | <https://stream.freetv.fun/bfd01e970c286609c464932b540e539443206b3ce09512c112748d69c93b18fa.ctv> |
+| 805 | [BD]HBO East | stream.freetv.fun | <https://stream.freetv.fun/2ae59a854dadbe1bd159f8aad15cf91daf1440c5a3a3b3ab30375ada932538ce.ctv> |
 | 806 | [VGA]hbo family | stream.freetv.fun | <https://stream.freetv.fun/03ff116f6a91c7339649845dc24d49801efe8aad36888fffb0cd127a3f32a62a.ctv> |
 | 807 | [BD]hbo family hd | stream.freetv.fun | <https://stream.freetv.fun/098cd934c1ea9ec594186561bc0020689b1db99a4dbaec1baa8174772af2df10.ctv> |
 | 808 | [BD]on vfamily | stream.freetv.fun | <https://stream.freetv.fun/df51c998282bae6445a38f3d2437654da842b8e1eba3eac06e01548f2536dfee.ctv> |
@@ -2592,7 +2592,7 @@
 | 2586 | [BD]湖南卫视 | stream.freetv.fun | <https://stream.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
 | 2587 | [VGA]湖南都市 | stream.freetv.fun | <https://stream.freetv.fun/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv> |
 | 2588 | [VGA]湖南电影 | stream.freetv.fun | <https://stream.freetv.fun/f88e1073f477b74a010c5a63ded067e08488d519f49313a1192f68e20269fc71.ctv> |
-| 2589 | [SD]湖南电视剧 | stream.freetv.fun | <https://stream.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8> |
+| 2589 | [VGA]湖南电视剧 | stream.freetv.fun | <https://stream.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8> |
 | 2590 | [HD]湖州公共 | stream.freetv.fun | <https://stream.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8> |
 | 2591 | [HD]湖州娱乐 | stream.freetv.fun | <https://stream.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8> |
 | 2592 | [HD]湖州新闻 | stream.freetv.fun | <https://stream.freetv.fun/93a8f902d4259d61908709e5a0d82023c7cfbd9fda734397acd38e5dd1520992.m3u8> |
@@ -2855,4 +2855,4 @@
 | 2849 | [BD]소상공인방송 | stream.freetv.fun | <https://stream.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2850 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Jun 23 2024 10:13:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 23 2024 12:22:50 GMT+0000 (Coordinated Universal Time)**
