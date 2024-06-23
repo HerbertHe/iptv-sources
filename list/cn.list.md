@@ -15,7 +15,7 @@
 | 9 | [VGA]cctv俄语 | stream.freetv.fun | <https://stream.freetv.fun/30619b9aee973db0f502be74f1c741f50f391fc11fbe81fd43c51966626b5e79.ctv> |
 | 10 | [BD]cctv11-戏曲 | stream.freetv.fun | <https://stream.freetv.fun/3c5720a09d1fa7eb4a40e5c37bbf4e65308d5b767513a24d51aa59dd090e385a.m3u8> |
 | 11 | [VGA]cctv阿拉伯语 | stream.freetv.fun | <https://stream.freetv.fun/7f15651627ffa00ae6cfc4fc6432aa48f436117b6a4c3f8de586a5c044523d95.ctv> |
-| 12 | [BD]cctv1[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/e8620a40b42350ce6285021d39d2d73a665502cfbfadcb91cd1ca8269f5b492d.m3u8> |
+| 12 | [BD]cctv1 | stream.freetv.fun | <https://stream.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.m3u8> |
 | 13 | [BD]cctv10[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d737df451cd90.m3u8> |
 | 14 | [HD]cctv11 | stream.freetv.fun | <https://stream.freetv.fun/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
 | 15 | [BD]cctv12[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8> |
@@ -63,7 +63,7 @@
 | 57 | [BD]chc动作电影 | stream.freetv.fun | <https://stream.freetv.fun/9f91fb29be6ae26b68f5cd0a28b04e336a67a57b12563ae44afc4d5045d65e71.ctv> |
 | 58 | [BD]chc家庭影院[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8> |
 | 59 | [HD]chc影迷电影 | stream.freetv.fun | <https://stream.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8> |
-| 60 | [HD]chc高清电影 | stream.freetv.fun | <https://stream.freetv.fun/31b4e419a3122e819409a0f37907a751069aced7346aac813a3fef4ff3fc6858.ctv> |
+| 60 | [BD]chc高清电影 | stream.freetv.fun | <https://stream.freetv.fun/682dd87ae8746d13b39c9dbcada27f8c48cf4b093b2bf69d563d558881385551.ctv> |
 | 61 | [HD]can news | stream.freetv.fun | <https://stream.freetv.fun/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8> |
 | 62 | [HD]chco-tv | stream.freetv.fun | <https://stream.freetv.fun/28ef942c2f0cb458dd9a0cf2216cc0e0ff3f7173a012d7f9c020843b3124d8dc.m3u8> |
 | 63 | [SD]channel | stream.freetv.fun | <https://stream.freetv.fun/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv> |
@@ -195,7 +195,7 @@
 | 189 | [VGA]吉林乡村 (900p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8> |
 | 190 | [BD]咪咕视频3 | stream.freetv.fun | <https://stream.freetv.fun/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8> |
 | 191 | [VGA]21tv | stream.freetv.fun | <https://stream.freetv.fun/237dcddc8f678c63c4b32bb7ac69af0d05ec283bf10dfaac8a68460df9dca65a.m3u8> |
-| 192 | [SD]哈哈炫动 | stream.freetv.fun | <https://stream.freetv.fun/85aec22da72dbb69d4271fbde70b929f467b7d1b7c3c21639939b3d7865a00ac.m3u8> |
+| 192 | [SD]哈哈炫动 | stream.freetv.fun | <https://stream.freetv.fun/18b97d80dae6d5df7cf63ec50092e0cf5efeac5f41f1a7178f59c01f710668d0.m3u8> |
 | 193 | [VGA]哈尔滨娱乐 | stream.freetv.fun | <https://stream.freetv.fun/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
 | 194 | [VGA]哈尔滨影 | stream.freetv.fun | <https://stream.freetv.fun/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8> |
 | 195 | [SD]哈尔滨综合 | stream.freetv.fun | <https://stream.freetv.fun/ea89261c2598c63f1e25e9e633d181b9f9e5eaa38d80e0a824ba28f68d47412d.m3u8> |
@@ -217,7 +217,7 @@
 | 211 | [VGA]大湾区卫视 | stream.freetv.fun | <https://stream.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv> |
 | 212 | [BD]天元围棋 | stream.freetv.fun | <https://stream.freetv.fun/29e78e28aa3fd054e8c46b5f393079ccc4df509826d76f8540c2e613f416cbe8.ctv> |
 | 213 | [BD]天津影视 | stream.freetv.fun | <https://stream.freetv.fun/de734db67c02771bd31d6ab20f6ecf37a82d74b744138c9ea5115408bbee08e9.m3u8> |
-| 214 | [BD]天津卫视 | stream.freetv.fun | <https://stream.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8> |
+| 214 | [VGA]天津卫视 | stream.freetv.fun | <https://stream.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8> |
 | 215 | [BD]天津体育 | stream.freetv.fun | <https://stream.freetv.fun/e550462ba6e8b39f7caf7c0bdc83da7588e66a734647e08fe81a12e1ade63fcd.m3u8> |
 | 216 | [BD]太原新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv> |
 | 217 | [VGA]太原社教法制 | stream.freetv.fun | <https://stream.freetv.fun/4b0a07bfe166d6b23ebb9383282cf1e63e33c06937f0eb800266fbfbbffaf053.ctv> |
@@ -515,7 +515,7 @@
 | 509 | [BD]甘肃少儿[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/f39eb4b8e496b25598289e72357d96f5b87c3ebc5d1923fe43f62937674bec71.m3u8> |
 | 510 | [BD]甘肃文化影视[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/f24b4d04dc28ddf7cd6e4bffcffc567afcca879d109a74eb4965a75b2dc32a15.m3u8> |
 | 511 | [BD]甘肃经济[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/95a888c5a60703f6bed79cc722df024e71cadb9b1a4a3464ce0e3f5e557e6201.m3u8> |
-| 512 | [VGA]甘肃卫视 | stream.freetv.fun | <https://stream.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
+| 512 | [BD]甘肃卫视 | stream.freetv.fun | <https://stream.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
 | 513 | [BD]甘肃都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/46c7df1cdf6f20ac222f2e4e6cd81449767cb9175dffa31f110d520aa9050294.m3u8> |
 | 514 | [HD]生活时尚 | stream.freetv.fun | <https://stream.freetv.fun/af577cd69d640274bdefa24125bfba424d35044c1235f7a429a7e85a00fc41e4.m3u8> |
 | 515 | [VGA]cctv发现之旅 | stream.freetv.fun | <https://stream.freetv.fun/35c27d60f1422fd5117928620857a041a9e5f4b7a888e4533eee333b32dffeff.ctv> |
@@ -675,4 +675,4 @@
 | 669 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 670 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sat Jun 22 2024 22:12:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 23 2024 01:02:34 GMT+0000 (Coordinated Universal Time)**
