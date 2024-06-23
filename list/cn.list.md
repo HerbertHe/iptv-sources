@@ -190,7 +190,7 @@
 | 184 | [BD]吉林教育 | stream.freetv.fun | <https://stream.freetv.fun/f1bef5eac6527a9100418cce3c676405bdf237eabde2a8d11b607daf82776194.ctv> |
 | 185 | [VGA]吉林生活 | stream.freetv.fun | <https://stream.freetv.fun/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8> |
 | 186 | [BD]吉林综艺 | stream.freetv.fun | <https://stream.freetv.fun/f2a6ac4f710a1a7f355bc75c4fbc74fefeef1861bfb73084ef840dcfaed898b0.ctv> |
-| 187 | [HD]吉林卫视v | stream.freetv.fun | <https://stream.freetv.fun/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
+| 187 | [BD]吉林卫视v | stream.freetv.fun | <https://stream.freetv.fun/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
 | 188 | [VGA]吉林都市 | stream.freetv.fun | <https://stream.freetv.fun/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8> |
 | 189 | [VGA]吉林乡村 (900p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8> |
 | 190 | [BD]咪咕视频3 | stream.freetv.fun | <https://stream.freetv.fun/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8> |
@@ -478,7 +478,7 @@
 | 472 | [VGA]湖南教育 | stream.freetv.fun | <https://stream.freetv.fun/a17abba3b57bf60062ce0ec7eebb6c08978f4d4a30fbb7337792b3a5180bf4f8.m3u8> |
 | 473 | [HD]湖南教育电视台 | stream.freetv.fun | <https://stream.freetv.fun/44d843580a1d921fec7a408a79defdc3860cf484437e90948e014f8ca7c2887d.m3u8> |
 | 474 | [HD]湖南经视 | stream.freetv.fun | <https://stream.freetv.fun/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.m3u8> |
-| 475 | [VGA]湖南卫视 | stream.freetv.fun | <https://stream.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
+| 475 | [BD]湖南卫视 | stream.freetv.fun | <https://stream.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
 | 476 | [VGA]湖南都市 | stream.freetv.fun | <https://stream.freetv.fun/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv> |
 | 477 | [VGA]湖南电影 | stream.freetv.fun | <https://stream.freetv.fun/f88e1073f477b74a010c5a63ded067e08488d519f49313a1192f68e20269fc71.ctv> |
 | 478 | [SD]湖南电视剧 | stream.freetv.fun | <https://stream.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8> |
@@ -675,4 +675,4 @@
 | 669 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 670 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Jun 23 2024 01:02:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 23 2024 02:30:46 GMT+0000 (Coordinated Universal Time)**
