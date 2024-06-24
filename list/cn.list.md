@@ -452,7 +452,7 @@
 | 446 | [SD]移动电视 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/y72q36.flv> |
 | 447 | [BD]深圳卫视 | stream.freetv.fun | <https://stream.freetv.fun/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8> |
 | 448 | [VGA]深圳财经生活 | stream.freetv.fun | <https://stream.freetv.fun/176ad6ff7b513a917c3c8edb76e340c47b0decb84db829bad8bf0dbb1c9f15d1.m3u8> |
-| 449 | [BD]深圳都市 | stream.freetv.fun | <https://stream.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8> |
+| 449 | [VGA]深圳都市 | stream.freetv.fun | <https://stream.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8> |
 | 450 | [SD]深圳电视剧 | stream.freetv.fun | <https://stream.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8> |
 | 451 | [VGA]深圳体育健康 | stream.freetv.fun | <https://stream.freetv.fun/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8> |
 | 452 | [BD]清河新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
@@ -662,4 +662,4 @@
 | 656 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 657 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Jun 24 2024 06:18:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 24 2024 08:17:15 GMT+0000 (Coordinated Universal Time)**
