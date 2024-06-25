@@ -55,4 +55,4 @@
 | 49 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 50 | CETV4空中课堂频道 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8> |
 
-Updated at **Tue Jun 25 2024 14:17:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 25 2024 16:16:47 GMT+0000 (Coordinated Universal Time)**
