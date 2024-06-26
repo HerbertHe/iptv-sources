@@ -125,6 +125,8 @@ https://stream.freetv.fun/28ef942c2f0cb458dd9a0cf2216cc0e0ff3f7173a012d7f9c02084
 https://stream.freetv.fun/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
 #EXTINF:-1 tvg-name="HOT欧美影院" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/04/04/large/20240404170632336191_56.png" group-title="电影",[HD]hot
 https://stream.freetv.fun/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8
+#EXTINF:-1 tvg-name="IPTV 5+" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/25/large/20230725190830100623_90.png" group-title="运动",[SD]iptv5 plus
+https://stream.freetv.fun/7d28ceaa0e6740ffbbd1bd5485a3873ff3487e8ae104559a961bd1e1e09edb7a.m3u8
 #EXTINF:-1 tvg-name="IPTV游戏竞技" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/04/04/large/20240404025058887407_89.jpg" group-title="运动",[VGA]smile of a child
 https://stream.freetv.fun/3e1b23179096e2b6f693988576d09afbd041c7c056959ac16a483640330bb010.ctv
 #EXTINF:-1 tvg-name="KNEWS 24" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164623368908_20.png" group-title="新闻",[BD]news24
@@ -479,6 +481,8 @@ https://stream.freetv.fun/49d46322e6f374cf8c90c511a5737492b50e43a73f2ae8df00971d
 https://stream.freetv.fun/1d1ce325a4910f55dc5890c6dee79e7968d417dbb87f701102d2f01b6dd589e0.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215003186342_46.jpg" group-title="儿童",[BD]山东少儿
 https://stream.freetv.fun/09d8aa7047f0ae54ef7182d600bf26e3ca3e36cdd5089730b0421257d3640c8c.m3u8
+#EXTINF:-1 tvg-name="山东居家购物" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507214014151449_59.jpg" group-title="其它",[BD]山东居家购物
+https://stream.freetv.fun/226b3c5488e784ef1928d13f469b410c3297d5cdc4451fe2038a076b89e308bd.ctv
 #EXTINF:-1 tvg-name="山东影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/11/large/20220611235258209011_67.jpg" group-title="电影",[BD]山东影视
 https://stream.freetv.fun/d822c11b45d5e44a65df4ed600b4fb452e2407ef7cadb529d900200906167224.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719115915514158_88.jpg" group-title="其它",[SD]山东教育
