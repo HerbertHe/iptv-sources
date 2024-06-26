@@ -59,7 +59,7 @@
 | 53 | [BD]cbn español (1080p) | stream.freetv.fun | <https://stream.freetv.fun/5c7c6c039e49edb01e679827d80e8f669566372911f75b76069dcf4af607a32a.m3u8> |
 | 54 | [SD]cgtn français (576p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 55 | [SD]cgtn русский (576p) | stream.freetv.fun | <https://stream.freetv.fun/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8> |
-| 56 | [VGA]chc动作电影 | stream.freetv.fun | <https://stream.freetv.fun/3418ffa2ae218404d9d5063d656d3d02454891b596ad1254c4a183c356987f35.m3u8> |
+| 56 | [BD]chc动作电影 | stream.freetv.fun | <https://stream.freetv.fun/3418ffa2ae218404d9d5063d656d3d02454891b596ad1254c4a183c356987f35.m3u8> |
 | 57 | [BD]chc家庭影院[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8> |
 | 58 | [HD]chc影迷电影 | stream.freetv.fun | <https://stream.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8> |
 | 59 | [HD]chc高清电影 | stream.freetv.fun | <https://stream.freetv.fun/31b4e419a3122e819409a0f37907a751069aced7346aac813a3fef4ff3fc6858.ctv> |
@@ -665,4 +665,4 @@
 | 659 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 660 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Wed Jun 26 2024 20:16:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 26 2024 22:12:21 GMT+0000 (Coordinated Universal Time)**
