@@ -296,7 +296,7 @@ Campo_Televisión_(720p),https://video17.virtualtronics.com/streamer/canalcampot
 Campus_TV_(480p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 Canada_One_(720p)_[Not_24/7],http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 Canada_Star_TV_(720p),https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-Canal_2_(480p)_[Not_24/7],https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
+Canal_2_(480p)_[Not_24/7],https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 Canal_2_International_(360p)_[Not_24/7],https://rpn3.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 Canal_2_Jujuy_(720p)_[Not_24/7],https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 Canal_2_Misiones_(1080p),https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
@@ -309,7 +309,7 @@ Canal_3_Formosa_(720p),https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.
 Canal_3_La_Pampa_(1080p),https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 Canal_3_Las_Heras_(720p),https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 Canal_3_Rosario_(704p),https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-Canal_4_(480p)_[Not_24/7],http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+Canal_4_(480p),https://telecorporacion-es.cdn.vustreams.com/live/b883ccd5-ccea-4d85-be1c-e0d4076024a7/live.isml/live.m3u8
 Canal_4_Balcarce_(360p),https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 Canal_4_Eldorado_(720p),https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 Canal_4_Esquel_(540p),https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
@@ -5523,7 +5523,7 @@ TBC_1_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReem
 TBN_TV_(720p)_[Not_24/7],https://live.suricloud.com/hls/tbntv/index.m3u8
 TBS_eFM_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 Tchaman_TV_(720p),https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
-TCS+_(480p)_[Not_24/7],https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+TCS+_(480p)_[Not_24/7],https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 TDI_Colombia_(720p)_[Not_24/7],https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 TDN_TV_(1080p)_[Not_24/7],https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8
 TDS_Televisión_Departamental_Sololá_(1080p),https://rpn3.bozztv.com/ssh101/ssh101/tdssololasolola/playlist.m3u8
@@ -8088,7 +8088,7 @@ Ananda_TV_(720p)_[Not_24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8
 ANC_Televisión_(480p)_[Not_24/7],https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 Anixe_+_(360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 Anixe_HD_Serie_(360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-Anjan_(720p)_[Not_24/7],https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+Anjan_(1080p)_[Not_24/7],https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
 ANT1_(1080p),http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 ANT1_Cyprus_(1080p),http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Antares_Televisión_(720p)_[Not_24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
