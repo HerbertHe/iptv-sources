@@ -144,4 +144,4 @@
 | 138 | CGTN西语 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2> |
 | 139 | CGTN阿语 | CGTN | <http://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Sat Jun 29 2024 02:28:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 29 2024 04:17:10 GMT+0000 (Coordinated Universal Time)**
