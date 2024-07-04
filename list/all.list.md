@@ -96,7 +96,7 @@
 | 90 | [HD]ASSP4 | stream1.freetv.fun | <https://stream1.freetv.fun/66cbb5c9f492a343c514e208dcbe96e57f1ac303cdaf211ce5d9fa7ba5c9ee9d.ctv> |
 | 91 | [SD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/7961e560d27d8301bf138991bccaf32632d7199231ea2c94dca78a9eab41c010.ctv> |
 | 92 | [HD]ช่อง astro aura | stream1.freetv.fun | <https://stream1.freetv.fun/a2da5ecc122eebf6654a2fa8e9bfd222a25b5777dede6d2361619e6c5a890a54.ctv> |
-| 93 | [HD]astro awani | stream1.freetv.fun | <https://stream1.freetv.fun/713903e82f60673886c11803f5ef077c54e07b01544eef0d15e564e6fdba4421.m3u8> |
+| 93 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/b8ea68f1948fe76eb3e5ceb5a98428a83bd867c70470f8092bead03324612cf1.ctv> |
 | 94 | [HD]ช่อง astro arena | stream1.freetv.fun | <https://stream1.freetv.fun/147044cb291e654a83bf50b7eec22484930a140e95fb37fb0c7c0bc0dc674e95.ctv> |
 | 95 | [HD]astro arena hd | stream1.freetv.fun | <https://stream1.freetv.fun/62cc58ff06b708a2ade13f902edf925ef9a44730fdd06a49057a69447fe7ca51.ctv> |
 | 96 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/c6250fda90864bd2ea62ce4ade2e4c401490f26d8f7d294758fa5faebb173494.ctv> |
@@ -1688,7 +1688,7 @@
 | 1682 | [BD]8tv malaysia | stream1.freetv.fun | <https://stream1.freetv.fun/8c06020294ab160c11e63beba3596195925a89abf281f79667604f153976931b.m3u8> |
 | 1683 | [BD]tv3 | stream1.freetv.fun | <https://stream1.freetv.fun/1ab97d520ba3e8ce22cbc0aad3da59851a25462e5193599fc6b3013a466905e0.m3u8> |
 | 1684 | [HD]24h catalunya | stream1.freetv.fun | <https://stream1.freetv.fun/9b823c09833e8eaf9a11cc66f9ba4329ef6b578bd0a04b14dfb45ca150271403.m3u8> |
-| 1685 | [SD]TV3 Malaysia | stream1.freetv.fun | <https://stream1.freetv.fun/2f6825b4a3f374e77e53cc340c10b4a2d741000d229a0f00aad714cc411cba80.ctv> |
+| 1685 | [SD]TV3 Malaysia | stream1.freetv.fun | <https://stream1.freetv.fun/93479351941eaf1175feaefc033601c00e30185f2c26143ac887f32e988c0c8b.ctv> |
 | 1686 | [HD]tv4 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/70046bbc1b150f6d90a465f48afb4f429f2d491d4cb9e931a275eed035ee6dc3.m3u8> |
 | 1687 | [HD]tv4 | stream1.freetv.fun | <https://stream1.freetv.fun/d6659297cb9475ce2a8f386b1a9a06e5cb5cdd80df4d0061ef4aa2eb877c84c9.m3u8> |
 | 1688 | [HD][土耳其]tv4hdtürkiye | stream1.freetv.fun | <https://stream1.freetv.fun/65bf19d4e1eef30791254b9a8ecfb1d3d866d422f88589c93738d60418f963be.m3u8> |
@@ -2772,4 +2772,4 @@
 | 2766 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2767 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Thu Jul 04 2024 14:12:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 04 2024 16:15:29 GMT+0000 (Coordinated Universal Time)**
