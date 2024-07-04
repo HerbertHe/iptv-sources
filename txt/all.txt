@@ -6,7 +6,7 @@ Movies,#genre#
 [HD]magic_thriller_hd,https://stream1.freetv.fun/1313e11c9112fb8658f6e50034c2a71ac28402437b303d6981b9a18af1c4a909.m3u8
 [HD]amc电影,https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
 [BD]amedia_hit_hd,https://stream1.freetv.fun/893d4a03834f56671e23a5bc497fc08ed9e2773e837a05e4fc691b426767ff89.m3u8
-[SD]ASTRO_AOD_311,https://stream1.freetv.fun/7961e560d27d8301bf138991bccaf32632d7199231ea2c94dca78a9eab41c010.ctv
+[SD]ASTRO_AOD_311,https://stream1.freetv.fun/0a69eec1c89b29db82503e9b879aedf469e879ff4686e68975cf53b9d2683913.ctv
 [BD]citra,https://stream1.freetv.fun/0466fe5fcbed218a5e675860df012189a3a3688f9c00d9963c78ee0c6b2afff3.ctv
 [SD]ASTRO_WARNA,https://stream1.freetv.fun/c94aa40a1d64ed33a4372ea87a04684573a1e59efa3583427747c62de6c0ec9c.ctv
 [BD]axn,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e3794ac425168c085d.ctv
@@ -14,12 +14,12 @@ Movies,#genre#
 [BD]axn_hd,https://stream1.freetv.fun/4da341f39d1b81d191382d0d89836ce1ca70e12ac90fa6b59ce26328aad5a631.ctv
 [BD]urban_movies,https://stream1.freetv.fun/a0d074c3f0eba4c90676cabd68eb4f038bfdd3d5fb127acf09e76d2565574f9e.m3u8
 [HD]axn_white,https://stream1.freetv.fun/54f83eed7ea3845b6157d4656a33c106c75337699e3051e05204f4c2e455e1f5.m3u8
-[HD]ACTION_MAX,https://stream1.freetv.fun/c40f3eef6eb149b3d7fd4d7b409a18bd27dab3ce6c60dc34514dbc75c89bb6ee.ctv
+[BD]action_max,https://stream1.freetv.fun/9838b2ce45eac576dcfbaa4c3aa0bc5c27a1e65ac85648bfe9dbad5d77941e57.ctv
 [BD]cinema_hd,https://stream1.freetv.fun/04bbc79af90fdea63c4f4557d4e9810d7df53d9525cf22356a28248dc7557e6f.m3u8
 [BD]prive,https://stream1.freetv.fun/b562c157d9017a82885759b00759242f089c5b441f5d9e5944838f600342069d.ctv
 [HD]ASRTO_PREMIER,https://stream1.freetv.fun/dcbaace6b0a574691187baf3da24845b2291f0ea374d3bfaa1f32b6c11d3fecd.ctv
 [HD]ช่อง_astro_vellithirai,https://stream1.freetv.fun/df3d4d04171406ae7c1b47f2c57e4353afb1cefa637df4fb0e70f478822fc612.ctv
-[HD]Astro欢喜台,https://stream1.freetv.fun/58a5152b8e28d90d81d6e78fc1e1fb78d26ae735292c33ebfd2362a6f8a1d2a0.ctv
+[HD]Astro欢喜台,https://stream1.freetv.fun/e18f3c343b1607e4964df403143953edc06b34bb38bc03f97fee4131e81ff087.ctv
 [SD]b4u,https://stream1.freetv.fun/2de5eb074fa33686372693ed1db11e92b417e05f201e804481721b49a399bb12.ctv
 [HD]b4u_movies_india,https://stream1.freetv.fun/98677eaf3b3c7611e2d4553feab7592113d74e0f4ab31b299bdbbf664b3bb27d.m3u8
 [SD]B4U_PLUS,https://stream1.freetv.fun/7d3d5fe64905f8a3015b59d13a28da2fd381705d47def7da0ecf88e9a3914f3b.ctv
@@ -81,7 +81,7 @@ Movies,#genre#
 [VGA]hbo_2,https://stream1.freetv.fun/a58fb939e95a931316e724be4d8412e1732a30b732530fbe22358af1be2555fa.ctv
 [HD]hbo_2_east,https://stream1.freetv.fun/087d248e94f8a576549db80cb255b528a18fe539f1be4705970d320eb63f6484.m3u8
 [HD]hbo_3,https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8
-[BD]HBO_Comedy,https://stream1.freetv.fun/c2e1047520c0e70e5a5691cf46abb3c96b89fdf5181a1171815d3bbdf74fc601.ctv
+[BD]hbo_comedy,https://stream1.freetv.fun/0c493268d37cad81d6e08895ec61e8591018a479b1037661115692b99e97f86e.ctv
 [BD]HBO_East,https://stream1.freetv.fun/2cb06a37894063ad34d1a1f81bacf793bcc63416054710a1c5b22062d2fd3269.ctv
 [BD]hbo_family,https://stream1.freetv.fun/ff99d251eb9b8620e60500d2abed581a01713dcd8a6eb7fb155e304114f90f4a.ctv
 [BD]hbo_family_hd,https://stream1.freetv.fun/098cd934c1ea9ec594186561bc0020689b1db99a4dbaec1baa8174772af2df10.ctv
@@ -2151,6 +2151,7 @@ News,#genre#
 [HD]广州新闻,https://stream1.freetv.fun/ce2e7e6464d84e68227189b299f83de79aa8d1b15a86d04702efef31854356b2.ctv
 [SD]广东新闻,https://stream1.freetv.fun/5967041297602d0e4e8668d827d50cc812930e8f6fe371169e5a9420545af2d0.m3u8
 [BD]广西新闻,https://stream1.freetv.fun/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392eaf2d4.m3u8
+[HD]广西移动电视,https://stream1.freetv.fun/fe49546846e9942e849f4e9583d4bf5dc2f5d7156b7f1d20f01fdaa45cdcf47e.ctv
 [BD]成都新闻综合,https://stream1.freetv.fun/cac4e9c4ac5135da92f54dd3fd4d5034222f4113b2c641d2fddf56443f5554ee.ctv
 [BD]揭阳综合1080p,https://stream1.freetv.fun/bf97297ed9a0ac92bee8eac4f61eb114e894f8a30e1c42eb37dfb849279eda6e.ctv
 [BD]新疆2,https://stream1.freetv.fun/5ff0fbe6471b33165c8972b436f6430bc32553002dad840f95e5a46f0931b567.ctv
