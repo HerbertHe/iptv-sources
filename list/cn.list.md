@@ -500,10 +500,10 @@
 | 494 | [BD]睛彩竞技hd | stream1.freetv.fun | <https://stream1.freetv.fun/b29502ce002a9762b1bdb670113a1382b20cf67e167e6f12de0f454f95249fd1.ctv> |
 | 495 | [BD]睛彩篮球hd | stream1.freetv.fun | <https://stream1.freetv.fun/2e5c04ae352d8e9092c12ab1c4989a7b9cf79f282b38ec9c0b122fd8f4c042bf.ctv> |
 | 496 | [BD]睛彩羽毛球hd | stream1.freetv.fun | <https://stream1.freetv.fun/3976e141b74a1fab7d5425135cd9e59bc076b051f154bb372bc32230253f592d.ctv> |
-| 497 | [SD]河北石家庄娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/0d76853062be0e91d431e278d8804b0c4720e564a7ff3f8f0ee11c1acb4d6258.m3u8> |
+| 497 | [SD]石家庄娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/d11431be8fe38d47269751aa393ad2d46fb3f98ac60c3ae5d33263ed7a975a91.m3u8> |
 | 498 | [SD]石家庄综合 | stream1.freetv.fun | <https://stream1.freetv.fun/4e6f523529ec33d00b1fc4e7f1bd8615e0f983ade0a60bd2f48280f19a37a417.m3u8> |
-| 499 | [SD]河北石家庄生活 | stream1.freetv.fun | <https://stream1.freetv.fun/0e9a8e1b6d002bd0b389680c3f9f1e32d790b27ce4a9972f315082cfeaa6ddc5.m3u8> |
-| 500 | [SD]河北石家庄都市 | stream1.freetv.fun | <https://stream1.freetv.fun/bb6204462601ba6c48fe0433a1b72f830075f3570d69d2c1602bfa45cfdb16d0.m3u8> |
+| 499 | [BD]石家庄生活 | stream1.freetv.fun | <https://stream1.freetv.fun/b7cfdfb3d08819feeb8942acd343bb4e9a80fc3ffdac3a5e7a27d993bafb2d45.m3u8> |
+| 500 | [SD]石家庄都市 | stream1.freetv.fun | <https://stream1.freetv.fun/399cfe65d7d90b1d78d7fe8aa2c7b9b7a47da42903aa4ce2739e31ed303ae57b.m3u8> |
 | 501 | [SD]灵石新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/755c4ed1a48872d656691c2992106792b2358ad2b13d91bb21dfa9ec10ccd1e6.m3u8> |
 | 502 | [BD]福州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0418ba014693c5bd17b1309d450b9de91e6e8dd9091d49922fc0afe0209c93d4.m3u8> |
 | 503 | [BD]福建公共 | stream1.freetv.fun | <https://stream1.freetv.fun/f360921efb0a71c93da96942d59a1978e3c33ed5bec935261543ee749d8a815f.m3u8> |
@@ -626,7 +626,7 @@
 | 620 | [BD]风云足球[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
 | 621 | [SD]高尔夫[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/87979eef1a3ec2e63f1622234e1ec750f9b68ac069f15640a0f2404920ceefc8.m3u8> |
 | 622 | [BD]高尔夫网球[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8> |
-| 623 | [HD]斗鱼频道 | stream1.freetv.fun | <https://stream1.freetv.fun/55d29824857aacca8d30262a370bef4b55537ef81d6efad3658bce24fd46621e.ctv> |
+| 623 | [BD]斗鱼频道 | stream1.freetv.fun | <https://stream1.freetv.fun/55d29824857aacca8d30262a370bef4b55537ef81d6efad3658bce24fd46621e.ctv> |
 | 624 | [BD]魅力足球 | stream1.freetv.fun | <https://stream1.freetv.fun/c4c0120437ff70a01309d1e652fe96ff0d6043c76e5f61a31ab68dd0ef9a3118.ctv> |
 | 625 | [BD]襄城新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/2698dcafb7fe7ff672f5b54dd01333926db4c4ac043f042167e73789c8694dea.m3u8> |
 | 626 | [BD]黑莓动画[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/f12e1370ca10a4de2462685b5c7c75c86f301b820119608b4255b15c874aebf3.m3u8> |
@@ -642,4 +642,4 @@
 | 636 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 637 | [HD]点掌财经 | stream1.freetv.fun | <https://stream1.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Jul 05 2024 22:13:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 06 2024 00:57:46 GMT+0000 (Coordinated Universal Time)**
