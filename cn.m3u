@@ -226,7 +226,7 @@ https://stream1.freetv.fun/fefc2404034fde49bde2e671f26b2ee9900e40c2d58cbfb0c25f0
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225428953453_32.jpg" group-title="儿童",[SD]优漫卡通[ipv6]
 https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-id="14012" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605012118876201_39.jpg" group-title="运动",[SD]先锋乒羽
-https://stream1.freetv.fun/2fee76669bfcda8fd05cfb4cff2c0481c0d06d8473505d01a65234aa0e906b8e.ctv
+https://stream1.freetv.fun/9410d685bc81eefbd7d2e890ca737c88de4345dd585e377fe87396492e2ba315.ctv
 #EXTINF:-1 tvg-name="内江科教生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142304073171_20.png" group-title="综合",[HD]内江科教
 rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 #EXTINF:-1 tvg-name="内江综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142242811328_18.png" group-title="综合",[HD]内江综合
@@ -445,7 +445,7 @@ https://stream1.freetv.fun/fbe11dbd31726bbda930fe4441fbc3d381d1c568595239e706bc9
 https://stream1.freetv.fun/71b214b84fa1214e6c77ebb53184b53c3f6cf861f4f48b2faba49c64e8a0d9a6.ctv
 #EXTINF:-1 tvg-name="山东新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/07/large/20211007154720908703_91.png" group-title="新闻",[BD]山东新闻
 https://stream1.freetv.fun/76443105643b1c8354e8ce7780c474fe59e1a97bb257d4d60ddd4b9c0dcee203.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215621636170_46.jpg" group-title="综艺",[BD]山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215621636170_46.jpg" group-title="综艺",[VGA]山东综艺
 https://stream1.freetv.fun/5526a6e2bb6170061fee498d65aec1e0ba7fd295df2ee90a57f94d754d26eba6.ctv
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="13879" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719112946432101_81.jpg" group-title="综合",[BD]山东卫视[ipv6]
 https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
@@ -959,7 +959,7 @@ https://stream1.freetv.fun/b7cfdfb3d08819feeb8942acd343bb4e9a80fc3ffdac3a5e7a27d
 https://stream1.freetv.fun/041980daff892fa5c5e3880c032abc4f112729ef71a1dc72253fed6e6930c4eb.m3u8
 #EXTINF:-1 tvg-name="石狮新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101142717918622_19.jpg" group-title="新闻",[SD]灵石新闻综合
 https://stream1.freetv.fun/755c4ed1a48872d656691c2992106792b2358ad2b13d91bb21dfa9ec10ccd1e6.m3u8
-#EXTINF:-1 tvg-name="福州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024215801525172_62.jpg" group-title="新闻",[BD]福州综合
+#EXTINF:-1 tvg-name="福州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024215801525172_62.jpg" group-title="新闻",[SD]福州综合
 https://stream1.freetv.fun/0418ba014693c5bd17b1309d450b9de91e6e8dd9091d49922fc0afe0209c93d4.m3u8
 #EXTINF:-1 tvg-name="福建公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531231232221140_16.jpg" group-title="综合",[BD]福建公共
 https://stream1.freetv.fun/f360921efb0a71c93da96942d59a1978e3c33ed5bec935261543ee749d8a815f.m3u8
