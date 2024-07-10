@@ -311,14 +311,12 @@ https://stream1.freetv.fun/7c0bcf4a959f2fcb86cc1af4e1acf29ef458418d43abe6f9d52ef
 https://stream1.freetv.fun/341b15fe287d2cfd75bea39c04583af3840ad9266fb276d050e384151636f995.m3u8
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_308.jpg" group-title="其它",[BD]常州新闻综合
 https://stream1.freetv.fun/d664281042ae076bd2630d9b873354b83837f106f74a444db0ef1ec4b2e34657.m3u8
-#EXTINF:-1 tvg-name="常州生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021933111059_68.jpg" group-title="综合",[BD]常州生活
-https://stream1.freetv.fun/bdeb672f4e67c5b1b11d4f65f243402aa5553483b43870194b8d5d155c138d83.m3u8
 #EXTINF:-1 tvg-name="常德新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031225613570894_40.jpg" group-title="新闻",[SD]承德新闻综合
 https://stream1.freetv.fun/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-id="13908" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/28/large/20220528220546451462_40.jpg" group-title="综合",[SD]康巴卫视[ipv6]
 https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="综合",[SD]厦门卫视
-https://stream1.freetv.fun/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8
+https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8
 #EXTINF:-1 tvg-name="广元公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142529195661_15.png" group-title="综合",[BD]广元公共
 https://stream1.freetv.fun/8c69043c991193b65022656452bc5c186d29c37334ee2c1c0410556135d1739b.ctv
 #EXTINF:-1 tvg-name="广州影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135446196276_41.png" group-title="电影",[HD]广州影视
@@ -913,7 +911,7 @@ https://stream1.freetv.fun/0408f1b5711a3f586ae7a6d8bd809950795878c727c614b9822cc
 https://stream1.freetv.fun/9874264a175ee369c612437a559a4e3eb873ec9621e601561d9559b974671d8e.m3u8
 #EXTINF:-1 tvg-name="云南影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145247906980_49.jpg" group-title="电影",[SD]云南影视
 https://stream1.freetv.fun/76d6929ef3145eb85fe264b8f83432ccc076db07698455be65ce53c618477a90.m3u8
-#EXTINF:-1 tvg-name="云南生活资讯" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/12/large/20211012202952790476_52.png" group-title="新闻",[VGA]云南生活
+#EXTINF:-1 tvg-name="云南生活资讯" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/12/large/20211012202952790476_52.png" group-title="新闻",[BD]云南生活
 https://stream1.freetv.fun/1637fb300bd304852b5f9d1b2b8fcc026298f6152e6167e688780a877b45cce7.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="13899" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="其它",[SD]云南卫视[ipv6]
 https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
