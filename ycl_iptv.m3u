@@ -113,6 +113,8 @@ https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="卫视",第一卫视
+http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",卡酷少儿
@@ -157,8 +159,6 @@ http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 #EXTINF:-1 tvg-id="东莞新闻" tvg-name="东莞新闻" tvg-logo="https://live.fanmingming.com/tv/东莞新闻.png" group-title="地方",东莞新闻
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-#EXTINF:-1 group-title="地方",南国都市
-http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://live.fanmingming.com/tv/美亚C+.png" group-title="地方", 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei1.png" group-title="地方",湖北综合
@@ -201,8 +201,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="地方",影视娱乐
-https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济
@@ -247,6 +245,8 @@ http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="数字",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字",影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字",家庭影院

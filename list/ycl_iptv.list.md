@@ -61,29 +61,29 @@
 | 55 | 宁夏卫视 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8> |
 | 56 | 内蒙卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880> |
 | 57 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202> |
-| 58 | 纪实科教 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8> |
-| 59 | 卡酷少儿 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ> |
-| 60 | 东方财经 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 61 | 第一财经 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 62 | 东方影视 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 63 | 上海都市 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 64 | 上海新综 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 65 | 上海外语 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 66 | 纪实人文 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8> |
-| 67 | 五星体育 | IPv6 直链 | <http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523> |
-| 68 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0> |
-| 69 | 金鹰纪实 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2> |
-| 70 | 湖南爱晚 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23022_1.m3u8> |
-| 71 | 湖南视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
-| 72 | 湖南电影 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23025_1.m3u8> |
-| 73 | 湖南都市 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23021_1.m3u8> |
-| 74 | 湖南国际 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23024_1.m3u8> |
-| 75 | 湖南经视 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23020_1.m3u8> |
-| 76 | 湖南娱乐 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23023_1.m3u8> |
-| 77 | 湖南教育 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23027_1.m3u8> |
-| 78 | 东莞生活 | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8> |
-| 79 | 东莞新闻 | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8> |
-| 80 | 南国都市 | tencentplaygzrb.gztv.com | <http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8> |
+| 58 | 第一卫视 | play2.one-tv.com | <http://play2.one-tv.com/live/onetv.m3u8> |
+| 59 | 纪实科教 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8> |
+| 60 | 卡酷少儿 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ> |
+| 61 | 东方财经 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 62 | 第一财经 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 63 | 东方影视 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 64 | 上海都市 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 65 | 上海新综 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 66 | 上海外语 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 67 | 纪实人文 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8> |
+| 68 | 五星体育 | IPv6 直链 | <http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523> |
+| 69 | 金鹰卡通 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0> |
+| 70 | 金鹰纪实 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2> |
+| 71 | 湖南爱晚 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23022_1.m3u8> |
+| 72 | 湖南视剧 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23026_1.m3u8> |
+| 73 | 湖南电影 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23025_1.m3u8> |
+| 74 | 湖南都市 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23021_1.m3u8> |
+| 75 | 湖南国际 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23024_1.m3u8> |
+| 76 | 湖南经视 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23020_1.m3u8> |
+| 77 | 湖南娱乐 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23023_1.m3u8> |
+| 78 | 湖南教育 | IPv4 直链 | <http://222.241.154.37:9901/tsfile/live/23027_1.m3u8> |
+| 79 | 东莞生活 | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8> |
+| 80 | 东莞新闻 | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8> |
 | 81 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
 | 82 | 湖北综合 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I> |
 | 83 | 湖北影视 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI> |
@@ -105,29 +105,29 @@
 | 99 | 浙江少儿 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
 | 100 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
 | 101 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
-| 102 | 影视娱乐 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8> |
-| 103 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
-| 104 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
-| 105 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 106 | 龙江文体 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8> |
-| 107 | 龙江都市 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8> |
-| 108 | 龙江少儿 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8> |
-| 109 | 龙江影视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8> |
-| 110 | 海南新闻 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS> |
-| 111 | 海南自贸 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS> |
-| 112 | 海南文旅 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS> |
-| 113 | 海南少儿 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS> |
-| 114 | 海南公共 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS> |
-| 115 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800> |
-| 116 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800> |
-| 117 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800> |
-| 118 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800> |
-| 119 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800> |
-| 120 | CETV-1 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv1/ypd.m3u8> |
-| 121 | CETV-2 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8> |
-| 122 | CETV-3 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv3/bjdm.m3u8> |
-| 123 | CETV-4 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
-| 124 | 苏州4K | liveshowbak2.kan0512.com | <http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8> |
+| 102 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 103 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 104 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 105 | 龙江文体 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8> |
+| 106 | 龙江都市 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8> |
+| 107 | 龙江少儿 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8> |
+| 108 | 龙江影视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8> |
+| 109 | 海南新闻 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS> |
+| 110 | 海南自贸 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS> |
+| 111 | 海南文旅 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS> |
+| 112 | 海南少儿 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS> |
+| 113 | 海南公共 | IPv6 直链 | <http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS> |
+| 114 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800> |
+| 115 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800> |
+| 116 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800> |
+| 117 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800> |
+| 118 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800> |
+| 119 | CETV-1 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv1/ypd.m3u8> |
+| 120 | CETV-2 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8> |
+| 121 | CETV-3 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv3/bjdm.m3u8> |
+| 122 | CETV-4 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
+| 123 | 苏州4K | liveshowbak2.kan0512.com | <http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8> |
+| 124 | 南国都市 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de> |
 | 125 | 影迷电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04> |
 | 126 | 家庭影院 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4> |
 | 127 | 动作电影 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ> |
@@ -285,4 +285,4 @@
 | 279 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
 | 280 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
 
-Updated at **Wed Jul 10 2024 12:25:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 10 2024 14:12:45 GMT+0000 (Coordinated Universal Time)**
