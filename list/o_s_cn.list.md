@@ -499,5 +499,6 @@
 | 493 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 494 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 495 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 496 | VOA美国之音 | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
 
-Updated at **Thu Jul 11 2024 16:16:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 11 2024 18:17:16 GMT+0000 (Coordinated Universal Time)**
