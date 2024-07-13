@@ -1831,12 +1831,6 @@ http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="BacNinhTV.vn" tvg-logo="https://i.postimg.cc/WbrWPpVg/BTV-Bac-Ninh-2021.png" group-title="Undefined",Bac Ninh TV (720p)
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BackusTVDark.ru" tvg-logo="https://i.imgur.com/ySYKZ0Z.png" group-title="Movies",BackusTV Dark (720p) [Not 24/7]
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-id="BackusTVMusic.ru" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="Music",BackusTV Music (720p) [Not 24/7]
-http://stream.backustv.ru/live/btv3/index.m3u8
-#EXTINF:-1 tvg-id="BackusTVOriginal.ru" tvg-logo="https://i.imgur.com/4pCmSsU.png" group-title="Movies",BackusTV Original (720p) [Not 24/7]
-http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bad Girls Club
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
 #EXTINF:-1 tvg-id="BadaKhabar.in" tvg-logo="https://i.imgur.com/XiwygDJ.png" group-title="News",Bada Khabar (720p)
@@ -4464,7 +4458,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="DanceTV.ar" tvg-logo="https://i.imgur.com/UKMR625.png" group-title="Music",Dance TV (360p)
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DanceHits80
-http://92.255.108.46:8080/index.m3u8
+http://89.111.136.7:8080/index.m3u8
 #EXTINF:-1 tvg-id="DanmarkCTV.dk" tvg-logo="https://i.imgur.com/oGeNr8e.jpg" group-title="General",DanmarkC TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
 #EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="Undefined",Dao Lane Xang (720p) [Not 24/7]
@@ -6155,7 +6149,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://ythls.armelin.one/channel/UCd4d3fL-QZPCd9vMiUFhXLQ.m3u8
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-logo="https://i.imgur.com/WlHEpAu.png" group-title="Shop",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="M4.at" tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Undefined",GemeindeTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="M4.at" tvg-logo="" group-title="Undefined",GemeindeTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCbGaZEFvBLMe8eNgoBFDRZg.m3u8
 #EXTINF:-1 tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="Shop",Gems TV (360p)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
@@ -11037,7 +11031,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Undefined",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="Undefined",P3tv (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="General",P3tv (720p) [Not 24/7]
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac 12 Insider (1080p)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
@@ -18061,7 +18055,7 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://i.imgur.com/hrm5QnU.png" group-title="Undefined",viàMoselleTV (720p) [Not 24/7]
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" group-title="Undefined",viàOccitanie (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" group-title="General",viàOccitanie (540p) [Not 24/7]
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Movies",Viasat Kino (576p)
 http://89.254.128.5:22280/viasat_kino/index.m3u8
@@ -19047,8 +19041,6 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Undefined",БСТ 24 (Братск)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="Kids",В Гостях у сказки (1080p)
-https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Вести ФМ
 https://player.smotrim.ru/iframe/stream/live_id/52035
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Undefined",Ветта 24 (Пермь) (576p) [Not 24/7]
@@ -19077,8 +19069,6 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" group-title="Outdoor",Диалоги о рыбалке (1080p)
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Undefined",Дождь (1080p)
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом Кино
@@ -19167,8 +19157,6 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="General",ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Leva.ru" tvg-logo="https://i.imgur.com/lQzgmpz.png" group-title="Kids",Лёва (1080p)
-https://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 tvg-id="Legendarnyy24.ru" tvg-logo="https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png" group-title="News",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="Lipeckoevremya.ru" tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="General",Липецкое время (576p) [Not 24/7]
@@ -19215,8 +19203,6 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Kids",Мульт
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-id="Multilandia.ru" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Kids",Мультиландия (1080p)
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 tvg-id="Multimania.ru" tvg-logo="https://i.imgur.com/abh8ZBA.png" group-title="Animation;Kids",Мультимания ТВ
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="MUONT1.mn" tvg-logo="https://i.imgur.com/chqFY0J.png" group-title="Undefined",МҮОНТ-1 HD (1080p)
@@ -19359,8 +19345,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 tvg-id="RostovPapa.ru" tvg-logo="https://i.imgur.com/2JYkoSa.png" group-title="Undefined",Ростов-папа (1080p)
-https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета Евро
@@ -19399,8 +19383,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Смотрим Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SolnechnogorskoeTV.ru" tvg-logo="https://i.imgur.com/LZUAUVY.png" group-title="Undefined",Солнечногорское ТВ (360p)
-http://hls-solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-logo="https://i.imgur.com/rec9akk.png" group-title="Animation;Kids",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Соловьев LIVE
@@ -19501,8 +19483,6 @@ http://82.209.197.187:8080/udp/239.0.100.101:1234
 http://46.175.163.130/ks_plus/index.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Religious",Хузур ТВ (1080p) [Not 24/7]
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="Religious",Царьград ТВ
-https://evtccc0y6kd.a.trbcdn.net/livemaster/bzm8x_live-i5ang56kd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CENTR.ua" tvg-logo="https://i.imgur.com/5fxFaup.png" group-title="News",Центр (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
 #EXTINF:-1 tvg-id="Cherniveckiypromin.ua" tvg-logo="https://i.imgur.com/O9nQ5po.png" group-title="News",Чернiвецький Промiнь

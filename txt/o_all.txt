@@ -556,7 +556,7 @@ Dacwa_TV_(576p)_[Not_24/7],https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3
 DajTo_(960p),http://213.81.133.133:8080/dajto/index.m3u8
 DAN_TV_(720p)_[Not_24/7],http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 Dance_Moms,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fec1770cf1000866b65b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df73-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64043e4b-3a3a-42a9-bce9-67430c31c9f5
-DanceHits80,http://92.255.108.46:8080/index.m3u8
+DanceHits80,http://89.111.136.7:8080/index.m3u8
 Dao_Lane_Xang_(720p)_[Not_24/7],https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 Dating_Disasters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651f239d9c7aeb0008286823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4fa373b-d26b-4a30-85f4-ef286a12ac31
 DAZN_Combat,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
@@ -1978,7 +1978,6 @@ Oxygen_Music_(1080p),https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 Oxygen_True_Crime_Archives,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654930a8346f420008d3b0b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7818-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedc1ef5-3e5f-4815-b46c-fcf59a9d9b9b
 Ózdi_Városi_TV_(720p)_[Not_24/7],http://stream.nmih.hu:7980/live.m3u8
 P2M_TV_(720p),https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-P3tv_(720p)_[Not_24/7],http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 Paci_Contemporary_Channel_(720p),https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 Pacis_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCkKVUyOqvKk1W-QadPy_WHQ.m3u8
 Padang_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
@@ -3609,7 +3608,6 @@ VH1_I_Love_Reality,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/st
 Viajar_TV_(720p),https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 ViàMatélé_(1080p),https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 viàMoselleTV_(720p)_[Not_24/7],https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-viàOccitanie_(540p)_[Not_24/7],https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 Vice_East,https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 Victorious,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8830e086a0009d44273/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff27-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d562924d-7b50-4dfa-bcf9-0cb983d72a29
 Videolina_(Sardegna)_(404p)_[Not_24/7],http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
@@ -3942,7 +3940,6 @@ Zylo_ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 РЖД_ТВ_(360p),http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 Родной_канал_(720p)_[Not_24/7],https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 Россия_РТР,https://streaming.televizor-24-tochka.ru/live/211.m3u8
-Ростов-папа_(1080p),https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 Русский_Север_(Вологда)_(1080p),http://live.rusevertv.ru/streams.rs.m3u8
 С1_(Сургут)_(1080p)_[Not_24/7],https://sitv.ru/hls/stv.m3u8
 Салям_(Уфа)_(576p),https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
@@ -3955,7 +3952,6 @@ Zylo_ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Смотрим_Мелодрамы,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 Смотрим_Тайны,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 Смотрим_Частный_Детектив,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-Солнечногорское_ТВ_(360p),http://hls-solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
 Соловьев_LIVE,https://player.smotrim.ru/iframe/stream/live_id/63338
 СургутИнформТВ,https://sitv.ru/vgtrk/stv.m3u8
 ТВА_(Чернiвцi)_(576p),http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
@@ -5435,6 +5431,7 @@ Oroszlányi_Városi_Televízió_(720p),https://cloudfront44.lexanetwork.com:1344
 ORT_(480p)_[Not_24/7],https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 Otto_Channel_(480p),https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 Ou-Mun_Macau_Satellite_Ch._96_(720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+P3tv_(720p)_[Not_24/7],http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 Pacific_Coast_TV_HMB_Coastside_Channel_27_(720p),https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Pacific_Coast_TV_MWSD_Channel_26_(720p),https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Palm_Springs_Community_Television_(720p),https://edge-f.swagit.com/live/palmspringsca/live-1-a/playlist.m3u8
@@ -6024,6 +6021,7 @@ Venevisión_(1080p),https://venevision.akamaized.net/hls/live/2098814/VENEVISION
 Venevisión_Internacional_(720p),https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 Vía_Altomayo_(720p)_[Not_24/7],https://live.obslivestream.com/viaaltomayomux/index.m3u8
 Vía_Televisión_(720P)_[Not_24/7],https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+viàOccitanie_(540p)_[Not_24/7],https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 viàTéléPaese_(720p),https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 Videa_Plataforma_(576p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
 Vidusdaugavas_Televīzija_(576p),https://straume.vdtv.lv/vdtv2/index.m3u8
@@ -6238,7 +6236,6 @@ Atomic_TV_(360p),https://atomic.streamnet.ro/atomictv.m3u8
 Avang_TV_(720p),https://hls.avang.live/hls/stream.m3u8
 Azahares_Radio_Multimedia_(720p),https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 B4U_Music_India_(576p),http://183.89.246.119:8881/play/a08o/index.m3u8
-BackusTV_Music_(720p)_[Not_24/7],http://stream.backustv.ru/live/btv3/index.m3u8
 Baeble_Music_(720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
 Balkanika_TV_(270p),rtsp://stream.teracomm.bg/balkanika
 Balle_Balle_(720p),https://mcncdndigital.com/balleballetv/index.m3u8
@@ -8263,7 +8260,6 @@ ZOE_Visión_TV_(720p),https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u
 Союз_(576p),https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 Три_Ангела_(720p),https://hls.tv.3angels.ru/stream.m3u8
 Хузур_ТВ_(1080p)_[Not_24/7],https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-Царьград_ТВ,https://evtccc0y6kd.a.trbcdn.net/livemaster/bzm8x_live-i5ang56kd2.smil/playlist.m3u8
 
 Entertainment,#genre#
 3_Tamil_TV_(720p)_[Not_24/7],https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -9049,13 +9045,10 @@ TVOKids,https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-eas
 TVS_Hi_Tops_(720p),https://bozztv.com/gusa/gusa-hitops/index.m3u8
 TVS_Pinball_Network_(480p),https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 Zoo_Moo_(Australia)_(1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-В_Гостях_у_сказки_(1080p),https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 Детский_мир,http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 Карусель,http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 Карусель_Int,http://stream02.vnet.am/Karusel/mono.m3u8
-Лёва_(1080p),https://strm.yandex.ru/kal/leva/leva0.m3u8
 Мульт,http://stream01.vnet.am/Mult/mono.m3u8
-Мультиландия_(1080p),https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 Радость_моя,https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 СТС_Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
 Тамыр_(Уфа)_(576p),https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
@@ -9084,8 +9077,6 @@ AXN_HD_(Mandarin_Chinese_Subtitles)_(1080p),https://z88.ubtvfans.com/live/rx1/10
 B4U_Kadak_(576p)_[Not_24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 B4U_Movies_India_(576p),http://183.89.246.119:8881/play/a08n/index.m3u8
 B4U_Plus_(576p),http://183.89.246.119:8881/play/a08l/index.m3u8
-BackusTV_Dark_(720p)_[Not_24/7],http://stream.backustv.ru/live/btv2/index.m3u8
-BackusTV_Original_(720p)_[Not_24/7],http://stream.backustv.ru/live/btv/index.m3u8
 BIZ_Cinema_(1080p),https://st.biztv.uz/hls/c_hi/index.m3u8
 Bizzarro_Movies,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 Black_Cinema,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
@@ -9333,7 +9324,6 @@ Swamiji_TV_European_(1080p)_[Not_24/7],https://stream.swamiji.tv/YogaIPTV/smil:Y
 Terra_Viva_(720p)_[Not_24/7],http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 The_Boat_Show_(720p),https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 Waypoint_TV_(720p),https://lnc-waypoint.tubi.video/playlist.m3u8
-Диалоги_о_рыбалке_(1080p),https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 Business,#genre#
 30A_Investment_Pitch,https://www.30a-tv.com/InvPit.m3u8
