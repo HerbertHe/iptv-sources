@@ -59,4 +59,4 @@
 | 53 | CETV3中国教育电视台三套 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv3/bjdm.m3u8> |
 | 54 | CETV4空中课堂频道 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
 
-Updated at **Sat Jul 13 2024 22:11:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 14 2024 01:05:36 GMT+0000 (Coordinated Universal Time)**
