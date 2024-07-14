@@ -1108,7 +1108,7 @@
 | 1102 | [BD]newsmaxtv | stream1.freetv.fun | <https://stream1.freetv.fun/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8> |
 | 1103 | [BD]televizija m | stream1.freetv.fun | <https://stream1.freetv.fun/2607ad8c1f55c96182988c8ad4b89928f7a66134eeaf1a82cb1af8e8dc08976e.m3u8> |
 | 1104 | [BD]nghệ an | stream1.freetv.fun | <https://stream1.freetv.fun/39a7a4c22d35dc8293b3c46b132c4ba9f79080bd4e4222cfc889b356b526f4b9.m3u8> |
-| 1105 | [VGA]nick jr | stream1.freetv.fun | <https://stream1.freetv.fun/c9f1eef83c65a0de630e95e2b24920d1c600233362ad464492d779579b476dd4.m3u8> |
+| 1105 | [VGA]nick jr | stream1.freetv.fun | <https://stream1.freetv.fun/571d1e15134bc7cd014184bba5b4615535a4bd24d349f96657f2ed19af562293.m3u8> |
 | 1106 | [BD]nick jr | stream1.freetv.fun | <https://stream1.freetv.fun/e58ea15bdc5e1c8cd5cc3aa90a16807462f34f6e1e404811350e1aa7b75e9024.m3u8> |
 | 1107 | [BD]NICK JR | stream1.freetv.fun | <https://stream1.freetv.fun/a3b401081d55efdd1e41590247fd84c2603d317914488081c501a0e56a4e8d20.ctv> |
 | 1108 | [BD]nick hd | stream1.freetv.fun | <https://stream1.freetv.fun/2904af43107a54ed644b0f6a86d7df98dd24b1ba87d504825060bf316c903b17.ctv> |
@@ -1432,7 +1432,7 @@
 | 1426 | [BD]sky sports main event ᴴᴰ | stream1.freetv.fun | <https://stream1.freetv.fun/673df42d9dc0058ff09798ee8224ee8ceb5dbb817306c3ed38dae89748296831.ctv> |
 | 1427 | [BD]sky sports nfl ᴴᴰ | stream1.freetv.fun | <https://stream1.freetv.fun/54bb764840b029ceaca9feb9ec9d24f1b60feb256bee0525b5e87684101fd4e6.ctv> |
 | 1428 | [BD]on sports news | stream1.freetv.fun | <https://stream1.freetv.fun/382942333597ee68741670c15e627b1a03ec05bcfb0c5219f3aae826ec85f050.ctv> |
-| 1429 | [BD]sky sports premier league ᴴᴰ | stream1.freetv.fun | <https://stream1.freetv.fun/0a834825800102af56bedaf3936eb133542ab09759c5d302bc3bac1f84cd2f2e.ctv> |
+| 1429 | [BD]sky sports | stream1.freetv.fun | <https://stream1.freetv.fun/62ef5721ced7909c5700b3e9a378f19ca1f0ebe1da673577850f5bb7fd5d03d1.ctv> |
 | 1430 | [SD]ocko | stream1.freetv.fun | <https://stream1.freetv.fun/9b82ad7c940e20c92d1257cce341524f2dcbaad1e21bb4e9cfdf476de9adaf5a.m3u8> |
 | 1431 | [HD]smithsonian channel selects | stream1.freetv.fun | <https://stream1.freetv.fun/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
 | 1432 | [BD]top latino | stream1.freetv.fun | <https://stream1.freetv.fun/9707a1b6f750e0db2409b84975a9d945edff3fe885999bc64a5735d246e8f05a.m3u8> |
@@ -2446,4 +2446,4 @@
 | 2440 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2441 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Jul 14 2024 10:14:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 14 2024 12:33:53 GMT+0000 (Coordinated Universal Time)**
