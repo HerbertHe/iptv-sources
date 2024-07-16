@@ -419,4 +419,4 @@
 | 413 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 414 | CGTN阿语 | CGTN | <https://livear.cgtn.com/500a/prog_index.m3u8> |
 
-Updated at **Tue Jul 16 2024 14:13:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 16 2024 16:15:17 GMT+0000 (Coordinated Universal Time)**
