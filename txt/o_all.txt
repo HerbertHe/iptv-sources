@@ -795,7 +795,6 @@ Fooshun_Public_TV,http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8
 Forensic_Files,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
 Forensic_Files_2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f170-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66441bcc-2772-44c8-bc7e-7321b40be800
 Formula_1_Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-Formula_(1080p),https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 Foshan_News_TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
 Four_in_a_Bed_(1080p),https://lnc-four-in-a-bed.tubi.video/playlist.m3u8
 Foursquare_TV_(360p)_[Not_24/7],https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
@@ -7049,6 +7048,7 @@ First_India_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UC_cZYFovNQ
 FM_News_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCwGojq7oNNrMNaAMtyBhK0Q.m3u8
 For_You_TV_(480p),https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
 FORMedia_TV_(1080p),https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
+Formula_(1080p),https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 Foro_TV_(1080p),https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 FOX_2_Detroit_MI_(WJBK)_(720p),https://lnc-wjbk.tubi.video/index.m3u8
 FOX_5_Atlanta_GA_(WAGA-TV)_(720p),https://lnc-waga.tubi.video/index.m3u8
@@ -7842,6 +7842,7 @@ EWTN_United_States_(720p),https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls
 Expresión_TV_(1080p),https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 Extrema_TV_(720p),https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Fadak_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8
+Faith_TV,https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 Faro_de_Santidad_TV_(720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 Fe_Televisión_(360p),https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8
 Fe_Viviente_(480p),https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
