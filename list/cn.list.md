@@ -397,7 +397,7 @@
 | 391 | [BD]双鸭山新闻[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8> |
 | 392 | [SD]云南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/1e519db50efc47898d28b361b278dd74438de87cd84222210bb38c2e60968666.m3u8> |
 | 393 | [SD]云南少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/6e47370cd7175196d886950e6c84a05db180a8c52268e0ca0c319b24d3959a47.m3u8> |
-| 394 | [SD]云南康旅 | stream1.freetv.fun | <https://stream1.freetv.fun/9874264a175ee369c612437a559a4e3eb873ec9621e601561d9559b974671d8e.m3u8> |
+| 394 | [SD]云南康旅 | stream1.freetv.fun | <https://stream1.freetv.fun/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8> |
 | 395 | [SD]云南影视 | stream1.freetv.fun | <https://stream1.freetv.fun/76d6929ef3145eb85fe264b8f83432ccc076db07698455be65ce53c618477a90.m3u8> |
 | 396 | [SD]云南卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8> |
 | 397 | [SD]云南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8> |
@@ -419,4 +419,4 @@
 | 413 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 414 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Wed Jul 17 2024 14:12:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 17 2024 16:17:00 GMT+0000 (Coordinated Universal Time)**
