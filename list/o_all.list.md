@@ -2949,7 +2949,7 @@
 | 2943 | Fox 54.1 Huntsville | livevideo01.rocketcitynow.com | <https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8> |
 | 2944 | Fox 61 News Hartford CT (WTIC-TV) | livevideo01.fox61.com | <https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8> |
 | 2945 | FOX Business (1080p) | IPv4 直链 | <http://41.205.93.154/FOXBUSINESS/index.m3u8> |
-| 2946 | Fox News Channel (144p) | 247preview.foxnews.com | <http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8> |
+| 2946 | FOX News Channel (720p) | fl2.moveonjoy.com | <http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8> |
 | 2947 | FOX News Now (720p) | fox-foxnewsnow-samsungus.amagi.tv | <https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8> |
 | 2948 | Fox Soul (1080p) | fox-foxsoul-samsungus.amagi.tv | <https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8> |
 | 2949 | FOX Sports | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54> |
@@ -10171,4 +10171,4 @@
 | 10165 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10166 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Jul 19 2024 14:13:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 19 2024 16:16:08 GMT+0000 (Coordinated Universal Time)**
