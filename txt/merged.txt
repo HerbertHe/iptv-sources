@@ -5949,6 +5949,7 @@ NTV_Afrique_(1080p)_[Not_24/7],https://strhlslb01.streamakaci.tv/str_ntv_ntv/str
 NTV_Telugu_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 NTV_Uganda_(480p)_[Not_24/7],https://ythls.armelin.one/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
 Ñublevisión_(Chillán)_(720p),https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
+Nudu,https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 Number_1_Ask_(720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 Number_1_Damar_(720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 Number_1_Dance_(720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
@@ -8520,7 +8521,6 @@ General,#genre#
 16tv_Budapest_(360p),https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 20_Minutes_TV,https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 28_kanala_(720p)_[Not_24/7],https://5940924978228.streamlock.net/8157/8157/master.m3u8
-101tv_Antequera_(1080p),https://streaming101tv.es/hls/webantequera.m3u8
 101tv_Axarquía_(1080p),https://streaming101tv.es/hls/webaxarquia.m3u8
 101tv_Cádiz_(1080p),https://streaming101tv.es/hls/webcadiz.m3u8
 101tv_Ronda_(1080p),https://streaming101tv.es/hls/webronda.m3u8
@@ -9908,6 +9908,7 @@ TV_Beltrão_(1080p),https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/pla
 TV_Birigui_(640p),https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 TV_Brasil_Oeste_(720p),https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 TV_Brezová_(540p),http://95.105.193.219:88/hls/tvb.m3u8
+TV_BRICS_Africa_(1080p),https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
 TV_BRICS_Chinese_(1080p)_[Not_24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 TV_BRICS_English_(1080p),https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 TV_BRICS_Portuguese_(1080p),https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
@@ -10256,6 +10257,10 @@ W_Shopping_(720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k
 Ювелирочка_ТВ_(576p),https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 东森购物60_(480p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 耀才财经台_(576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+Entertainment;Family;General,#genre#
+1KZN_TV_(576p),https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
+Tshwane_TV_(576p),https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
 Music,#genre#
 1Music_Channel_Hungary_(576p),http://1music.hu/1music.m3u8
@@ -13024,7 +13029,7 @@ Nick_Germany_(1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/ma
 Nick_HD+_(1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 Nick_Jr_India_(1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 Nick_Jr._East_(720p),https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-Nickelodeon,http://31.148.48.15/Nickelodeon/index.m3u8
+Nickelodeon,http://185.189.225.150:85/nickelodeon/index.m3u8
 Nickelodeon_East_(720p),http://143.244.60.30/NICKELODEON/index.m3u8
 Nickelodeon_Sonic_Hindi_(1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 Nicktoons_Scandinavia,http://89.254.128.5:22280/nicktoons/video.m3u8
@@ -14261,6 +14266,7 @@ Cartoonito_Italy,https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/
 Cocoro_(1080p),https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 Disney_Channel_Latin_America_(480p),http://168.181.122.234:8000/play/a038/index.m3u8
 Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
+MeTV_Toons_(720p),https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
 Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 Pluto_TV_Retro_Toons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
@@ -14320,6 +14326,7 @@ earthTV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWm
 
 Entertainment;Family,#genre#
 Estrella_Games_(1080p),https://estrella-games-oando.amagi.tv/playlist.m3u8
+Soweto_TV_(576p),https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8
 
 Lifestyle;Shop,#genre#
 Fashion_Finds,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
