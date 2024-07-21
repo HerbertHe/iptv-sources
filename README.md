@@ -30,9 +30,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Sat Jul 20 2024 23:30:08 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Sun Jul 21 2024 00:07:04 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Sun Jul 21 2024 00:01:06 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Sun Jul 21 2024 01:30:09 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Sun Jul 21 2024 02:07:21 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Sun Jul 21 2024 02:01:08 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -71,7 +71,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sun Jul 21 2024 01:05:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 21 2024 02:33:23 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
