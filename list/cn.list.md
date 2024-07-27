@@ -124,7 +124,7 @@
 | 118 | [SD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/fbe11dbd31726bbda930fe4441fbc3d381d1c568595239e706bc9da18520fb38.m3u8> |
 | 119 | [SD]山东文旅 | stream1.freetv.fun | <https://stream1.freetv.fun/71b214b84fa1214e6c77ebb53184b53c3f6cf861f4f48b2faba49c64e8a0d9a6.ctv> |
 | 120 | [BD]山东新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/76443105643b1c8354e8ce7780c474fe59e1a97bb257d4d60ddd4b9c0dcee203.m3u8> |
-| 121 | [BD]山东综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/8e3b82d391233e08104fd2fd5926e17657e80887b9feb988b4b9bd78ea89b8ac.ctv> |
+| 121 | [VGA]山东综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/8e3b82d391233e08104fd2fd5926e17657e80887b9feb988b4b9bd78ea89b8ac.ctv> |
 | 122 | [BD]山东卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/fdd7bef030372acf9ed806a591021390fac55ba88222c01613b1f2608a38fd8c.m3u8> |
 | 123 | [BD]山东体育 | stream1.freetv.fun | <https://stream1.freetv.fun/579605ecfbfb2c5f69294760810a032b6704a3cfb0b164898d3e8527ce31d7f3.m3u8> |
 | 124 | [HD]山西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8> |
@@ -398,4 +398,4 @@
 | 392 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 393 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sat Jul 27 2024 10:13:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 27 2024 12:25:28 GMT+0000 (Coordinated Universal Time)**
