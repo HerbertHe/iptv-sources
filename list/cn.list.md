@@ -47,7 +47,7 @@
 | 41 | [HD]chco-tv | stream1.freetv.fun | <https://stream1.freetv.fun/28ef942c2f0cb458dd9a0cf2216cc0e0ff3f7173a012d7f9c020843b3124d8dc.m3u8> |
 | 42 | [SD]channel | stream1.freetv.fun | <https://stream1.freetv.fun/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv> |
 | 43 | [BD]news24 | stream1.freetv.fun | <https://stream1.freetv.fun/cfc575e40eb2044721b52cad4159d361c3e8473a29724966a494e13ef125ccf6.m3u8> |
-| 44 | [HD]lotus | stream1.freetv.fun | <https://stream1.freetv.fun/5c2f3bb6c6f48fd31ee1129327e0937cbe92066f5d2808ecf159f4e87ef46e66.m3u8> |
+| 44 | [VGA]lotus | stream1.freetv.fun | <https://stream1.freetv.fun/5c2f3bb6c6f48fd31ee1129327e0937cbe92066f5d2808ecf159f4e87ef46e66.m3u8> |
 | 45 | [VGA]m1905电影网 | stream1.freetv.fun | <https://stream1.freetv.fun/7c295dc2c4e92aa293b6f115ad870c965630ec1184ae7acf00fe1a2ba324980a.ctv> |
 | 46 | [VGA]ebs少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999a9d411d1cd276e1bc7681.m3u8> |
 | 47 | [SD]cetv-4 | stream1.freetv.fun | <https://stream1.freetv.fun/d8963564c3da34db5e6085786cb4a41f0ecad315dec9cdf2d0abb797d68d45e7.m3u8> |
@@ -399,4 +399,4 @@
 | 393 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 394 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sat Jul 27 2024 22:12:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 28 2024 01:05:41 GMT+0000 (Coordinated Universal Time)**
