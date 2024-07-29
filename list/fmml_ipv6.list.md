@@ -137,4 +137,4 @@
 | 131 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 132 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Mon Jul 29 2024 01:02:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 29 2024 02:34:14 GMT+0000 (Coordinated Universal Time)**
