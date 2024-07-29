@@ -186,7 +186,7 @@
 | 180 | [BD]astro supersport ⁴ᵏ | stream1.freetv.fun | <https://stream1.freetv.fun/9b728dbe13c921cffe9e4a3a56835409de00812c86d8e46f50e8b5e33148d889.ctv> |
 | 181 | [HD]astro supersport 5 fhd_ | stream1.freetv.fun | <https://stream1.freetv.fun/df12a3d051f7e6a6d9e7d8fd437d89c526aa9df00780ca1467f674d6b9fa9cdc.ctv> |
 | 182 | [HD]ASTRO TVS | stream1.freetv.fun | <https://stream1.freetv.fun/6583f3bac6d732874577a6e281348b13cb61bd89a35e829d885eda0af01593a2.ctv> |
-| 183 | [HD]KPLUS HD | stream1.freetv.fun | <https://stream1.freetv.fun/cef3fabc737e5e265f51f1208d77e0cf3e04a602449809e0a96f7f5422437f01.ctv> |
+| 183 | [HD]KPLUS HD | stream1.freetv.fun | <https://stream1.freetv.fun/7e0681f0bde561fa36008cd5a28da3355769494f98682699d38bba0c4a194aff.ctv> |
 | 184 | [HD]Astro欢喜台 | stream1.freetv.fun | <https://stream1.freetv.fun/acb7ee49e2dedcec441d93ba5a26df323c204a79b6d40ac379c877b45e098732.ctv> |
 | 185 | [HD]atlanta channel (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/b0518fe83cb68fa4ab6b5d85e747485e312545c26ad3b3d862c7d8126185a2c5.m3u8> |
 | 186 | [VGA]atomic tv | stream1.freetv.fun | <https://stream1.freetv.fun/85ddedaa475650ac306c30032de5f9083ed0ad1afe3fde086144f8c9926e77f2.m3u8> |
@@ -704,7 +704,7 @@
 | 698 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 699 | [HD]hadi tv 6 | stream1.freetv.fun | <https://stream1.freetv.fun/14ac578c408e647e7f43c8187f9524992957a8c80495d036dd367621587b92b6.m3u8> |
 | 700 | [BD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/39f4f6d28439d876bf2536f901175e203f4af36fc8bb74456c95315c9f55dc4b.ctv> |
-| 701 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/16532bcf6f3a6f186b56ec27920321dada5fce42836fbd328f79a06666520202.ctv> |
+| 701 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/2b65f3c63aaf8cb801ddaf54daece372461be94ab09d2c93fac7410e774cfad0.ctv> |
 | 702 | [HD]hbo 2 east | stream1.freetv.fun | <https://stream1.freetv.fun/087d248e94f8a576549db80cb255b528a18fe539f1be4705970d320eb63f6484.m3u8> |
 | 703 | [HD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
 | 704 | [BD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/1f6878351351ab92ec9e8f55e7eddb576867559d8a5758f4978fd92e53a3bdba.ctv> |
@@ -2295,4 +2295,4 @@
 | 2289 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2290 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jul 29 2024 08:17:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 29 2024 10:15:40 GMT+0000 (Coordinated Universal Time)**
