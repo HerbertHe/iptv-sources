@@ -16584,6 +16584,9 @@
 	<programme channel="动作电影" start="20240729102900 +0800" stop="20240729120000 +0800">
 		<title lang="zh">拳皇</title>
 	</programme>
+	<programme channel="动作电影" start="20240729120000 +0800" stop="20240729133800 +0800">
+		<title lang="zh">命悬天涯</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -22320,6 +22323,9 @@
 	<programme channel="咪咕综合体育" start="20240729091500 +0800" stop="20240729120500 +0800">
 		<title lang="zh">奥运时刻-男子10米气手枪决赛等</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240729120500 +0800" stop="20240729121000 +0800">
+		<title lang="zh">奥运宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -22346,6 +22352,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240729114000 +0800" stop="20240729120000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240729120000 +0800" stop="20240729132000 +0800">
+		<title lang="zh">奥运时刻-女子手球 荷兰-安哥拉</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -61521,6 +61530,9 @@
 	<programme channel="超级电影" start="20240729114900 +0800" stop="20240729115500 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="超级电影" start="20240729115500 +0800" stop="20240729140700 +0800">
+		<title lang="zh">赤道</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -70893,6 +70905,9 @@
 	<programme channel="黑莓动画" start="20240729114200 +0800" stop="20240729115300 +0800">
 		<title lang="zh">百变布鲁可第4季第10集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729115300 +0800" stop="20240729120600 +0800">
+		<title lang="zh">百变布鲁可第4季第11集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71769,6 +71784,9 @@
 	<programme channel="newtv超级体育" start="20240729090500 +0800" stop="20240729120000 +0800">
 		<title lang="zh">巴黎奥运会-赛事录播7.29-1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240729120000 +0800" stop="20240729130500 +0800">
+		<title lang="zh">体坛快讯-巴黎最前沿</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71795,6 +71813,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240729114900 +0800" stop="20240729115500 +0800">
 		<title lang="zh">音乐电影欣赏</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240729115500 +0800" stop="20240729140700 +0800">
+		<title lang="zh">赤道</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71894,6 +71915,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240729110500 +0800" stop="20240729115400 +0800">
 		<title lang="zh">自然之臻新疆有机纯驼乳粉（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240729115400 +0800" stop="20240729124900 +0800">
+		<title lang="zh">30_启航：当风起时</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72147,6 +72171,9 @@
 	<programme channel="newtv热播精选" start="20240729105800 +0800" stop="20240729114700 +0800">
 		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240729114700 +0800" stop="20240729132200 +0800">
+		<title lang="zh">独立日大电影</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72215,6 +72242,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240729102900 +0800" stop="20240729120000 +0800">
 		<title lang="zh">拳皇</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240729120000 +0800" stop="20240729133800 +0800">
+		<title lang="zh">命悬天涯</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72362,6 +72392,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240729110100 +0800" stop="20240729115400 +0800">
 		<title lang="zh">甲午风云录 第3集 决战威海卫</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240729115400 +0800" stop="20240729124600 +0800">
+		<title lang="zh">胜利征程 第1集 党指挥枪</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
