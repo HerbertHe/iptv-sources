@@ -55,6 +55,8 @@ rtp://228.1.1.212:8128
 rtp://228.1.1.31:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 rtp://228.1.1.183:8136
+#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
+rtp://228.1.1.215:8002
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://228.1.1.181:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV-4K 超高清[超清HDR]
