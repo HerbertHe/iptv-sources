@@ -280,7 +280,7 @@
 | 274 | [BD]bein 4 | stream1.freetv.fun | <https://stream1.freetv.fun/ba06d2ae937585bc85dee86ed857451e1889b7521f2a414f66e0e644a21d4648.ctv> |
 | 275 | [HD]bein 5 | stream1.freetv.fun | <https://stream1.freetv.fun/6841cf1367d8cdd1d8a07c1f8880f0929967148a23fa22ad28d3aa5b8c3fd436.ctv> |
 | 276 | [BD]bein 7 | stream1.freetv.fun | <https://stream1.freetv.fun/1515ae648b155ca90ad54094e5bc1c71458658b35caca930f3b1ad690541a82f.ctv> |
-| 277 | [BD]bein sports 4 | stream1.freetv.fun | <https://stream1.freetv.fun/7b6855e636b40e708ace03458be0d17ad7045bed2a9d244864bcd3efb7f02f37.ctv> |
+| 277 | [HD]bein sports 8 | stream1.freetv.fun | <https://stream1.freetv.fun/787a63e2b97c9d7ee6272159b859b897355233f303b47211bffd4517416dda03.ctv> |
 | 278 | [SD]2+2 sd | stream1.freetv.fun | <https://stream1.freetv.fun/ad814351b5f7b7928edd18312a5a1433f24e640e6a8b5cf9dc780fe55007d5e1.m3u8> |
 | 279 | [BD]bein 6 | stream1.freetv.fun | <https://stream1.freetv.fun/6ac62fa010cb37977c514c183dcc86fd4ecb9c046afff1c0023a28bc50654015.ctv> |
 | 280 | [BD]t sports 7 | stream1.freetv.fun | <https://stream1.freetv.fun/2ac66f39cc94e123be22eba82f388cf8f1de25ab828cfd66dc2b63b20254647f.m3u8> |
@@ -429,7 +429,7 @@
 | 423 | [HD]canal 7 salta | stream1.freetv.fun | <https://stream1.freetv.fun/ab9c76648457965193cfea7d3f5f1bd1598834b642a7eb21cdddf9c0ddca47f4.m3u8> |
 | 424 | [BD]futv costa rica | stream1.freetv.fun | <https://stream1.freetv.fun/f7c196d30e74557551bc942dd42caa01b6cb9cf50fce00ce6438fdb126b636da.ctv> |
 | 425 | [HD]multimedios canal 8 costa rica (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/a753d0d8d1fae2c45553e3d3a4ace9e798d6fc02938b41b629d3fa5794c2b9dd.m3u8> |
-| 426 | [BD]canal 7 hd cr | stream1.freetv.fun | <https://stream1.freetv.fun/5f9ac4e8755b297ea11d4d4bde79287b973cd0c59ef251f606ea8630eae2a577.m3u8> |
+| 426 | [BD]canal+ foot360 hd web | stream1.freetv.fun | <https://stream1.freetv.fun/f177260f03a56921846071a8efcbaefb37d6b088726b404561784bce77eb0f32.ctv> |
 | 427 | [VGA]canal algerie | stream1.freetv.fun | <https://stream1.freetv.fun/4ed3237f2e0dc5965639a3eb0ad856b3ec1655642a2e299952a49a1a24735eba.ctv> |
 | 428 | [BD]canal 4 | stream1.freetv.fun | <https://stream1.freetv.fun/c6f3be41ced472a4cd2df4ecf6a45b2969bce0581b5b5fa8184475eb0dda4d37.m3u8> |
 | 429 | [HD]canal like | stream1.freetv.fun | <https://stream1.freetv.fun/4ac59f42649a7ecdc40e5223117f8fe35ed2d0ffeb17157f75baeff5fba3ca85.m3u8> |
@@ -549,7 +549,7 @@
 | 543 | [BD].sci-fi hd | stream1.freetv.fun | <https://stream1.freetv.fun/8a060ef7646dcd061983e13efa08107d51e4b0c5bccb9fcafcc161787e9e21f5.m3u8> |
 | 544 | [BD]doma | stream1.freetv.fun | <https://stream1.freetv.fun/ed4364308f8ddeb290f6b95bc2831eb7577c4b28b7305a8cc662b7c87662dcf9.m3u8> |
 | 545 | [SD]dorf tv | stream1.freetv.fun | <https://stream1.freetv.fun/e1e5ddc174d249e268fb922fb8a53b318097642916f538e3f81183832c0c7247.m3u8> |
-| 546 | [HD]dorcel club | stream1.freetv.fun | <https://stream1.freetv.fun/3a32654ba75da11c8fc4a0c55adc4257080a67c0f8582c8cfa108792aa7ed688.m3u8> |
+| 546 | [HD]dorcel hd orig | stream1.freetv.fun | <https://stream1.freetv.fun/900e6f019c9ce30ec6279526b936b16cf178ed564c3e6b6f6fc733ecb229d5b5.m3u8> |
 | 547 | [SD]dost tv | stream1.freetv.fun | <https://stream1.freetv.fun/78fea8d095b29bb81d445d846c677bc8ba06d7c90afd670e504dd20bce15492e.m3u8> |
 | 548 | [HD]nbt | stream1.freetv.fun | <https://stream1.freetv.fun/b4fc899f722eed1f5b83dd5aca1935bf8fd694016672cb2e7268ec0569bda261.m3u8> |
 | 549 | [HD]rakuten drama (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/999d554a5e147bc8182f19924cad5501df74a6337a096f65d6bbb10267f97f45.m3u8> |
@@ -1943,7 +1943,7 @@
 | 1937 | [SD]安徽影视 | stream1.freetv.fun | <https://stream1.freetv.fun/430a91ee7a741fab8b0cd45871529e28d51ca28dd5c0bbdc7758fb83b43e3f2a.ctv> |
 | 1938 | [BD]安徽经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8> |
 | 1939 | [BD]安徽体育 | stream1.freetv.fun | <https://stream1.freetv.fun/bb475c26ba12c4c641cfdfbe8035be5d3b8be6cf5e2213eb931c4719cc50ef45.m3u8> |
-| 1940 | [SD]安徽卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8> |
+| 1940 | [BD]安徽卫视（高清） | stream1.freetv.fun | <https://stream1.freetv.fun/4342cef622865b035289f82359ae6548907ef07a0b1b071c461b5648d7bcb3d8.m3u8> |
 | 1941 | [BD]广安新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/b778266ea65e9ea74520cfcc77f05280df219c2527795ef56452e8f18294db4c.m3u8> |
 | 1942 | [VGA]安阳新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/354f570ec6eb1743546fe8536f8e228adf293d8c79a7ae5fcc1fa8065faa8a1f.m3u8> |
 | 1943 | [BD]安阳新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/99b82aef2317bf4a3886ec171b3236b4a1956a3bc21c4e2420a6bb546b30029c.ctv> |
@@ -1957,7 +1957,7 @@
 | 1951 | [SD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.ctv> |
 | 1952 | [BD]山东文旅 | stream1.freetv.fun | <https://stream1.freetv.fun/aa8f0b74d846988d48d6ef4c85739965c94b8418821fcb7b8222353f046b97e8.m3u8> |
 | 1953 | [BD]山东新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/76443105643b1c8354e8ce7780c474fe59e1a97bb257d4d60ddd4b9c0dcee203.m3u8> |
-| 1954 | [BD]山东卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8> |
+| 1954 | [BD]山东卫视（高清） | stream1.freetv.fun | <https://stream1.freetv.fun/5616a1d87d62613be4e4e00289ea05fb18cd150adf7de765d10b50c7cc03250d.m3u8> |
 | 1955 | [BD]山东体育 | stream1.freetv.fun | <https://stream1.freetv.fun/579605ecfbfb2c5f69294760810a032b6704a3cfb0b164898d3e8527ce31d7f3.m3u8> |
 | 1956 | [HD]山西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8> |
 | 1957 | [HD]山西社会与法治 | stream1.freetv.fun | <https://stream1.freetv.fun/b6fe3a9b438babc7020b3fb449c1ad1030444113bd696064f2e076299e84b904.m3u8> |
@@ -2240,7 +2240,7 @@
 | 2234 | [BD]郑州2商都 | stream1.freetv.fun | <https://stream1.freetv.fun/0a6c7667e82deb8345fba0319c61ec1f27cda65736ced3b77cf30fa62746af3b.ctv> |
 | 2235 | [VGA]定州新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e4ac775539e3deda7b1f48dc307097fbcb03725429d1188b393f60124f4e05a9.m3u8> |
 | 2236 | [VGA]重庆移动公交 | stream1.freetv.fun | <https://stream1.freetv.fun/fcc6d2bb4ed53ac9f3ae9f6b515876f75848e1d07482fafc37421dc1fb1905c2.m3u8> |
-| 2237 | [BD]重庆卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8> |
+| 2237 | [BD]重庆卫视（高清） | stream1.freetv.fun | <https://stream1.freetv.fun/3f5f5b7dd9e0d5615f533b3d3d8f3878401b5d330d9d5f8e76b3e588fa326e3a.m3u8> |
 | 2238 | [VGA]金湖新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/8439749fa807ac3697e4c2ad3806fdc913ca1115914ee9ee75f34693e4843b09.m3u8> |
 | 2239 | [SD]金鹰卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8> |
 | 2240 | [BD]金鹰纪实 | stream1.freetv.fun | <https://stream1.freetv.fun/d6b15180fe0097814389920ed87611f2db457a8b145f7107a8c1a941c44445d1.m3u8> |
@@ -2302,4 +2302,4 @@
 | 2296 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2297 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Jul 30 2024 14:12:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 30 2024 16:17:14 GMT+0000 (Coordinated Universal Time)**
