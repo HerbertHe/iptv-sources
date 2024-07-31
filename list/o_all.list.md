@@ -1567,7 +1567,7 @@
 | 1561 | Canal do Criador (1080p) | 607d2a1a47b1f.streamlock.net | <https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8> |
 | 1562 | Canal do Inter (720p) [Not 24/7] | video01.soultv.com.br | <https://video01.soultv.com.br/internacional/internacional/playlist.m3u8> |
 | 1563 | Canal Doñana (720p) [Not 24/7] | secure5.todostreaming.es | <https://secure5.todostreaming.es/live/division-alm.m3u8> |
-| 1564 | Canal Dos Yopal (720p) [Not 24/7] | canaldos.internetinalambrico.com.co:1936 | <https://canaldos.internetinalambrico.com.co:1936/live/canal2.stream/playlist.m3u8> |
+| 1564 | Canal Dos | IPv4 直链 | <http://131.221.41.94/hls/canal2.m3u8> |
 | 1565 | Canal E (720p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8> |
 | 1566 | Canal Educação (720p) | canaleducacao-stream.ebc.com.br | <https://canaleducacao-stream.ebc.com.br/index.m3u8> |
 | 1567 | Canal Extremadura (576p) [Not 24/7] | cdnlive.codev8.net | <https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=> |
@@ -10347,4 +10347,4 @@
 | 10341 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10342 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Tue Jul 30 2024 22:11:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 31 2024 00:51:11 GMT+0000 (Coordinated Universal Time)**
