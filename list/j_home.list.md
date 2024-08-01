@@ -59,4 +59,4 @@
 | 53 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 54 | CETV1中国教育电视台一套 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv1/ypd.m3u8> |
 
-Updated at **Thu Aug 01 2024 20:14:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 01 2024 22:12:15 GMT+0000 (Coordinated Universal Time)**
