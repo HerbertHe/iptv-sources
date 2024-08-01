@@ -36,7 +36,7 @@ Movies,#genre#
 [SD]cctv第一剧场,https://stream1.freetv.fun/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8
 [SD]CCM,https://stream1.freetv.fun/2e8427d46e70c7811814ab2aa513d0e9ec039e4f912510c2a57d73b64e55f2f3.ctv
 [HD]TVB经典(CH305),https://stream1.freetv.fun/93ac714d2f84bf6f641d69bb8b838027f56ced6c5f3d1086c2a6d56b3c921a5e.ctv
-[BD]chc_动作电影,https://stream1.freetv.fun/75ea7045fbc6fa2d91a8448dc06c277c8c0332dcdf76376e679d8f2fadf0d2ce.m3u8
+[BD]chc动作电影,https://stream1.freetv.fun/9f91fb29be6ae26b68f5cd0a28b04e336a67a57b12563ae44afc4d5045d65e71.ctv
 [BD]chc_家庭影院,https://stream1.freetv.fun/858fd9897506173695a5419d50903a115f39e8d9a18384c3edc36bb31b09a7fb.m3u8
 [BD]cinecanal_hd,https://stream1.freetv.fun/c33ddeda00f431d39e5cfc5d724a591d43de87ddb0ad151790e2d6570bc86713.m3u8
 [BD]mcn6_arts_channel,https://stream1.freetv.fun/8ac11942698d67f67c3a6ab0770a0f9b6ec3acb64ecdce559e525a6de3ba3e16.m3u8
@@ -1045,7 +1045,7 @@ Generic,#genre#
 [BD]大湾区卫视,https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv
 [VGA]天津卫视,https://stream1.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
 [HD]安多卫视,https://stream1.freetv.fun/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
-[BD]安徽公共_hd,https://stream1.freetv.fun/2848cc4df53957be93ff01b02c9055b7b0299d911db17f986e86e434c51a9829.ctv
+[SD]安徽公共,https://stream1.freetv.fun/73b72a5950f393c8fdc40d42b1b533778ee6ec53521db89854111c63bc0fe60d.m3u8
 [BD]安徽国际,https://stream1.freetv.fun/cd57ff12ae0d56bd0f5300230a0572fedce2e8709aba8b0c0f77b59845243b0e.ctv
 [BD]安徽经济生活,https://stream1.freetv.fun/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8
 [VGA]安徽卫视高清,https://stream1.freetv.fun/40406c4e1efd4433aff364f4878aa0d31a2a7d564098e6ab8ed9dddf1ced0456.m3u8
@@ -1082,7 +1082,8 @@ Generic,#genre#
 [SD]枣庄经济,https://stream1.freetv.fun/9174fcfec0bf7ef0e616aa8e6941ddfc16364caecc57179c2dbd077b4d47caa0.m3u8
 [BD]民视,https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
 [HD]民视,rtmp://220.130.201.73/sat/tv051
-[BD]汕头经济生活,https://stream1.freetv.fun/19ced411c26d4e482be64c5b9d41c7a11b5922c33612271e8a9e3327d5a290e0.m3u8
+[BD]汕头经济,https://stream1.freetv.fun/9a62ed2c2ed0697b2c435033666b2f99a0aec78f4926b419693229669133f63d.m3u8
+[BD]汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.m3u8
 [BD]江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 [BD]江苏卫视,https://stream1.freetv.fun/92ecd8819233648ab6c54f003268dffc50ed25c4831e70026554028fa478d561.m3u8
 [HD]江西公共,https://stream1.freetv.fun/8f30d15daed386d5c15ab43669d8e28864d599d0b0ab16414e2a5ebce05bb768.m3u8
@@ -1120,7 +1121,7 @@ Generic,#genre#
 [BD]湖南卫视,https://stream1.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8
 [BD]湖南都市,https://stream1.freetv.fun/fa6c54a189a793267ea76be44fb242398df65caf81ad578d030a708dcc372fad.m3u8
 [VGA]潮州公共,https://stream1.freetv.fun/6a72030026f25ebb69e8ac618793f77512836eba7d87a0c13b3c0f23e0e79c11.m3u8
-[VGA]潮州综合,https://stream1.freetv.fun/75844aaa809f0ff9afed21a3634d8093167f3b1fb2af232f261f39422ccea662.m3u8
+[BD]潮州综合,https://stream1.freetv.fun/75844aaa809f0ff9afed21a3634d8093167f3b1fb2af232f261f39422ccea662.m3u8
 [BD]澳视澳门,https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8
 [SD]济南商务,https://stream1.freetv.fun/ef11baac7e69ab2e7fb8414cc82856af526234e15e3f651f4ee1897fbef7fb30.m3u8
 [SD]济南生活,https://stream1.freetv.fun/5960040f8b1a888e9975d9f823dc6e2d50e9fe8b65b777e6fa57c173fba97225.m3u8
@@ -1810,7 +1811,7 @@ News,#genre#
 [SD]广东新闻,https://stream1.freetv.fun/5967041297602d0e4e8668d827d50cc812930e8f6fe371169e5a9420545af2d0.m3u8
 [BD]广西新闻,https://stream1.freetv.fun/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392eaf2d4.m3u8
 [SD]广西移动电视,https://stream1.freetv.fun/fe49546846e9942e849f4e9583d4bf5dc2f5d7156b7f1d20f01fdaa45cdcf47e.ctv
-[VGA]揭阳综合,https://stream1.freetv.fun/e90f502e55cbf9bc85df6c5006a78aea592a1509a1aed9c671439e216cfc0413.m3u8
+[BD]揭阳综合,https://stream1.freetv.fun/e90f502e55cbf9bc85df6c5006a78aea592a1509a1aed9c671439e216cfc0413.m3u8
 [BD]新野新闻综合频道,https://stream1.freetv.fun/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8
 [SD]nittele_g+,https://stream1.freetv.fun/3ab3f249b6017e2f47d33e72fd38314acf37974833de59da18b1329108f66a85.m3u8
 [SD]昆明新闻,https://stream1.freetv.fun/da60b8fafa16d9d9513939fa3e6172197c4dadedb8a585fc4d3ba9195f18db79.m3u8
@@ -2178,7 +2179,7 @@ Sports,#genre#
 [SD]枣庄新闻,https://stream1.freetv.fun/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体_(480p),https://stream1.freetv.fun/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
 [HD]江苏体育,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
-[VGA]深圳体育,https://stream1.freetv.fun/6c86c95760bbb08eecaddec17934828c51b6768b45c2beb62b614bca9a7647c5.m3u8
+[BD]深圳体育,https://stream1.freetv.fun/6c86c95760bbb08eecaddec17934828c51b6768b45c2beb62b614bca9a7647c5.m3u8
 [VGA]深圳体育健康,https://stream1.freetv.fun/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8
 [HD]澳门体育,https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
