@@ -280,7 +280,7 @@
 | 274 | [BD]湛江公共 | stream1.freetv.fun | <https://stream1.freetv.fun/2ffe66e7600bd9135be00b878ce0dad44a770119cdf32a0089ad0cb15e5d9716.m3u8> |
 | 275 | [HD]靖江新闻综合 | visit.jjbctv.com:1935 | <rtmp://visit.jjbctv.com:1935/live/xwzhpc> |
 | 276 | [BD]禹州新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a96db5ea3ec24408d11883824abdecae45c713b30b05f0d9fa5cf3ba07ee8a96.m3u8> |
-| 277 | [VGA]经济科教 | stream1.freetv.fun | <https://stream1.freetv.fun/195b1fa5345c85cae35b644729418e48b36d0d58a442041b06df518773302044.m3u8> |
+| 277 | [BD]经济科教 | stream1.freetv.fun | <https://stream1.freetv.fun/195b1fa5345c85cae35b644729418e48b36d0d58a442041b06df518773302044.m3u8> |
 | 278 | [SD]漳浦综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ced76c07c7151a939f0e7f281532a51f34da2e24fc3e8bc170e5e989d49ddc12.m3u8> |
 | 279 | [VGA]潮州公共 | stream1.freetv.fun | <https://stream1.freetv.fun/6a72030026f25ebb69e8ac618793f77512836eba7d87a0c13b3c0f23e0e79c11.m3u8> |
 | 280 | [BD]潮州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/75844aaa809f0ff9afed21a3634d8093167f3b1fb2af232f261f39422ccea662.m3u8> |
@@ -412,4 +412,4 @@
 | 406 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 407 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Thu Aug 01 2024 08:17:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 01 2024 10:15:43 GMT+0000 (Coordinated Universal Time)**
