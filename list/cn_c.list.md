@@ -109,4 +109,4 @@
 | 103 | [HD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/222ab91506e0310c79e009d1ca30d69ec87ef48007371488bf3e2fad0f13af21.m3u8> |
 | 104 | [BD]魅力足球 | epg.pw | <https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8> |
 
-Updated at **Sat Aug 03 2024 20:12:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 03 2024 20:13:00 GMT+0000 (Coordinated Universal Time)**
