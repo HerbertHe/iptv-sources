@@ -403,4 +403,4 @@
 | 397 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 398 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sun Aug 04 2024 16:14:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 04 2024 18:16:23 GMT+0000 (Coordinated Universal Time)**

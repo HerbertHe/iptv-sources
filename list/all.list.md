@@ -1368,7 +1368,7 @@
 | 1362 | [SD]tv sunnah | stream1.freetv.fun | <https://stream1.freetv.fun/9213377b09ededd4bc80bf5a35d7d540439f8b5689c9c89adf664d79e558fd3b.m3u8> |
 | 1363 | [BD]super tennis | stream1.freetv.fun | <https://stream1.freetv.fun/9d282cd908439638fe442fa2d38b949eb0d8b6d9f724b96c4023fabfc64eb70a.m3u8> |
 | 1364 | [HD]supersport premier league | stream1.freetv.fun | <https://stream1.freetv.fun/285812a7b73bf4a8a916f8aa96a76f233b6a8aadfa394d3d1848e2da2c0f1ce6.ctv> |
-| 1365 | [HD]supersports cricket | stream1.freetv.fun | <https://stream1.freetv.fun/c67fa0f5187c87fcf760cdeff79f5840d7078c09a6b0910cd1c367f04a590936.ctv> |
+| 1365 | [HD]supersport cricket | stream1.freetv.fun | <https://stream1.freetv.fun/191e09dcdc4974e6569038e4fa69eee97dbcd538830dc904434433b07a3555e2.ctv> |
 | 1366 | [HD]supersport variety 2 | stream1.freetv.fun | <https://stream1.freetv.fun/5cd0860b6cff5ccc399b11d66f24fb233e23f5bb0c489e7399ffd81cdb31f0f0.ctv> |
 | 1367 | [HD]supersport grandstand | stream1.freetv.fun | <https://stream1.freetv.fun/ecad51e1fa1b0cda96d70a7f286f8f7ca83863560bf3382000beca51dfd63d40.ctv> |
 | 1368 | [VGA]supersport motorsport | stream1.freetv.fun | <https://stream1.freetv.fun/ffec64bab1b2ddf4097755eb3891d22c941184fb89dfcd98f6d29c093910bd47.ctv> |
@@ -2250,4 +2250,4 @@
 | 2244 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2245 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Aug 04 2024 16:14:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 04 2024 18:16:24 GMT+0000 (Coordinated Universal Time)**
