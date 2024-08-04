@@ -97,7 +97,7 @@
 | 91 | [BD]四川科教 | stream1.freetv.fun | <https://stream1.freetv.fun/b15295b3e92bc05f0d0d70f16c56a26babec64bfcf55b4d60db31d2aae6340ab.m3u8> |
 | 92 | [BD]四川卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/6bce021034becfd307ca523bc22252107b378df99a6d6c3255da5647bc512279.m3u8> |
 | 93 | [BD]大庆新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/72078ced53b6a4f440c82744225c37ee6c2a3bf00ad47642a128e82f252474f9.m3u8> |
-| 94 | [BD]大湾区卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv> |
+| 94 | [BD]大湾区卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8> |
 | 95 | [BD]天津卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8> |
 | 96 | [BD]东莞新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8> |
 | 97 | [VGA]孝感公共频道 | stream1.freetv.fun | <https://stream1.freetv.fun/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8> |
@@ -407,4 +407,4 @@
 | 401 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 402 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sun Aug 04 2024 02:35:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 04 2024 04:17:02 GMT+0000 (Coordinated Universal Time)**
