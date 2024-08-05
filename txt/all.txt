@@ -359,7 +359,6 @@ Entertainment,#genre#
 [VGA]asgabat_tv,https://stream1.freetv.fun/3d773770b9a81dcf78ed2ce33984b2ac0dd762cc711b475cdf2896fa360c9821.m3u8
 [SD]niaga_tv,https://stream1.freetv.fun/0a197311bbf4e06f563a18dab186f955a7d9749217d4968af1e847e3bd31e9cf.m3u8
 [SD]nogoumfmtv,https://stream1.freetv.fun/e39a0fdf01f566d1860f88daa6e6bb7614c9e9df4b30e8db4f729d8cb603159e.m3u8
-[BD]shomoy_tv,https://stream1.freetv.fun/dd6d9318ac9a26c23e266e4fc9cc686b2c2cdbad43544a20c4cce07dbd97913f.m3u8
 [HD]hln_live,https://stream1.freetv.fun/f2d17e0c6c6b43692c2ac27f9a922de930cf705eb6ac91526dd508961233d104.m3u8
 [HD]oan_plus,https://stream1.freetv.fun/822afded5c62d2be9253ae1ea56854387e494c16eb850b34c101edf95def3aed.m3u8
 [HD]vf_series,https://stream1.freetv.fun/022a158d3d3bba60deeb0fbb77ffc2668050b193ec0ca1d035a761028933933f.m3u8
@@ -1490,7 +1489,7 @@ News,#genre#
 [BD]bfm_paris_île-de-france,https://stream1.freetv.fun/a2c9b9e6634782df4a6085190e2b299f3dfa59c9217eda7ac1662a12852eae48.m3u8
 [HD]new_brasil,https://stream1.freetv.fun/930b55e553a62e3d89c7a64f2b22fac6243493404f20dba4375d9852b2318b76.m3u8
 [VGA]bs11,https://stream1.freetv.fun/d4dc2fb57aeec615771b1c11c1ce483b73626f5da56578e5e352393ae7cc62b6.m3u8
-[BD]bsテレ东,https://stream1.freetv.fun/e41a64a76aee137115a7ec2b9fe547ca34a249386fb53b2273852fc801b7d4ab.m3u8
+[HD]bsテレ东,https://stream1.freetv.fun/e41a64a76aee137115a7ec2b9fe547ca34a249386fb53b2273852fc801b7d4ab.m3u8
 [SD]bsフジ,https://stream1.freetv.fun/31f102e0563309da6084e0237816e59421140edacc6d944c2d42e90d97d16ccd.m3u8
 [SD]bs日テレ,https://stream1.freetv.fun/73144c626c197eaf79d6a8f72745be20bfde9391354ed0a8a1c572526d431872.m3u8
 [HD]btn,https://stream1.freetv.fun/a08b5d5746797bb4f47d5e13589ec81326ccbc79f7273315f53c0dcd19291709.m3u8
@@ -1519,7 +1518,7 @@ News,#genre#
 [BD]cctv4-国际,https://stream1.freetv.fun/1d35f4d2d00da6c61e503fb713126239f42260c4d19b6322316306410f75b368.m3u8
 [SD]cgtn,https://stream1.freetv.fun/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
 [SD]cgtn法语,https://stream1.freetv.fun/6f11938af9f9bc0a526373ac2ed5e58aaadd0f1f63ad671a01ae1cd075ae6587.m3u8
-[BD]channel_24,https://stream1.freetv.fun/13a1b835482a8d4ce14c1593733db27cc0075f79ef0c1825c31ad15d79d66460.m3u8
+[HD]channel_24,https://stream1.freetv.fun/13a1b835482a8d4ce14c1593733db27cc0075f79ef0c1825c31ad15d79d66460.m3u8
 [BD]cmc_tv,https://stream1.freetv.fun/2e20476eaa0c50d9e8279aae3ca9c1aabb2c92e615d9c202fde3b7460326a4b4.m3u8
 [HD]cna,https://stream1.freetv.fun/8a2b00784e84e617c0de3585616ef37a1890abde4e1cfa950e03368a637b96bf.m3u8
 [HD]CNBC,https://stream1.freetv.fun/e920908edbdd095b83c86c8df8e39cb51c708a52cebdf9a38e5962a5265a8565.ctv
