@@ -1,6 +1,7 @@
 Religious,#genre#
 ABN_China_(720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Angel_TV_Chinese_(720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+EWTN_Africa_Asia_(720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 EWTN_Asia-Pacific_(720p)_[Not_24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 Undefined,#genre#
@@ -20,8 +21,6 @@ douyu24,http://epg.112114.xyz/douyu/36337
 douyu25,http://epg.112114.xyz/douyu/8814650
 douyu28,http://epg.112114.xyz/douyu/263824
 douyu44,http://epg.112114.xyz/douyu/323876
-Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-EWTN_Africa_Asia_(720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 Fengtai_Culture_&_Life_TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 Fengtai_News_TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 Foochow_Children_TV,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
@@ -86,7 +85,6 @@ Zhejiang_TV_International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 上虞经济文化_(720p)_[Not_24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 东南卫视_(360p),http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
 东乡电视台,http://117.156.28.119/270000001111/1110000131/index.m3u8
-东方卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 东至影视_(576p)_[Not_24/7],http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 东至文化资讯_(576p)_[Not_24/7],http://223.247.33.124:1935/live/wenhua/playlist.m3u8
 东至新闻综合_(720p)_[Not_24/7],http://223.247.33.124:1935/live/zonghe/playlist.m3u8
@@ -238,7 +236,6 @@ Zhejiang_TV_International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 广东_Ⅰ_韶关综合台_(720p)_[Not_24/7],https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 广水新闻综合,http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-广西卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 延边卫视_(720p),http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边新闻综合,https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 建安电视台_(1080p)_[Not_24/7],http://live.dxhmt.cn:9081/tv/11003-1.m3u8
@@ -251,7 +248,6 @@ Zhejiang_TV_International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 徐州公共频道_(1080p),http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 徐州新闻综合_(1080p),http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
 徐州贾汪旅游_(576p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227389/index.m3u8
-房山电视台_(576p),https://live.funhillrm.com/2/playlist.m3u8
 抚州公共_(270p),http://111.75.179.195:30767/video/live_vide2.m3u8
 抚州综合频道_(270p)_[Not_24/7],http://111.75.179.195:30767/video/live_vide.m3u8
 敦煌电视台_(1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
@@ -361,7 +357,6 @@ Zhejiang_TV_International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 无线新闻台,https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
 无线财经·体育·资讯台,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
 甘肃公共_(540p)_[Not_24/7],https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-甘肃卫视_(1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
 甘肃移动_(540p)_[Not_24/7],https://hls.gstv.com.cn/49048r/y72q36.m3u8
 生活_(576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
 电白视窗_(360p)_[Not_24/7],http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
@@ -519,9 +514,14 @@ Toonmax_TV_(576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 General,#genre#
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-1_(1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 TV_BRICS_Chinese_(1080p)_[Not_24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 РТР_Планета_Азия,https://player.smotrim.ru/iframe/stream/live_id/63254
+东方卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+广西卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+房山电视台_(576p),https://live.funhillrm.com/2/playlist.m3u8
 滁州市广播电视台_公共频道_(400p),http://live.cztv.cc:85/live/ggpd.m3u8
+甘肃卫视_(1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
 
 Sports,#genre#
 CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
