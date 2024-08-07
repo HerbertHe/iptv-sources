@@ -22,7 +22,7 @@
 | 16 | CCTV-15 音乐 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8> |
 | 17 | CCTV-16 奥林匹克 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8> |
 | 18 | CCTV-17 农业农村 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8> |
-| 19 | CCTV-4K 超高清 | liveop.cctv.cn | <http://liveop.cctv.cn/hls/4KHD/playlist.m3u8> |
+| 19 | CCTV-4K 超高清 | hlslive-tx-cdn.ysp.cctv.cn | <http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0> |
 | 20 | CCTV-1 备用V6 | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8> |
 | 21 | CCTV-5 备用V6 | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8> |
 | 22 | CCTV-5+ 备用V6 | IPv6 直链 | <http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8> |
@@ -147,4 +147,4 @@
 | 141 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 142 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Wed Aug 07 2024 10:14:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 07 2024 12:26:37 GMT+0000 (Coordinated Universal Time)**
