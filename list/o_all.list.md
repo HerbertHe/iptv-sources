@@ -5199,7 +5199,7 @@
 | 5193 | News X (720p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8> |
 | 5194 | NewSignal (1080p) | 5f22d76e220e1.streamlock.net | <https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8> |
 | 5195 | Newsmax2 | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974> |
-| 5196 | Newsmax (1080p) | amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv | <https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8> |
+| 5196 | Newsmax TV | newsmax.codeautoplaycdn2.workers.dev | <https://newsmax.codeautoplaycdn2.workers.dev/> |
 | 5197 | NewsNet (720p) | amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv | <https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8> |
 | 5198 | Newsy | linear-460.frequency.stream | <https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8> |
 | 5199 | NewTV动画王国 (1080p) | IPv4 直链 | <http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8> |
@@ -10335,4 +10335,4 @@
 | 10329 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10330 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Thu Aug 08 2024 22:12:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 09 2024 01:02:39 GMT+0000 (Coordinated Universal Time)**
