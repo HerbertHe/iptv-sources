@@ -15,7 +15,7 @@ Sources are from:
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 - [joevess/IPTV](https://github.com/joevess/IPTV)
-- ~~[Meroser/IPTV](https://github.com/Meroser/IPTV)~~ The project content has been removed by Author
+- [cymz6/AutoIPTV-Hotel](https://github.com/cymz6/AutoIPTV-Hotel)
 
 EPG Sources are from:
 
@@ -46,8 +46,4 @@ See <https://m3u.ibert.me> to get more.
 
 GPL-3.0 &copy; Herbert He
 
-本项目基于 GPL-3.0 协议开源，但下面的个人或组织不在允许名单目录中。
-
-| 名称      | 链接                           | 原因                                                                                                                             |
-| --------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| vodtv/m3u | <https://github.com/vodtv/m3u> | 违反 MIT 开源协议 "在软件和软件的所有副本中都必须包含以上版权声明和本许可声明。" [Commit](https://github.com/vodtv/m3u/issues/3) |
+本项目基于 GPL-3.0 协议开源。
