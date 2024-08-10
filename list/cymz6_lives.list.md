@@ -379,4 +379,4 @@
 | 373 | 风云剧场 | IPv4 直链 | <http://222.217.246.108:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 374 | 风云足球 | IPv4 直链 | <http://222.217.246.108:8181/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Aug 10 2024 14:12:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 10 2024 16:16:02 GMT+0000 (Coordinated Universal Time)**
