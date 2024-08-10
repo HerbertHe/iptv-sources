@@ -15,7 +15,7 @@ Sources are from:
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 - [joevess/IPTV](https://github.com/joevess/IPTV)
-- ~~[Meroser/IPTV](https://github.com/Meroser/IPTV)~~ The project content has been removed by Author
+- [cymz6/AutoIPTV-Hotel](https://github.com/cymz6/AutoIPTV-Hotel)
 
 EPG Sources are from:
 
@@ -29,10 +29,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Sat Aug 10 2024 06:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Sat Aug 10 2024 07:30:07 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Sat Aug 10 2024 08:04:23 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Sat Aug 10 2024 08:01:03 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.b2og.com> | per 2h | Sat Aug 10 2024 08:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.helima.net> | per 2.5h | Sat Aug 10 2024 09:30:10 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Sat Aug 10 2024 10:04:32 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Sat Aug 10 2024 10:01:01 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -41,10 +41,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 142 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 243 | - |
+| cymz6/AutoIPTV-Hotel lives | [cymz6_lives.m3u](/cymz6_lives.m3u) <br> [cymz6_lives.txt](/txt/cymz6_lives.txt) | [List for cymz6/AutoIPTV-Hotel lives](/list/cymz6_lives.list) | 374 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 185 | - |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 64 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 429 | - |
-| ~~Meroser/IPTV IPTV~~(Removed) | [m_iptv.m3u](/m_iptv.m3u) <br> [m_iptv.txt](/txt/m_iptv.txt) | [List for ~~Meroser/IPTV IPTV~~(Removed)](/list/m_iptv.list) | 239 | ✅ |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 10334 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 531 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 496 | - |
@@ -55,7 +55,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | epg.pw China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for epg.pw China National](/list/cn_n.list) | 8 | - |
 | epg.pw China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for epg.pw China Country](/list/cn_c.list) | 104 | - |
 | epg.pw China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for epg.pw China Province](/list/cn_p.list) | 34 | - |
-| epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2247 | - |
+| epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2246 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 139 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 139 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 153 | - |
@@ -67,11 +67,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sat Aug 10 2024 08:16:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 10 2024 10:10:25 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
@@ -79,8 +79,4 @@ See <https://m3u.ibert.me> to get more.
 
 GPL-3.0 &copy; Herbert He
 
-本项目基于 GPL-3.0 协议开源，但下面的个人或组织不在允许名单目录中。
-
-| 名称      | 链接                           | 原因                                                                                                                             |
-| --------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| vodtv/m3u | <https://github.com/vodtv/m3u> | 违反 MIT 开源协议 "在软件和软件的所有副本中都必须包含以上版权声明和本许可声明。" [Commit](https://github.com/vodtv/m3u/issues/3) |
+本项目基于 GPL-3.0 协议开源。
