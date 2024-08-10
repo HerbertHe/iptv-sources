@@ -684,7 +684,7 @@
 | 678 | [BD]hbo 2 | stream1.freetv.fun | <https://stream1.freetv.fun/f6364a31e79168836ee87c5b764a6831c9008ed45ecd5fbbae0fef056a550dbe.ctv> |
 | 679 | [HD]hbo 2 east | stream1.freetv.fun | <https://stream1.freetv.fun/087d248e94f8a576549db80cb255b528a18fe539f1be4705970d320eb63f6484.m3u8> |
 | 680 | [HD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
-| 681 | [BD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/a5d07d6f9e9ec2f9ba1349d8ab1e5a64fa04ae72c9d1d6b0c9a3431059c8a183.ctv> |
+| 681 | [SD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/4f35f8002c1450831ec7c07a6cbef036dfc8d5c6808c5b8c95c3ebf5ed06e928.ctv> |
 | 682 | [HD]hbo 2 east | stream1.freetv.fun | <https://stream1.freetv.fun/3f1cb397a5f371604685e6e47ffd22434f3425ea94c96367cff7eb8ed72134d4.m3u8> |
 | 683 | [BD]hbo family | stream1.freetv.fun | <https://stream1.freetv.fun/ff99d251eb9b8620e60500d2abed581a01713dcd8a6eb7fb155e304114f90f4a.ctv> |
 | 684 | [BD]hbo family hd | stream1.freetv.fun | <https://stream1.freetv.fun/c64ba97578aa2fea11b61e411d00de54314680b5b91c4f9dccf8c70a2b84443c.m3u8> |
@@ -902,7 +902,7 @@
 | 896 | [HD]maah tv (720p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/3273960b15099be5955e890882159474dfa402ed1782314e52d0bf7784597b2a.m3u8> |
 | 897 | [BD]ciudad magazine | stream1.freetv.fun | <https://stream1.freetv.fun/642163b746787e3bd1cc962619ec17ba51922587c0335c16d4d72014c66f7f94.m3u8> |
 | 898 | [HD]medi 1 maghreb | stream1.freetv.fun | <https://stream1.freetv.fun/f6f67a0c0c392192f159e1c5b4154fdec80919b185b4c8c5791114e786f0a9bd.m3u8> |
-| 899 | [HD]magic vhs hd | stream1.freetv.fun | <https://stream1.freetv.fun/4c965ce9ded54b9e5410aa8f2a6da3485a9082d392d53cc37a0bd9afbef38b20.m3u8> |
+| 899 | [SD]mgi tv | stream1.freetv.fun | <https://stream1.freetv.fun/1eedef426816a01451b9d6fc180cd6bdaaad8514983929e7bb9cb35b8e76aff4.m3u8> |
 | 900 | [BD]majid tv | stream1.freetv.fun | <https://stream1.freetv.fun/3a6d01cdc8312145fd724f98a6177332b0390375c963e401db92a34a1cc29cd4.m3u8> |
 | 901 | [BD]mar tv (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/5c199aa8d42f7c1e3331ad07b9ad490062a6058368c7538a6a657ff356cec8de.m3u8> |
 | 902 | [BD]aza tv hd | stream1.freetv.fun | <https://stream1.freetv.fun/b6dfd8e59de99772f88cd82daba54a940f69f1ef49196c3a82e6c176ee1b0aea.m3u8> |
@@ -2252,4 +2252,4 @@
 | 2246 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2247 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Aug 10 2024 04:17:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 10 2024 06:17:36 GMT+0000 (Coordinated Universal Time)**
