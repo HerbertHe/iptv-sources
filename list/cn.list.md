@@ -234,7 +234,7 @@
 | 228 | [BD]河南乡村 | stream1.freetv.fun | <https://stream1.freetv.fun/0f0eb94ddc89e6b4b828066fb1b18b5809d423a549a8bcc58f86946b27e7db5f.ctv> |
 | 229 | [BD]河南电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a3153c9d7426d715683a1b9432f254f3f2d31552b8dee240d160e1d824ee5bda.ctv> |
 | 230 | [SD]泉州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a42dbc38f09e91405c92a848f0190e8042818671ae7edd27a824078752091953.m3u8> |
-| 231 | [BD]泰州一套新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/3e6bd076a709d00a0428a0e7fe76b78667128dd59cc8260e8254d0b8309ae6d4.m3u8> |
+| 231 | [BD]泰州一套新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/8bf95f0dba507f127849c628a18b9bfec5ea7dea22d6ed1315ac28a207dcdaa3.m3u8> |
 | 232 | [BD]洛阳二套科教 | stream1.freetv.fun | <https://stream1.freetv.fun/2cd8be4d49670d079cfe3a255423110ff45803cd07630916379b0dcce6dcb107.m3u8> |
 | 233 | [BD]浙江国际频道 | stream1.freetv.fun | <https://stream1.freetv.fun/02c2da793e83ee449bd3ae4ee2994fe6a43e440871a74f255055352c1929a58f.m3u8> |
 | 234 | [BD]浙江少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8> |
@@ -273,11 +273,11 @@
 | 267 | [SD]湖北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8> |
 | 268 | [BD]湖南公共 | stream1.freetv.fun | <https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df6630df3bc8746.m3u8> |
 | 269 | [BD]湖南国际 | stream1.freetv.fun | <https://stream1.freetv.fun/ce0e820550a014ed90fc9aadf883f4133c6b5d44a65f4689d68215956ea57748.m3u8> |
-| 270 | [BD]湖南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/39954bf58d95c7ec0a2f53d269776b8172370d9ef29d48438a5199a2abdc2c5b.m3u8> |
+| 270 | [BD]湖南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/beb9587d88489e70e201873d98421bfb236759d0ee3f5a09437e5f23085bdad0.m3u8> |
 | 271 | [BD]湖南教育 | stream1.freetv.fun | <https://stream1.freetv.fun/eb85cfcd2b3557f8d4f5bb8ee7c44ca82d2812a2bfbc8c9722301dfb40ac26e2.m3u8> |
 | 272 | [SD]湖南经视 | stream1.freetv.fun | <https://stream1.freetv.fun/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.m3u8> |
-| 273 | [BD]湖南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8> |
-| 274 | [BD]湖南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/fa6c54a189a793267ea76be44fb242398df65caf81ad578d030a708dcc372fad.m3u8> |
+| 273 | [VGA]湖南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8> |
+| 274 | [BD]湖南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.m3u8> |
 | 275 | [BD]湖南电影 | stream1.freetv.fun | <https://stream1.freetv.fun/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.m3u8> |
 | 276 | [BD]湖南电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8eed434294c39a1b1e01d309a3836cfad58bb52b732c4a5fba2c90fd564e30d2.m3u8> |
 | 277 | [HD]湖州公共 | stream1.freetv.fun | <https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8> |
@@ -415,4 +415,4 @@
 | 409 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 410 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sun Aug 11 2024 10:13:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 11 2024 12:24:20 GMT+0000 (Coordinated Universal Time)**

@@ -459,8 +459,8 @@ https://stream1.freetv.fun/0f0eb94ddc89e6b4b828066fb1b18b5809d423a549a8bcc58f869
 https://stream1.freetv.fun/a3153c9d7426d715683a1b9432f254f3f2d31552b8dee240d160e1d824ee5bda.ctv
 #EXTINF:-1 tvg-name="泉州综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313192823625921_50.png" group-title="其它",[SD]泉州综合
 https://stream1.freetv.fun/a42dbc38f09e91405c92a848f0190e8042818671ae7edd27a824078752091953.m3u8
-#EXTINF:-1 tvg-name="泰州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313193123214948_88.png" group-title="新闻",[BD]泰州一套新闻综合频道
-https://stream1.freetv.fun/3e6bd076a709d00a0428a0e7fe76b78667128dd59cc8260e8254d0b8309ae6d4.m3u8
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313193123214948_88.png" group-title="新闻",[BD]泰州一套新闻综合
+https://stream1.freetv.fun/8bf95f0dba507f127849c628a18b9bfec5ea7dea22d6ed1315ac28a207dcdaa3.m3u8
 #EXTINF:-1 tvg-name="洛阳科教" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031233059904691_72.jpg" group-title="其它",[BD]洛阳二套科教
 https://stream1.freetv.fun/2cd8be4d49670d079cfe3a255423110ff45803cd07630916379b0dcce6dcb107.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/01/large/20220501233500757287_70.png" group-title="综合",[BD]浙江国际频道
@@ -538,15 +538,15 @@ https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df66
 #EXTINF:-1 tvg-name="湖南国际" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526142404304642_26.jpg" group-title="综合",[BD]湖南国际
 https://stream1.freetv.fun/ce0e820550a014ed90fc9aadf883f4133c6b5d44a65f4689d68215956ea57748.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526213508482612_20.jpg" group-title="综艺",[BD]湖南娱乐
-https://stream1.freetv.fun/39954bf58d95c7ec0a2f53d269776b8172370d9ef29d48438a5199a2abdc2c5b.m3u8
+https://stream1.freetv.fun/beb9587d88489e70e201873d98421bfb236759d0ee3f5a09437e5f23085bdad0.m3u8
 #EXTINF:-1 tvg-name="湖南教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526142458097682_95.jpg" group-title="其它",[BD]湖南教育
 https://stream1.freetv.fun/eb85cfcd2b3557f8d4f5bb8ee7c44ca82d2812a2bfbc8c9722301dfb40ac26e2.m3u8
 #EXTINF:-1 tvg-name="湖南经视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526142556787828_84.jpg" group-title="综合",[SD]湖南经视
 https://stream1.freetv.fun/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="综合",[BD]湖南卫视
-https://stream1.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="综合",[VGA]湖南卫视
+https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8
 #EXTINF:-1 tvg-name="湖南都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526122553316545_61.jpg" group-title="综合",[BD]湖南都市
-https://stream1.freetv.fun/fa6c54a189a793267ea76be44fb242398df65caf81ad578d030a708dcc372fad.m3u8
+https://stream1.freetv.fun/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.m3u8
 #EXTINF:-1 tvg-name="湖南电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112143980243_98.png" group-title="电影",[BD]湖南电影
 https://stream1.freetv.fun/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111928211584_68.png" group-title="电影",[BD]湖南电视剧
