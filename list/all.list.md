@@ -94,7 +94,7 @@
 | 88 | [SD]ASSP3 | stream1.freetv.fun | <https://stream1.freetv.fun/15895ce6a68a40cdead5deb21b158a5318eb661d0656f22853fbd4eb2b8375da.ctv> |
 | 89 | [SD]ASSP4 | stream1.freetv.fun | <https://stream1.freetv.fun/2a16af4303d09f67d2e5a3a3529f1c9b84921f437734ec8fd7cc35b52384474d.ctv> |
 | 90 | [HD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/3d90d8c59d6aaabc24aac0d0d954dea1f3ce02a3b793a49628ae2e0dca2e6528.ctv> |
-| 91 | [HD]astro awani | stream1.freetv.fun | <https://stream1.freetv.fun/713903e82f60673886c11803f5ef077c54e07b01544eef0d15e564e6fdba4421.m3u8> |
+| 91 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/5914cf03beafb758f57da545546465b8b8a4be6930177b0ec5974d601c0301f6.ctv> |
 | 92 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/9baa6d46c3d9c8890faa4a2f92719a9ec6990654d1963ba08552df7812ae37b3.ctv> |
 | 93 | [SD]astro cricket | stream1.freetv.fun | <https://stream1.freetv.fun/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
 | 94 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/b4bcd22791bf554105a4c48d65ad163ec3df4e1465173e0f2033a97f03205dc1.ctv> |
@@ -2247,4 +2247,4 @@
 | 2241 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2242 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Aug 11 2024 01:06:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 11 2024 02:37:20 GMT+0000 (Coordinated Universal Time)**
