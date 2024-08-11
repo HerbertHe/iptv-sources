@@ -69,4 +69,4 @@
 | 63 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 64 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 
-Updated at **Sun Aug 11 2024 16:15:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 11 2024 18:18:47 GMT+0000 (Coordinated Universal Time)**
