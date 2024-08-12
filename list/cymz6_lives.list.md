@@ -452,4 +452,4 @@
 | 446 | 风云剧场 | IPv4 直链 | <http://180.137.22.38:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 447 | 高尔夫网球 | IPv4 直链 | <http://180.137.22.38:8181/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Aug 12 2024 01:03:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 12 2024 02:35:59 GMT+0000 (Coordinated Universal Time)**
