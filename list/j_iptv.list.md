@@ -434,4 +434,4 @@
 | 428 | CGTN西语 | hlslive-tx-cdn.ysp.cctv.cn | <http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182103.m3u8> |
 | 429 | CGTN阿语 | hlslive-tx-cdn.ysp.cctv.cn | <http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182003.m3u8> |
 
-Updated at **Tue Aug 13 2024 18:18:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 13 2024 20:14:12 GMT+0000 (Coordinated Universal Time)**
