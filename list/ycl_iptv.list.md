@@ -116,136 +116,138 @@
 | 110 | 精品萌宠 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8> |
 | 111 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
 | 112 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
-| 113 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
-| 114 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
-| 115 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
-| 116 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
-| 117 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
-| 118 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
-| 119 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
-| 120 | 炫舞未来 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8> |
-| 121 | 爱情喜剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8> |
-| 122 | 古装剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8> |
-| 123 | 精彩影视 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
-| 124 | BBC | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8> |
-| 125 | CNN | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8> |
-| 126 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
-| 127 | NBC | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8> |
-| 128 | FOX | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8> |
-| 129 | SkyNews | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8> |
-| 130 | WionNews | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
-| 131 | Scripps News | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8> |
-| 132 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 133 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
-| 134 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
-| 135 | GB News | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8> |
-| 136 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
-| 137 | Africa News | euronews-africanews-english-1-eu.xiaomi.wurl.tv | <https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 138 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
-| 139 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
-| 140 | Bloomberg Originals | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8> |
-| 141 | ION Plus | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8> |
-| 142 | Vevo Pop | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8> |
-| 143 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
-| 144 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
-| 145 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 146 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 147 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
-| 148 | Xplore | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8> |
-| 149 | Clarity 4K | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8> |
-| 150 | FIFA+ | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8> |
-| 151 | Stadium | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8> |
-| 152 | NBC Sport | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8> |
-| 153 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
-| 154 | SportsGrid | amg00315-sportsgrid-firetv.amagi.tv | <https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8> |
-| 155 | TBS | IPv4 直链 | <http://143.244.60.30/TBS/index.m3u8> |
-| 156 | Tastemade | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8> |
-| 157 | MovieSphere | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8> |
-| 158 | The Lego Channel | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8> |
-| 159 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
-| 160 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
-| 161 | ComedyDynamics | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8> |
-| 162 | BBC Earth | d206rrc0yoxllg.cloudfront.net | <https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8> |
-| 163 | History | da8eq3kpws4wh.cloudfront.net | <https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8> |
-| 164 | TED Talks | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 165 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 166 | Mytime | mytime-tcl.amagi.tv | <https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top> |
-| 167 | Museum | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8> |
-| 168 | LoveStories | lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv | <https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 169 | Travel XP | travelxp-travelxp-1-eu.xiaomi.wurl.tv | <https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 170 | Ondemand China | newidco-ondemandchina-1-us.xiaomi.wurl.tv | <https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 171 | Yu-Gi-Oh | fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv | <https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 172 | Young Hollywood | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8> |
-| 173 | Food | food-eu.xiaomi.wurl.tv | <https://food-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 174 | La La Life | amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv | <https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8> |
-| 175 | Rakuten Viki | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 176 | Rakuten Comedy | rakuten-comedymovies-1-gb.xiaomi.wurl.tv | <https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 177 | Rakuten Action | rakuten-actionmovies-1-gb.xiaomi.wurl.tv | <https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 178 | Rakuten Thriller | rakuten-thriller-1-gb.xiaomi.wurl.tv | <https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 179 | Rakuten British Films | rakuten-british-films-1-gb.xiaomi.wurl.tv | <https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 180 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 181 | Comedy Hub | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8> |
-| 182 | New KPOP | newidco-newkid-1-eu.xiaomi.wurl.tv | <https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 183 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 184 | CCTV-1 | IPv4 直链 | <rtp://239.3.1.129:8008> |
-| 185 | CCTV-2 | IPv4 直链 | <rtp://239.3.1.60:8084> |
-| 186 | CCTV-3 | IPv4 直链 | <rtp://239.3.1.172:8001> |
-| 187 | CCTV-4 | IPv4 直链 | <rtp://239.3.1.105:8092> |
-| 188 | CCTV-5 | IPv4 直链 | <rtp://239.3.1.173:8001> |
-| 189 | CCTV-6 | IPv4 直链 | <rtp://239.3.1.174:8001> |
-| 190 | CCTV-7 | IPv4 直链 | <rtp://239.3.1.61:8104> |
-| 191 | CCTV-8 | 239.3.1.175:8001  | <rtp://239.3.1.175:8001 > |
-| 192 | CCTV-9 | IPv4 直链 | <rtp://239.3.1.62:8112> |
-| 193 | CCTV-10 | IPv4 直链 | <rtp://239.3.1.63:8116> |
-| 194 | CCTV-11 | IPv4 直链 | <rtp://239.3.1.152:8120> |
-| 195 | CCTV-12 | IPv4 直链 | <rtp://239.3.1.64:8124> |
-| 196 | CCTV-13 | IPv4 直链 | <rtp://239.3.1.124:8128> |
-| 197 | CCTV-14 | IPv4 直链 | <rtp://239.3.1.65:8132> |
-| 198 | CCTV-15 | IPv4 直链 | <rtp://239.3.1.153:8136> |
-| 199 | CCTV-16 | IPv4 直链 | <rtp://239.3.1.184:8001> |
-| 200 | CCTV-17 | IPv4 直链 | <rtp://239.3.1.151:8144> |
-| 201 | CCTV-4K | IPv4 直链 | <rtp://239.3.1.245:2000> |
-| 202 | 中文欧洲 | 239.3.1.213:4220  | <rtp://239.3.1.213:4220 > |
-| 203 | 中文美洲 | 239.3.1.214:4220  | <rtp://239.3.1.214:4220 > |
-| 204 | 体育赛事 | IPv4 直链 | <rtp://239.3.1.130:8004> |
-| 205 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
-| 206 | CGTN新闻 | IPv4 直链 | <rtp://239.3.1.215:4220> |
-| 207 | CGTN纪录 | IPv4 直链 | <rtp://239.3.1.216:4220> |
-| 208 | 北京卫视 | IPv4 直链 | <rtp://239.3.1.241:8000> |
-| 209 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.136:8032> |
-| 210 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.132:8012> |
-| 211 | 浙江卫视 | IPv4 直链 | <rtp://239.3.1.137:8036> |
-| 212 | 江苏卫视 | IPv4 直链 | <rtp://239.3.1.135:8028> |
-| 213 | 江西卫视 | IPv4 直链 | <rtp://239.3.1.123:8164> |
-| 214 | 河北卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
-| 215 | 深圳卫视 | IPv4 直链 | <rtp://239.3.1.134:8020> |
-| 216 | 湖北卫视 | IPv4 直链 | <rtp://239.3.1.138:8044> |
-| 217 | 天津卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
-| 218 | 安徽卫视 | IPv4 直链 | <rtp://239.3.1.211:8064> |
-| 219 | 山东卫视 | IPv4 直链 | <rtp://239.3.1.209:8052> |
-| 220 | 广东卫视 | IPv4 直链 | <rtp://239.3.1.142:8048> |
-| 221 | 贵州卫视 | IPv4 直链 | <rtp://239.3.1.149:8076> |
-| 222 | 辽宁卫视 | IPv4 直链 | <rtp://239.3.1.210:8056> |
-| 223 | 重庆卫视 | IPv4 直链 | <rtp://239.3.1.122:8160> |
-| 224 | 龙江卫视 | IPv4 直链 | <rtp://239.3.1.133:8016> |
-| 225 | 吉林卫视 | IPv4 直链 | <rtp://239.3.1.240:8172> |
-| 226 | 东南卫视 | IPv4 直链 | <rtp://239.3.1.156:8148> |
-| 227 | 北京新闻 | IPv4 直链 | <rtp://239.3.1.159:8000> |
-| 228 | 北京财经 | IPv4 直链 | <rtp://239.3.1.115:8000> |
-| 229 | 北京生活 | IPv4 直链 | <rtp://239.3.1.117:8000> |
-| 230 | 北京文艺 | IPv4 直链 | <rtp://239.3.1.242:8000> |
-| 231 | 北京影视 | IPv4 直链 | <rtp://239.3.1.158:8000> |
-| 232 | 北京国际 | IPv4 直链 | <rtp://239.3.1.235:8000> |
-| 233 | 体育休闲 | IPv4 直链 | <rtp://239.3.1.243:8000> |
-| 234 | 纪实科教 | IPv4 直链 | <rtp://239.3.1.115:8000> |
-| 235 | 卡酷少儿 | IPv4 直链 | <rtp://239.3.1.189:8000> |
-| 236 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
-| 237 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
-| 238 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
-| 239 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
-| 240 | 金鹰纪实 | IPv4 直链 | <rtp://239.3.1.58:8156> |
-| 241 | 纪实人文 | IPv4 直链 | <rtp://239.3.1.212:8060> |
-| 242 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
-| 243 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
+| 113 | 劲爆体育 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281> |
+| 114 | 哒啵赛事 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8> |
+| 115 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
+| 116 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
+| 117 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
+| 118 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
+| 119 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
+| 120 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
+| 121 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
+| 122 | 炫舞未来 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8> |
+| 123 | 爱情喜剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8> |
+| 124 | 古装剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8> |
+| 125 | 精彩影视 | IPv6 直链 | <http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989> |
+| 126 | BBC | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8> |
+| 127 | CNN | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8> |
+| 128 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
+| 129 | NBC | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8> |
+| 130 | FOX | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8> |
+| 131 | SkyNews | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8> |
+| 132 | WionNews | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
+| 133 | Scripps News | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8> |
+| 134 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 135 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
+| 136 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
+| 137 | GB News | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8> |
+| 138 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
+| 139 | Africa News | euronews-africanews-english-1-eu.xiaomi.wurl.tv | <https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 140 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
+| 141 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
+| 142 | Bloomberg Originals | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8> |
+| 143 | ION Plus | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8> |
+| 144 | Vevo Pop | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8> |
+| 145 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
+| 146 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
+| 147 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 148 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 149 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
+| 150 | Xplore | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8> |
+| 151 | Clarity 4K | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8> |
+| 152 | FIFA+ | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8> |
+| 153 | Stadium | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8> |
+| 154 | NBC Sport | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8> |
+| 155 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
+| 156 | SportsGrid | amg00315-sportsgrid-firetv.amagi.tv | <https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8> |
+| 157 | TBS | IPv4 直链 | <http://143.244.60.30/TBS/index.m3u8> |
+| 158 | Tastemade | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8> |
+| 159 | MovieSphere | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8> |
+| 160 | The Lego Channel | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8> |
+| 161 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
+| 162 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
+| 163 | ComedyDynamics | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8> |
+| 164 | BBC Earth | d206rrc0yoxllg.cloudfront.net | <https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8> |
+| 165 | History | da8eq3kpws4wh.cloudfront.net | <https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8> |
+| 166 | TED Talks | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 167 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 168 | Mytime | mytime-tcl.amagi.tv | <https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top> |
+| 169 | Museum | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8> |
+| 170 | LoveStories | lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv | <https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 171 | Travel XP | travelxp-travelxp-1-eu.xiaomi.wurl.tv | <https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 172 | Ondemand China | newidco-ondemandchina-1-us.xiaomi.wurl.tv | <https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 173 | Yu-Gi-Oh | fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv | <https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 174 | Young Hollywood | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8> |
+| 175 | Food | food-eu.xiaomi.wurl.tv | <https://food-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 176 | La La Life | amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv | <https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8> |
+| 177 | Rakuten Viki | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 178 | Rakuten Comedy | rakuten-comedymovies-1-gb.xiaomi.wurl.tv | <https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 179 | Rakuten Action | rakuten-actionmovies-1-gb.xiaomi.wurl.tv | <https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 180 | Rakuten Thriller | rakuten-thriller-1-gb.xiaomi.wurl.tv | <https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 181 | Rakuten British Films | rakuten-british-films-1-gb.xiaomi.wurl.tv | <https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 182 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 183 | Comedy Hub | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8> |
+| 184 | New KPOP | newidco-newkid-1-eu.xiaomi.wurl.tv | <https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 185 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 186 | CCTV-1 | IPv4 直链 | <rtp://239.3.1.129:8008> |
+| 187 | CCTV-2 | IPv4 直链 | <rtp://239.3.1.60:8084> |
+| 188 | CCTV-3 | IPv4 直链 | <rtp://239.3.1.172:8001> |
+| 189 | CCTV-4 | IPv4 直链 | <rtp://239.3.1.105:8092> |
+| 190 | CCTV-5 | IPv4 直链 | <rtp://239.3.1.173:8001> |
+| 191 | CCTV-6 | IPv4 直链 | <rtp://239.3.1.174:8001> |
+| 192 | CCTV-7 | IPv4 直链 | <rtp://239.3.1.61:8104> |
+| 193 | CCTV-8 | 239.3.1.175:8001  | <rtp://239.3.1.175:8001 > |
+| 194 | CCTV-9 | IPv4 直链 | <rtp://239.3.1.62:8112> |
+| 195 | CCTV-10 | IPv4 直链 | <rtp://239.3.1.63:8116> |
+| 196 | CCTV-11 | IPv4 直链 | <rtp://239.3.1.152:8120> |
+| 197 | CCTV-12 | IPv4 直链 | <rtp://239.3.1.64:8124> |
+| 198 | CCTV-13 | IPv4 直链 | <rtp://239.3.1.124:8128> |
+| 199 | CCTV-14 | IPv4 直链 | <rtp://239.3.1.65:8132> |
+| 200 | CCTV-15 | IPv4 直链 | <rtp://239.3.1.153:8136> |
+| 201 | CCTV-16 | IPv4 直链 | <rtp://239.3.1.184:8001> |
+| 202 | CCTV-17 | IPv4 直链 | <rtp://239.3.1.151:8144> |
+| 203 | CCTV-4K | IPv4 直链 | <rtp://239.3.1.245:2000> |
+| 204 | 中文欧洲 | 239.3.1.213:4220  | <rtp://239.3.1.213:4220 > |
+| 205 | 中文美洲 | 239.3.1.214:4220  | <rtp://239.3.1.214:4220 > |
+| 206 | 体育赛事 | IPv4 直链 | <rtp://239.3.1.130:8004> |
+| 207 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
+| 208 | CGTN新闻 | IPv4 直链 | <rtp://239.3.1.215:4220> |
+| 209 | CGTN纪录 | IPv4 直链 | <rtp://239.3.1.216:4220> |
+| 210 | 北京卫视 | IPv4 直链 | <rtp://239.3.1.241:8000> |
+| 211 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.136:8032> |
+| 212 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.132:8012> |
+| 213 | 浙江卫视 | IPv4 直链 | <rtp://239.3.1.137:8036> |
+| 214 | 江苏卫视 | IPv4 直链 | <rtp://239.3.1.135:8028> |
+| 215 | 江西卫视 | IPv4 直链 | <rtp://239.3.1.123:8164> |
+| 216 | 河北卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
+| 217 | 深圳卫视 | IPv4 直链 | <rtp://239.3.1.134:8020> |
+| 218 | 湖北卫视 | IPv4 直链 | <rtp://239.3.1.138:8044> |
+| 219 | 天津卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
+| 220 | 安徽卫视 | IPv4 直链 | <rtp://239.3.1.211:8064> |
+| 221 | 山东卫视 | IPv4 直链 | <rtp://239.3.1.209:8052> |
+| 222 | 广东卫视 | IPv4 直链 | <rtp://239.3.1.142:8048> |
+| 223 | 贵州卫视 | IPv4 直链 | <rtp://239.3.1.149:8076> |
+| 224 | 辽宁卫视 | IPv4 直链 | <rtp://239.3.1.210:8056> |
+| 225 | 重庆卫视 | IPv4 直链 | <rtp://239.3.1.122:8160> |
+| 226 | 龙江卫视 | IPv4 直链 | <rtp://239.3.1.133:8016> |
+| 227 | 吉林卫视 | IPv4 直链 | <rtp://239.3.1.240:8172> |
+| 228 | 东南卫视 | IPv4 直链 | <rtp://239.3.1.156:8148> |
+| 229 | 北京新闻 | IPv4 直链 | <rtp://239.3.1.159:8000> |
+| 230 | 北京财经 | IPv4 直链 | <rtp://239.3.1.115:8000> |
+| 231 | 北京生活 | IPv4 直链 | <rtp://239.3.1.117:8000> |
+| 232 | 北京文艺 | IPv4 直链 | <rtp://239.3.1.242:8000> |
+| 233 | 北京影视 | IPv4 直链 | <rtp://239.3.1.158:8000> |
+| 234 | 北京国际 | IPv4 直链 | <rtp://239.3.1.235:8000> |
+| 235 | 体育休闲 | IPv4 直链 | <rtp://239.3.1.243:8000> |
+| 236 | 纪实科教 | IPv4 直链 | <rtp://239.3.1.115:8000> |
+| 237 | 卡酷少儿 | IPv4 直链 | <rtp://239.3.1.189:8000> |
+| 238 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
+| 239 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
+| 240 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
+| 241 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
+| 242 | 金鹰纪实 | IPv4 直链 | <rtp://239.3.1.58:8156> |
+| 243 | 纪实人文 | IPv4 直链 | <rtp://239.3.1.212:8060> |
+| 244 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
+| 245 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
 
-Updated at **Tue Aug 13 2024 10:15:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 13 2024 12:27:27 GMT+0000 (Coordinated Universal Time)**
