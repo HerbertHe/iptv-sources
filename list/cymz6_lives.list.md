@@ -441,4 +441,4 @@
 | 435 | 金鹰卡通 | IPv4 直链 | <http://221.205.65.81:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 436 | 风云足球 | IPv4 直链 | <http://180.137.22.80:8181/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Aug 13 2024 01:03:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 13 2024 02:36:07 GMT+0000 (Coordinated Universal Time)**
