@@ -385,4 +385,4 @@
 | 379 | 金鹰卡通 | IPv4 直链 | <http://119.62.36.174:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 380 | 金鹰卡通 | IPv4 直链 | <http://14.204.46.247:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Wed Aug 14 2024 18:17:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 14 2024 20:14:08 GMT+0000 (Coordinated Universal Time)**
