@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**
+# List for **YueChan-Live IPTV**(Rollback)
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -250,4 +250,4 @@
 | 244 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
 | 245 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
 
-Updated at **Wed Aug 14 2024 20:14:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 14 2024 22:14:02 GMT+0000 (Coordinated Universal Time)**
