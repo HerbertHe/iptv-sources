@@ -1929,7 +1929,7 @@ Operation_Repo_(1080p),https://dk8sz5lavsosw.cloudfront.net/v1/master/9d062541f2
 Opinionsur,https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
 Oras_Ng_Himala_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
 ORBIT_TV_(480p)_[Not_24/7],https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-Órbita_FM_(720p),https://rpn3.bozztv.com/ssh101/ssh101/OrbitaFM953/playlist.m3u8
+Órbita_FM_(720p),https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 Órbita_TV_(720p),https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 Origen_TV_(480p),https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 Orler_TV_(420p)_[Not_24/7],https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
@@ -3803,7 +3803,6 @@ XITE_Gospel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 XITE_Rock,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54
 Xizang_TV_Tibetan,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xzwszy/2500000/mnf.m3u8
 XON_(480p)_[Not_24/7],http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
-XTOTV_(404p)_[Not_24/7],http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 Xtreme_Outdoor_Presented_by_HISTORY,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3736-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d082e15e-9214-4119-8638-15c2c0edce25
 Y'a_Que_La_Vérité_Qui_Compte_La_Chaîne,https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 Yamato_Animation,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
@@ -9753,6 +9752,7 @@ Teledeporte_(1080p),https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3
 Teletrak_(720p),https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 Ten_Sports_Pakistan,http://121.91.61.106:8000/play/a04h/index.m3u8
 Tennis_Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+Tigo_Sports_TV_El_Salvador_(720p),https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 TR_Sport_(480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
 Trace_Sports_Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 TRT_Spor_(1080p),https://tv-trtspor1.medya.trt.com.tr/master.m3u8

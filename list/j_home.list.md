@@ -1,4 +1,4 @@
-# List for **joevess/IPTV home**(Rollback)
+# List for **joevess/IPTV home**
 
 > M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
 
@@ -68,4 +68,4 @@
 | 62 | CETV1中国教育电视台一套 | IPv4 直链 | <http://121.24.98.136:8090/hls/67/index.m3u8> |
 | 63 | CETV2中国教育电视台二套 | IPv4 直链 | <http://111.225.113.186:808/tsfile/live/1037_1.m3u8> |
 
-Updated at **Wed Aug 14 2024 22:14:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 15 2024 00:59:30 GMT+0000 (Coordinated Universal Time)**
