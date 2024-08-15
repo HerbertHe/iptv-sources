@@ -1726,7 +1726,7 @@
 | 1720 | [SD]домашний | stream1.freetv.fun | <https://stream1.freetv.fun/3b34573ae6c1ab654c7fc7e75d632fce600a9a6be7fbb4dbbcea8e08cfc1bd22.m3u8> |
 | 1721 | [BD]живи! | stream1.freetv.fun | <https://stream1.freetv.fun/f8c31917105dd52bc5d3e1b64df8247084ab2005b072ae10cc702e24f91148cb.m3u8> |
 | 1722 | [BD]інтер | stream1.freetv.fun | <https://stream1.freetv.fun/5c813a99025eb03375777b1adc5934790accfc9e0dee4795eb655dab879f0981.m3u8> |
-| 1723 | [HD]ск1 | stream1.freetv.fun | <https://stream1.freetv.fun/05d558c70634567560168bdae528193639457634faf40bee091adc54f3aaf1d5.m3u8> |
+| 1723 | [VGA]к16 | stream1.freetv.fun | <https://stream1.freetv.fun/bc8fdab019df67714d9da2f6d8608c173283f5b088b80c2972394d78bfa10f28.m3u8> |
 | 1724 | [HD]кино 2 hd | stream1.freetv.fun | <https://stream1.freetv.fun/59a2e0b72d0a15a8ac5c06c1d3e3a193ace1544669ea2b9536986fbea3229ab4.m3u8> |
 | 1725 | [BD]кинокомедия hd | stream1.freetv.fun | <https://stream1.freetv.fun/d67df0d59e798fa086b5bc50ce23a19b06265a2f74efc8e548d61e81a452aef8.m3u8> |
 | 1726 | [HD]kli киносерия fhd | stream1.freetv.fun | <https://stream1.freetv.fun/f5981b54ec36a6a605b5a39dd87419f97355cf6293ee0f3aabdb5da4e5761bc8.m3u8> |
@@ -2270,4 +2270,4 @@
 | 2264 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2265 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Aug 15 2024 04:15:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 15 2024 06:19:29 GMT+0000 (Coordinated Universal Time)**
