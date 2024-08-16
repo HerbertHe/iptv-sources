@@ -68,4 +68,4 @@
 | 62 | CETV1中国教育电视台一套 | IPv4 直链 | <http://121.24.98.136:8090/hls/67/index.m3u8> |
 | 63 | CETV2中国教育电视台二套 | IPv4 直链 | <http://111.225.113.186:808/tsfile/live/1037_1.m3u8> |
 
-Updated at **Thu Aug 15 2024 22:13:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 16 2024 01:01:53 GMT+0000 (Coordinated Universal Time)**
