@@ -616,4 +616,4 @@
 | 610 | 龙祥电影 | IPv4 直链 | <http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 611 | 龙祥电影 | IPv4 直链 | <http://171.108.239.127:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Aug 16 2024 06:18:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 16 2024 08:18:16 GMT+0000 (Coordinated Universal Time)**
