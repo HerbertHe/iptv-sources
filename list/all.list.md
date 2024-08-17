@@ -635,7 +635,7 @@
 | 629 | [BD]dazn womens football | stream1.freetv.fun | <https://stream1.freetv.fun/2607955ee481d8a3edf50fc09394374892d42c9bd44dddc3477f28cbf0ad272d.m3u8> |
 | 630 | [HD]fox business | stream1.freetv.fun | <https://stream1.freetv.fun/5790cb3b68463d91a6e0426a7b5eb67213840ae07029efb86ae694e9599790c4.ctv> |
 | 631 | [SD]fox life hd | stream1.freetv.fun | <https://stream1.freetv.fun/22b00a7e5950924ebf08dab1e269e84f012f2a85ae16aef4b5e29c56aad98707.ctv> |
-| 632 | [SD]foxnews（美国） | stream1.freetv.fun | <https://stream1.freetv.fun/06f4514eadcfbf49a562c47e2133623e2ca74af174171fc4150d20855da961c2.m3u8> |
+| 632 | [BD]fox now | stream1.freetv.fun | <https://stream1.freetv.fun/034d50bcc98fb07abe8bd8d33b9f8f1670da2cf167b6f5c3937997a9e05ea54a.m3u8> |
 | 633 | [BD]fox news channel | stream1.freetv.fun | <https://stream1.freetv.fun/186064217968a6709457ce39467df7589d1afabbca68ffad0b12ae17c48a64c8.m3u8> |
 | 634 | [HD]fox sports 1 hdtv | stream1.freetv.fun | <https://stream1.freetv.fun/124a058337d63a7654a6a3383259a7a06b7fa2db0c011dc57de787945da8329f.ctv> |
 | 635 | [HD]fox 5 | stream1.freetv.fun | <https://stream1.freetv.fun/d292870acde4608d4cca912548a14d416fb176832c4ca8e88d90298b623e530c.ctv> |
@@ -2326,4 +2326,4 @@
 | 2320 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2321 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Aug 17 2024 08:16:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 17 2024 10:13:46 GMT+0000 (Coordinated Universal Time)**
