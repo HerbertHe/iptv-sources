@@ -56,6 +56,7 @@ ABC_10_San_Diego_CA_(KGTV)_(720p),https://lnc-kgtv2.tubi.video/playlist.m3u8
 ABC_12_Milwaukee_WI_(WISN)_(720p),https://lnc-wisn.tubi.video/playlist.m3u8
 ABC_13_Las_Vegas_NV_(KTNV)_(720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 ABC_15_Phoenix_AZ_(KNXV-TV)_(720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+ABC_25_Columbia,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ABC_25_News_Central_Texas,https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 ABC_27_Tallahassee_FL_(WTXL)_(720p),https://lnc-wtxl.tubi.video/playlist.m3u8
 ABC_28_Tampa_Bay_FL_(WFTS)_(720p),https://lnc-wfts2.tubi.video/playlist.m3u8
@@ -3760,7 +3761,6 @@ WMOR-TV_News_Lakeland_FL_(720p),https://lnc-wmor.tubi.video/playlist.m3u8
 WMPT-DT2_(PBS_Create),https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 WNEP-DT1_(1080p),https://livevideo01.wnep.com/hls/live/2011655/elvs/live.m3u8
 WOI-DT1_(1080p),https://livevideo01.weareiowa.com/hls/live/2011593/elvs/live.m3u8
-WOLO-DT1_ABC_25_(Columbia_SC)_(720p),http://143.244.60.30/ABC_EAST/index.m3u8
 Women's_Sports_Network_(720p),https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
 Womens_Sports_Network_Canada_(1080p),https://lnc-womens-sports-network-canada.tubi.video/playlist.m3u8
 Wonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
@@ -4462,7 +4462,6 @@ A_Nove_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UC9dfpRzwL7gyukOK
 A+_Guate_(720p),https://ch2-tva.duin.dev/hls/stream.m3u8
 AAVISIE_(720p),https://d1wgur45ikj8gz.cloudfront.net/nlpo/clr-nlpo/aavisietv/index.m3u8
 Abaza_TV,https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-ABC_East,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ABC_TV_Adelaide_(720p),https://c.mjh.nz/abc-sa.m3u8
 ABC_TV_Brisbane_(720p),https://c.mjh.nz/abc-qld.m3u8
 ABC_TV_Canberra_(720p),https://c.mjh.nz/abc-act.m3u8
@@ -7328,7 +7327,7 @@ Minformo_TV_(720p),https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/pl
 Miracle_Channel_(576p),https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 MiSURtv_(1080p),https://stream8.mexiserver.com:1936/misurtv/misurtv/playlist.m3u8
 MNews_(镜电视新闻台),https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-MSNBC,http://fl2.moveonjoy.com/MSNBC/index.m3u8
+MSNBC_(720p),http://fl2.moveonjoy.com/MSNBC/index.m3u8
 MTV_Uutiset_(720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 Nabaa_TV_(720p)_[Not_24/7],http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 Naftemporiki_TV_(1080p),https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
@@ -7380,7 +7379,7 @@ News_Tamil_24x7,https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 News_X_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 Newsmax2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
 Newsmax_TV,https://newsmax.codeautoplaycdn2.workers.dev/
-NewsNation_East,http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+NewsNation,https://news.codeautoplayserver1.workers.dev/?codeby=nd&channel=newsnation
 NewsNet_(720p),https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 NH_Niews_(1080p),https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
@@ -9227,7 +9226,7 @@ Action_24_(1080p),http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m
 Afghan_Nobel_Movies_(720p),https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 Afriwood_Blockbuster_(720p),https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 Alfa_Dramas_(226p)_[Not_24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
-AMC_East,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+AMC_East_(1080p),http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 American_Classics_(432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 American_Horrors_(480p),https://amhorstream.com/playlist/amhor/playlist.m3u8
 ATV_Kinoman_HD,http://stream02.vnet.am/Kinoman/mono.m3u8
