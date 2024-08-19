@@ -1,143 +1,139 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="联通",CCTV-1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
 rtp://239.3.1.129:8008
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="联通",CCTV-2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2
 rtp://239.3.1.60:8084
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="联通",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3
 rtp://239.3.1.172:8001
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="联通",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4
 rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="联通",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5
 rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="联通",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
 rtp://239.3.1.174:8001
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="联通",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7
 rtp://239.3.1.61:8104
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="联通",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8
 rtp://239.3.1.175:8001
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="联通",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9
 rtp://239.3.1.62:8112
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="联通",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10
 rtp://239.3.1.63:8116
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="联通",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="央视",CCTV-11
 rtp://239.3.1.152:8120
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="联通",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="央视",CCTV-12
 rtp://239.3.1.64:8124
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="联通",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13
 rtp://239.3.1.124:8128
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="联通",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="央视",CCTV-14
 rtp://239.3.1.65:8132
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="联通",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="央视",CCTV-15
 rtp://239.3.1.153:8136
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="联通",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16
 rtp://239.3.1.184:8001
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="联通",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17
 rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="联通",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="央视",CCTV-4K
 rtp://239.3.1.245:2000
-#EXTINF:-1 tvg-id="CCTV4AEURO" tvg-name="CCTV4EURO" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="联通",中文欧洲
+#EXTINF:-1 tvg-id="CCTV4AEURO" tvg-name="CCTV4EURO" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="央视",中文欧洲
 rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="联通",中文美洲
+#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="央视",中文美洲
 rtp://239.3.1.214:4220
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="联通",体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",体育赛事
 rtp://239.3.1.130:8004
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="联通",中国教育
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="央视",中国教育
 rtp://239.3.1.57:8152
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="联通",CGTN新闻
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="央视",CGTN新闻
 rtp://239.3.1.215:4220
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="联通",CGTN纪录
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="央视",CGTN纪录
 rtp://239.3.1.216:4220
-#EXTINF:-1 tvg-id="30" tvg-name="北京联通" tvg-logo="https://live.fanmingming.com/tv/北京联通.png" group-title="联通",北京联通
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 rtp://239.3.1.241:8000
-#EXTINF:-1 tvg-id="31" tvg-name="东方联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方联通.png" group-title="联通",东方联通
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视
 rtp://239.3.1.136:8032
-#EXTINF:-1 tvg-id="27" tvg-name="湖南联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南联通.png" group-title="联通",湖南联通
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
 rtp://239.3.1.132:8012
-#EXTINF:-1 tvg-id="28" tvg-name="浙江联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江联通.png" group-title="联通",浙江联通
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
 rtp://239.3.1.137:8036
-#EXTINF:-1 tvg-id="29" tvg-name="江苏联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏联通.png" group-title="联通",江苏联通
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
 rtp://239.3.1.135:8028
-#EXTINF:-1 tvg-id="50" tvg-name="江西联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西联通.png" group-title="联通",江西联通
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
 rtp://239.3.1.123:8164
-#EXTINF:-1 tvg-id="45" tvg-name="河北联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北联通.png" group-title="联通",河北联通
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北卫视.png" group-title="卫视",河北卫视
 rtp://239.3.1.148:8072
-#EXTINF:-1 tvg-id="34" tvg-name="深圳联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳联通.png" group-title="联通",深圳联通
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
 rtp://239.3.1.134:8020
-#EXTINF:-1 tvg-id="45" tvg-name="湖北联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北联通.png" group-title="联通",湖北联通
+#EXTINF:-1 tvg-id="45" tvg-name="湖北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
 rtp://239.3.1.138:8044
-#EXTINF:-1 tvg-id="39" tvg-name="天津联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津联通.png" group-title="联通",天津联通
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津卫视.png" group-title="卫视",天津卫视
 rtp://239.3.1.148:8072
-#EXTINF:-1 tvg-id="32" tvg-name="安徽联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽联通.png" group-title="联通",安徽联通
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
 rtp://239.3.1.211:8064
-#EXTINF:-1 tvg-id="38" tvg-name="山东联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东联通.png" group-title="联通",山东联通
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东卫视.png" group-title="卫视",山东卫视
 rtp://239.3.1.209:8052
-#EXTINF:-1 tvg-id="33" tvg-name="广东联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东联通.png" group-title="联通",广东联通
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东卫视.png" group-title="卫视",广东卫视
 rtp://239.3.1.142:8048
-#EXTINF:-1 tvg-id="44" tvg-name="贵州联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州联通.png" group-title="联通",贵州联通
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州卫视.png" group-title="卫视",贵州卫视
 rtp://239.3.1.149:8076
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁联通.png" group-title="联通",辽宁联通
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 rtp://239.3.1.210:8056
-#EXTINF:-1 tvg-id="40" tvg-name="重庆联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆联通.png" group-title="联通",重庆联通
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
 rtp://239.3.1.122:8160
-#EXTINF:-1 tvg-id="46" tvg-name="龙江联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江联通.png" group-title="联通",龙江联通
+#EXTINF:-1 tvg-id="46" tvg-name="龙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="卫视",龙江卫视
 rtp://239.3.1.133:8016
-#EXTINF:-1 tvg-id="51" tvg-name="吉林联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林联通.png" group-title="联通",吉林联通
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
 rtp://239.3.1.240:8172
-#EXTINF:-1 tvg-id="41" tvg-name="东南联通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南联通.png" group-title="联通",东南联通
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南卫视.png" group-title="卫视",东南卫视
 rtp://239.3.1.156:8148
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="联通",北京新闻
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方",北京新闻
 rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="联通",北京财经
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方",北京财经
 rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="联通",北京生活
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方",北京生活
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="联通",北京文艺
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方",北京文艺
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="联通",北京影视
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方",北京影视
 rtp://239.3.1.158:8000
-#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="联通",北京国际
+#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="地方",北京国际
 rtp://239.3.1.235:8000
-#EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="联通",体育休闲
+#EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方",体育休闲
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="联通",纪实科教
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",纪实科教
 rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="联通",卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="联通",爱上4K
-rtp://239.3.1.236:2000
-#EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="联通",4K超清
-rtp://239.3.1.249:8001
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="联通",金鹰纪实
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
 rtp://239.3.1.58:8156
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="联通",纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方",纪实人文
 rtp://239.3.1.212:8060
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="联通",乐游频道
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="地方",乐游频道
 rtp://239.3.1.207:8001
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="联通",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="地方",都市剧场
 rtp://239.3.1.203:8001
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="联通",动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="地方",动漫秀场
 rtp://239.3.1.202:8001
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="联通",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="地方",法治天地
 rtp://239.3.1.204:8001
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="联通",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="地方",生活时尚
 rtp://239.3.1.206:8001
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="联通",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="地方",金色学堂
 rtp://239.3.1.208:8001
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="联通",游戏风云
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="地方",游戏风云
 rtp://239.3.1.205:8001
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="联通",魅力足球
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="地方",魅力足球
 rtp://239.3.1.201:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/茶友频道.png" group-title="联通",茶友频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
 rtp://239.3.1.165:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="联通",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="晴彩竞技" group-title="联通",睛彩竞技
+#EXTINF:-1 tvg-name="晴彩竞技" group-title="地方",睛彩竞技
 rtp://239.3.1.125:8001
-#EXTINF:-1 tvg-name="晴彩篮球" group-title="联通",睛彩篮球
+#EXTINF:-1 tvg-name="晴彩篮球" group-title="地方",睛彩篮球
 rtp://239.3.1.126:8001
-#EXTINF:-1 tvg-name="晴彩青少" group-title="联通",睛彩青少
+#EXTINF:-1 tvg-name="晴彩青少" group-title="地方",睛彩青少
 rtp://239.3.1.127:8001
-#EXTINF:-1 tvg-name="晴彩广场舞" group-title="联通",睛彩场舞
+#EXTINF:-1 tvg-name="晴彩广场舞" group-title="地方",睛彩场舞
 rtp://239.3.1.128:8001
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
