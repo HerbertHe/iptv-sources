@@ -584,4 +584,4 @@
 | 578 | 龙祥电影 | IPv4 直链 | <http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 579 | 龙祥电影 | IPv4 直链 | <http://171.108.239.127:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Aug 19 2024 10:16:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 19 2024 12:26:47 GMT+0000 (Coordinated Universal Time)**
