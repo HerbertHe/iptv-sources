@@ -146,7 +146,7 @@
 | 140 | [HD]all sports tv | stream1.freetv.fun | <https://stream1.freetv.fun/46abbc4c868fbb320ae1475f39aca68c92486c63e59c1fc3928a06b1353c3a0f.m3u8> |
 | 141 | [SD]alma tv | stream1.freetv.fun | <https://stream1.freetv.fun/c5862b619ea5461268f14b627c9a223e5a4dc10d10e8c7e371c64c1555e48e8a.m3u8> |
 | 142 | [BD]sports tv | stream1.freetv.fun | <https://stream1.freetv.fun/4c976c9bf22c5d06a0fc9f7076743352d7054f64dd8b831b9158db92763c9bb3.m3u8> |
-| 143 | [VGA]amazing discoveries tv | stream1.freetv.fun | <https://stream1.freetv.fun/a473d839315eba554030b8215773d27c228c4855f78b91c2dbff1396dabbed9d.m3u8> |
+| 143 | [BD]amazing discoveries tv [1280*792] | stream1.freetv.fun | <https://stream1.freetv.fun/44679a406dc9570c62e25a23fa6299439f6cd0d0150b2ad91333702310f91f97.m3u8> |
 | 144 | [BD]amedia premium | stream1.freetv.fun | <https://stream1.freetv.fun/a0d88b19947e75228d8538332544dfa6f88e2489e1ea80beb3be90bb7ac6378e.m3u8> |
 | 145 | [HD]naughty america | stream1.freetv.fun | <https://stream1.freetv.fun/8a049b9d1ab6ee62c58065218d1c7af8693fc7c346fd7b815577e66fa5865929.m3u8> |
 | 146 | [HD]american pickers | stream1.freetv.fun | <https://stream1.freetv.fun/b01aac1ed203524bcf68b3960bf30072bef600abd982affbe9e4ec431d3ab63c.m3u8> |
@@ -2309,4 +2309,4 @@
 | 2303 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2304 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Aug 21 2024 16:17:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 21 2024 18:18:11 GMT+0000 (Coordinated Universal Time)**
