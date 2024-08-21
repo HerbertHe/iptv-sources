@@ -483,4 +483,4 @@
 | 477 | 龙祥电影 | IPv4 直链 | <http://171.108.239.127:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 478 | 龙祥电影 | IPv4 直链 | <http://171.108.239.129:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Aug 20 2024 22:12:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 21 2024 01:01:56 GMT+0000 (Coordinated Universal Time)**
