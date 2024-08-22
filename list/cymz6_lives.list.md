@@ -561,4 +561,4 @@
 | 555 | 龙祥电影 | IPv4 直链 | <http://171.108.239.122:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 556 | 龙祥电影 | IPv4 直链 | <http://171.108.239.126:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Aug 22 2024 12:26:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 22 2024 14:13:25 GMT+0000 (Coordinated Universal Time)**
