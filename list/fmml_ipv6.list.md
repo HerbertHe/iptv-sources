@@ -24,9 +24,9 @@
 | 18 | CCTV-17 农业农村 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8> |
 | 19 | CCTV-4K 超高清 | pi.0472.org | <https://pi.0472.org/livetv/cctv4k.m3u8> |
 | 20 | 重温经典 | pi.0472.org | <https://pi.0472.org/livetv/cwjd.m3u8> |
-| 21 | CHC影迷电影 | pi.0472.org | <https://pi.0472.org/chc/ym.m3u8> |
-| 22 | CHC动作电影 | pi.0472.org | <https://pi.0472.org/chc/dz.m3u8> |
-| 23 | CHC家庭影院 | pi.0472.org | <https://pi.0472.org/chc/jt.m3u8> |
+| 21 | CHC影迷电影 | pi.0472.org | <https://pi.0472.org/livetv/chcym.m3u8> |
+| 22 | CHC动作电影 | pi.0472.org | <https://pi.0472.org/livetv/chcdz.m3u8> |
+| 23 | CHC家庭影院 | pi.0472.org | <https://pi.0472.org/livetv/chcjt.m3u8> |
 | 24 | 北京卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8> |
 | 25 | 湖南卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8> |
 | 26 | 东方卫视 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8> |
@@ -129,4 +129,4 @@
 | 123 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 124 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Thu Aug 22 2024 06:19:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 22 2024 08:17:25 GMT+0000 (Coordinated Universal Time)**
