@@ -1,4 +1,4 @@
-# List for **iptv.org China**
+# List for **iptv.org China**(Rollback)
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
@@ -536,4 +536,4 @@
 | 530 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 531 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Thu Aug 22 2024 14:13:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 22 2024 16:17:16 GMT+0000 (Coordinated Universal Time)**
