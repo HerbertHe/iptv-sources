@@ -536,4 +536,4 @@
 | 530 | 龙祥电影 | IPv4 直链 | <http://171.108.239.122:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 531 | 龙祥电影 | IPv4 直链 | <http://171.108.239.124:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Aug 23 2024 06:19:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 23 2024 08:18:19 GMT+0000 (Coordinated Universal Time)**
