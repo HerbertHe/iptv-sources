@@ -243,7 +243,7 @@
 | 237 | [BD]brtv财经 | stream1.freetv.fun | <https://stream1.freetv.fun/f20a462bf25d3b2960966e0ad553ff26887ae7716adf2c096806856d838ad217.ctv> |
 | 238 | [BD]brtv体育 | stream1.freetv.fun | <https://stream1.freetv.fun/8fa083fc5b77a2ef5589d41edaff4445742f271a4fd6ea1b83243d807927f90c.ctv> |
 | 239 | [BD]buzzr (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/5b2c17fa859d5f965f9c496e444c20faa799f64ff7f2f3be55792d4ef789fd97.m3u8> |
-| 240 | [BD]babyfirst | stream1.freetv.fun | <https://stream1.freetv.fun/637b9105f56ff91f9abec79b78297dffe85a651d85dba1bc068b9b76c9f39783.m3u8> |
+| 240 | [HD]baby first | stream1.freetv.fun | <https://stream1.freetv.fun/2c158274b6aedb69d987e2c5177b2d3aa2cba38152bc053b6c035e34b9f5065b.ctv> |
 | 241 | [HD]baby shark tv | stream1.freetv.fun | <https://stream1.freetv.fun/c50ebbc4bd7cfd78cc1d68e98247d01a9b1d96a6fa9b8bb651cac83242a7d3c0.m3u8> |
 | 242 | [BD]baden tv süd | stream1.freetv.fun | <https://stream1.freetv.fun/deb0cab285771fa8b369a8eab011f25d9204342d5ab2e55ded5368dee737406a.m3u8> |
 | 243 | [HD]bahrain tv | stream1.freetv.fun | <https://stream1.freetv.fun/e3432547f4c88ee7837a82a4602a987d21d4e2a6e33c61c77de9fdaff8e527cd.m3u8> |
@@ -2322,4 +2322,4 @@
 | 2316 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2317 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Fri Aug 23 2024 12:26:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 23 2024 14:13:57 GMT+0000 (Coordinated Universal Time)**
