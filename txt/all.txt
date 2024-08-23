@@ -361,8 +361,7 @@ Entertainment,#genre#
 [HD]ava_series,https://stream1.freetv.fun/7659f2a05ca94a7fd02556b167dd49fb67db29dc7f4507fdc8bc1d87aa8a4b70.m3u8
 [HD]diya_tv,https://stream1.freetv.fun/98c7a6a431a82502d9dfff08dcbfba0ff4d7b5c25e3cac812849500ba60ae765.m3u8
 [BD]diyanet_tv,https://stream1.freetv.fun/296765e221a7abdbf2e60528671f6d70dd6641dea5cd1a8b3ff5e43dfd3c20b8.m3u8
-[BD]jtbc_골프,https://stream1.freetv.fun/e15102da58ea05861c44cf8655fc44bfd05bf18f5fc3978ff9b9bced298c2604.m3u8
-[BD]jtbc_캠핑클럽,https://stream1.freetv.fun/2576708e85031bb8ae2b0bf91dc31e1d42a46e4941e922e8497c5d6e7fdc4256.m3u8
+[HD]jtbc,https://stream1.freetv.fun/c2315baa6871d39b57b94a0ccec6b0415182a5086199b05fde54bb425d70749a.m3u8
 [VGA]kbs_joy,https://stream1.freetv.fun/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
 [BD]kix,https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8
 [HD]kral_pop_tv,https://stream1.freetv.fun/39d0c6012e7be61ffbaf53eedc3ca0dc3bdf3268ffc1ce40e7c8a94791e4c16d.m3u8
@@ -728,7 +727,7 @@ Generic,#genre#
 [SD]bioskop_indonesia,https://stream1.freetv.fun/849a108492a910d7476382d798ae382fd6e239d8ac35c185c3b450924d19a8b8.m3u8
 [BD]jordan_tv,https://stream1.freetv.fun/70924fd3c7cc72bb0bf2de41e9827c0130caf8dfb23982373c532dc9f6bb4a17.m3u8
 [HD]juwelo,https://stream1.freetv.fun/cb43293135b21d0e5c3297b3bda3e516890419b4cc4d20cda2dc0ee26256b382.m3u8
-[BD]kbs_추노,https://stream1.freetv.fun/8735b52493ffd4495d2c6de13c470b50a1460901ada567bd4a4fa72da91f2180.m3u8
+[BD]kcbs（原cbs）,https://stream1.freetv.fun/ca601899ca5c1bf5fde1bb78c639e8c45580990529c5c03e519d83626c5c0996.m3u8
 [HD]rk_prime,https://stream1.freetv.fun/d04cec1ff5624baf422d6d47472a33a69731d0c3e980b4d5eb85f343865e7a77.m3u8
 [HD]kbs_world,https://stream1.freetv.fun/37073aba38b46ea6cc088df813616c4343301c72dc9dad077adbe26b4af6b5af.ctv
 [HD]kbs1,https://stream1.freetv.fun/c61712beb20548e3f80bf0171d841f2d18104129f10d5a875b309b334966f317.m3u8
@@ -1682,7 +1681,6 @@ News,#genre#
 [BD]eagle_news_hd,https://stream1.freetv.fun/33590a142ecc9196b162855a94de1af438247c393bb6789e05b683d4fb275010.m3u8
 [BD]al_ekhbariya_(1080p),https://stream1.freetv.fun/42ebd307a46e4537cdaa8275e6cd5c1efbf876c6934eb1d9dd03ef49dee0a11d.m3u8
 [BD]pro_tv_news_(1080p),https://stream1.freetv.fun/ad3458a7730205e492d0bd0fefe005ceeaf73e74e91afa3611dd8236634339af.m3u8
-[HD]euronews,https://stream1.freetv.fun/799ba8277d83b5db6aa6a56c8ea0a5423f9e5a14f7b2f4771605288e8fa4e9e2.m3u8
 [HD]euronews,https://stream1.freetv.fun/ecdd143673428acf4d32ccdab3d24ac2dc5ab1aef766bc131835584f47b07482.m3u8
 [HD]euronews,https://stream1.freetv.fun/1c098104d5ba6522daac5c756090a15a3e01b9e4b1bb1e194209d23061165433.m3u8
 [HD]euronews,https://stream1.freetv.fun/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8
@@ -2088,7 +2086,6 @@ Sports,#genre#
 [VGA]golf_channel,https://stream1.freetv.fun/4d1808e621640c0fbb7fafc1500d8f3052a61fa0c495bef2d08f88983a126e76.ctv
 [HD]one_golf_hd,https://stream1.freetv.fun/abc21631ecc487a4d5c246f4f1d77dc1d29fb8172e0989505efb882f40f31fc5.m3u8
 [VGA]god_tv_africa,https://stream1.freetv.fun/3d50f6219a895b74a262e895ad4603d9437d32f03231c1b5601874fbde6871d4.m3u8
-[HD]hub_premier_1,https://stream1.freetv.fun/ab1d386b73ff75bb97ef88b577fe337620fdf2d05b5347646357e7176429ddad.ctv
 [BD]hub_premier_2,https://stream1.freetv.fun/36841e930919aca8f3ed90e47eeadc198a9edb14ff1c1666fd0c114e8a2c6725.ctv
 [HD]ช่อง_horse_and_country,https://stream1.freetv.fun/98cf2f34227b4791009af41499ed931656b1f7542c5b329ca6d9432421b2a0e7.m3u8
 [HD]idtv,https://stream1.freetv.fun/6b892c3d5cd34a82ff146e56f5131c943fd1f27c229a3acb724881310b8732ec.m3u8
@@ -2205,7 +2202,7 @@ Sports,#genre#
 [BD]sukan_rtm,https://stream1.freetv.fun/d23964f2d7344c700bf6fc1fb9e66a23b8b7909a3f423525d9db8d251368666b.m3u8
 [BD]super_tennis,https://stream1.freetv.fun/9d282cd908439638fe442fa2d38b949eb0d8b6d9f724b96c4023fabfc64eb70a.m3u8
 [HD]supersport_premier_league,https://stream1.freetv.fun/285812a7b73bf4a8a916f8aa96a76f233b6a8aadfa394d3d1848e2da2c0f1ce6.ctv
-[SD]supersport,https://stream1.freetv.fun/575cd77047802e7397e453a2bd9798c508e9299c032d87ccca3ea2ca167b0a8a.ctv
+[HD]supersport,https://stream1.freetv.fun/575cd77047802e7397e453a2bd9798c508e9299c032d87ccca3ea2ca167b0a8a.ctv
 [BD]supersport_golf,https://stream1.freetv.fun/1c29ef48b3ed686cd0343f9b3f427a5a53de03ba82f79069d70a52ffa840a1b9.ctv
 [BD]supersport,https://stream1.freetv.fun/c85d5233c4a7d96be4340f46265ba174490360d93d5511de79b203834c28d204.ctv
 [HD]supersport_football,https://stream1.freetv.fun/379329fab1c7bea4a5294a86da12491f9df3f67e7c9790eac1c42a8bfce0b23a.ctv
@@ -2272,7 +2269,7 @@ Sports,#genre#
 [HD]博斯运动-1,https://stream1.freetv.fun/184eb3e4b7026d6cb1174af9ecf54f566d06a9684d324b80820792601ec4133b.ctv
 [HD]博斯运动-2,https://stream1.freetv.fun/91ed8c2121c85b55d915c4ef95f4920cddf6661537e5da1a691e1e23eeea6734.ctv
 [HD]博斯高球-1,https://stream1.freetv.fun/0800df2cec207269aecf6e7b5049680bf91263fb5e44b9361d95e0aa1f4d9d8f.ctv
-[HD]博斯高球-2,https://stream1.freetv.fun/e3718958e8c5b40accba2ce61ba825c91df92d9d7e7a6d142bb82b83e9ecd734.ctv
+[VGA]博斯高球-2,https://stream1.freetv.fun/e3718958e8c5b40accba2ce61ba825c91df92d9d7e7a6d142bb82b83e9ecd734.ctv
 [HD]囲碁?将棋チャンネル,https://stream1.freetv.fun/10160e94e6147f29be26a8226d17ad21a19a3ee7fba2c2d63169feb9a8ac6dd6.m3u8
 [BD]山东体育,https://stream1.freetv.fun/2ce84fcc84bffa3c117132ac34ced9f81e42cf8191bda8ced9f229790cc41eb9.m3u8
 [BD]广州竞赛,https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8
@@ -2325,7 +2322,7 @@ Kids,#genre#
 [HD]disney_channel,https://stream1.freetv.fun/0025d4c455f58f9c453ee05a32c39b556a948dae940d84bace3ded3789d087f7.ctv
 [SD]disney_channel_romania,https://stream1.freetv.fun/8509c3f85b628ee56ab013434eaa33a7e1dbc6a179882aeef5f84bcd8b16a01a.ctv
 [HD]disney_channel,https://stream1.freetv.fun/6e16d26455349487f539fe8cf339ba116dda31ebc2a876a94d72a7b27ae5bc1a.m3u8
-[SD]disney_jr.,https://stream1.freetv.fun/53619081af0c35cd6bbda1f7a97e60de3a48087ffcfc482af8aa27925f134247.m3u8
+[HD]disney_jr.,https://stream1.freetv.fun/53619081af0c35cd6bbda1f7a97e60de3a48087ffcfc482af8aa27925f134247.m3u8
 [HD]disney_junior,https://stream1.freetv.fun/be2313633074cc4ce87854509449c7001695359ce391d9a8e8a8940489c41cdb.m3u8
 [SD]disney_junior_romania,https://stream1.freetv.fun/54676a6c35aa719edf80108d5226dc3adee4cd59f00c0a0d09aa6cfecc6934aa.ctv
 [HD]disney_junior,https://stream1.freetv.fun/abfbacd0db44f9a5e9afd47ee870c0b595ce79e0c390ca91f4be3d1042adf0eb.ctv
