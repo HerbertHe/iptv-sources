@@ -143,4 +143,4 @@
 | 137 | 金鹰卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 138 | 金鹰卡通 | IPv4 直链 | <http://119.62.36.174:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Fri Aug 23 2024 22:13:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 24 2024 01:01:19 GMT+0000 (Coordinated Universal Time)**
