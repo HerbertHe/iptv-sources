@@ -144,4 +144,4 @@
 | 138 | 音乐现场 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.70:4120> |
 | 139 | 魅力时尚 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.196:9012> |
 
-Updated at **Sun Aug 25 2024 12:24:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 25 2024 14:12:31 GMT+0000 (Coordinated Universal Time)**
