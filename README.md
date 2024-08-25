@@ -29,10 +29,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Sun Aug 25 2024 12:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Sun Aug 25 2024 13:42:18 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Sun Aug 25 2024 14:04:43 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Sun Aug 25 2024 14:01:21 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.b2og.com> | per 2h | Sun Aug 25 2024 14:40:07 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.helima.net> | per 2.5h | Sun Aug 25 2024 15:30:17 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Sun Aug 25 2024 16:06:17 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Sun Aug 25 2024 16:02:10 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -51,7 +51,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 18 | ✅ |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 14 | ✅ |
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | ✅ |
-| epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 434 | - |
+| epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 433 | - |
 | epg.pw China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for epg.pw China National](/list/cn_n.list) | 8 | - |
 | epg.pw China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for epg.pw China Country](/list/cn_c.list) | 104 | - |
 | epg.pw China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for epg.pw China Province](/list/cn_p.list) | 34 | - |
@@ -71,7 +71,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sun Aug 25 2024 14:12:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 25 2024 16:17:05 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
