@@ -67,4 +67,4 @@
 | 61 | CETV1中国教育电视台一套 | IPv4 直链 | <http://121.24.98.21:8090/hls/67/index.m3u8> |
 | 62 | CETV4空中课堂频道 | IPv4 直链 | <http://123.183.77.174:808/hls/92/index.m3u8> |
 
-Updated at **Sun Aug 25 2024 02:38:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 25 2024 04:16:13 GMT+0000 (Coordinated Universal Time)**

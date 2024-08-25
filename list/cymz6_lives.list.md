@@ -245,4 +245,4 @@
 | 239 | 金鹰卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 240 | 金鹰卡通 | IPv4 直链 | <http://119.62.36.174:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Sun Aug 25 2024 02:38:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 25 2024 04:16:13 GMT+0000 (Coordinated Universal Time)**
