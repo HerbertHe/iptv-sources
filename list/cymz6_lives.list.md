@@ -223,4 +223,4 @@
 | 217 | 金鹰卡通 | IPv4 直链 | <http://171.116.247.116:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 218 | 金鹰卡通 | IPv4 直链 | <http://118.81.98.130:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Aug 26 2024 20:15:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 26 2024 22:13:43 GMT+0000 (Coordinated Universal Time)**
