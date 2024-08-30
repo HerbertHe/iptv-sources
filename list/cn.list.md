@@ -386,7 +386,7 @@
 | 380 | [BD]辽宁经济 | stream1.freetv.fun | <https://stream1.freetv.fun/b560bf6a5e45155a09668a80ee028c5151c00b8c8a1b423f44ded0c594086d64.m3u8> |
 | 381 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8> |
 | 382 | [BD]辽宁都市 | stream1.freetv.fun | <https://stream1.freetv.fun/4d593b406d86bf04dd9e7ec08667c4761637c38de4d2d67395445d93e46a3ff3.m3u8> |
-| 383 | [BD]辽宁体育 | stream1.freetv.fun | <https://stream1.freetv.fun/1ff0a07784ecae6be40ff78a18b59673a3d26b7115e3a60acdfc3a72bf829958.m3u8> |
+| 383 | [BD]辽宁体育 | stream1.freetv.fun | <https://stream1.freetv.fun/c0d93cc36d1b731c4ee49efb5688356a5281f0d445ff2974cff34ee6b51a9d52.ctv> |
 | 384 | [BD]经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/980aafa2704142b631abe0dcd52723218c17bfa9f5c4b0cac2f0782dfd3d2a63.ctv> |
 | 385 | [HD]邢台综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8> |
 | 386 | [HD]嵊州新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ef74d8c6fb28e86adc1144bccb3e9cb4981c609d36dbeecae2bfb93a646daa4f.m3u8> |
@@ -435,4 +435,4 @@
 | 429 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 430 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Fri Aug 30 2024 08:18:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 30 2024 10:14:56 GMT+0000 (Coordinated Universal Time)**
