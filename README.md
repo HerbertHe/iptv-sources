@@ -29,9 +29,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Fri Aug 30 2024 18:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Fri Aug 30 2024 19:30:09 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Fri Aug 30 2024 20:04:18 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.b2og.com> | per 2h | Fri Aug 30 2024 20:40:20 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.helima.net> | per 2.5h | Fri Aug 30 2024 21:35:40 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Fri Aug 30 2024 22:04:38 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
 | https | <https://iptv.002397.xyz> | per 2h | Get Updated Failed: **Bad Gateway** | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
@@ -41,7 +41,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 140 | ✅ |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | ✅ |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 128 | ✅ |
-| cymz6/AutoIPTV-Hotel lives | [cymz6_lives.m3u](/cymz6_lives.m3u) <br> [cymz6_lives.txt](/txt/cymz6_lives.txt) | [List for cymz6/AutoIPTV-Hotel lives](/list/cymz6_lives.list) | 0 | - |
+| cymz6/AutoIPTV-Hotel lives | [cymz6_lives.m3u](/cymz6_lives.m3u) <br> [cymz6_lives.txt](/txt/cymz6_lives.txt) | [List for cymz6/AutoIPTV-Hotel lives](/list/cymz6_lives.list) | 0 | ✅ |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 185 | ✅ |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 62 | ✅ |
 | joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 429 | ✅ |
@@ -71,7 +71,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Fri Aug 30 2024 20:15:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 30 2024 22:13:13 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
