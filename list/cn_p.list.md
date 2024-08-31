@@ -39,4 +39,4 @@
 | 33 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
 | 34 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 
-Updated at **Sat Aug 31 2024 18:17:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 31 2024 20:15:34 GMT+0000 (Coordinated Universal Time)**
