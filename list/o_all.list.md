@@ -10344,4 +10344,4 @@
 | 10338 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10339 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Sat Aug 31 2024 12:25:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 31 2024 14:12:02 GMT+0000 (Coordinated Universal Time)**
