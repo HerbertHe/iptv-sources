@@ -105,4 +105,4 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **Sat Aug 31 2024 01:04:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 31 2024 02:37:58 GMT+0000 (Coordinated Universal Time)**
