@@ -44,7 +44,7 @@
 | 38 | [VGA]cgtn français (576p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 39 | [VGA]cgtn русский (576p) | stream1.freetv.fun | <https://stream1.freetv.fun/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8> |
 | 40 | [BD]chc高清电影 | stream1.freetv.fun | <https://stream1.freetv.fun/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv> |
-| 41 | [BD]chc家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/88d1b49848094c82a2bbc4a85354bee158fd8f7e34a6e8e03b301c903d81e9c8.m3u8> |
+| 41 | [SD]chc家庭影院[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/4baf8d6257afc16275e93604ac917bdd4bb3731c5a42f86ff10e33d652cfe91b.m3u8> |
 | 42 | [HD]chc影迷电影 | stream1.freetv.fun | <https://stream1.freetv.fun/dea8296a1a6cc0043a1ea3d696f685c6a2d2844028582f6dd8fbd961286c451f.m3u8> |
 | 43 | [HD]can news | stream1.freetv.fun | <https://stream1.freetv.fun/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8> |
 | 44 | [HD]chch | stream1.freetv.fun | <https://stream1.freetv.fun/b76be57e18f47ee667b2813c6ff429972c2510e41fd2d266dc92ef0727fd7568.m3u8> |
@@ -439,4 +439,4 @@
 | 433 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 434 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Fri Sep 06 2024 10:04:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 06 2024 12:05:36 GMT+0000 (Coordinated Universal Time)**
