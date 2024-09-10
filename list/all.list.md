@@ -2541,4 +2541,4 @@
 | 2535 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2536 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Tue Sep 10 2024 00:14:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 10 2024 02:23:17 GMT+0000 (Coordinated Universal Time)**
