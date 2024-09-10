@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]rcn xtra | stream1.freetv.fun | <https://stream1.freetv.fun/6ce7a56bbf4991493b115e8a5d44f95ddfdcec90bbff7f8adefc7044eee54916.m3u8> |
-| 2 | [SD]スターチャンネル3 | stream1.freetv.fun | <https://stream1.freetv.fun/b443f5e99cf1b5ebc4b9e518cf4ace25630545869ed9c03ef62809ecee2f7d99.m3u8> |
+| 2 | [HD]puntland tv | stream1.freetv.fun | <https://stream1.freetv.fun/9a3d2135051e707191b0e8b3c4bcaa3b589aa3f5a54a39e1f1d11a25161e31ab.m3u8> |
 | 3 | [HD]vevo country | stream1.freetv.fun | <https://stream1.freetv.fun/7893dad7edd6610c885ea7d9b913961a05cd4c9477bab1b0e8c5c92464c48eff.m3u8> |
 | 4 | [VGA]rt doc | stream1.freetv.fun | <https://stream1.freetv.fun/ebcf51ee0a34cfbe73d48661bd908e9d6c11c15528e68b863f21be54b0cd7bf7.m3u8> |
 | 5 | [BD]cafetv24 veneto | stream1.freetv.fun | <https://stream1.freetv.fun/c4040386cd485d7cd5c622ee0d02bc0c08f4c69d62fd5beddbd8dda7a57085a0.m3u8> |
@@ -61,7 +61,7 @@
 | 55 | [HD]abc hd | stream1.freetv.fun | <https://stream1.freetv.fun/a7b8cbc7b04b772f5ccce5a53697dcd71bceeacbb743804b42ca4d8e1829c0ac.m3u8> |
 | 56 | [SD]abc news live 2 | stream1.freetv.fun | <https://stream1.freetv.fun/ef6e1c6aa653a4f07520c9b51926ca7e73ad7cd768d224ef5c9cb8666b60f000.m3u8> |
 | 57 | [HD]la c news 24 | stream1.freetv.fun | <https://stream1.freetv.fun/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8> |
-| 58 | [HD]abc news live 1 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/8d87b25ee2e4a8b2fdb72ec74b0b128d19f4ba35a5fb2814f27dee740a8fada9.m3u8> |
+| 58 | [HD]abc news live 7 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/a85d512dc6ec217b46cfe1333e93600faf0bee176d5f7cb487214e9e14b1c9c9.m3u8> |
 | 59 | [HD]abc tv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/fd33a74fb805774db5beb3ac313e77ca934736419575c5fcf57ee97d013314e4.m3u8> |
 | 60 | [HD]tvs flashback network | stream1.freetv.fun | <https://stream1.freetv.fun/f9bc8ffbf32f26b4931202f84c885eeaa785b91a8f9c825854201649fa723361.m3u8> |
 | 61 | [SD]abcテレビ | stream1.freetv.fun | <https://stream1.freetv.fun/ff2eae41bcf57248e8a3849eccab7ffa5ad505e035663b2816f8a83dfb9e4837.m3u8> |
@@ -2521,7 +2521,7 @@
 | 2515 | [SD]香港电台(34) | stream1.freetv.fun | <https://stream1.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
 | 2516 | [HD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/dac453b4fea2ca91cf4bc4715f3ff39471292735f14934946d4ca96b309a3a47.m3u8> |
 | 2517 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv> |
-| 2518 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.ctv> |
+| 2518 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.ctv> |
 | 2519 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/a55c6f702438d92f664851337c6bf6a4b832cd95d6f597e50b1e6040a3c33e57.m3u8> |
 | 2520 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/a1e9b719a07884526606598d72537cef8048233381d1bcd4264e1be3db2cf40a.m3u8> |
 | 2521 | [BD]永城新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8> |
@@ -2545,4 +2545,4 @@
 | 2539 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2540 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Tue Sep 10 2024 16:04:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 10 2024 18:04:50 GMT+0000 (Coordinated Universal Time)**
