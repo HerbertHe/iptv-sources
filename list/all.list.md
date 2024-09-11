@@ -1084,7 +1084,7 @@
 | 1078 | [HD]nova sport 1 | stream1.freetv.fun | <https://stream1.freetv.fun/c41a84732746b8ed1da93a4988ce3f08490cf47a9b180e26728ad5e48bbce29b.ctv> |
 | 1079 | [BD]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/01fb01adb7e4381c9e76db158033938c38b2fe013acf64bb5cb806ee2abde363.ctv> |
 | 1080 | [BD]nrj 12 | stream1.freetv.fun | <https://stream1.freetv.fun/99e2b223ccc0de68d933b253f41b3cc0de862323236958bf6fbaaa5518a8835f.m3u8> |
-| 1081 | [HD]insport hd | stream1.freetv.fun | <https://stream1.freetv.fun/4b1407ec4db1fcec4cd42c2960688030d985117cd00220f9c2b9cdd26d0409ba.m3u8> |
+| 1081 | [BD]insport hd | stream1.freetv.fun | <https://stream1.freetv.fun/4b1407ec4db1fcec4cd42c2960688030d985117cd00220f9c2b9cdd26d0409ba.m3u8> |
 | 1082 | [BD]ntn | stream1.freetv.fun | <https://stream1.freetv.fun/808d37b4ae4cf2ce730bc50eabddaaaaf86151b0a74b1d56f92593f43daf2281.ctv> |
 | 1083 | [HD]pntv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/cd65b75a6c7b65dc73837f464eb4094bbc7ed55551e10ba450eb7ea7dbf99d19.m3u8> |
 | 1084 | [HD]ntv tr | stream1.freetv.fun | <https://stream1.freetv.fun/f8c2ac9764a494c5b97e1d16623041ffd5d24ed747273811d937ad2e0ac48d15.m3u8> |
@@ -2178,7 +2178,7 @@
 | 2172 | [BD]dw德国之声 | stream1.freetv.fun | <https://stream1.freetv.fun/614e4e0ef63cc3f04ec9d43b08228d440260af59d0f85ebc4fce82b98d7e9fbe.ctv> |
 | 2173 | [HD]爱尔达影剧 | stream1.freetv.fun | <https://stream1.freetv.fun/813c978bc607dc5932f42d25dd341be1ed9ea035da9a558c192c61c9606e20fd.ctv> |
 | 2174 | [BD]都昌新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/434f908ec0407e4a1ee7639a078b89fdd195e736d4be7b0964ad986418318b6d.m3u8> |
-| 2175 | [VGA]戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv> |
+| 2175 | [SD]戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv> |
 | 2176 | [BD]揭阳公共 | stream1.freetv.fun | <https://stream1.freetv.fun/5ad596704a7981da0e17e48a8a790aff4e394469f57dd00e683d70329a79769f.m3u8> |
 | 2177 | [BD]揭阳综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e90f502e55cbf9bc85df6c5006a78aea592a1509a1aed9c671439e216cfc0413.m3u8> |
 | 2178 | [SD]教育 | stream1.freetv.fun | <https://stream1.freetv.fun/4be3044a2bbaaa8ff1b4c8131e79b35c3e7c7685c985c0d20541306edd5a528c.ctv> |
@@ -2554,4 +2554,4 @@
 | 2548 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2549 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Wed Sep 11 2024 18:05:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 11 2024 20:03:43 GMT+0000 (Coordinated Universal Time)**
