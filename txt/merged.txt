@@ -246,7 +246,7 @@ Movies,#genre#
 [BD]影迷数位电影,https://stream1.freetv.fun/092f3ca46d1e5f24e6458d55a857b3bd6521a3cb992a57f2eff178f58a2ffae0.ctv
 [HD]爱尔达影剧,https://stream1.freetv.fun/813c978bc607dc5932f42d25dd341be1ed9ea035da9a558c192c61c9606e20fd.ctv
 [VGA]戏曲,https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv
-[HD]日本映画専门,https://stream1.freetv.fun/138e11486b41bfcdc18736e199a62cc374356b5af4fd6219b9d0bcfac8e41ca9.m3u8
+[SD]日本映画専门,https://stream1.freetv.fun/138e11486b41bfcdc18736e199a62cc374356b5af4fd6219b9d0bcfac8e41ca9.m3u8
 [BD]明珠台,https://stream1.freetv.fun/36d4ca249d75335cdeaeb0fafe9671a63a073e7ba8971578a8b40429cded40dc.ctv
 [SD]时代剧専门チャンネル,https://stream1.freetv.fun/eb4208b8428b1c783a9f33a3c4d097c9bd6c67ff0335800dc6fd760a7281459e.m3u8
 [BD]杭州影视,https://stream1.freetv.fun/eacfa181a42c549f00c51da39d3e9bb8a256e7b145d9c787d3b8cdd15eb17a92.ctv
@@ -986,6 +986,7 @@ Generic,#genre#
 [VGA]tht,https://stream1.freetv.fun/7891f1eb5f49c02a94e56fd7cc843c87a6dbde1cad539d3a189eb2e8e6c46a03.m3u8
 [BD]thvl1,https://stream1.freetv.fun/1906771aa90ad63b27054018c5f60cbe3abcf4d58fde2eaa7dd4b5d1642c9e3b.m3u8
 [BD]thvl4,https://stream1.freetv.fun/0459f64951e06fe18d043084c353a0c75dab8383418070317cf6bdb027e29c57.m3u8
+[BD]tl_liban,https://stream1.freetv.fun/0c8318884ed2200087909728073cb6902db5c5d008580df5863b8c8acb6f7a25.m3u8
 [HD]tmz,https://stream1.freetv.fun/4130cd93de492dbea045cf91185166d58297e63b5288169924813087f43b5ec9.m3u8
 [BD]tvn2,https://stream1.freetv.fun/03ce80ad2f9fcc2616d80215280d7b7a36101969ecbb9584a47cd5675a9a62fd.m3u8
 [SD]tokyo_mx_2,https://stream1.freetv.fun/908f7e48530edd4ccfe9e44114ae45de4d62a268ab900f0edcf30051fddb56c9.m3u8
@@ -1424,7 +1425,6 @@ Other,#genre#
 [HD]beach_tv_panama_city_(720p),https://stream1.freetv.fun/508f2efd0a90cc57174a4c9012518055877c9b68290257de66625bd008cc48ad.m3u8
 [SD]bridge,https://stream1.freetv.fun/8fe55d4bfa34d29794e71bf33eb377dd938ab4a947e38ada6225c7db573469ef.m3u8
 [HD]th_bình_phước,https://stream1.freetv.fun/a670f4e20131f0339ab8c91dfd926b0ac6b339a8bbb1c6ed160c35237db24513.m3u8
-[BD]th_bình_phước,https://stream1.freetv.fun/590c85473b1a1eaa03828cff4cc872f321aaac0e38aceff33e83004ac66edf68.m3u8
 [HD]th_bình_thuận,https://stream1.freetv.fun/c1277779e77aec89c9667f2783d91013dfb8a816fecbca8a892cc5f18c051a54.m3u8
 [VGA]bình_định,https://stream1.freetv.fun/4436cd018cabf3a9c05768331158a56b1d61c0ddd711daed7651751fa8397863.m3u8
 [HD]bac_lieu_tv,https://stream1.freetv.fun/25f1e5bd060f67eeb78c2996eb66c60697208b5c34a12952004eab7f1ee12774.m3u8
