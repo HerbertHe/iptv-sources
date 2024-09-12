@@ -255,7 +255,7 @@
 | 249 | [BD]beinsports1 | stream1.freetv.fun | <https://stream1.freetv.fun/c3c29c730ceccfc87f2bcb1e958169292f77cea9e25d64ed46fb8472cb996683.ctv> |
 | 250 | [HD]beinsports2 | stream1.freetv.fun | <https://stream1.freetv.fun/7ee525d40ffdee7ce4e368d3bc9f158f38e0917b5464005f83c87e60559d272c.ctv> |
 | 251 | [BD]bein–nowsports2 | stream1.freetv.fun | <https://stream1.freetv.fun/0b4a1b936efd344c954e7c33be94cfc5a87f64f2af8f1c5fe17eb7cfab7a1858.ctv> |
-| 252 | [BD]bein sports xtra | stream1.freetv.fun | <https://stream1.freetv.fun/ca42f4fe32ba4ded1616155baf333ac0371b9edeea239cd18f6274b492284937.m3u8> |
+| 252 | [HD]bein sports la liga | stream1.freetv.fun | <https://stream1.freetv.fun/d0efd61936fb541981ad9314b9cc5b06dea42d6431d2d06c1f86dc49df8d3964.ctv> |
 | 253 | [HD]30a tv | stream1.freetv.fun | <https://stream1.freetv.fun/52d2d75e25b614fbaa3a809d39e3963c6b1da43b300e6b3411c2bdfb396a3db9.m3u8> |
 | 254 | [HD]beach tv panama city (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/508f2efd0a90cc57174a4c9012518055877c9b68290257de66625bd008cc48ad.m3u8> |
 | 255 | [HD]bein sports fr 3 | stream1.freetv.fun | <https://stream1.freetv.fun/076e6505077b61ef87e62f2d168a60838bf529b4b5086546fd9448647f596306.ctv> |
@@ -1515,7 +1515,7 @@
 | 1509 | [SD]tet | stream1.freetv.fun | <https://stream1.freetv.fun/88dc7985f96b6158e41bd0c20a16edb567318795b38b5c7601fb098facc7c0d8.ctv> |
 | 1510 | [BD]tf1 | stream1.freetv.fun | <https://stream1.freetv.fun/c7702af80baa1175738c7f8cabfc202852667f7a523200bff1c8356446b55076.m3u8> |
 | 1511 | [HD]the pet collective international | stream1.freetv.fun | <https://stream1.freetv.fun/116a94633fb3c110f82abf84e274c959b303df24d1907eae5674bb21ef88eba1.m3u8> |
-| 1512 | [SD]tfm | stream1.freetv.fun | <https://stream1.freetv.fun/2fcea1709952efff4d5f0b74b86ac2ac883bf9410926109722bd996892cb7ce9.m3u8> |
+| 1512 | [VGA]tfm | stream1.freetv.fun | <https://stream1.freetv.fun/2fcea1709952efff4d5f0b74b86ac2ac883bf9410926109722bd996892cb7ce9.m3u8> |
 | 1513 | [HD]tg norba 24 | stream1.freetv.fun | <https://stream1.freetv.fun/8480b704ba25e667509e1d862835ff9ffa87aa813eb5005d3233d8de8de52ad0.m3u8> |
 | 1514 | [BD]tg4 (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/ccd2b09a62043d7c0a8b8221ffc1b3e1907ce7bd32fa9497feeb3b4113e2ee0c.m3u8> |
 | 1515 | [SD]土耳其 tgrt belgesel | stream1.freetv.fun | <https://stream1.freetv.fun/ddd72f57d2c856f596b70b22ee1ffcc4f5fa7b97cc340884d69397fa9f74c89e.m3u8> |
@@ -2547,4 +2547,4 @@
 | 2541 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2542 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Thu Sep 12 2024 16:04:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 12 2024 18:05:08 GMT+0000 (Coordinated Universal Time)**
