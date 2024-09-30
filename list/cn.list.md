@@ -146,7 +146,7 @@
 | 140 | [SD]厦门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8> |
 | 141 | [HD]广元综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8> |
 | 142 | [HD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/392b026477e2694b5a6ce06ba57a8112ea67afd2b4ccff747477df64029e7d08.m3u8> |
-| 143 | [BD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/34003b8748136eb630e4eed3e26cf513630bd520371ecf4fdfdc0649c1a8707e.ctv> |
+| 143 | [BD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/23e2042f052e6d5b3f33bab813fe3db2fd6b946b491363a38a14b4e5c9e5f388.ctv> |
 | 144 | [HD]广州法治 | stream1.freetv.fun | <https://stream1.freetv.fun/08e4a3ee7ab79cec8f00e11315fde20a279334a41eed7533899aa42f1e07b2de.ctv> |
 | 145 | [HD]广州竞赛 | stream1.freetv.fun | <https://stream1.freetv.fun/4ed18e368561bc57ec7459b3e25e0ff0c25059601ba1d865aa3f257fd09b3f4a.m3u8> |
 | 146 | [BD]广州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.ctv> |
@@ -202,7 +202,7 @@
 | 196 | [BD]武汉2电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/c38b05825fb83dbf187ada0d6ac499b4a92458874946e44e69f4e9946cdc8363.m3u8> |
 | 197 | [BD]永嘉新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8> |
 | 198 | [BD]永嘉新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8> |
-| 199 | [BD]求索纪录[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/abf208e5244763fa9781e4746933f32bb7728343dc65bd90c4e5a80169585ade.m3u8> |
+| 199 | [BD]求索纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/ca7a2161e32c51b69025f99041dfccd2cb16223b2bbadf6f96874dd83a8fd210.ctv> |
 | 200 | [BD]汕尾综合 | stream1.freetv.fun | <https://stream1.freetv.fun/5c12fa4da706b450002713f3eac531fe21bf754a4049188eeeed30b5f4a0915d.ctv> |
 | 201 | [BD]新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8> |
 | 202 | [BD]汕头生活 | stream1.freetv.fun | <https://stream1.freetv.fun/287336249dac4916bd0ac5c6c786f11c96405d7c7cb5a0464d6c7011adf9a89b.ctv> |
@@ -223,7 +223,7 @@
 | 217 | [SD]河北公共 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96> |
 | 218 | [SD]河北少儿科教 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d> |
 | 219 | [SD]河北影视剧 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6> |
-| 220 | [SD]河北经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/586bf4844e88ed18c1a209e82e9025cd3c9e84bed96638d138a3588bf243ba69.m3u8> |
+| 220 | [SD]河北经济生活 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=40e221dfe1145000d2b17dfbec914ce7> |
 | 221 | [BD]河北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8> |
 | 222 | [SD]河北农民台高清 | stream1.freetv.fun | <https://stream1.freetv.fun/12a9d1748252d68c721a22688df18fa0361bc5cdc655d66a421fbf689e10dcb5.m3u8> |
 | 223 | [SD]河北都市 | stream1.freetv.fun | <https://stream1.freetv.fun/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8> |
@@ -259,7 +259,7 @@
 | 253 | [BD]深圳卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/20ecf771d6a0c9c6e7099a283186488d8baa598db43ae7e64ada39622eeb930a.m3u8> |
 | 254 | [BD]深圳财经生活 | stream1.freetv.fun | <https://stream1.freetv.fun/af5dd5717c35693f81c1b85b14617e9f2674be92ee9d2e82d06246de8961f23c.m3u8> |
 | 255 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/440e07533de783540bebdb5b272bfb6d7d8437b2eba9f11e8b620142c4e44454.ctv> |
-| 256 | [BD]深圳电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.ctv> |
+| 256 | [BD]深圳电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8c7181c1058423b82d3bbbb47677e67d211c8fd2978a4f4d214735535f365fdc.ctv> |
 | 257 | [VGA]德清新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/814eb7e77117459a1e9247bd024282bbe67654ae0014cb99c02bb6517e9b21d6.m3u8> |
 | 258 | [BD]湖北公共 | stream1.freetv.fun | <https://stream1.freetv.fun/8c1b6fe77020c3e735423253173adb2eb9b8d3917b4d84a8e5ee1a6473c562f9.ctv> |
 | 259 | [BD]湖北垄上 | stream1.freetv.fun | <https://stream1.freetv.fun/09e9c02f9cb812a4f4ccd37ba4c1e42816c9c30f1a93c73bbb72170b80860b10.ctv> |
@@ -312,7 +312,7 @@
 | 306 | [HD]黄石新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/7303e0b42ab85780ffb989c3fae502053116c8e231634b1847587c043aca35ec.m3u8> |
 | 307 | [BD]福州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0418ba014693c5bd17b1309d450b9de91e6e8dd9091d49922fc0afe0209c93d4.m3u8> |
 | 308 | [BD]福建公共 | stream1.freetv.fun | <https://stream1.freetv.fun/eb38a9757c3b11cf6f9dd47b141214a93d903687440222b5f45cf31c743c65c5.ctv> |
-| 309 | [VGA]福建少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8> |
+| 309 | [BD]福建少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8> |
 | 310 | [BD]福建教育 | stream1.freetv.fun | <https://stream1.freetv.fun/6182589e5be4d4f75d67a991e90e534a1e9823429a3d48198b9454ee4303cbd6.m3u8> |
 | 311 | [BD]福建新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/14543d0169254080cd1af6d31a0318bd243579dc69a7400cdb60ceb5ae27efc4.m3u8> |
 | 312 | [BD]福建旅游 | stream1.freetv.fun | <https://stream1.freetv.fun/c14897d71d7e43777ba0ae62f3d2ee587cb450e1b693783c6696aececc7afb3f.m3u8> |
@@ -413,4 +413,4 @@
 | 407 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 408 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Sep 30 2024 06:05:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 30 2024 08:06:25 GMT+0000 (Coordinated Universal Time)**
