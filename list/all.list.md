@@ -1215,7 +1215,7 @@
 | 1209 | [SD]rotana music | stream1.freetv.fun | <https://stream1.freetv.fun/5cc0b10a35d5eb4966185f9e8cd7d98516f103059e81aa85fcba283aec60e229.ctv> |
 | 1210 | [BD]rudaw | stream1.freetv.fun | <https://stream1.freetv.fun/21afab78acb058d9cb1ce54004208dd5787c5869db84005b1834f3f26f2a2ccc.m3u8> |
 | 1211 | [BD]rûdaw tv | stream1.freetv.fun | <https://stream1.freetv.fun/aa6ce041540cb4e306ab3cfce51f07cb7926309bc2dc0f871fb53e93801951de.m3u8> |
-| 1212 | [HD]runtime | stream1.freetv.fun | <https://stream1.freetv.fun/f95eb3a5ea681b079d2fbd34204eb43d2a30f761e9d775fcfd34bdac0788a067.m3u8> |
+| 1212 | [HD]runtime | stream1.freetv.fun | <https://stream1.freetv.fun/d4cfdcb4c9ddfe04cb422d575be6f4f613dbcb668f28a39f032ed58f9815b15c.m3u8> |
 | 1213 | [BD]russia today | stream1.freetv.fun | <https://stream1.freetv.fun/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8> |
 | 1214 | [HD]russian tv | stream1.freetv.fun | <https://stream1.freetv.fun/d7e5a88ecd943e194829df107372f7f8940e87b652aafc2cd3725a7ffea5fdda.m3u8> |
 | 1215 | [VGA]rustavi 2 | stream1.freetv.fun | <https://stream1.freetv.fun/6a34674790b4aae12be456faf68e33f19fd9099434d2a5b4d3503899483682c2.m3u8> |
@@ -1371,7 +1371,7 @@
 | 1365 | [HD]on style tv | stream1.freetv.fun | <https://stream1.freetv.fun/536ae94c19822e02659ba8363f669e09f767a0318c2b188b736f8f02b3659dff.m3u8> |
 | 1366 | [HD]sun rtv | stream1.freetv.fun | <https://stream1.freetv.fun/be74bd43e5656aab36b52ff27d37123d7660600c746ba6116387d11b23c56831.m3u8> |
 | 1367 | [BD]sukan rtm | stream1.freetv.fun | <https://stream1.freetv.fun/1751a3419ede50c49e9d9194f81a966a281a55fe4d599ace870688db13264e0e.m3u8> |
-| 1368 | [VGA]abn tv india | stream1.freetv.fun | <https://stream1.freetv.fun/2c57822fd50466dbd7208fa5cea61ff3a1cc11ab473346530718a94263fab10b.m3u8> |
+| 1368 | [HD]sun tv (544p) | stream1.freetv.fun | <https://stream1.freetv.fun/755611bf9f53bc5e0e7b46d3ac85f12f12a2d7d4608c8672999fefc1cb7af6a6.m3u8> |
 | 1369 | [HD]sundance | stream1.freetv.fun | <https://stream1.freetv.fun/6f22320a940192037fbed8433a27632555a786ee62a631db6f43a31629845cda.m3u8> |
 | 1370 | [SD]tv sunnah | stream1.freetv.fun | <https://stream1.freetv.fun/9213377b09ededd4bc80bf5a35d7d540439f8b5689c9c89adf664d79e558fd3b.m3u8> |
 | 1371 | [SD]super rtl | stream1.freetv.fun | <https://stream1.freetv.fun/594881ca991f385a2c4f8f698e0b92db29d019a01379c59a17e30f392aae1049.m3u8> |
@@ -1663,7 +1663,7 @@
 | 1657 | [HD]wwe | stream1.freetv.fun | <https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv> |
 | 1658 | [HD]yes network | stream1.freetv.fun | <https://stream1.freetv.fun/2f2ac4ea8eadfd96ea717896d9f60513896871fe526b56ddb446f728f1bb5a96.ctv> |
 | 1659 | [BD]wanasah (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/4f15b29644f01097c624cccbc021cc9d37f0acfb5579b07971506d4476a0a1b4.m3u8> |
-| 1660 | [BD]warner channel | stream1.freetv.fun | <https://stream1.freetv.fun/be3ac407db3fe8637445a652d916975920870dcfdfb8e98926c5ba094d684d06.ctv> |
+| 1660 | [HD]warner channel | stream1.freetv.fun | <https://stream1.freetv.fun/be3ac407db3fe8637445a652d916975920870dcfdfb8e98926c5ba094d684d06.ctv> |
 | 1661 | [BD]warner tv | stream1.freetv.fun | <https://stream1.freetv.fun/abaed3d03ad94f5dbab2c0193d724d86b5364b2542d98c6a77b07367cefdf4aa.m3u8> |
 | 1662 | [BD]waterbear | stream1.freetv.fun | <https://stream1.freetv.fun/468dda79db5a6859fc9b83462f69c6496dafb5a5d4ff6805da1fb9d0db7159bb.m3u8> |
 | 1663 | [HD]we tv | stream1.freetv.fun | <https://stream1.freetv.fun/2c081ab53f6face92c74deaf2db610e54132988d20a1416210110c9f1590fbcc.ctv> |
@@ -2314,4 +2314,4 @@
 | 2308 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2309 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Thu Oct 03 2024 18:04:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 03 2024 20:04:15 GMT+0000 (Coordinated Universal Time)**
