@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [VGA]sheffield live tv | stream1.freetv.fun | <https://stream1.freetv.fun/9e548e70e7e18a278c3dd0a992ff002cb1b008fa0504397ab045b5f55d51e5e5.m3u8> |
+| 1 | [BD]alkarma tv youth & english | stream1.freetv.fun | <https://stream1.freetv.fun/e330d41bd879126d3608df01ed803b62457a88979a803cb8e28e19280e7f268e.m3u8> |
 | 2 | [VGA]утрк | stream1.freetv.fun | <https://stream1.freetv.fun/174645c5d3c08fff9d28f8e5070e84946c55dd02fba54cf798c3f92f32f251c6.m3u8> |
 | 3 | [HD]vevo country | stream1.freetv.fun | <https://stream1.freetv.fun/7893dad7edd6610c885ea7d9b913961a05cd4c9477bab1b0e8c5c92464c48eff.m3u8> |
 | 4 | [VGA]rt doc | stream1.freetv.fun | <https://stream1.freetv.fun/ebcf51ee0a34cfbe73d48661bd908e9d6c11c15528e68b863f21be54b0cd7bf7.m3u8> |
@@ -1011,7 +1011,7 @@
 | 1005 | [HD]nautical channel | stream1.freetv.fun | <https://stream1.freetv.fun/c8e3ff6742e69b0c3dcf5004a04d448e849464796b301bbc838ce9d100b5613f.m3u8> |
 | 1006 | [HD]kli netflix hd | stream1.freetv.fun | <https://stream1.freetv.fun/b8f6672efe75e4a268e975358dcbf7e140293901f91d032e343d0b715ff4ac67.m3u8> |
 | 1007 | [HD]dosug tv new hd | stream1.freetv.fun | <https://stream1.freetv.fun/bd64b90ceccceb6b9f20847621900c7848269eac6b03d26f3a4455a292ce73c8.m3u8> |
-| 1008 | [VGA]news1 | stream1.freetv.fun | <https://stream1.freetv.fun/149ca603e4ad96f0ab823b23ee90cb369fb19bbf4d43ccfc5eaece07615d1b56.m3u8> |
+| 1008 | [HD]news1 | stream1.freetv.fun | <https://stream1.freetv.fun/149ca603e4ad96f0ab823b23ee90cb369fb19bbf4d43ccfc5eaece07615d1b56.m3u8> |
 | 1009 | [BD]news 12 brooklyn | stream1.freetv.fun | <https://stream1.freetv.fun/b754cdcaed6d122bb5fc91ea55e6749f73b2de42c1d2c546e17cf7dfde6010ef.ctv> |
 | 1010 | [BD]cnanews-hd（新加坡） | stream1.freetv.fun | <https://stream1.freetv.fun/7b52a960c67bf9995ac3e640b82672436167255803ade528381a939e99ea08c3.m3u8> |
 | 1011 | [HD]polsat news | stream1.freetv.fun | <https://stream1.freetv.fun/b77337dacf03b2078341641c429dc96631676cdc5621e97c1b80b7dcddcd89ee.m3u8> |
@@ -2330,4 +2330,4 @@
 | 2324 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2325 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Mon Oct 07 2024 22:03:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 08 2024 00:15:04 GMT+0000 (Coordinated Universal Time)**
