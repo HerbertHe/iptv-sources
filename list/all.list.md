@@ -305,7 +305,7 @@
 | 299 | [SD]cctv14 | stream1.freetv.fun | <https://stream1.freetv.fun/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.m3u8> |
 | 300 | [BD]cctv-15 | stream1.freetv.fun | <https://stream1.freetv.fun/d53b8f939b93a60d494c85b94291ca8b151443bd6d16fdb667a8caaf33382c05.m3u8> |
 | 301 | [BD]cctv16[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8> |
-| 302 | [BD]cctv17 | stream1.freetv.fun | <https://stream1.freetv.fun/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8> |
+| 302 | [BD]cctv17 | stream1.freetv.fun | <https://stream1.freetv.fun/e708db23c72b7ff54d1311af9347bd7a3d20831bc1554f0aa3adfd27beb3510f.m3u8> |
 | 303 | [BD]cctv2[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8> |
 | 304 | [SD]cctv3 | stream1.freetv.fun | <https://stream1.freetv.fun/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8> |
 | 305 | [BD]cctv4[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/7cde80e65e123de12e077892b4a3afdc304cfbfff9b5565643a9cd9056761f52.m3u8> |
@@ -341,7 +341,7 @@
 | 335 | [SD]channel 24 | stream1.freetv.fun | <https://stream1.freetv.fun/f9b9f4b5737ad0ce1537a600d2ef4aa01afd1090e9e34213041dfff6caa6bac9.ctv> |
 | 336 | [BD]white channel | stream1.freetv.fun | <https://stream1.freetv.fun/be44054b6fbf1e99363def36d24cfc5df0d5cc71a03bc7dd3679a5325e87c0e9.m3u8> |
 | 337 | [BD]tennis channel | stream1.freetv.fun | <https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv> |
-| 338 | [BD]chc高清电影 | stream1.freetv.fun | <https://stream1.freetv.fun/682dd87ae8746d13b39c9dbcada27f8c48cf4b093b2bf69d563d558881385551.ctv> |
+| 338 | [BD]chc动作电影[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.m3u8> |
 | 339 | [SD]chc家庭影院[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/4baf8d6257afc16275e93604ac917bdd4bb3731c5a42f86ff10e33d652cfe91b.m3u8> |
 | 340 | [BD]chc影迷电影 | stream1.freetv.fun | <https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8> |
 | 341 | [BD]nci | stream1.freetv.fun | <https://stream1.freetv.fun/02ad644cc816a15b4903bcebc5e9d61d0e0a1ec10aa5ecce4375aa34951e5758.m3u8> |
@@ -560,7 +560,7 @@
 | 554 | [BD]estrella news | stream1.freetv.fun | <https://stream1.freetv.fun/5abd82e0f6b5352e67b028478735f83106d86c2239f79c602290482479e5a5b4.m3u8> |
 | 555 | [HD]taino tv | stream1.freetv.fun | <https://stream1.freetv.fun/5b34372395ee2937aff8f994eda849982884181d94220fa8d57c380b6fcbfb03.m3u8> |
 | 556 | [HD]euronews | stream1.freetv.fun | <https://stream1.freetv.fun/df0f1961080638557e580fdc3d831c4cef1e19c878f464f7b3f1ffcf4352127d.m3u8> |
-| 557 | [SD]euronews | stream1.freetv.fun | <https://stream1.freetv.fun/ecdd143673428acf4d32ccdab3d24ac2dc5ab1aef766bc131835584f47b07482.m3u8> |
+| 557 | [HD]euronews | stream1.freetv.fun | <https://stream1.freetv.fun/ecdd143673428acf4d32ccdab3d24ac2dc5ab1aef766bc131835584f47b07482.m3u8> |
 | 558 | [HD]euronews pt | stream1.freetv.fun | <https://stream1.freetv.fun/442731d086bbc860b0296cd3ef3e42166cc24ebe31b3065dac37dae4ebd76017.m3u8> |
 | 559 | [HD]euronews | stream1.freetv.fun | <https://stream1.freetv.fun/1c098104d5ba6522daac5c756090a15a3e01b9e4b1bb1e194209d23061165433.m3u8> |
 | 560 | [HD]euronews | stream1.freetv.fun | <https://stream1.freetv.fun/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8> |
@@ -1964,7 +1964,7 @@
 | 1958 | [BD]山东卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/2f0c12268595ebe65723cfcf1eebe088d467f83f958b5783e8799cde31120914.m3u8> |
 | 1959 | [BD]山东体育 | stream1.freetv.fun | <https://stream1.freetv.fun/cdeb0d33557acdc2f53d7d6309e5f93d847e70a977778e55c1535d1690342dd4.m3u8> |
 | 1960 | [BD]山西公共 | stream1.freetv.fun | <https://stream1.freetv.fun/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.m3u8> |
-| 1961 | [SD]山西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8> |
+| 1961 | [SD]山西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.ctv> |
 | 1962 | [BD]岭南戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/74f3ead6879523ee714fc69f3a193d48c2601ede07a58754af52ec8817ea84ae.ctv> |
 | 1963 | [VGA]德清新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/18538cf9a1417efda0f9935ea7f435949ba80a743c18ae279a1a91f35c6061c3.m3u8> |
 | 1964 | [BD]年代新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a4312b445351c10.m3u8> |
@@ -2173,7 +2173,7 @@
 | 2167 | [HD]公共应急 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/2v86i8.flv> |
 | 2168 | [SD]甘肃文化影视 | stream1.freetv.fun | <https://stream1.freetv.fun/f24b4d04dc28ddf7cd6e4bffcffc567afcca879d109a74eb4965a75b2dc32a15.m3u8> |
 | 2169 | [SD]甘肃经济 | stream1.freetv.fun | <https://stream1.freetv.fun/14329e85422d47808a217a175ddc68d8b99af80f27a375db6ba80ad7eb7bf0ad.m3u8> |
-| 2170 | [SD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3bc3229d80d33420ce90ca97cb4ee6e8b270dc9a54d6e5e1a1debf86bb31bb5b.m3u8> |
+| 2170 | [SD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.ctv> |
 | 2171 | [SD]甘肃都市 | stream1.freetv.fun | <https://stream1.freetv.fun/3a85d048033960544c2bae9c18de406d298f9ac0df3364672b527467281afe24.m3u8> |
 | 2172 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
 | 2173 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
@@ -2329,4 +2329,4 @@
 | 2323 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2324 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Tue Oct 08 2024 08:05:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 08 2024 10:04:05 GMT+0000 (Coordinated Universal Time)**
