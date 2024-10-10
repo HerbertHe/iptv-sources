@@ -700,7 +700,7 @@
 | 694 | [SD]htb | stream1.freetv.fun | <https://stream1.freetv.fun/9925002a06e070b5d161cee6102f02434d2221013c04a84fc692a22be773ef64.m3u8> |
 | 695 | [SD]htvc du lịch và cuộc sống | stream1.freetv.fun | <https://stream1.freetv.fun/1db862ffd0b070c153476448fdac1b2d835dbe71be00fa206a6496885dca037d.m3u8> |
 | 696 | [SD]htvc gia đình | stream1.freetv.fun | <https://stream1.freetv.fun/d8c9df723826433034955051a4ff169df2f694e89a86eaf3fbe1d7cadf6b1683.m3u8> |
-| 697 | [HD]htvc phim | stream1.freetv.fun | <https://stream1.freetv.fun/1ce4f72f76d3a6541c6063a9803452c4d6cc7381ea3d8058f0fd8a8d5dd6c95c.m3u8> |
+| 697 | [HD]htvc phim | stream1.freetv.fun | <https://stream1.freetv.fun/9a8074d356ab40548bb3699bb0a34887006b8779e6c09826a00dfa26725c73b7.m3u8> |
 | 698 | [SD]htvc phụ nữ | stream1.freetv.fun | <https://stream1.freetv.fun/e10b1e07575d06e2b19d1043a1ca35890ed9113ca29df64788e5722a6dacf747.m3u8> |
 | 699 | [BD]htv the thao | stream1.freetv.fun | <https://stream1.freetv.fun/09ac145af1a53d4bbaf04969f9375182954d3264be254addc2c7255500ae3361.m3u8> |
 | 700 | [SD]htv1 | stream1.freetv.fun | <https://stream1.freetv.fun/645463e1f05c0b0cd2c3725bb4fc8d764ecb68b9e3eae91e8eefaf47de98b6bc.m3u8> |
@@ -2318,4 +2318,4 @@
 | 2312 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2313 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Thu Oct 10 2024 16:04:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 10 2024 18:05:01 GMT+0000 (Coordinated Universal Time)**
