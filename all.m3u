@@ -115,8 +115,8 @@ https://stream1.freetv.fun/731e9f5ecc5de2a0afe5d5482b3a57d63d1354283a7e13951a910
 https://stream1.freetv.fun/a7b8cbc7b04b772f5ccce5a53697dcd71bceeacbb743804b42ca4d8e1829c0ac.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="News",[SD]abc news live 2
 https://stream1.freetv.fun/ef6e1c6aa653a4f07520c9b51926ca7e73ad7cd768d224ef5c9cb8666b60f000.m3u8
-#EXTINF:-1 tvg-name="ABC NEWS 24" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313191616421716_57.png" group-title="News",[HD]la c news 24 (720p)
-https://stream1.freetv.fun/4f1f755a72d39f5887cdd68f29472723d68e2e36dab03c381944b14c3954fb10.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS 24" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313191616421716_57.png" group-title="News",[HD]la c news 24
+https://stream1.freetv.fun/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 7 (720p)
 https://stream1.freetv.fun/a85d512dc6ec217b46cfe1333e93600faf0bee176d5f7cb487214e9e14b1c9c9.m3u8
 #EXTINF:-1 tvg-name="ABC TV" tvg-id="3357" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[BD]abc tv (720p)
@@ -769,8 +769,8 @@ https://stream1.freetv.fun/83667afff9e53d49ce221fe296ff98cb8db23b8d2a1db0ca66817
 https://stream1.freetv.fun/4c174193b477297c391687d55494d9c774b3973e4af935b60dff2fd58788a560.m3u8
 #EXTINF:-1 tvg-name="Canal Trece Colombia" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/30/20150730231804405793_22.png" group-title="Entertainment",[HD]tdi colombia
 https://stream1.freetv.fun/9ea2e6715168ac913c5d6d077ba849e84b4c94047d62a181577c5eb7771c99a6.m3u8
-#EXTINF:-1 tvg-name="Canal U" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/20/20141220033044878395_26.jpg" group-title="Entertainment",[BD]canal u
-https://stream1.freetv.fun/6a72b0464de9dd86869b4bc6e226b3e9c031e5799f747908fd28373ae1095ac1.m3u8
+#EXTINF:-1 tvg-name="Canal U" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/20/20141220033044878395_26.jpg" group-title="Entertainment",[BD]canal catorce
+https://stream1.freetv.fun/b39605a9207f7d7ca63f673a881887d6fa1f01d56c205176f039ff2c4e2b5c9c.m3u8
 #EXTINF:-1 tvg-name="Canal eduvision" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174048197950_43.png" group-title="Entertainment",[HD]canal multivision
 https://stream1.freetv.fun/56750e7168cfbef3ddfeecc67ae850a2f8d55dca67ce739aa8a258c564ab68bc.m3u8
 #EXTINF:-1 tvg-name="Canal+" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movies",[HD]canal plus foot360web
@@ -1645,8 +1645,6 @@ https://stream1.freetv.fun/e2eb288db393f7d071759243baac523ed5fd5bd3661b52c592e7d
 https://stream1.freetv.fun/65ee30efa8c75b39177262bfa0745ae3f2182207d0d9f77af62493650325bf87.m3u8
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[SD]lala tv
 https://stream1.freetv.fun/a653d81aa02d62125bc5e152aaacc75becc778d6cd80fcb70b2c56de4858259a.m3u8
-#EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173901214890_36.png" group-title="Generic",[BD]leipzig fernsehen (1080p)
-https://stream1.freetv.fun/11a55727ff4d320d324cf9f8f08e19ff1866710edde8e8c65ebb34ba585a810b.m3u8
 #EXTINF:-1 tvg-name="Leiria TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/28/20180128085536646872_39.jpg" group-title="Generic",[HD]leral tv
 https://stream1.freetv.fun/9a075fb764557c80ffc3fd9e525a795c7ee01f38ccd995e0b7d5f690ca60210e.m3u8
 #EXTINF:-1 tvg-name="Lifetime" tvg-id="8713" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/05/20/large/20150520014423841535_64.png" group-title="Entertainment",[BD]lifetime
@@ -2413,8 +2411,8 @@ https://stream1.freetv.fun/1ca1818decc9a2c1392b45aab62c69d846ddec92b639423b840e7
 https://stream1.freetv.fun/8feac0b6972f6a6ebb9ec9e2e44e3ad93fd44eff11d9c97d067b0c4fa65cbb23.ctv
 #EXTINF:-1 tvg-name="SIC" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124043016139600_57.jpg" group-title="Generic",[HD]sic
 https://stream1.freetv.fun/a322f4f4fbcbb04f8b2e9b7058bbdd808d0b0eb927c47c01fb7e66ba8359e76b.m3u8
-#EXTINF:-1 tvg-name="SIC Notícias" tvg-id="8579" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125082825701876_63.png" group-title="News",[BD]sic notícias
-https://stream1.freetv.fun/4e6f7ab2b3c1fcbddab4927ef63190e2e2fac402dec5abfcaeea21fb59a3936c.m3u8
+#EXTINF:-1 tvg-name="SIC Notícias" tvg-id="8579" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125082825701876_63.png" group-title="News",[BD]sic noticias
+https://stream1.freetv.fun/657f4a9441dd5c2131621b4c0923a0143273cc92b30b7f86bbb2b4b6d59542e2.m3u8
 #EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="Sports",[HD]sky bundesliga 5
 https://stream1.freetv.fun/e573a62240d5c4370610fcd8a047a20293ffc39e44538aa99e1f2f5472360cb8.ctv
 #EXTINF:-1 tvg-name="SKY Cinema Thriller" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817145317304738_63.jpg" group-title="Movies",[HD]vf thriller
