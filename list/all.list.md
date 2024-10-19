@@ -649,7 +649,7 @@
 | 643 | [SD]gulli | stream1.freetv.fun | <https://stream1.freetv.fun/eb0577ecb3910f57041cdec0ab9e80eae6b56503b578899c44e3d5a82944bc0c.m3u8> |
 | 644 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 645 | [BD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/848af9bf8e4dc87a07a536087742ffd755c42c5fe434495ebc72d94eccfce04d.m3u8> |
-| 646 | [SD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv> |
+| 646 | [HD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/2d8c821a9e8108176cb77480b848b450f2b55bb5acbafb3497fc9c2157bac73f.m3u8> |
 | 647 | [HD]hbo 2 | stream1.freetv.fun | <https://stream1.freetv.fun/cdf62fe1971d0d7f812d839d603e58e6766d7adb963d1825f723cba96c711e31.m3u8> |
 | 648 | [HD]hbo 2 east | stream1.freetv.fun | <https://stream1.freetv.fun/087d248e94f8a576549db80cb255b528a18fe539f1be4705970d320eb63f6484.m3u8> |
 | 649 | [HD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
@@ -913,7 +913,7 @@
 | 907 | [HD]kbc-premium | stream1.freetv.fun | <https://stream1.freetv.fun/69e3c020548ed364616c3a1e87f226a13d82d918bb3d49edea7c9a2514d8209a.m3u8> |
 | 908 | [HD]nba tv | stream1.freetv.fun | <https://stream1.freetv.fun/3925ae0efbedb5860be0c6f5ed7cb1875529f4f97ace42bf2dac6ef282dc90e4.ctv> |
 | 909 | [SD]binbaz tv | stream1.freetv.fun | <https://stream1.freetv.fun/adad5823e0e6e2ef6659680f202bae82b233212495e17f68bbef2920d20341e6.m3u8> |
-| 910 | [HD]usa nba | stream1.freetv.fun | <https://stream1.freetv.fun/e6626e2cbbaa382a63813aa7d2784478d46f6404f95c8ec3d44fe39e60d4acf2.ctv> |
+| 910 | [BD]wnba | stream1.freetv.fun | <https://stream1.freetv.fun/2f44f74d88852e6e3d503fe07142ecdbd829ef4a29d9248ef492b84fdd476e1d.m3u8> |
 | 911 | [HD]nbc | stream1.freetv.fun | <https://stream1.freetv.fun/ef2104154f6b1d1047c2b6cfd2286c9adbe86b22da7e2aaa919c2720bbde02c9.m3u8> |
 | 912 | [HD]nbc news | stream1.freetv.fun | <https://stream1.freetv.fun/9a10856c148696fc41f3e111e2d74a2f7474fce5ac972a37521806dcab83a248.m3u8> |
 | 913 | [HD]news now | stream1.freetv.fun | <https://stream1.freetv.fun/5d1912673cf279d6671be832db357089373d9194f955419101301d858faa34d6.m3u8> |
@@ -1023,7 +1023,7 @@
 | 1017 | [BD]outdoor channel hd | stream1.freetv.fun | <https://stream1.freetv.fun/afd282557048fa69a70e3b522fd97a51fd5d8eacc6709a5a402b05bec7839497.m3u8> |
 | 1018 | [BD]outside tv | stream1.freetv.fun | <https://stream1.freetv.fun/0a03922d987842b88cd40f372c728e0094c0d929917d070287764613820d3fef.m3u8> |
 | 1019 | [HD]oxygen tv | stream1.freetv.fun | <https://stream1.freetv.fun/ba90c8cc282bf9771f5c31f12c3946de3f72f3ef5f5e10dd60541806d846ed76.m3u8> |
-| 1020 | [VGA]paramount | stream1.freetv.fun | <https://stream1.freetv.fun/6378a35cc4034e94bd910c5db3c9c40292e77643b1cd3d5fd9de1f76bb45359d.m3u8> |
+| 1020 | [BD]paramount | stream1.freetv.fun | <https://stream1.freetv.fun/6378a35cc4034e94bd910c5db3c9c40292e77643b1cd3d5fd9de1f76bb45359d.m3u8> |
 | 1021 | [BD]美国测试pbs kids | stream1.freetv.fun | <https://stream1.freetv.fun/ce71902614703853ccacea6a5df22b69acad82ad9ff19a7c755c321a66c9f715.ctv> |
 | 1022 | [SD]space tv | stream1.freetv.fun | <https://stream1.freetv.fun/cb7e87472c690442f35a78a6fa80ee3cf94482c9d4e6cfc1caa658eb05062db4.m3u8> |
 | 1023 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
@@ -2222,4 +2222,4 @@
 | 2216 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2217 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Sat Oct 19 2024 02:25:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 19 2024 04:04:35 GMT+0000 (Coordinated Universal Time)**
