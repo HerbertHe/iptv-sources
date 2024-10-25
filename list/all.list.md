@@ -367,7 +367,7 @@
 | 361 | [HD]csi | stream1.freetv.fun | <https://stream1.freetv.fun/fcc7d0d06f119edaef69d58d7f729976de4de86d65539e5ac02d73c4fabeab4a.m3u8> |
 | 362 | [HD]ctni | stream1.freetv.fun | <https://stream1.freetv.fun/28ba3839bf40232186d94b85e725b6ed32491b5f91d1f417198cc9095fc27879.m3u8> |
 | 363 | [BD]cts기독교tv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/7120551ca3569275b349b49f8f4a0f6bb85ad1c60f0695e55c0579964de3f967.m3u8> |
-| 364 | [HD]ctv 9 | stream1.freetv.fun | <https://stream1.freetv.fun/2f0f5a0b5a695422ebd28f433f35a0d22ac9be272902dbe88b3cb47658c50f1d.m3u8> |
+| 364 | [HD]actv | stream1.freetv.fun | <https://stream1.freetv.fun/5cade55c82449972da12b1879d3341cd3222ae20decf4b3ccb909026e7617261.m3u8> |
 | 365 | [HD]ctv8 | stream1.freetv.fun | <https://stream1.freetv.fun/9a74734fa840d34d89592a81b1c0e3d9566aea3035f600b27bc5bb9ac6820d19.m3u8> |
 | 366 | [HD]cw | stream1.freetv.fun | <https://stream1.freetv.fun/bafe651ef076d0d9d16e55f43bfc635184c20eba38eecd2fe7fe9e3bb22e4e03.m3u8> |
 | 367 | [HD]cmc california music channel | stream1.freetv.fun | <https://stream1.freetv.fun/3f94ebee705d2e74672d68aa8efe2c6d65e8634bb6090692acc81416fef134dc.m3u8> |
@@ -2258,4 +2258,4 @@
 | 2252 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2253 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Fri Oct 25 2024 02:27:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 25 2024 04:05:16 GMT+0000 (Coordinated Universal Time)**
