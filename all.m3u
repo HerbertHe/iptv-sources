@@ -1136,7 +1136,7 @@ https://stream1.freetv.fun/826e221d44cd91c6bd72b4afae37af838c2798f0349b879b61b37
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="10816" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[SD]fuji tv
 https://stream1.freetv.fun/21a2a0dc11bf533a5657e61837e7f0a8bfed1d1ee1f0969e8a757ec354019804.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="8691" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001608560661_60.png" group-title="Movies",[HD]fx
-https://stream1.freetv.fun/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41ae9678.m3u8
+https://stream1.freetv.fun/64da5171173e734e92815741c915e8ade9ba3a738c7464dda1dcdb35a62ba0ed.m3u8
 #EXTINF:-1 tvg-name="FXM" tvg-id="8700" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820223056445249_30.jpg" group-title="Movies",[HD]fxm en
 https://stream1.freetv.fun/423bce30333a84ccc7137b299156f78b824e650f7a6b9fdf8fdd980aeb7fd962.m3u8
 #EXTINF:-1 tvg-name="Family Gekijo" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/25/20171125145547268071_70.jpg" group-title="Movies",[SD]ช่อง family gekijo
@@ -1429,7 +1429,7 @@ https://stream1.freetv.fun/dd925ee71079882b712f0a49e027df54e4f9bade18dd236493e0b
 https://stream1.freetv.fun/64d1e2e1fe52f85871c959725fff910a458b2b49ca8f55386697e7cf5f1a9b5a.m3u8
 #EXTINF:-1 tvg-name="ITN SriLanka" tvg-id="" tvg-country="Sri lanka" tvg-language="Tamil" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/19/20150319113422624466_33.jpg" group-title="Generic",[HD]itn
 https://stream1.freetv.fun/f187b95daf2ca97784ea0a1b35a8f44179a29f779957b9fd1b905e6e5b3f3150.m3u8
-#EXTINF:-1 tvg-name="ITV" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/05/21/large/20170521223910040532_53.jpg" group-title="Sports",[VGA]kitv (news)
+#EXTINF:-1 tvg-name="ITV" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/05/21/large/20170521223910040532_53.jpg" group-title="Sports",[HD]kitv (news)
 https://stream1.freetv.fun/4becabb6b634f18cb5d73e12d8dd174c1c5ff6e372ec9e287b81ee3734c13f8c.m3u8
 #EXTINF:-1 tvg-name="Ifilm Arabic" tvg-id="" tvg-country="Iran" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820161950573055_75.jpg" group-title="Generic",[SD]ifilm arabic
 https://stream1.freetv.fun/327805639d3322c8333ecb0389efbba569fa2f8985197b932d962322fe51f2f3.m3u8
@@ -2333,8 +2333,8 @@ https://stream1.freetv.fun/2fa0ac6ab64e8001eaf3caaed5b51f25d3b3fba21ef8374c58977
 https://stream1.freetv.fun/f496d97261b57a99705af1bf22a579b52b182cecb427b82ffdf3f98164bb842a.m3u8
 #EXTINF:-1 tvg-name="SBS Sports" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/11/20170311120137014873_17.jpg" group-title="Sports",[HD]cbs sports
 https://stream1.freetv.fun/5f95815dad0e9a0aae8e7137fbdf73965185676d031a7525a40191acfa5e90b8.m3u8
-#EXTINF:-1 tvg-name="SBT 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716152542688325_76.png" group-title="News",[HD]brt 2
-https://stream1.freetv.fun/4a65d8633f52e2b526ce1109ce5eff20c8314ed12d4699d92283e139fbfc4dfd.m3u8
+#EXTINF:-1 tvg-name="SBT 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716152542688325_76.png" group-title="News",[BD]sbt rj 2
+https://stream1.freetv.fun/0129e1a839381297e23a9d8c76016b4c9d9e50910ff0e08bd37d9598926f4d97.ctv
 #EXTINF:-1 tvg-name="SBT HD" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206154610239662_46.png" group-title="Generic",[BD]sbt sp
 https://stream1.freetv.fun/ac73347307688e36c407022689632c4cf872bd3c3f28ec1c736d38dca36eacd2.m3u8
 #EXTINF:-1 tvg-name="SCH TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220052448942_95.png" group-title="Generic",[HD]src tv (720p)
