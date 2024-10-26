@@ -373,7 +373,7 @@
 | 367 | [BD]西宁新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8> |
 | 368 | [SD]西宁生活 | stream1.freetv.fun | <https://stream1.freetv.fun/dd5254c5a934c3213ca8601bcff5104bdcf96b9900b18f8ef8cbd6e9844dcd49.m3u8> |
 | 369 | [BD]西宁生活服务 | stream1.freetv.fun | <https://stream1.freetv.fun/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8> |
-| 370 | [HD]藏语卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/2d279c39df944424ac6fb99b1063ab7195f045da4a2713aa961eedefd350ca7f.m3u8> |
+| 370 | [SD]藏语卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/fb2f95302f5cc333287a7d446db430905aef6dd9fe00bb49530bcdb682100931.m3u8> |
 | 371 | [SD]西藏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8> |
 | 372 | [BD]贵州卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8> |
 | 373 | [BD]魅力足球 | stream1.freetv.fun | <https://stream1.freetv.fun/c4c0120437ff70a01309d1e652fe96ff0d6043c76e5f61a31ab68dd0ef9a3118.ctv> |
@@ -429,4 +429,4 @@
 | 423 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 424 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sat Oct 26 2024 00:15:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 26 2024 02:24:24 GMT+0000 (Coordinated Universal Time)**
