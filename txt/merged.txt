@@ -12,6 +12,7 @@ Movies,#genre#
 [HD]free_x_tv,https://stream1.freetv.fun/1d6cc071dd89cf8fc22bfd723812763982088c23a56d2a4a53027377a463d30a.m3u8
 [BD]2+2_hd,https://stream1.freetv.fun/07f0045c57a939cd0a34ea3abb0c3c8da7c184b1d65a20cc8378026ccef14ad3.m3u8
 [VGA]kto_(404p)_[not_24/7],https://stream1.freetv.fun/8e1d71f9853d9842510019be8e7a19d9aa7cb06c69ec3769f98b8a4a5f9b5df9.m3u8
+[BD]astro_premier,https://stream1.freetv.fun/9f7cabb60935d10299c97b7a8c039283421d5172819d889d49a6a2a33c5e2fd4.ctv
 [SD]b4u_movies_india,https://stream1.freetv.fun/98677eaf3b3c7611e2d4553feab7592113d74e0f4ab31b299bdbbf664b3bb27d.m3u8
 [HD]bbc_first,https://stream1.freetv.fun/a27e4eeb30c8a78849fbd8711351b672fc65810142c8f8374fd1c62c5979e668.m3u8
 [BD]biz_tv_(1080p),https://stream1.freetv.fun/85baf2190dd35fe7092ec2106ae93b6c50c8d9c060bcfe4b2df4236015784844.m3u8
@@ -662,7 +663,7 @@ Generic,#genre#
 [BD]ishtar_tv,https://stream1.freetv.fun/64d1e2e1fe52f85871c959725fff910a458b2b49ca8f55386697e7cf5f1a9b5a.m3u8
 [HD]itn,https://stream1.freetv.fun/f187b95daf2ca97784ea0a1b35a8f44179a29f779957b9fd1b905e6e5b3f3150.m3u8
 [SD]ifilm_arabic,https://stream1.freetv.fun/327805639d3322c8333ecb0389efbba569fa2f8985197b932d962322fe51f2f3.m3u8
-[SD]indosiar,https://stream1.freetv.fun/a1998d2cb939b260ff569418e4c429d74ea4a2f273d93470dd0eb9d37aadf575.ctv
+[BD]indosiar,https://stream1.freetv.fun/a1998d2cb939b260ff569418e4c429d74ea4a2f273d93470dd0eb9d37aadf575.ctv
 [HD]intermedia_tv,https://stream1.freetv.fun/ba03a0e44008739428f34d26ab35ab08564de6429c58f4cb7b8b7d29fefffb61.m3u8
 [BD]ionian_channel,https://stream1.freetv.fun/d354053c04283187d674ae51895e8a981e7616fc4fbb081ed8cef06299e165d0.m3u8
 [SD]iqra_tv,https://stream1.freetv.fun/0c33f8f84ecfb0256494b3093fed15491d8702b1e4aaf95b3e1213619051249e.m3u8
@@ -2467,7 +2468,7 @@ Test,#genre#
 [SD]丘北新闻综合,https://stream1.freetv.fun/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.ctv
 [HD]湖州新闻,https://stream1.freetv.fun/93a8f902d4259d61908709e5a0d82023c7cfbd9fda734397acd38e5dd1520992.m3u8
-[BD]湛江新闻综合,https://stream1.freetv.fun/fa97c73b5e504785994d622252ed9e2e291ddb2699b9bf36f364d3b23dc2e305.ctv
+[VGA]湛江新闻综合,https://stream1.freetv.fun/fa97c73b5e504785994d622252ed9e2e291ddb2699b9bf36f364d3b23dc2e305.ctv
 [BD]叙州新闻综合,https://stream1.freetv.fun/dd77fc6560a955ead4b6bda2d962c196cd6ca56795161e1680c8336a475bdb0f.m3u8
 [SD]漳浦综合,https://stream1.freetv.fun/ff3549ebf49eb87c7e359aa56d8ad9c10666b06d5be05ec1781068bdc732d745.m3u8
 [BD]济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -2509,7 +2510,7 @@ Test,#genre#
 [BD]双鸭山新闻[ipv6],https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8
 [SD]云南都市,https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8
 [SD]青岛新闻综合[ipv6],https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8
-[BD]韶关新闻综合,https://stream1.freetv.fun/f4d470b373a05112046f675bd0f4b6457f38c8135b18546135060147c7015b23.ctv
+[VGA]韶关新闻综合,https://stream1.freetv.fun/f4d470b373a05112046f675bd0f4b6457f38c8135b18546135060147c7015b23.ctv
 [BD]永城新闻综合频道,https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8
 [SD]丽水新闻,https://stream1.freetv.fun/d5c2af1aa1afa4669a3b2d5428ff2ae26d6444966cdbca4c8afce1e260e5bd5a.ctv
 [BD]黑龙江新闻[ipv6],https://stream1.freetv.fun/ab42a37e36581ba919da225ab42eea2acebe963eed9be5658db2e3c1dc8dbec9.m3u8
@@ -2534,7 +2535,6 @@ Test,#genre#
 [HD]中国教育4[ipv6],https://stream1.freetv.fun/aab825fe0a1a4af68e331abd2d91ee40b7afcfbe7b0ea8fc51fae7950cd64088.m3u8
 [VGA]ebs少儿,https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999a9d411d1cd276e1bc7681.m3u8
 [SD]三沙卫视,https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.ctv
-[BD]中山综合,https://stream1.freetv.fun/efa625b1bf415319af41bd3322180d7fd086c1f42926a8a432de6e4b11dfb444.ctv
 [BD]佛山公共,https://stream1.freetv.fun/a1927962a3982f5f3cddb40b0a6cf7511e4d5fceb5b946e819f2d8d75ba9f638.ctv
 [BD]佛山南海,https://stream1.freetv.fun/b9aaa0ea23f917fc2d0cdc0d3d068c0250870af9a383d75d3669c02a83cee2b3.ctv
 [BD]光山新闻综合频道,https://stream1.freetv.fun/b676d1a7b2ac301238771435abeab4f26298d4819813859e536dd44bb14b6551.m3u8
