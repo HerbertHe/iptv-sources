@@ -21,7 +21,7 @@ Movies,#genre#
 [BD]cctv8[ipv6],https://stream1.freetv.fun/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8
 [BD]cctv第一剧场,https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv
 [HD]chc高清电影,https://stream1.freetv.fun/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e768af8aa8de9e.ctv
-[VGA]chc家庭影院,https://stream1.freetv.fun/4530af99822e82cc20d703812cbe49f98facdf419f9a2196f83bfb7943d6b4cd.ctv
+[BD]chc家庭影院,https://stream1.freetv.fun/4530af99822e82cc20d703812cbe49f98facdf419f9a2196f83bfb7943d6b4cd.ctv
 [BD]chc影迷电影,https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
 [HD]ctv8,https://stream1.freetv.fun/9a74734fa840d34d89592a81b1c0e3d9566aea3035f600b27bc5bb9ac6820d19.m3u8
 [BD]canal_plus,https://stream1.freetv.fun/f6cd3f62a491e818adb58632f17467b44d55c0e377f1be4bce65036e91b57607.ctv
@@ -479,7 +479,7 @@ Entertainment,#genre#
 [HD]mako_24_ערוץ,https://stream1.freetv.fun/55d054cec9c2f7bb10b52deb06beb1405dc6d96a0d3e79fd34e2538243029c9d.m3u8
 [BD]三立都会,https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437f1d8e20b599.m3u8
 [BD]中天娱乐,https://stream1.freetv.fun/6e731a583558b18aeb638aee1225a4c8cdab6f367c51130697829a789f8a6134.m3u8
-[BD]天津文艺,https://stream1.freetv.fun/f621c2251ec34e33ea6301819db20339b7c03d4553656916f37338ebc211c3fb.ctv
+[BD]天津文艺,https://stream1.freetv.fun/40c65a929fd48bb3295878e87ff69cb7d59f42a14dd5164750b0c4006e2f1aeb.ctv
 [BD]安徽体育,https://stream1.freetv.fun/bb475c26ba12c4c641cfdfbe8035be5d3b8be6cf5e2213eb931c4719cc50ef45.m3u8
 [SD]山东综艺,https://stream1.freetv.fun/1d514768bc06c7e3b2f812082f0f89cadfef559f158bd25490af6ef0f107356b.ctv
 [BD]广东综艺,https://stream1.freetv.fun/b7b7c2285fd72753f4b56e81782a342958f2d7183a2d541f9c308705282d72fb.ctv
@@ -1747,9 +1747,9 @@ News,#genre#
 [VGA]台视新闻,https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.ctv
 [BD]合肥新闻,https://stream1.freetv.fun/009308bf4ff056f22afa71c8357cabb37543048af60e63dafc2a48e80b914501.ctv
 [SD]嘉兴新闻,https://stream1.freetv.fun/6c543518fdd8f10ac97f1ed8b34c89cfe69186341ba3b3bcfde56e6e5787c8a5.ctv
-[BD]四川新闻,https://stream1.freetv.fun/f9b2ce5615070b105b34bb55f9422b0c25c0ac5f504f06fbabfffedc1d3f35b3.ctv
+[BD]四川新闻,https://stream1.freetv.fun/5c72646850b6028bf16c76329ccd2cddab6c4cbc4beaa2f7f3a0a77f3c59a638.ctv
 [BD]大立电视,https://stream1.freetv.fun/e430593dd56fde9998d6d4c5598f7b44f146b2907f056112a81a42a34ac4cbc1.m3u8
-[BD]天津新闻,https://stream1.freetv.fun/d1400b1b6e68719a44f9b8451426df09a6d3408f86fb438d2113a9469f66a3ab.ctv
+[BD]天津新闻,https://stream1.freetv.fun/287143737c0fc2429ad15ece8c9475801235d9129a36213ba67028415e7b6e22.ctv
 [HD]东莞新闻综合,https://stream1.freetv.fun/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8
 [BD]广安新闻综合频道,https://stream1.freetv.fun/b778266ea65e9ea74520cfcc77f05280df219c2527795ef56452e8f18294db4c.m3u8
 [VGA]安阳新闻,https://stream1.freetv.fun/354f570ec6eb1743546fe8536f8e228adf293d8c79a7ae5fcc1fa8065faa8a1f.m3u8
@@ -2185,7 +2185,7 @@ Kids,#genre#
 [SD]nickelodeon,https://stream1.freetv.fun/1487da28088e74244ff517f53b1668af3e16cc8b3b0230a16c073c0482139ee4.m3u8
 [BD]nickelodeon_uk,https://stream1.freetv.fun/d3771e91ca9050d68927ae21bf7c35d16d41e55aa1b2fb71f9a09ec396ac9a62.m3u8
 [BD]nicktoons,https://stream1.freetv.fun/8dc637b5292a5f310d596c29c956d5a8f1ffa0e38041ff0dc1f8d75f39e27a09.m3u8
-[HD]美国测试pbs_kids,https://stream1.freetv.fun/ce71902614703853ccacea6a5df22b69acad82ad9ff19a7c755c321a66c9f715.ctv
+[BD]美国测试pbs_kids,https://stream1.freetv.fun/ce71902614703853ccacea6a5df22b69acad82ad9ff19a7c755c321a66c9f715.ctv
 [SD]panda_tv,https://stream1.freetv.fun/1ab19a3539e6325d34be53c8d87dbc7d0ce31a3d0ca4cc5f86558ac7fb7cc3be.m3u8
 [HD]pequeradio_tv「少儿」,https://stream1.freetv.fun/e5f411bc0d5a599d22278edae8c495626e43dbec478b411de9dd1f5eb83e183f.m3u8
 [HD]polo_tv,https://stream1.freetv.fun/2402d00e9546ce5d083cb31bfa079e7bfaa243dc6d3029292a27e990e5122507.m3u8
