@@ -254,7 +254,7 @@
 | 248 | [BD]浙江少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/73a1a9fbf604a312da58f407151a6ea7d272138541882a68be32065573496ff1.m3u8> |
 | 249 | [VGA]浙江教育科技 | stream1.freetv.fun | <https://stream1.freetv.fun/e71cfeb40ef49936c11a2c8edb0c49d02a4190c09409dff75a15fa2699a1ffae.m3u8> |
 | 250 | [VGA]浙江新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a649138959871ee6dbdeb61ecffe86b5b622c61eb435826f2067aa8888619ea4.m3u8> |
-| 251 | [BD]浙江民生 | stream1.freetv.fun | <https://stream1.freetv.fun/f757b62f3e3aa6bd4777bed41f246ea2431ff8fb50c90865fe486ff9380903ce.ctv> |
+| 251 | [BD]浙江民生休闲 | stream1.freetv.fun | <https://stream1.freetv.fun/b1c65e34e364ceac4fe54e33371e7c3e2d616e2096c0e1b8496448d86a4b83f0.ctv> |
 | 252 | [BD]浙江经济 | stream1.freetv.fun | <https://stream1.freetv.fun/4d8b9fe3035f2e18ad4cfd932ed099f54c0bc5196cba62f0bc4c77e3a9bb7a17.m3u8> |
 | 253 | [BD]浙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8> |
 | 254 | [BD]浙江钱江 | stream1.freetv.fun | <https://stream1.freetv.fun/35e853057538ed3689017c3319dc6d72cbec58bf5986ea9a99c2280d87fec98d.m3u8> |
@@ -427,4 +427,4 @@
 | 421 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 422 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Oct 28 2024 20:04:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 28 2024 22:03:42 GMT+0000 (Coordinated Universal Time)**
