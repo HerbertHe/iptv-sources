@@ -610,7 +610,7 @@ Generic,#genre#
 [HD]canal_rural,https://stream1.freetv.fun/83667afff9e53d49ce221fe296ff98cb8db23b8d2a1db0ca668175445ecb46dd.m3u8
 [HD]canale_2,https://stream1.freetv.fun/c43c6c4ff3b83366a9be6dc59f08bb441a56c39aaf947014c55d6ccc8348642c.m3u8
 [HD]canale_7,https://stream1.freetv.fun/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1d6248a68c1b.m3u8
-[BD]central_tv,https://stream1.freetv.fun/c614a7a7051509ea953a471d875a219d6d3e68511147a1ebd519d0f151bd0c11.m3u8
+[HD]central_tv,https://stream1.freetv.fun/0e8cf66f64f582a831d2f92125e164ffc4e3d17afe51e8c20432423bded1ef12.m3u8
 [VGA]aus-channel_33_melobourne,https://stream1.freetv.fun/f93fdf50fe457ccd284d0c89b3c601a9bd94e5edb9ccfc6b56016b990f3ef67a.m3u8
 [BD]dc_council_channel,https://stream1.freetv.fun/dd81fa293161561165301927731fa9510c695b4b2ed9b05b6c8cdccec9984dd0.m3u8
 [HD]iman_tv,https://stream1.freetv.fun/2a8f8cf33201c6a85870a78c9178e50750f1a1e7a7f6028cdd120305681a3f2f.m3u8
@@ -1331,7 +1331,6 @@ Other,#genre#
 [HD]sl_one,https://stream1.freetv.fun/74d8608723cd5bc0fc234ef76b5dfd9b34df7fb6c02b3cbf18de9fdfebc22978.m3u8
 [HD]bcu_кинозал_premiere_3_hd,https://stream1.freetv.fun/7469889bdcbe4efb6b888d48c97ed1c2ab8d4fb64b0687a4e682e1b35945e561.m3u8
 [HD]bcu_кинозал_premiere_2_hd,https://stream1.freetv.fun/9784ad9ae716fbaa7c8015662e5aa88498e7f75bc0508bf9470140e03468ffbf.m3u8
-[BD]ontv,https://stream1.freetv.fun/791fc21bfa9a3d77df1ad5e694bb691095f44880dda949c1c50818bb5aa13b39.m3u8
 [BD]pet_club_tv,https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
 [BD]plovdivska_pravoslavna_tv,https://stream1.freetv.fun/83388ee7d175f763059233b8950585a2d8c528af52eb56c285fb1ca5923d56df.m3u8
 [HD]japan_hdv,https://stream1.freetv.fun/9b87f8450b0ddfbb0e587c02a0128e1255a1ac8da4876d08d8df4e574a2a6fa4.m3u8
@@ -1443,7 +1442,7 @@ Other,#genre#
 [VGA]新乡县电视台,https://stream1.freetv.fun/6cc7c99efefc3de2dcee1a92628db8facaf5ec8ccf3f2e36496cf3f412499a9f.m3u8
 [BD]亚洲卫视,https://stream1.freetv.fun/9b76ea2344e9add33d27b06fcec84015f4aec3bfb9662be24880df82c51c9143.m3u8
 [SD]枣庄教育,https://stream1.freetv.fun/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8
-[VGA]武汉外语频道,https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8
+[HD]武汉外语频道,https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8
 [HD]武汉教育,https://stream1.freetv.fun/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
 [HD]武汉生活,https://stream1.freetv.fun/18f7c26b70e5295cc8dc8fad6efd8a9eeae913b6befe7ecdc13b0c4e2038bf11.m3u8
 [HD]民视旅游,https://stream1.freetv.fun/744614a8f371a51a9e5bcbe0b7298e2107162fcb88942e539829e0ee594aa61a.ctv
@@ -1608,7 +1607,7 @@ News,#genre#
 [HD]ast_tv,https://stream1.freetv.fun/50561a2552f85260933e32e04b2f50773543ce4a4b289d0674bb740438ce6908.m3u8
 [HD]metv,https://stream1.freetv.fun/750a4499a171fb7b75743cc2949ca71db1d2e040cba673038220efaf1e492928.m3u8
 [HD]ewtn_asia-pacific,https://stream1.freetv.fun/83278b6d7813a4bb5e25b2073b8014be7fde7c11f9291605b3b7820113e695e2.m3u8
-[VGA]etv2_(720p),https://stream1.freetv.fun/3e2dbc154bc22a259a4c5a258b94814c225177247b57b8610fd29d553ff5b3b4.m3u8
+[HD]etv2_(720p),https://stream1.freetv.fun/3e2dbc154bc22a259a4c5a258b94814c225177247b57b8610fd29d553ff5b3b4.m3u8
 [BD]eagle_news_hd,https://stream1.freetv.fun/33590a142ecc9196b162855a94de1af438247c393bb6789e05b683d4fb275010.m3u8
 [BD]al_ekhbariya_(1080p),https://stream1.freetv.fun/42ebd307a46e4537cdaa8275e6cd5c1efbf876c6934eb1d9dd03ef49dee0a11d.m3u8
 [BD]pro_tv_news_(1080p),https://stream1.freetv.fun/ad3458a7730205e492d0bd0fefe005ceeaf73e74e91afa3611dd8236634339af.m3u8
@@ -1701,7 +1700,7 @@ News,#genre#
 [BD]rudaw,https://stream1.freetv.fun/21afab78acb058d9cb1ce54004208dd5787c5869db84005b1834f3f26f2a2ccc.m3u8
 [BD]russia_today,https://stream1.freetv.fun/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
 [VGA]rustavi_2,https://stream1.freetv.fun/6a34674790b4aae12be456faf68e33f19fd9099434d2a5b4d3503899483682c2.m3u8
-[BD]ryan_and_friends,https://stream1.freetv.fun/9ee5f21963fb8b484ff6aa95209bb95a17b0ac7678817b507fa904353c5c35ce.m3u8
+[HD]ryan_and_friends,https://stream1.freetv.fun/9ee5f21963fb8b484ff6aa95209bb95a17b0ac7678817b507fa904353c5c35ce.m3u8
 [HD]24_tv,https://stream1.freetv.fun/dd1d131b205c9bc6f273f759af896cd083b5140fe3a8d3431664c9ba32a5b8e3.m3u8
 [VGA]sama_tv,https://stream1.freetv.fun/fab3daa787ec5eb505242fa3c39006968e1c20d99ca6fcae805144960a5b5979.m3u8
 [HD]sbt_rj_2,https://stream1.freetv.fun/0129e1a839381297e23a9d8c76016b4c9d9e50910ff0e08bd37d9598926f4d97.ctv
@@ -1968,7 +1967,7 @@ Sports,#genre#
 [HD]fightbox,https://stream1.freetv.fun/b3779157e3db57fb54cff8337c02fa757f6f11fbfceff51441b3a9e7de7f8a38.m3u8
 [HD]match!_football_2_hd,https://stream1.freetv.fun/dbadd06c2ef0c03833a0365d32b4209b4e061ae0ddc9c96d137c45551537c594.m3u8
 [HD]fox_sports_1,https://stream1.freetv.fun/cb8ac4259b8a7d19f09a31233d5f97cb19eed53e33484c7c24abb3575b51c602.ctv
-[HD]pluto_tv_game_show_central_(480p),https://stream1.freetv.fun/a9c65fbee3c9c6229f5cb6d014bce712ba1a024b5770cbd2a967975a565d9a04.m3u8
+[SD]pluto_tv_game_show_central_(480p),https://stream1.freetv.fun/a9c65fbee3c9c6229f5cb6d014bce712ba1a024b5770cbd2a967975a565d9a04.m3u8
 [SD]ช่อง_gaora_sports,https://stream1.freetv.fun/41e332267a3c1a2733368e0cdf5bc6b17db205634eb06d570e79685327ca1088.m3u8
 [HD]one_golf,https://stream1.freetv.fun/d90b53812cd1e317f6f5af702186de83ff557d5017a251510f12c96090bd7e0e.m3u8
 [HD]lol!_network,https://stream1.freetv.fun/176f7abc2c19bf378252d1a965f12cfeff6617d720524c912f2cbfa9739a772c.m3u8
@@ -1977,12 +1976,13 @@ Sports,#genre#
 [VGA]god_tv_africa,https://stream1.freetv.fun/3d50f6219a895b74a262e895ad4603d9437d32f03231c1b5601874fbde6871d4.m3u8
 [BD]htv_the_thao,https://stream1.freetv.fun/09ac145af1a53d4bbaf04969f9375182954d3264be254addc2c7255500ae3361.m3u8
 [HD]ช่อง_horse_and_country,https://stream1.freetv.fun/98cf2f34227b4791009af41499ed931656b1f7542c5b329ca6d9432421b2a0e7.m3u8
-[VGA]kitv_(news),https://stream1.freetv.fun/4becabb6b634f18cb5d73e12d8dd174c1c5ff6e372ec9e287b81ee3734c13f8c.m3u8
+[HD]kitv_(news),https://stream1.freetv.fun/4becabb6b634f18cb5d73e12d8dd174c1c5ff6e372ec9e287b81ee3734c13f8c.m3u8
 [SD]jsports_1,https://stream1.freetv.fun/f63077b62062d29e7cc00ecb2288c9e91b749e96237d2582a666529ee1c70b43.m3u8
 [HD]sports_grid_2,https://stream1.freetv.fun/0cc0567f454b855e8090656139c96069cfbdf097e3536ea9ccdafc3959983211.m3u8
 [SD]ช่อง_j_sports_4,https://stream1.freetv.fun/7f1506471ffd7dc672ffdb6709a5a1330149232bed25611017e18a8aff7b8e22.m3u8
 [HD]root_sports_plus,https://stream1.freetv.fun/b3fab85ada4c4b44589c2f14a19baef627370f4fc444c2755c4726be1427d0dc.ctv
 [HD]xy_plus_1,https://stream1.freetv.fun/2fee94175fbe4ab10a97934549055361ba5030d2ab2434494c838f8ad34a7068.m3u8
+[VGA]kbs_life,https://stream1.freetv.fun/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
 [BD]l'equipe_live_2,https://stream1.freetv.fun/5ef65e35ce4b7b9766a8b38e55029eaae6af2accbab849926b11a63c3b4063ba.m3u8
 [BD]mbc_1_(1080p),https://stream1.freetv.fun/fb641906ef09f50a5bac0bcb91d5c253fea6ea371fc7fcd478fa710d8ab94617.m3u8
 [HD]motorvision.tv,https://stream1.freetv.fun/c0c3bf852ce4b0e6f4755d1feb25ccdc53f380960af9c01afd04fd8986459933.m3u8
@@ -2161,7 +2161,7 @@ Kids,#genre#
 [BD]cn卡通,https://stream1.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
 [BD]canal_9,https://stream1.freetv.fun/977759f880c79f063739523f85eb63ea8e2319e66b8a72ddc412285827b5c0ce.m3u8
 [HD]canal_like,https://stream1.freetv.fun/4ac59f42649a7ecdc40e5223117f8fe35ed2d0ffeb17157f75baeff5fba3ca85.m3u8
-[BD]cartoon_network,https://stream1.freetv.fun/38a77e9bab1e15e7366564f3008c202f3b8bed78613d29a56bae95ba291b1321.m3u8
+[BD]cartoon_network,https://stream1.freetv.fun/d3d1a4fc16aa8e1a25521c5956e394baf8f248ed93a3f7124d40347ab041d964.m3u8
 [VGA]retro_cartoon,https://stream1.freetv.fun/a053c350aa5bd7039c395719379d271b808638d9dd91c431e0c0a2d058423ce1.m3u8
 [BD]koogi_tv,https://stream1.freetv.fun/d1f5e7f1128b411571f1c58dc9870ad02f7531006af2a0f193447012c5194a23.m3u8
 [BD]didiktv_kpm,https://stream1.freetv.fun/7240b77d44f1378dc63ab89484fd949be7a8210a73959c1157e67bab6a92dc08.m3u8
@@ -2280,7 +2280,7 @@ Chile"_tvg-id=""_tvg-country="Chile"_tvg-language="Spanish"_tvg-logo="https://ep
 Chile"_tvg-id=""_tvg-country="Chile"_tvg-language="Spanish"_tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg"_group-title="Entertainment",[HD]tvn_24,https://stream1.freetv.fun/921b6266ea0ad26dc39482c6b055016fe4a674236c8835017ce4c5f1097f05c3.m3u8
 
 Adult,#genre#
-[HD]french_lover,https://stream1.freetv.fun/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8
+[HD]frenchlover,https://stream1.freetv.fun/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8
 [BD]cgntv_japan,https://stream1.freetv.fun/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8
 
 Test,#genre#
@@ -2584,7 +2584,7 @@ Test,#genre#
 [SD]广西国际,https://stream1.freetv.fun/2940479643be94d86a4b4efc7276a4f3032bd59aadff3b7b1bbcd5e05cfdef7f.ctv
 [VGA]新乡县电视台,https://stream1.freetv.fun/6cc7c99efefc3de2dcee1a92628db8facaf5ec8ccf3f2e36496cf3f412499a9f.m3u8
 [SD]枣庄教育,https://stream1.freetv.fun/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8
-[VGA]武汉外语频道,https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8
+[HD]武汉外语频道,https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8
 [HD]武汉教育,https://stream1.freetv.fun/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
 [HD]武汉生活,https://stream1.freetv.fun/18f7c26b70e5295cc8dc8fad6efd8a9eeae913b6befe7ecdc13b0c4e2038bf11.m3u8
 [HD]江西移动电视,https://stream1.freetv.fun/f30d70a12c7ffdb345e3b53f192c39ed87d901be81a12a8e253091ebb110ca1e.ctv
