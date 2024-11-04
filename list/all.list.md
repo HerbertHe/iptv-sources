@@ -635,7 +635,7 @@
 | 629 | [BD]atameken business | stream1.freetv.fun | <https://stream1.freetv.fun/6193ddb8b71b320aa1ce647c65d5e1d1ccbc8f077352201aac22222912c75c99.m3u8> |
 | 630 | [BD]Fox Life | stream1.freetv.fun | <https://stream1.freetv.fun/d0ea9d9a0abfdb9be23fa70e64263287f97f84065c72983cbf0fcf7c6aeddfa9.ctv> |
 | 631 | [BD]fox now | stream1.freetv.fun | <https://stream1.freetv.fun/034d50bcc98fb07abe8bd8d33b9f8f1670da2cf167b6f5c3937997a9e05ea54a.m3u8> |
-| 632 | [HD]fox news channel | stream1.freetv.fun | <https://stream1.freetv.fun/4037f3775664cd2fe28aaf61b9ed6a0588d62805b9b4b388353f383292f3309c.m3u8> |
+| 632 | [HD]ช่อง fox news channel | stream1.freetv.fun | <https://stream1.freetv.fun/13532905bee6be28af5b98f9d1e8ee5bd6c5aeaf15a6b35f4cd4eb24e98716b7.m3u8> |
 | 633 | [HD]fox sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/cb8ac4259b8a7d19f09a31233d5f97cb19eed53e33484c7c24abb3575b51c602.ctv> |
 | 634 | [HD]pluto tv game show central (480p) | stream1.freetv.fun | <https://stream1.freetv.fun/a9c65fbee3c9c6229f5cb6d014bce712ba1a024b5770cbd2a967975a565d9a04.m3u8> |
 | 635 | [HD]fox weather | stream1.freetv.fun | <https://stream1.freetv.fun/8df8e2faf92100ad5594f783260f44d1ba58748fe5b466a3400887a972381eca.m3u8> |
@@ -686,7 +686,7 @@
 | 680 | [BD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/848af9bf8e4dc87a07a536087742ffd755c42c5fe434495ebc72d94eccfce04d.m3u8> |
 | 681 | [SD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv> |
 | 682 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/668b6427919a0315122de7d7038b5df19af365a6b52a012d0fe95069305eead0.ctv> |
-| 683 | [BD]HBO2HDUSA | stream1.freetv.fun | <https://stream1.freetv.fun/defe2f31cb265a5f3ffa84b20c2aa0ded7128fc7585e1cfaf3ca56e046e747c3.ctv> |
+| 683 | [BD]HBO2HDUSA | stream1.freetv.fun | <https://stream1.freetv.fun/e91d528f8c0be8bc70dcca28dd3ccba5eac046f18d7c5c31be72f8ec04b97504.ctv> |
 | 684 | [HD]HBO3 | stream1.freetv.fun | <https://stream1.freetv.fun/65ec56e54adac1d6b82cc9003153391a523a70f5da1b99cddf7a22860b54d784.ctv> |
 | 685 | [BD]HBOCOMEDY | stream1.freetv.fun | <https://stream1.freetv.fun/c13270ce38ab54761f979f9de6ba0f0e322613e54ce8b3794ce370cda8e953de.ctv> |
 | 686 | [HD]hbo 2 east | stream1.freetv.fun | <https://stream1.freetv.fun/3f1cb397a5f371604685e6e47ffd22434f3425ea94c96367cff7eb8ed72134d4.m3u8> |
@@ -1853,7 +1853,7 @@
 | 1847 | [BD]ptsxs小公视1080 | stream1.freetv.fun | <https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8> |
 | 1848 | [HD]公视戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/c3d36762c8981e570c684941922976b7c1d73033e73fcb55cd17acd246c6fc1f.ctv> |
 | 1849 | [SD]兵团卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.ctv> |
-| 1850 | [HD]剧集 | stream1.freetv.fun | <https://stream1.freetv.fun/230260897476b7fa6d7fee5c2d70c0653800da342c8972caeb4cda126e00b22c.ctv> |
+| 1850 | [BD]剧集 | stream1.freetv.fun | <https://stream1.freetv.fun/230260897476b7fa6d7fee5c2d70c0653800da342c8972caeb4cda126e00b22c.ctv> |
 | 1851 | [HD]剧集 | stream1.freetv.fun | <https://stream1.freetv.fun/951736a1c8422926a55eccdc7421499ea16aaa02acebe00a83b1e76229d992aa.ctv> |
 | 1852 | [HD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/145828181728c436be98d67db1031e0e8a7154dfbc7d8357d607be9ad585a268.ctv> |
 | 1853 | [BD]动漫秀场 | stream1.freetv.fun | <https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8> |
@@ -2311,4 +2311,4 @@
 | 2305 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2306 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Nov 03 2024 22:04:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 04 2024 00:16:40 GMT+0000 (Coordinated Universal Time)**
