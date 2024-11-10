@@ -52,7 +52,7 @@
 | 46 | [BD]новий канал hd | stream1.freetv.fun | <https://stream1.freetv.fun/e69f503229197902f10c0d1c08a82eb2d62b0bdf51b657b9197b025f0a91e7d5.m3u8> |
 | 47 | [BD]stars¹ | stream1.freetv.fun | <https://stream1.freetv.fun/9d3001609367c6827e4e3ec4eb32c87f1c4214186b6ad3d96ef99f7c5fcf4f9b.m3u8> |
 | 48 | [SD]video calabria | stream1.freetv.fun | <https://stream1.freetv.fun/abba5925fd3fbf939c90e92f6994430ae175ca748652d783f537975584be58a8.m3u8> |
-| 49 | [BD]8TV MALAYSIA | stream1.freetv.fun | <https://stream1.freetv.fun/aa272e9fde44ab379ce914116247de5e4058b16d81a412138f14bf5cf6d25ea2.ctv> |
+| 49 | [VGA]8TV MALAYSIA | stream1.freetv.fun | <https://stream1.freetv.fun/56b1cf1dccce8f687a0857ea2254706f0dd4c05b7edd4e351c8344029acf4dc2.ctv> |
 | 50 | [SD]9 волна | stream1.freetv.fun | <https://stream1.freetv.fun/c9510f9c84d6933391375a59eeb1f8d1a801fe6e72c359e47acdee9919f5a559.m3u8> |
 | 51 | [HD]tv9 telugu | stream1.freetv.fun | <https://stream1.freetv.fun/1299da931e816f328e8c3f1387a15c537806635227baee5057c0458caa64f61e.m3u8> |
 | 52 | [BD]9x jalwa | stream1.freetv.fun | <https://stream1.freetv.fun/f53a88cc9103373bf7d70e6eab36c4ab53ee7ae6e7810aa95e92dce823a448ae.m3u8> |
@@ -105,7 +105,7 @@
 | 99 | [SD]antv | stream1.freetv.fun | <https://stream1.freetv.fun/4e1746c2be2bd1bd1259efe1d6cc15ce71a3fe2360101c9a79e54b0fb99d7bad.m3u8> |
 | 100 | [SD]ANTV | stream1.freetv.fun | <https://stream1.freetv.fun/3988ed8711b3e00be6b8c5db9e5569fc5133440b2990b5b4217f639cd1c713a5.ctv> |
 | 101 | [VGA]arte | stream1.freetv.fun | <https://stream1.freetv.fun/d7d0ad4874aee62da5532c76b814fb5be5fa608ed908fe3ee27025dde854812e.ctv> |
-| 102 | [HD]ASSP3 | stream1.freetv.fun | <https://stream1.freetv.fun/6b430989827c3b92794fafd69fd5cb5ae4215c80ca3b945ea3971593609e36d1.ctv> |
+| 102 | [HD]ASSP3 | stream1.freetv.fun | <https://stream1.freetv.fun/ad003ee8a2a8a14983a99ec0144b8f4bd342338fed0bdecc2f55cea3ecf8abe6.ctv> |
 | 103 | [BD]masn | stream1.freetv.fun | <https://stream1.freetv.fun/ad57bf5142ed012e0136c81607b6c5ed5f54f381cc9e760b2e8e78e67a1d3481.ctv> |
 | 104 | [HD]ASSP | stream1.freetv.fun | <https://stream1.freetv.fun/c20982c0e1c6818acd3cabd019fe3019a4e15ddd4ce2ad3edf785759282099a9.ctv> |
 | 105 | [SD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/79ed227da666cf1af52ea52be629d58ffd112b0769cc9a9ab174f52b367a4481.ctv> |
@@ -507,7 +507,7 @@
 | 501 | [HD]DISNEY CHANNEL | stream1.freetv.fun | <https://stream1.freetv.fun/e36307be32394a644f075d507f84c83026415de39c4eb4c8750e356d40b53a48.ctv> |
 | 502 | [VGA]disney channel pl | stream1.freetv.fun | <https://stream1.freetv.fun/e4ca4a58f110cb7b6a4ab8fbec48072ca30cd5d1a45865fac411528672d6ab0a.ctv> |
 | 503 | [HD]DISNEY JR | stream1.freetv.fun | <https://stream1.freetv.fun/d9ca22eab919dfdde95120b6a92049aafc03be49c00588f83e0f3c3812b313c1.ctv> |
-| 504 | [HD]disney junior | stream1.freetv.fun | <https://stream1.freetv.fun/be2313633074cc4ce87854509449c7001695359ce391d9a8e8a8940489c41cdb.m3u8> |
+| 504 | [HD]disney junior | stream1.freetv.fun | <https://stream1.freetv.fun/286c4440ba7949441700e218a7f0cb6f492ae26a7fb9f85269da6cb1e8656d7c.m3u8> |
 | 505 | [HD]DISNEY JUNIOR | stream1.freetv.fun | <https://stream1.freetv.fun/a40bd27747a4d190c57ce4a51ccf065940f18758f433f635758e0f92b4f1fccc.ctv> |
 | 506 | [HD]disney xd | stream1.freetv.fun | <https://stream1.freetv.fun/a7c0a32f424450ca2f3ad7c6237c94fa6c61e1e81d1d5baf34f9c4d72e9c27e7.m3u8> |
 | 507 | [SD]disney xd | stream1.freetv.fun | <https://stream1.freetv.fun/adad6bf7d4754358ec680e62efafbc95d2c2a8735117bbdddc291d2bce075249.ctv> |
@@ -2287,4 +2287,4 @@
 | 2281 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2282 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Nov 10 2024 14:03:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 10 2024 16:04:14 GMT+0000 (Coordinated Universal Time)**
