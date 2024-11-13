@@ -1057,7 +1057,7 @@
 | 1051 | [BD]outside tv | stream1.freetv.fun | <https://stream1.freetv.fun/0a03922d987842b88cd40f372c728e0094c0d929917d070287764613820d3fef.m3u8> |
 | 1052 | [HD]oxygen tv | stream1.freetv.fun | <https://stream1.freetv.fun/ba90c8cc282bf9771f5c31f12c3946de3f72f3ef5f5e10dd60541806d846ed76.m3u8> |
 | 1053 | [HD]paramount | stream1.freetv.fun | <https://stream1.freetv.fun/5dbfa351d0af7f63a0dc2def23fe4b73ad7fb43396826ceb7f4060d5806eb149.m3u8> |
-| 1054 | [HD]美国测试pbs kids | stream1.freetv.fun | <https://stream1.freetv.fun/ce71902614703853ccacea6a5df22b69acad82ad9ff19a7c755c321a66c9f715.ctv> |
+| 1054 | [SD]wbra pbs kids | stream1.freetv.fun | <https://stream1.freetv.fun/7804fe413e03eb89b269fcbf753b255f2f193937b95379aded5d28be419f4a0a.m3u8> |
 | 1055 | [SD]space tv | stream1.freetv.fun | <https://stream1.freetv.fun/cb7e87472c690442f35a78a6fa80ee3cf94482c9d4e6cfc1caa658eb05062db4.m3u8> |
 | 1056 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 1057 | [BD]plovdivska pravoslavna tv | stream1.freetv.fun | <https://stream1.freetv.fun/83388ee7d175f763059233b8950585a2d8c528af52eb56c285fb1ca5923d56df.m3u8> |
@@ -2273,4 +2273,4 @@
 | 2267 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2268 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Nov 13 2024 06:05:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 13 2024 08:05:15 GMT+0000 (Coordinated Universal Time)**
