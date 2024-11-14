@@ -314,7 +314,7 @@
 | 308 | [BD]福建经济 | stream1.freetv.fun | <https://stream1.freetv.fun/9e755fee77706286f398aa6f8863813a4096398d39cbdae9be064a38bc5ced00.m3u8> |
 | 309 | [BD]福建综合 | stream1.freetv.fun | <https://stream1.freetv.fun/462526e5fc19b430f682480695dceed32e02a3179c267fc479867ee6ae7747ec.m3u8> |
 | 310 | [BD]福建电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/9dfd84ae9f8ab252dff2526c8f7836a72710ae25b14b6dc980230cb268ff7f46.m3u8> |
-| 311 | [BD]第一财经[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.ctv> |
+| 311 | [BD]第一财经[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8> |
 | 312 | [BD]纪实人文 | stream1.freetv.fun | <https://stream1.freetv.fun/9aefe8160883bf123f5eabef2745dff8aa16306485eea46e47c1653b0f45c886.ctv> |
 | 313 | [HD]绍兴公共频道 | stream1.freetv.fun | <https://stream1.freetv.fun/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 314 | [HD]绍兴文化影院 | stream1.freetv.fun | <https://stream1.freetv.fun/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
@@ -384,4 +384,4 @@
 | 378 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 379 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Thu Nov 14 2024 16:04:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 14 2024 18:05:09 GMT+0000 (Coordinated Universal Time)**
