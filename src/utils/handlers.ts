@@ -57,7 +57,7 @@ export const get_rollback_urls = () => {
 
 export const get_github_raw_proxy_url = () => {
     const custom = process.env.CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL
-    return !!custom ? custom : `https://ghproxy.net`
+    return !!custom ? custom : `https://ghp.ci`
 }
 
 export const replace_github_raw_proxy_url = (s: string) => {

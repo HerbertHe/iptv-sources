@@ -47,7 +47,7 @@ See <https://m3u.ibert.me> to get more.
 # add custom github raw source proxy url
 # The custom proxy service you configured MUST supports the request urls, like `${CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL}/https://raw.githubusercontent.com/xxx/xxx`
 # If you want to deploy the ghproxy by yourself, see https://github.com/hunshcn/gh-proxy
-# CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL=https://ghproxy.net
+# CUSTOM_GITHUB_RAW_SOURCE_PROXY_URL=https://ghp.ci/
 
 # enable iptv checker, default is false
 # ENABLE_IPTV_CHECKER=true
