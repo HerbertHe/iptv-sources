@@ -399,7 +399,7 @@
 | 393 | [HD]canale 7 | stream1.freetv.fun | <https://stream1.freetv.fun/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1d6248a68c1b.m3u8> |
 | 394 | [BD]music | stream1.freetv.fun | <https://stream1.freetv.fun/9026f58f45cabd4929f7436236936adf64fce996e0b14a5368a806703551aa2e.m3u8> |
 | 395 | [VGA]campus tv | stream1.freetv.fun | <https://stream1.freetv.fun/34f9940ca6651acb6d01a9bfc63fa3315cd34d82cd983b192da98fae2a5a28f0.m3u8> |
-| 396 | [HD]cartoon network tr | stream1.freetv.fun | <https://stream1.freetv.fun/51686f039755a4c5fb65fc3298d472b37a34676ee5c04032a5775f37f9340efa.m3u8> |
+| 396 | [SD]cartoon network | stream1.freetv.fun | <https://stream1.freetv.fun/ad6c22c4cce666a7a26c11b329c04a47cdbe9947b2fd0873454d785f36ded886.ctv> |
 | 397 | [VGA]retro cartoon | stream1.freetv.fun | <https://stream1.freetv.fun/a053c350aa5bd7039c395719379d271b808638d9dd91c431e0c0a2d058423ce1.m3u8> |
 | 398 | [SD]cartoonito | stream1.freetv.fun | <https://stream1.freetv.fun/ce3c36e26b271ec3eec66e5ce3654131daccaa61330884872d80643247729433.ctv> |
 | 399 | [SD]celestial movies | stream1.freetv.fun | <https://stream1.freetv.fun/7f64de3d9f8c00dcd496a9e0a490f0a9d1bf1d26a0250a7d6f68be646f83a2a5.ctv> |
@@ -2190,4 +2190,4 @@
 | 2184 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2185 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Nov 15 2024 10:07:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 15 2024 12:06:35 GMT+0000 (Coordinated Universal Time)**

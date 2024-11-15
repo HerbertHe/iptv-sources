@@ -789,8 +789,8 @@ https://stream1.freetv.fun/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1
 https://stream1.freetv.fun/9026f58f45cabd4929f7436236936adf64fce996e0b14a5368a806703551aa2e.m3u8
 #EXTINF:-1 tvg-name="Capul TV" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523220041863275_32.jpg" group-title="Entertainment",[VGA]campus tv
 https://stream1.freetv.fun/34f9940ca6651acb6d01a9bfc63fa3315cd34d82cd983b192da98fae2a5a28f0.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="8494" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="Kids",[HD]cartoon network tr
-https://stream1.freetv.fun/51686f039755a4c5fb65fc3298d472b37a34676ee5c04032a5775f37f9340efa.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="8494" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="Kids",[SD]cartoon network
+https://stream1.freetv.fun/ad6c22c4cce666a7a26c11b329c04a47cdbe9947b2fd0873454d785f36ded886.ctv
 #EXTINF:-1 tvg-name="Cartoon Nitro" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519060914687800_16.png" group-title="Kids",[VGA]retro cartoon
 https://stream1.freetv.fun/a053c350aa5bd7039c395719379d271b808638d9dd91c431e0c0a2d058423ce1.m3u8
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215706220661_57.png" group-title="News",[SD]cartoonito
