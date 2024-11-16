@@ -624,7 +624,7 @@
 | 618 | [BD]france 24 4k「v4」 | stream1.freetv.fun | <https://stream1.freetv.fun/ab0514fa31a01e16d3aee3f636034c2e97b5c26574fc17a0352d0d35d543625c.m3u8> |
 | 619 | [BD]franken fernsehen | stream1.freetv.fun | <https://stream1.freetv.fun/44df1eaf6144559bc93a5ba914e95b632af82d4754d6fb6e5224bc9ef57c53d2.m3u8> |
 | 620 | [BD]reforma tv | stream1.freetv.fun | <https://stream1.freetv.fun/6e819514346672260dfe2661fa52fff5815e6bcc891f1d6240afe746bb8e9ed8.m3u8> |
-| 621 | [HD]french lover | stream1.freetv.fun | <https://stream1.freetv.fun/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
+| 621 | [HD]frenchlover | stream1.freetv.fun | <https://stream1.freetv.fun/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8> |
 | 622 | [VGA]rise tv | stream1.freetv.fun | <https://stream1.freetv.fun/fc500508637e1d81767ffb19c1d667cd6d1a637d3681e503f2fb51826d1cec3d.m3u8> |
 | 623 | [HD]sky high future hd | stream1.freetv.fun | <https://stream1.freetv.fun/195157f69c5b92fd38fd9c157b0cb6923d42215a099e41f47ca59fac98dcf8f0.m3u8> |
 | 624 | [BD]FYI | stream1.freetv.fun | <https://stream1.freetv.fun/d0adcbd4a690cce3e7dbeea80ccafbdb819945bfbd3f89c4122037e796abedb9.ctv> |
@@ -2239,4 +2239,4 @@
 | 2233 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2234 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Nov 16 2024 04:04:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 16 2024 06:05:18 GMT+0000 (Coordinated Universal Time)**
