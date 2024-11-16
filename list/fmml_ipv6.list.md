@@ -143,4 +143,4 @@
 | 137 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 138 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Sat Nov 16 2024 14:04:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 16 2024 16:04:15 GMT+0000 (Coordinated Universal Time)**
