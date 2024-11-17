@@ -25,7 +25,7 @@
 | 19 | [BD]cctv4-国际 | stream1.freetv.fun | <https://stream1.freetv.fun/aba3c9a29ade43d86e82a5c68d4fd05b0625e3a161dec8d6f2e600f6e24def54.m3u8> |
 | 20 | [BD]cctv-4 中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/b52036a96ef70a56f316bcf39390fb09543ef28c1f80b051d8d05255ace6bce5.m3u8> |
 | 21 | [HD]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/023d797cfd30a8db9a44d7035ae9a25794d83f1b00ac6017c708ceb4871194b6.m3u8> |
-| 22 | [BD]cctv5[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/dd322290645e66fb4f8300b55e4f514a18aad16aa8734bbb37af994da6620a24.m3u8> |
+| 22 | [BD]cctv5[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/6377510fdeea9d525ff8638849bb8166e38d87928614eb4f21cf24fcf5e42b54.m3u8> |
 | 23 | [BD]cctv5[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/a0a25022e2b5d668273dff5dacdc93d7aa6f5d034bc8dc0c28f37146467ab654.m3u8> |
 | 24 | [BD]CCTV5[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e38952ac99520c72833b3fc60ec1552d35fb77a3f2ec8830c77fa3b26639287c.m3u8> |
 | 25 | [BD]cctv5 plus[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/2e8689323e52e4ec6e81d841ca896be35176372a6d9659185068546585e8dbd5.m3u8> |
@@ -378,4 +378,4 @@
 | 372 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 373 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sun Nov 17 2024 18:06:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 17 2024 20:04:48 GMT+0000 (Coordinated Universal Time)**
