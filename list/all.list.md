@@ -1552,7 +1552,7 @@
 | 1546 | [HD]tooncast | stream1.freetv.fun | <https://stream1.freetv.fun/ce954321c928b159f44b0cd04b54a1b4e2776a9575889153cdeadf075de45327.ctv> |
 | 1547 | [BD]rakuten top movies uk | stream1.freetv.fun | <https://stream1.freetv.fun/eeaea828f9d8b147192da9347d5c000791b464ee9457eff4d5e53c55b8fc2d28.m3u8> |
 | 1548 | [BD]toyor aljanah | stream1.freetv.fun | <https://stream1.freetv.fun/a28eba5adffb67bab46e0d22ff9257833ce252b19a3995c7f745cd7bad6d2e85.ctv> |
-| 1549 | [HD]true african (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/3390feaa27449c0f9873439ccb3f2e40f277b1efaa01b870963c39ae7fea03a9.m3u8> |
+| 1549 | [VGA]true african (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/3390feaa27449c0f9873439ccb3f2e40f277b1efaa01b870963c39ae7fea03a9.m3u8> |
 | 1550 | [BD]trace sport stars | stream1.freetv.fun | <https://stream1.freetv.fun/96fe92536ccba4facd03ed8e987e8f759f751c0963ab2294a5bcc21bc757edd8.m3u8> |
 | 1551 | [BD]trace sports stars | stream1.freetv.fun | <https://stream1.freetv.fun/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8> |
 | 1552 | [HD]trace urban | stream1.freetv.fun | <https://stream1.freetv.fun/850c2e6f5d08b6e588a8ca01747a0ea922f26437353b9f6b34288db43116b4af.m3u8> |
@@ -2268,4 +2268,4 @@
 | 2262 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2263 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Nov 20 2024 06:05:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 20 2024 08:05:33 GMT+0000 (Coordinated Universal Time)**
