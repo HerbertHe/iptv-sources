@@ -148,7 +148,7 @@
 | 142 | [BD]sharqiya from kalba hd | stream1.freetv.fun | <https://stream1.freetv.fun/3e4da36939bdeb2f54e8aec534e1058e6df1b6fa1d75c416b189ea2e84b53cd1.ctv> |
 | 143 | [BD]salam | stream1.freetv.fun | <https://stream1.freetv.fun/f19a84142f4f91610da52e633dbcff747eb894046b4e4ac9a1b9895321b6d04a.ctv> |
 | 144 | [HD]aleph news | stream1.freetv.fun | <https://stream1.freetv.fun/908dbbe962a2f7c8a630b3d844b3406d8ec8de28ec4e1703d6c538570e628748.m3u8> |
-| 145 | [BD]2+2 hd | stream1.freetv.fun | <https://stream1.freetv.fun/07f0045c57a939cd0a34ea3abb0c3c8da7c184b1d65a20cc8378026ccef14ad3.m3u8> |
+| 145 | [BD]cinema hd | stream1.freetv.fun | <https://stream1.freetv.fun/04bbc79af90fdea63c4f4557d4e9810d7df53d9525cf22356a28248dc7557e6f.m3u8> |
 | 146 | [SD]al istiqama tv (576p) | stream1.freetv.fun | <https://stream1.freetv.fun/b3762cd19a95a578a7c8f1a47e5913e22ccdda35a27acd653e0181742723f1a0.m3u8> |
 | 147 | [BD]sports tv | stream1.freetv.fun | <https://stream1.freetv.fun/4c976c9bf22c5d06a0fc9f7076743352d7054f64dd8b831b9158db92763c9bb3.m3u8> |
 | 148 | [BD]amedia premium | stream1.freetv.fun | <https://stream1.freetv.fun/3929f9546c7a8b87916a2dc3249f6c0f04d059376254ea5e549f422e6f476460.m3u8> |
@@ -618,7 +618,7 @@
 | 612 | [BD]atameken business | stream1.freetv.fun | <https://stream1.freetv.fun/6193ddb8b71b320aa1ce647c65d5e1d1ccbc8f077352201aac22222912c75c99.m3u8> |
 | 613 | [SD]foxnews（美国） | stream1.freetv.fun | <https://stream1.freetv.fun/06f4514eadcfbf49a562c47e2133623e2ca74af174171fc4150d20855da961c2.m3u8> |
 | 614 | [HD]FOX NEWS | stream1.freetv.fun | <https://stream1.freetv.fun/c55b7b37c157d33a4aebceeffe14bcfcb388a07538669e5a3c2127bed45fb3d7.ctv> |
-| 615 | [HD]fox sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/8ad045860c27937ea51c9e445ee19109fe1cc6055d76af17b4dffd7931a946b8.m3u8> |
+| 615 | [HD]fox sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/cb8ac4259b8a7d19f09a31233d5f97cb19eed53e33484c7c24abb3575b51c602.ctv> |
 | 616 | [HD]pluto tv game show central (480p) | stream1.freetv.fun | <https://stream1.freetv.fun/a9c65fbee3c9c6229f5cb6d014bce712ba1a024b5770cbd2a967975a565d9a04.m3u8> |
 | 617 | [HD]fox weather | stream1.freetv.fun | <https://stream1.freetv.fun/8df8e2faf92100ad5594f783260f44d1ba58748fe5b466a3400887a972381eca.m3u8> |
 | 618 | [BD]france 24 en | stream1.freetv.fun | <https://stream1.freetv.fun/d64083cd648eefa273d0e41ea7e1062d426bb5df36f5bab531fb0a21aa85f154.m3u8> |
@@ -2236,4 +2236,4 @@
 | 2230 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2231 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Nov 24 2024 10:04:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 24 2024 12:06:42 GMT+0000 (Coordinated Universal Time)**
