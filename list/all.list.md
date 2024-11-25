@@ -480,7 +480,7 @@
 | 474 | [HD]tv diario | stream1.freetv.fun | <https://stream1.freetv.fun/48ec3d736708755ce9ea873fb95e3d694930ec1e6050f16f49cf6453156de709.ctv> |
 | 475 | [HD]nm television | stream1.freetv.fun | <https://stream1.freetv.fun/9fba43fbb922a9f00add78b988f280d39275d947224ec2c471d7252671f9222a.m3u8> |
 | 476 | [BD]didiktv kpm | stream1.freetv.fun | <https://stream1.freetv.fun/7240b77d44f1378dc63ab89484fd949be7a8210a73959c1157e67bab6a92dc08.m3u8> |
-| 477 | [SD]digi 24 | stream1.freetv.fun | <https://stream1.freetv.fun/a4fc9ce1bf5764e5b56b2a6d96b185e12ab8aa74b6c4d7606d50242caa4af3d4.m3u8> |
+| 477 | [HD]digi 24 | stream1.freetv.fun | <https://stream1.freetv.fun/a4fc9ce1bf5764e5b56b2a6d96b185e12ab8aa74b6c4d7606d50242caa4af3d4.m3u8> |
 | 478 | [BD]dijlah tv hd | stream1.freetv.fun | <https://stream1.freetv.fun/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv> |
 | 479 | [HD]wion news | stream1.freetv.fun | <https://stream1.freetv.fun/a846f11a73f15778b855f58e5db1b2a19da702dc9c72193b4b71bc3d59ebceb1.m3u8> |
 | 480 | [BD]discovery asia | stream1.freetv.fun | <https://stream1.freetv.fun/ce3ead1104ba665822969381a25359cdfced1e173755c14e8a8969991e8a11ef.m3u8> |
@@ -1034,7 +1034,7 @@
 | 1028 | [HD]paramount | stream1.freetv.fun | <https://stream1.freetv.fun/5dbfa351d0af7f63a0dc2def23fe4b73ad7fb43396826ceb7f4060d5806eb149.m3u8> |
 | 1029 | [SD]wbra pbs kids | stream1.freetv.fun | <https://stream1.freetv.fun/7804fe413e03eb89b269fcbf753b255f2f193937b95379aded5d28be419f4a0a.m3u8> |
 | 1030 | [SD]space tv | stream1.freetv.fun | <https://stream1.freetv.fun/cb7e87472c690442f35a78a6fa80ee3cf94482c9d4e6cfc1caa658eb05062db4.m3u8> |
-| 1031 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
+| 1031 | [HD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 1032 | [BD]plovdivska pravoslavna tv | stream1.freetv.fun | <https://stream1.freetv.fun/83388ee7d175f763059233b8950585a2d8c528af52eb56c285fb1ca5923d56df.m3u8> |
 | 1033 | [HD]pop tv | stream1.freetv.fun | <https://stream1.freetv.fun/e70a93e7f5ae088ad47a8ee508f429150109cebe7d83b078f31dcdae5ff0c705.m3u8> |
 | 1034 | [BD]powertürk | stream1.freetv.fun | <https://stream1.freetv.fun/7abca11dc4e2fd2219516bce5cab1da58b3aa0c7b49b356c90d4798795a6a683.m3u8> |
@@ -1582,7 +1582,7 @@
 | 1576 | [HD]polsat viasat nature | stream1.freetv.fun | <https://stream1.freetv.fun/4a2ddd56d7c76624c1f8788adb364104ea68406fae10e6f2f2bbad4833f363ca.m3u8> |
 | 1577 | [HD]video star tv sicilia | stream1.freetv.fun | <https://stream1.freetv.fun/de5227218c62086e5df2f3e81457cd86176e39132fb50fadb57bc1ba12661c7c.m3u8> |
 | 1578 | [HD]tv 4 | stream1.freetv.fun | <https://stream1.freetv.fun/68603825f1373e9b1ee72711fcf734a6b31fc18ba8d073a954cac2b4d3d38125.m3u8> |
-| 1579 | [BD]swr 3 visual radio (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/68db7842909f3ae10e14cb0ad22ad3ecd4d5a36bc506a763e5a809164dc453fe.m3u8> |
+| 1579 | [SD]swr 3 visual radio (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/68db7842909f3ae10e14cb0ad22ad3ecd4d5a36bc506a763e5a809164dc453fe.m3u8> |
 | 1580 | [BD]viu tv 99 | stream1.freetv.fun | <https://stream1.freetv.fun/1a0c9c111971137f31bcb0c16389f85bbcbfd2a930a11f7195e18455cb9ccd58.m3u8> |
 | 1581 | [BD]viutv | stream1.freetv.fun | <https://stream1.freetv.fun/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.ctv> |
 | 1582 | [BD]viutv six | stream1.freetv.fun | <https://stream1.freetv.fun/7f71cfd34d3898e540e676497ad918627c4c477f7119498ca0fb738e03b5e945.ctv> |
@@ -2225,4 +2225,4 @@
 | 2219 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2220 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Nov 25 2024 12:31:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 25 2024 14:15:29 GMT+0000 (Coordinated Universal Time)**
