@@ -1,6 +1,6 @@
 {
   "name": "iptv-sources",
-  "version": "1.6.1",
+  "version": "1.6.5",
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
@@ -20,25 +20,25 @@
     "push": "yarn release && git push && yarn docker:build"
   },
   "devDependencies": {
-    "@rollup/wasm-node": "^4.13.0",
+    "@rollup/wasm-node": "4.20.0",
     "@types/koa": "^2.15.0",
     "@types/koa-router": "^7.4.8",
-    "@types/koa-static": "^4.0.4",
-    "@types/markdown-it": "^13.0.7",
-    "@types/node": "^20.11.30",
-    "@types/opencc-js": "^1.0.3",
+    "@types/koa-static": "4.0.4",
+    "@types/markdown-it": "14.1.2",
+    "@types/node": "22.2.0",
+    "@types/opencc-js": "1.0.3",
     "cross-env": "^7.0.3",
-    "nodemon": "^3.1.0",
-    "tsup": "^8.0.2",
-    "typescript": "^5.4.3"
+    "nodemon": "^3.1.4",
+    "tsup": "8.2.4",
+    "typescript": "5.5.4"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "koa": "^2.15.2",
-    "koa-router": "^12.0.1",
-    "koa-static": "^5.0.0",
-    "markdown-it": "^14.1.0",
-    "opencc-js": "^1.0.5"
+    "koa": "2.15.3",
+    "koa-router": "12.0.1",
+    "koa-static": "5.0.0",
+    "markdown-it": "14.1.0",
+    "opencc-js": "1.0.5"
   },
   "resolutions": {
     "rollup": "npm:@rollup/wasm-node"

@@ -56,7 +56,7 @@ export const updateEPGByRollback = async (
     const rollback_urls = get_rollback_urls()
     try {
         const now = hrtime.bigint()
-        const res = await fetch(`${rollback_urls[idx]}/${sr.f_name}.xml`)
+        const res = await fetch(`${rollback_urls[idx]}/epg/${sr.f_name}.xml`)
         if (res.ok) {
             console.log(
                 `Fetch EPG from ${sr.name} with ROLLBACK from ${
