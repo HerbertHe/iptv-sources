@@ -996,7 +996,7 @@
 | 990 | [HD]notele | stream1.freetv.fun | <https://stream1.freetv.fun/f92910f777af0ca2272df8f6b285eb6c158e24310b4e47b99ad83a94185d345c.m3u8> |
 | 991 | [HD]sports 2 | stream1.freetv.fun | <https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8034d3383cf5.m3u8> |
 | 992 | [BD]axs tv now (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8> |
-| 993 | [VGA]globo rj 2 | stream1.freetv.fun | <https://stream1.freetv.fun/07ca569a9fd1a32a9b9184c0060c3af2c6ac205618234f1729ecbd067d8df6b9.ctv> |
+| 993 | [HD]globo rj | stream1.freetv.fun | <https://stream1.freetv.fun/13f25e3b9f3ddd37998780477f7c2250cfa0b511afe4a76302309f8ce985d5f9.ctv> |
 | 994 | [HD]vos tv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8> |
 | 995 | [BD]on movies | stream1.freetv.fun | <https://stream1.freetv.fun/69386ffa4af2a8910dd07a3fef498c30da008736fc1c553604464cc7977dd4a4.ctv> |
 | 996 | [BD]德国 ok dessau | stream1.freetv.fun | <https://stream1.freetv.fun/f8971072c48052bd340770c0ac5d58e2dcdedb3a360a20914e17600d4a60b56a.m3u8> |
@@ -2189,4 +2189,4 @@
 | 2183 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2184 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Nov 30 2024 16:04:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 30 2024 18:15:21 GMT+0000 (Coordinated Universal Time)**
