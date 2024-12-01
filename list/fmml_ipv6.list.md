@@ -143,24 +143,32 @@
 | 137 | 东方财经 | IPv6 直链 | <http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=> |
 | 138 | 法治天地 | IPv6 直链 | <http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=> |
 | 139 | 第一财经 | IPv6 直链 | <http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281> |
-| 140 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800> |
-| 141 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800> |
-| 142 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800> |
-| 143 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800> |
-| 144 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800> |
-| 145 | 蒙语卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880> |
-| 146 | 蒙语文化 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800> |
-| 147 | 呼市新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800> |
-| 148 | 包头新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800> |
-| 149 | 鄂尔多斯新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800> |
-| 150 | 巴彦淖尔新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800> |
-| 151 | 赤峰新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800> |
-| 152 | 乌兰察布新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800> |
-| 153 | CGTN英语 | 0472.org | <https://0472.org/hls/cgtn.m3u8> |
-| 154 | CGTN记录 | 0472.org | <https://0472.org/hls/cgtnd.m3u8> |
-| 155 | CGTN俄语 | 0472.org | <https://0472.org/hls/cgtne.m3u8> |
-| 156 | CGTN法语 | 0472.org | <https://0472.org/hls/cgtnf.m3u8> |
-| 157 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
-| 158 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
+| 140 | 浙江新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
+| 141 | 浙江国际 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
+| 142 | 浙江少儿 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
+| 143 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 144 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 145 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 146 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 147 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 148 | 内蒙新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800> |
+| 149 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800> |
+| 150 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800> |
+| 151 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800> |
+| 152 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800> |
+| 153 | 蒙语卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880> |
+| 154 | 蒙语文化 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800> |
+| 155 | 呼市新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800> |
+| 156 | 包头新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800> |
+| 157 | 鄂尔多斯新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800> |
+| 158 | 巴彦淖尔新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800> |
+| 159 | 赤峰新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800> |
+| 160 | 乌兰察布新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800> |
+| 161 | CGTN英语 | 0472.org | <https://0472.org/hls/cgtn.m3u8> |
+| 162 | CGTN记录 | 0472.org | <https://0472.org/hls/cgtnd.m3u8> |
+| 163 | CGTN俄语 | 0472.org | <https://0472.org/hls/cgtne.m3u8> |
+| 164 | CGTN法语 | 0472.org | <https://0472.org/hls/cgtnf.m3u8> |
+| 165 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
+| 166 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Sun Dec 01 2024 12:06:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 01 2024 14:03:52 GMT+0000 (Coordinated Universal Time)**
