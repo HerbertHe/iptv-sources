@@ -5186,7 +5186,7 @@
 | 5180 | N4 (360p) [Not 24/7] | web.sats.gstv.tech | <https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8> |
 | 5181 | N24 Doku | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab> |
 | 5182 | n TV (US Eastern) (720p) [Not 24/7] | a.jsrdn.com | <https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8> |
-| 5183 | Nabaa TV (720p) [Not 24/7] | IPv4 直链 | <http://31.14.40.237:1935/live/Nabaa/playlist.m3u8> |
+| 5183 | Nabaa TV (720p) [Not 24/7] | 655ca86f46b1f.streamlock.net | <https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8> |
 | 5184 | Nablus TV (720p) [Not 24/7] | htvmada.mada.ps:8888 | <http://htvmada.mada.ps:8888/nabluslive/index.m3u8> |
 | 5185 | Nacional Tv Peru | s1.tvdatta.com:3349 | <https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8> |
 | 5186 | NACTV (720p) [Not 24/7] | stream.pivotalelements.com | <https://stream.pivotalelements.com/nactv/stream.m3u8> |
@@ -10456,4 +10456,4 @@
 | 10450 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10451 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Mon Dec 02 2024 22:04:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 03 2024 00:18:04 GMT+0000 (Coordinated Universal Time)**
