@@ -166,7 +166,7 @@
 | 160 | A2i Naija (720p) [Not 24/7] | stream.sen-gt.com | <https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8> |
 | 161 | A2i Religion (720p) [Not 24/7] | stream.sen-gt.com | <https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8> |
 | 162 | A2i TV (1080p) | stream.sen-gt.com | <https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8> |
-| 163 | A2Z [Not 24/7] | wag.ika.lat | <https://wag.ika.lat/stream/944313137​> |
+| 163 | A2Z (360p) [Not 24/7] | qp-pldt-live-grp-02-prod.akamaized.net | <https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8> |
 | 164 | A7TV (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8> |
 | 165 | A12 TV (720p) | video1.getstreamhosting.com:1936 | <https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8> |
 | 166 | A21 VITAL AUTOSPORT [Not 24/7] | autopilot.catcast.tv | <https://autopilot.catcast.tv/content/37909/index.m3u8> |
@@ -10456,4 +10456,4 @@
 | 10450 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10451 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Tue Dec 03 2024 22:04:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 04 2024 00:18:42 GMT+0000 (Coordinated Universal Time)**
