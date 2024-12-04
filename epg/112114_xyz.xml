@@ -60,6 +60,12 @@
 	<programme channel="4K综艺" start="20241205030000 +0800" stop="20241205035800 +0800">
 		<title lang="zh">小小的追球20200218</title>
 	</programme>
+	<programme channel="4K综艺" start="20241205035800 +0800" stop="20241205045200 +0800">
+		<title lang="zh">小小的追球20200219</title>
+	</programme>
+	<programme channel="4K综艺" start="20241205045200 +0800" stop="20241205055300 +0800">
+		<title lang="zh">小小的追球20200225</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -4887,6 +4893,99 @@
 	<programme channel="FZTV1" start="20241205232500 +0800" stop="20241205235900 +0800">
 		<title lang="zh">中国城市报道</title>
 	</programme>
+	<channel id="HISTORY">
+		<display-name lang="zh">HISTORY</display-name>
+	</channel>
+	<programme channel="HISTORY" start="20241205004500 +0800" stop="20241205013500 +0800">
+		<title lang="zh">山地硬汉第11季第146集-熊窝</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205013500 +0800" stop="20241205023000 +0800">
+		<title lang="zh">橡树岛的诅咒第11季第15集-瑞克和迫击砲</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205023000 +0800" stop="20241205032500 +0800">
+		<title lang="zh">建构世界的食品第4季第33集-假期解馋好物</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205032500 +0800" stop="20241205035500 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第3集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205035500 +0800" stop="20241205042500 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第4集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205042500 +0800" stop="20241205052000 +0800">
+		<title lang="zh">独行侠第11季第9集-蛀洞</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205052000 +0800" stop="20241205061000 +0800">
+		<title lang="zh">沼泽人类第13季第10集-皮克尔船长</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205061000 +0800" stop="20241205071000 +0800">
+		<title lang="zh">智造冬奥:北京2022第1季第3集-冰寒中的创新</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205071000 +0800" stop="20241205074000 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第3集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205074000 +0800" stop="20241205081000 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第4集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205081000 +0800" stop="20241205090500 +0800">
+		<title lang="zh">独行侠第11季第9集-蛀洞</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205090500 +0800" stop="20241205095500 +0800">
+		<title lang="zh">山地硬汉第11季第146集-熊窝</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205095500 +0800" stop="20241205105500 +0800">
+		<title lang="zh">沼泽人类第13季第10集-皮克尔船长</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205105500 +0800" stop="20241205114500 +0800">
+		<title lang="zh">橡树岛的诅咒第11季第15集-瑞克和迫击砲</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205114500 +0800" stop="20241205124000 +0800">
+		<title lang="zh">建构世界的食品第4季第33集-假期解馋好物</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205124000 +0800" stop="20241205134000 +0800">
+		<title lang="zh">智造冬奥:北京2022第1季第3集-冰寒中的创新</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205134000 +0800" stop="20241205141000 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第3集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205141000 +0800" stop="20241205144000 +0800">
+		<title lang="zh">詹美登普赛带您铁骑寻胜第5季第4集</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205144000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">沼泽人类第13季第10集-皮克尔船长</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205153000 +0800" stop="20241205162000 +0800">
+		<title lang="zh">建构世界的食品第4季第33集-假期解馋好物</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205162000 +0800" stop="20241205171500 +0800">
+		<title lang="zh">独行侠第11季第9集-蛀洞</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205171500 +0800" stop="20241205181000 +0800">
+		<title lang="zh">山地硬汉第11季第146集-熊窝</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205181000 +0800" stop="20241205191000 +0800">
+		<title lang="zh">当铺之星美国游第1集-丹佛淘金热</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205191000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">当铺之星第24季第599集-当铺独立宣言</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">激发力量第3集-光与雷射</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">激发力量第4集-磁铁</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205210000 +0800" stop="20241205215500 +0800">
+		<title lang="zh">千锤百鍊第10季第7集-厨师特别节目</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205215500 +0800" stop="20241205225000 +0800">
+		<title lang="zh">独行侠第11季第10集-独行交响曲</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205225000 +0800" stop="20241205234500 +0800">
+		<title lang="zh">历史重大谜团第3季第2集-迪亚特洛夫事件</title>
+	</programme>
+	<programme channel="HISTORY" start="20241205234500 +0800" stop="20241205003500 +0800">
+		<title lang="zh">沼泽人类:蛇类入侵第3季第12集-疯女人树林</title>
+	</programme>
 	<channel id="HZTV1">
 		<display-name lang="zh">HZTV1</display-name>
 	</channel>
@@ -6069,6 +6168,549 @@
 	<programme channel="NBTV5" start="20241205112200 +0800" stop="20241205235900 +0800">
 		<title lang="zh">偶像独播剧场:两个女人的战争(7)</title>
 	</programme>
+	<channel id="NOW剧集台">
+		<display-name lang="zh">NOW剧集台</display-name>
+	</channel>
+	<programme channel="NOW剧集台" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">无用的谎言第3集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">孝心的家各自为生第66集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">白昼之月第5集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">我的HappyEnd第18集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">优越的一天第1集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">无用的谎言第3集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">孝心的家各自为生第66集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">白昼之月第5集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">我的HappyEnd第18集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">优越的一天第1集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">无用的谎言第3集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">孝心的家各自为生第66集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">白昼之月第5集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">我的HappyEnd第18集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">优越的一天第2集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">无用的谎言第4集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">孝心的家各自为生第66集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">白昼之月第5集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">我的HappyEnd第18集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">优越的一天第2集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">孝心的家各自为生第67集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">白昼之月第6集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">我的HappyEnd第19集</title>
+	</programme>
+	<programme channel="NOW剧集台" start="20241205230000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">优越的一天第2集</title>
+	</programme>
+	<channel id="NOW华剧台">
+		<display-name lang="zh">NOW华剧台</display-name>
+	</channel>
+	<programme channel="NOW华剧台" start="20241205003000 +0800" stop="20241205013000 +0800">
+		<title lang="zh">仙剑四第5集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205013000 +0800" stop="20241205023000 +0800">
+		<title lang="zh">要久久爱第21集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205023000 +0800" stop="20241205033000 +0800">
+		<title lang="zh">斛珠夫人第17集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205033000 +0800" stop="20241205043000 +0800">
+		<title lang="zh">乌鸦小姐与蜥蜴先生第11集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205043000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">要久久爱第21集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205053000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">斛珠夫人第17集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205063000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">长安十二时辰第1集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205073000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">仙剑四第5集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205083000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">斛珠夫人第17集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205093000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">长安十二时辰第1集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205103000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">仙剑四第5集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205113000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">要久久爱第21集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205123000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">斛珠夫人第17集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205133000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">乌鸦小姐与蜥蜴先生第12集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205143000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">长安十二时辰第1集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205153000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">要久久爱第21集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205163000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">仙剑四第5集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205173000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">斛珠夫人第17集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205183000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">乌鸦小姐与蜥蜴先生第12集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205193000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">长安十二时辰第1集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205203000 +0800" stop="20241205213000 +0800">
+		<title lang="zh">仙剑四第6集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205213000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">要久久爱第22集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205223000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">斛珠夫人第18集</title>
+	</programme>
+	<programme channel="NOW华剧台" start="20241205233000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">长安十二时辰第2集</title>
+	</programme>
+	<channel id="NOW影视点播站">
+		<display-name lang="zh">NOW影视点播站</display-name>
+	</channel>
+	<programme channel="NOW影视点播站" start="20241205000000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">老嘢时速现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205020000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">犯罪都市:铁拳清算现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205040000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">犯罪都市:铁拳清算现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205060000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">绝命狂逃现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205080000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">逃出鲨天现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205100000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">老嘢时速现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205120000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">老嘢时速现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205140000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">有诡难言现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205160000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">老嘢时速现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205180000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">逃出鲨天现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205200000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">老嘢时速现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<programme channel="NOW影视点播站" start="20241205220000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">犯罪都市:铁拳清算现已上架,立即到106台即租即睇!</title>
+	</programme>
+	<channel id="NOW爆谷台">
+		<display-name lang="zh">NOW爆谷台</display-name>
+	</channel>
+	<programme channel="NOW爆谷台" start="20241205000000 +0800" stop="20241205013500 +0800">
+		<title lang="zh">每天吓你八小时</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205013500 +0800" stop="20241205030500 +0800">
+		<title lang="zh">妖铃铃</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205030500 +0800" stop="20241205051500 +0800">
+		<title lang="zh">卧底型警FINAL</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205051500 +0800" stop="20241205065000 +0800">
+		<title lang="zh">争气</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205065000 +0800" stop="20241205082500 +0800">
+		<title lang="zh">那件疯狂的小事叫爱情</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205082500 +0800" stop="20241205101000 +0800">
+		<title lang="zh">绝世好宾</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205101000 +0800" stop="20241205122000 +0800">
+		<title lang="zh">孩子转运站</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205122000 +0800" stop="20241205142500 +0800">
+		<title lang="zh">大约在冬季</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205142500 +0800" stop="20241205160500 +0800">
+		<title lang="zh">蜡笔小新剧场版：传说召唤Amigo！森巴入侵计画</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205160500 +0800" stop="20241205175000 +0800">
+		<title lang="zh">明天你是否依然爱我</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205175000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">信用欺诈师JP：公主篇</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205200000 +0800" stop="20241205215000 +0800">
+		<title lang="zh">闪光少女</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205215000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">爆谷电影现场第235集-焚城</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205220000 +0800" stop="20241205234000 +0800">
+		<title lang="zh">报应</title>
+	</programme>
+	<programme channel="NOW爆谷台" start="20241205234000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">初嚟报「导」-卓亦谦</title>
+	</programme>
+	<channel id="NOW爆谷星影台">
+		<display-name lang="zh">NOW爆谷星影台</display-name>
+	</channel>
+	<programme channel="NOW爆谷星影台" start="20241205002500 +0800" stop="20241205020500 +0800">
+		<title lang="zh">开心鬼</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205020500 +0800" stop="20241205034500 +0800">
+		<title lang="zh">精装追女仔3狼之一族</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205034500 +0800" stop="20241205053500 +0800">
+		<title lang="zh">天与地</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205053500 +0800" stop="20241205071500 +0800">
+		<title lang="zh">最佳拍档之女皇密令</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205071500 +0800" stop="20241205090000 +0800">
+		<title lang="zh">警察故事</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205090000 +0800" stop="20241205103500 +0800">
+		<title lang="zh">我爱法拉利</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205103500 +0800" stop="20241205121500 +0800">
+		<title lang="zh">开心鬼</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205121500 +0800" stop="20241205135500 +0800">
+		<title lang="zh">铁马骝II之街头杀手</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205135500 +0800" stop="20241205154000 +0800">
+		<title lang="zh">同居蜜友</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205154000 +0800" stop="20241205173500 +0800">
+		<title lang="zh">烈火战车2极速传说</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205173500 +0800" stop="20241205191500 +0800">
+		<title lang="zh">黄飞鸿系列之一代宗师</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205191500 +0800" stop="20241205210000 +0800">
+		<title lang="zh">西游记之仙履奇缘</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205210000 +0800" stop="20241205224500 +0800">
+		<title lang="zh">最美倩影─王祖贤:合家欢</title>
+	</programme>
+	<programme channel="NOW爆谷星影台" start="20241205224500 +0800" stop="20241205001500 +0800">
+		<title lang="zh">为你锺情</title>
+	</programme>
+	<channel id="NOW直播台">
+		<display-name lang="zh">NOW直播台</display-name>
+	</channel>
+	<programme channel="NOW直播台" start="20241205000000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205003000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205010000 +0800" stop="20241205013000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205013000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205020000 +0800" stop="20241205023000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205030000 +0800" stop="20241205033000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205033000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205040000 +0800" stop="20241205043000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205043000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205050000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205053000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205070000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205073000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205080000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205083000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205100000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205103000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205110000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205123000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205130000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205150000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205153000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205170000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205180000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205210000 +0800" stop="20241205213000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205213000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">时事全方位(精华)</title>
+	</programme>
+	<programme channel="NOW直播台" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">随时直播各类时事新闻及记者会</title>
+	</programme>
+	<channel id="NOW财经台">
+		<display-name lang="zh">NOW财经台</display-name>
+	</channel>
+	<programme channel="NOW财经台" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">港股今日睇-20241204</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">Now财经新闻</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205020000 +0800" stop="20241205023000 +0800">
+		<title lang="zh">楼市每日睇-20241204</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">环球金融快线-20241204</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205030000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">Now财经新闻</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">Now早晨-20241205第一节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">Now早晨-20241205第一节</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205070000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">Now早晨-20241205第二节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205073000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">Now早晨-20241205第二节</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205080000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">Now早晨-20241205第三节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205083000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">Now早晨-20241205第三节</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">牛熊先机-20241205[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205093000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">交易时段-20241205第一节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">交易时段-20241205第二节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">午间股评-20241205[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205123000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">Now午间新闻</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205130000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">交易时段-20241205第三节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">交易时段-20241205第四节[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">收市检讨-20241205[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205170000 +0800" stop="20241205172500 +0800">
+		<title lang="zh">Now新闻报道[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205172500 +0800" stop="20241205173000 +0800">
+		<title lang="zh">世味天下</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205173000 +0800" stop="20241205175500 +0800">
+		<title lang="zh">Now新闻报道</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205175500 +0800" stop="20241205180000 +0800">
+		<title lang="zh">世味天下</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205180000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">Now新闻报道[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">Now新闻报道</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205190000 +0800" stop="20241205192100 +0800">
+		<title lang="zh">Now财经新闻[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205192100 +0800" stop="20241205193000 +0800">
+		<title lang="zh">碳中和</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205193000 +0800" stop="20241205195500 +0800">
+		<title lang="zh">Now新闻报道</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205195500 +0800" stop="20241205200000 +0800">
+		<title lang="zh">世味天下</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205200000 +0800" stop="20241205202100 +0800">
+		<title lang="zh">Now财经新闻</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205202100 +0800" stop="20241205203000 +0800">
+		<title lang="zh">碳中和</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205203000 +0800" stop="20241205205100 +0800">
+		<title lang="zh">Now财经新闻</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205205100 +0800" stop="20241205210000 +0800">
+		<title lang="zh">碳中和</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205210000 +0800" stop="20241205212100 +0800">
+		<title lang="zh">楼市每日睇-20241205</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205212100 +0800" stop="20241205213000 +0800">
+		<title lang="zh">碳中和</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205213000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">港股今日睇-20241205[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">环球金融快线-20241205[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205230000 +0800" stop="20241205232100 +0800">
+		<title lang="zh">Now财经新闻[直播]</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205232100 +0800" stop="20241205233000 +0800">
+		<title lang="zh">碳中和</title>
+	</programme>
+	<programme channel="NOW财经台" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">交易时段精华-20241205</title>
+	</programme>
 	<channel id="QHTV1">
 		<display-name lang="zh">QHTV1</display-name>
 	</channel>
@@ -7104,6 +7746,321 @@
 	<programme channel="SITV14" start="20241205233000 +0800" stop="20241205235900 +0800">
 		<title lang="zh">直击引领区</title>
 	</programme>
+	<channel id="SKYNEWS">
+		<display-name lang="zh">SKYNEWS</display-name>
+	</channel>
+	<programme channel="SKYNEWS" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">SkyNews</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">Breakfast</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">Breakfast</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205070000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205073000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205080000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205083000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">BreakfastWithKayBurley</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205100000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">SkyNewsTodayWithWilfredFrost</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205103000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">SkyNewsTodayWithWilfredFrost</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205110000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">SkyNewsTodayWithWilfredFrost</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">BusinessLive</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">SkyNewsTodayWithJayneSecker</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205123000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">SkyNewsTodayWithSaimaMohsin</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205130000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">SkyNewsTodayWithJayneSecker</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">SkyNewsTodayWithJayneSecker</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">SkyNewsWithKamaliMelbourne</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">SkyNewsWithKamaliMelbourne</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205150000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">SkyNewsWithKamaliMelbourne</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205153000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">SkyNewsWithKamaliMelbourne</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">SkyNewsWithKamaliMelbourne</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">BusinessLive</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205170000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">TheNewsHourWithMarkAustin</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">TheNewsHourWithMarkAustin</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205180000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">TheNewsHourWithMarkAustin</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">TheNewsHourWithMarkAustin</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">PoliticsHubWithSophyRidge</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">PoliticsHubWithSophyRidge</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">UKTonightWithSarah-JaneMee</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">UKTonightWithSarah-JaneMee</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205210000 +0800" stop="20241205213000 +0800">
+		<title lang="zh">TheWorldWithYaldaHakim</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205213000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">TheWorldWithYaldaHakim</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">NewsAt10WithAnnaBotting</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">PressPreview</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205230000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">News&amp;PressPreview</title>
+	</programme>
+	<programme channel="SKYNEWS" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">PressPreview</title>
+	</programme>
+	<channel id="SONYMAX">
+		<display-name lang="zh">SONYMAX</display-name>
+	</channel>
+	<programme channel="SONYMAX" start="20241205015700 +0800" stop="20241205042100 +0800">
+		<title lang="zh">Anita-Anita</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205042100 +0800" stop="20241205051700 +0800">
+		<title lang="zh">ExtraaShotsLudo第1季第1集-ExtraaShotsLudo</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205051700 +0800" stop="20241205053700 +0800">
+		<title lang="zh">TheMaking:Kill/Dil第1季第1集-TheMaking:Kill/Dil</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205053700 +0800" stop="20241205080000 +0800">
+		<title lang="zh">AllTheBest:FunBegins-AllTheBest:FunBegins</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205080000 +0800" stop="20241205081500 +0800">
+		<title lang="zh">ExtraaaStoriez:BhoolBhulaiyaa2-ExtraaaStoriez:BhoolBhulaiyaa2</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205081500 +0800" stop="20241205104700 +0800">
+		<title lang="zh">DedhIshqiya-DedhIshqiya</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205104700 +0800" stop="20241205130700 +0800">
+		<title lang="zh">Chef-Chef</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205130700 +0800" stop="20241205151500 +0800">
+		<title lang="zh">GulaboSitabo-GulaboSitabo</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205151500 +0800" stop="20241205173500 +0800">
+		<title lang="zh">BhoolBhulaiyaa2-BhoolBhulaiyaa2</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205173500 +0800" stop="20241205200000 +0800">
+		<title lang="zh">LadiesVsRickyBahl-LadiesVsRickyBahl</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205200000 +0800" stop="20241205223300 +0800">
+		<title lang="zh">12ThFail-12ThFail</title>
+	</programme>
+	<programme channel="SONYMAX" start="20241205223300 +0800" stop="20241205011200 +0800">
+		<title lang="zh">Pk-Pk</title>
+	</programme>
+	<channel id="SONYSAB">
+		<display-name lang="zh">SONYSAB</display-name>
+	</channel>
+	<programme channel="SONYSAB" start="20241205000000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205003000 +0800" stop="20241205005900 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4258集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205005900 +0800" stop="20241205014100 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205014100 +0800" stop="20241205022300 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205022300 +0800" stop="20241205024700 +0800">
+		<title lang="zh">BadallPePaonHain第1季第151集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205024700 +0800" stop="20241205031100 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4258集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205031100 +0800" stop="20241205033500 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205033500 +0800" stop="20241205041900 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205041900 +0800" stop="20241205045100 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205045100 +0800" stop="20241205051500 +0800">
+		<title lang="zh">AliBabaDastaan-E-Kabul第1季第56集-AliBabaDastaan-E-Kabul</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205051500 +0800" stop="20241205053900 +0800">
+		<title lang="zh">BadallPePaonHain第1季第151集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205053900 +0800" stop="20241205061200 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205061200 +0800" stop="20241205065500 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205065500 +0800" stop="20241205071900 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205071900 +0800" stop="20241205074300 +0800">
+		<title lang="zh">BadallPePaonHain第1季第151集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205074300 +0800" stop="20241205080000 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4258集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205080000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205083000 +0800" stop="20241205091300 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205091300 +0800" stop="20241205093700 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205093700 +0800" stop="20241205101000 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205101000 +0800" stop="20241205103400 +0800">
+		<title lang="zh">AliBabaDastaan-E-Kabul第1季第56集-AliBabaDastaan-E-Kabul</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205103400 +0800" stop="20241205105700 +0800">
+		<title lang="zh">BadallPePaonHain第1季第151集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205105700 +0800" stop="20241205112100 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3189集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205112100 +0800" stop="20241205114500 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3190集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205114500 +0800" stop="20241205120900 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3191集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205120900 +0800" stop="20241205123300 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3192集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205123300 +0800" stop="20241205125900 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3193集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205125900 +0800" stop="20241205133000 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第3194集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205133000 +0800" stop="20241205141300 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205141300 +0800" stop="20241205143700 +0800">
+		<title lang="zh">AliBabaDastaan-E-Kabul第1季第56集-AliBabaDastaan-E-Kabul</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205143700 +0800" stop="20241205150100 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205150100 +0800" stop="20241205153400 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205153400 +0800" stop="20241205155800 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4258集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205155800 +0800" stop="20241205164100 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205164100 +0800" stop="20241205170500 +0800">
+		<title lang="zh">ShrimadRamayan第1季第275集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205170500 +0800" stop="20241205173800 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1148集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205173800 +0800" stop="20241205180200 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4258集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205180200 +0800" stop="20241205183000 +0800">
+		<title lang="zh">BadallPePaonHain第1季第151集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">PushpaImpossible第1季第780集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">AliBabaDastaan-E-Kabul第1季第57集-AliBabaDastaan-E-Kabul</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">BadallPePaonHain第1季第152集-BadallPePaonHain</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">ShrimadRamayan第1季第276集-ShrimadRamayan</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4259集-TaarakMehtaKaOoltahChashmah</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205210000 +0800" stop="20241205214500 +0800">
+		<title lang="zh">WagleKiDuniya第1季第1149集-WagleKiDuniya</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205214500 +0800" stop="20241205223000 +0800">
+		<title lang="zh">PushpaImpossible第1季第781集-PushpaImpossible</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">Aladdin-NaamTohSunaHoga第1季第178集-Aladdin-NaamTohSunaHoga</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205230000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">AliBabaDastaan-E-Kabul第1季第57集-AliBabaDastaan-E-Kabul</title>
+	</programme>
+	<programme channel="SONYSAB" start="20241205233000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">BadallPePaonHain第1季第152集-BadallPePaonHain</title>
+	</programme>
 	<channel id="TVB剧场">
 		<display-name lang="zh">TVB剧场</display-name>
 	</channel>
@@ -7136,6 +8093,105 @@
 	</programme>
 	<programme channel="TVB剧场" start="20241205070400 +0800" stop="20241205075400 +0800">
 		<title lang="zh">《谁是冠军-掼牌精英赛》第51期</title>
+	</programme>
+	<channel id="VIUTVSIX">
+		<display-name lang="zh">VIUTVSIX</display-name>
+	</channel>
+	<programme channel="VIUTVSIX" start="20241205004500 +0800" stop="20241205014500 +0800">
+		<title lang="zh">求爱岛-澳洲篇2第4集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205014500 +0800" stop="20241205021500 +0800">
+		<title lang="zh">苏格兰湖泊深度游2第5集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205021500 +0800" stop="20241205090000 +0800">
+		<title lang="zh">ViuTVsixStationClosingSlate</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">Louie&amp;YokoBuild第20集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205093000 +0800" stop="20241205094500 +0800">
+		<title lang="zh">Pirata&amp;CapitanoS2第13集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205094500 +0800" stop="20241205100000 +0800">
+		<title lang="zh">Pirata&amp;CapitanoS2第14集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">澳洲生态多样睇第1集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">英伦古镇3第1集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">英超故事24/25第26集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205123000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">恩雨之声2024第13集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205130000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">NHKNewsline</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">峇里岛天堂厨房第8集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">爸妈又恋嚟第7集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205150000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">AlJazeeraNewsLive</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205153000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">Trollstopia第37集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">DWNews</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">Louie&amp;YokoBuild第21集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205170000 +0800" stop="20241205171500 +0800">
+		<title lang="zh">Pirata&amp;CapitanoS2第15集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205171500 +0800" stop="20241205173000 +0800">
+		<title lang="zh">Pirata&amp;CapitanoS2第16集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205173000 +0800" stop="20241205174500 +0800">
+		<title lang="zh">Briko第7集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205174500 +0800" stop="20241205180000 +0800">
+		<title lang="zh">Briko第8集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205180000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">DWEveningNews</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205183000 +0800" stop="20241205184500 +0800">
+		<title lang="zh">TheFixiesS8第5集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205184500 +0800" stop="20241205190000 +0800">
+		<title lang="zh">TheFixiesS8第6集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205190000 +0800" stop="20241205191500 +0800">
+		<title lang="zh">ViuTVNews</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205191500 +0800" stop="20241205193000 +0800">
+		<title lang="zh">EdmondandLucy第3集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">SpongeBobSquarePantsS13第2集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">浪游挪威第5集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205203000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">香港设计中心呈献:设计营商周2024：融/滙设计：承传与创新第2集</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205223000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">征服风之国</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205233000 +0800" stop="20241205234500 +0800">
+		<title lang="zh">ViuTVNews</title>
+	</programme>
+	<programme channel="VIUTVSIX" start="20241205234500 +0800" stop="20241205004500 +0800">
+		<title lang="zh">朱古力魔法擂台4第1集</title>
 	</programme>
 	<channel id="WZTV1">
 		<display-name lang="zh">WZTV1</display-name>
@@ -8234,6 +9290,162 @@
 	</programme>
 	<programme channel="东方卫视" start="20241205233200 +0800" stop="20241205235900 +0800">
 		<title lang="zh">下一站(155):大城市里的小艺术家</title>
+	</programme>
+	<channel id="东森亚洲卫视">
+		<display-name lang="zh">东森亚洲卫视</display-name>
+	</channel>
+	<programme channel="东森亚洲卫视" start="20241205000000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">东森育乐新闻-娱乐业的最新新闻。它包括来自世界各地的最新名人新闻。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205003000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">东森城市新闻-来自亚洲和世界主要城市的最新新闻。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">医师好辣第1373集-让医师团队告诉你最正确的医学资讯!</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">请问今晚住谁家第407集-真人打工旅游实境节目,每趟旅程由窦智孔、王传一分别领军艺人来宾组成的「型男打工团」,一起结伴远离都市尘嚣,探访最疗愈的乡间秘境。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">小姐不熙娣第163集-由娱乐圈最具女王气势之艺人小S徐熙娣主持,搭档幽默风趣的助理主持人派翠克,每集邀请多位时下最红、最具话题性之艺人及网红上节目,透过小S深厚及麻辣</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">梦想街57号-预约你的梦想第1587集-更专业、更丰富、更多元化的车款资讯,分享给观众。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">哈囉你有事吗?第192集-见多识广老司机沈玉琳Vs.古灵精怪新人类曾智希。说没事的,都很有事!说有事的,没事找事!生活里每件小事都是大事!!!跨世代观点交锋,</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">全民星攻略第929集-益智实境节目,由馆长曾国城担任知识把关者,考验著每个来挑战九宫格益智游戏的艺人明星。想要攻略九宫格关卡,透过创意联想、逻辑推理、理性分析,才有</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">小姐不熙娣第163集-由娱乐圈最具女王气势之艺人小S徐熙娣主持,搭档幽默风趣的助理主持人派翠克,每集邀请多位时下最红、最具话题性之艺人及网红上节目,透过小S深厚及麻辣</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">今晚开讚吧第518集-结合不同族群社团、粉丝团、民调排行榜合作,利用大数据分析,反应市场趋势,精准抓出热门关注话题!从调查结果对号入座,吸引各族群眼光!利用对立激起</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">东森育乐新闻-娱乐业的最新新闻。它包括来自世界各地的最新名人新闻。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">东森城市新闻-来自亚洲和世界主要城市的最新新闻。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">请问今晚住谁家第407集-真人打工旅游实境节目,每趟旅程由窦智孔、王传一分别领军艺人来宾组成的「型男打工团」,一起结伴远离都市尘嚣,探访最疗愈的乡间秘境。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">医师好辣第1374集-让医师团队告诉你最正确的医学资讯!</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">全民星攻略第929集-益智实境节目,由馆长曾国城担任知识把关者,考验著每个来挑战九宫格益智游戏的艺人明星。想要攻略九宫格关卡,透过创意联想、逻辑推理、理性分析,才有</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">今晚开讚吧第518集-结合不同族群社团、粉丝团、民调排行榜合作,利用大数据分析,反应市场趋势,精准抓出热门关注话题!从调查结果对号入座,吸引各族群眼光!利用对立激起</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">哈囉你有事吗?第192集-见多识广老司机沈玉琳Vs.古灵精怪新人类曾智希。说没事的,都很有事!说有事的,没事找事!生活里每件小事都是大事!!!跨世代观点交锋,</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">梦想街57号-预约你的梦想第1587集-更专业、更丰富、更多元化的车款资讯,分享给观众。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">医师好辣第1374集-让医师团队告诉你最正确的医学资讯!</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">请问今晚住谁家第407集-真人打工旅游实境节目,每趟旅程由窦智孔、王传一分别领军艺人来宾组成的「型男打工团」,一起结伴远离都市尘嚣,探访最疗愈的乡间秘境。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">全民星攻略第930集-益智实境节目,由馆长曾国城担任知识把关者,考验著每个来挑战九宫格益智游戏的艺人明星。想要攻略九宫格关卡,透过创意联想、逻辑推理、理性分析,才有</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">今晚开讚吧第519集-结合不同族群社团、粉丝团、民调排行榜合作,利用大数据分析,反应市场趋势,精准抓出热门关注话题!从调查结果对号入座,吸引各族群眼光!利用对立激起</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">哈囉你有事吗?第193集-见多识广老司机沈玉琳Vs.古灵精怪新人类曾智希。说没事的,都很有事!说有事的,没事找事!生活里每件小事都是大事!!!跨世代观点交锋,</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">梦想街57号-预约你的梦想第1588集-更专业、更丰富、更多元化的车款资讯,分享给观众。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">请问今晚住谁家第408集-真人打工旅游实境节目,每趟旅程由窦智孔、王传一分别领军艺人来宾组成的「型男打工团」,一起结伴远离都市尘嚣,探访最疗愈的乡间秘境。</title>
+	</programme>
+	<programme channel="东森亚洲卫视" start="20241205230000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">小姐不熙娣第164集-由娱乐圈最具女王气势之艺人小S徐熙娣主持,搭档幽默风趣的助理主持人派翠克,每集邀请多位时下最红、最具话题性之艺人及网红上节目,透过小S深厚及麻辣</title>
+	</programme>
+	<channel id="东森亚洲新闻台">
+		<display-name lang="zh">东森亚洲新闻台</display-name>
+	</channel>
+	<programme channel="东森亚洲新闻台" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">东森Ez新闻&amp;东森美洲城市新闻</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">台湾东森新闻[直播]</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森亚洲新闻台" start="20241205230000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">关键时刻</title>
 	</programme>
 	<channel id="东莞新闻">
 		<display-name lang="zh">东莞新闻</display-name>
@@ -9384,6 +10596,81 @@
 	<programme channel="中国教育一套" start="20241205233000 +0800" stop="20241205235900 +0800">
 		<title lang="zh">等着我(50)</title>
 	</programme>
+	<channel id="中天亚洲台">
+		<display-name lang="zh">中天亚洲台</display-name>
+	</channel>
+	<programme channel="中天亚洲台" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">主播出任务</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">康熙来了</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">Ss小燕之夜</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">头条开讲</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">头条开讲</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">聚焦新亚洲</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">小明星大跟班</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">中天新闻Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">中天新闻Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">中天新闻Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">Ss小燕之夜</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">大陆寻奇</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">中天新闻Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">聚焦新亚洲Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">大新闻大爆卦Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">大新闻大爆卦Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">小明星大跟班</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">康熙来了</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">中天新闻Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">聚焦新亚洲Live</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">头条开讲</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">头条开讲</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">小明星大跟班</title>
+	</programme>
+	<programme channel="中天亚洲台" start="20241205230000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">全球大视野</title>
+	</programme>
 	<channel id="中天新闻台">
 		<display-name lang="zh">中天新闻台</display-name>
 	</channel>
@@ -10242,6 +11529,81 @@
 	<programme channel="云上电影院" start="20241205233000 +0800" stop="20241205235900 +0800">
 		<title lang="zh">垂帘听政</title>
 	</programme>
+	<channel id="云南公共">
+		<display-name lang="zh">云南公共</display-name>
+	</channel>
+	<programme channel="云南公共" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南公共" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
 	<channel id="云南卫视">
 		<display-name lang="zh">云南卫视</display-name>
 	</channel>
@@ -10331,6 +11693,156 @@
 	</programme>
 	<programme channel="云南卫视" start="20241205235000 +0800" stop="20241205235900 +0800">
 		<title lang="zh">热播剧场</title>
+	</programme>
+	<channel id="云南娱乐">
+		<display-name lang="zh">云南娱乐</display-name>
+	</channel>
+	<programme channel="云南娱乐" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南娱乐" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<channel id="云南少儿">
+		<display-name lang="zh">云南少儿</display-name>
+	</channel>
+	<programme channel="云南少儿" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南少儿" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精彩节目</title>
 	</programme>
 	<channel id="云南康旅">
 		<display-name lang="zh">云南康旅</display-name>
@@ -10479,6 +11991,156 @@
 	<programme channel="云南影视" start="20241205221800 +0800" stop="20241205235900 +0800">
 		<title lang="zh">天下电影</title>
 	</programme>
+	<channel id="云南生活">
+		<display-name lang="zh">云南生活</display-name>
+	</channel>
+	<programme channel="云南生活" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南生活" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<channel id="云南都市">
+		<display-name lang="zh">云南都市</display-name>
+	</channel>
+	<programme channel="云南都市" start="20241205000000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205070000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205080000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205110000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205140000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205160000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205170000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="云南都市" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
 	<channel id="云浮综合">
 		<display-name lang="zh">云浮综合</display-name>
 	</channel>
@@ -10529,6 +12191,72 @@
 	</programme>
 	<programme channel="云浮综合" start="20241205112200 +0800" stop="20241205235900 +0800">
 		<title lang="zh">偶像独播剧场:两个女人的战争(7)</title>
+	</programme>
+	<channel id="亚洲新闻台">
+		<display-name lang="zh">亚洲新闻台</display-name>
+	</channel>
+	<programme channel="亚洲新闻台" start="20241205000000 +0800" stop="20241205000300 +0800">
+		<title lang="zh">HeadlineNews</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205000300 +0800" stop="20241205010000 +0800">
+		<title lang="zh">EastAsiaTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205010000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">TalkingPoint第29集-The'HappyPill':WhatIsItDoingToUs?(ForCnaTelecast[ChannelNewsas</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">SingaporeTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205030000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">StreetsMadeForTalking:TelokAyer第3集-BeyondThe9To5[EnglishSubtitles]</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205040000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">AsiaTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">ForgottenPalate第1集-[EnglishSubtitles]</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">SingaporeTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205070000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">AsiaFirst</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205100000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">ForgottenPalate第1集-[EnglishSubtitles]</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205110000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">AsiaNow</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205130000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">LeadershipUnlimited第2集</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205140000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">AsiaNow</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">InTheGrandstand第2集</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">OnTheRedDot第27集-:FindingAuntie</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205170000 +0800" stop="20241205170200 +0800">
+		<title lang="zh">HeadlineNews</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205170200 +0800" stop="20241205180000 +0800">
+		<title lang="zh">TalkingPoint第29集-The'HappyPill':WhatIsItDoingToUs?(ForCnaTelecast[ChannelNewsas</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205180000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">EastAsiaTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">AsiaTonight</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">Insight第32集</title>
+	</programme>
+	<programme channel="亚洲新闻台" start="20241205220000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">SingaporeTonight</title>
 	</programme>
 	<channel id="优优宝贝">
 		<display-name lang="zh">优优宝贝</display-name>
@@ -12069,6 +13797,498 @@
 	<programme channel="冬奥纪实" start="20241205233500 +0800" stop="20241205000000 +0800">
 		<title lang="zh">奥运赛事剪辑(12)</title>
 	</programme>
+	<channel id="凤凰卫视中文台">
+		<display-name lang="zh">凤凰卫视中文台</display-name>
+	</channel>
+	<programme channel="凤凰卫视中文台" start="20241205000000 +0800" stop="20241205005700 +0800">
+		<title lang="zh">凤凰洲际快车-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205005700 +0800" stop="20241205010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205010000 +0800" stop="20241205013000 +0800">
+		<title lang="zh">有报天天读-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205013000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205020000 +0800" stop="20241205023000 +0800">
+		<title lang="zh">纪录大时代第999集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">亚洲财经透视第761集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205030000 +0800" stop="20241205033000 +0800">
+		<title lang="zh">凤凰冲击播第313集-军情观察室</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205033000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">凤凰聚焦第763集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205040000 +0800" stop="20241205043000 +0800">
+		<title lang="zh">新闻鉴证组第149集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205043000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">凤凰全球连线-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205050000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">有报天天读-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205053000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">发现大湾区第96集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">纪录大时代第999集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">总编辑时间-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205070000 +0800" stop="20241205075700 +0800">
+		<title lang="zh">凤凰早班车-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205075700 +0800" stop="20241205080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205080000 +0800" stop="20241205085700 +0800">
+		<title lang="zh">凤凰早班车-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205085700 +0800" stop="20241205090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">凤凰全球连线-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205100000 +0800" stop="20241205105700 +0800">
+		<title lang="zh">凤凰正点播报1000-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205105700 +0800" stop="20241205110000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205110000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">凤凰聚焦第763集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">有报天天读-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205120000 +0800" stop="20241205125500 +0800">
+		<title lang="zh">凤凰午间专列-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205125500 +0800" stop="20241205130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205130000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">总编辑时间-4/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">名人面对面第402集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">文化大观园第398集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205150000 +0800" stop="20241205155700 +0800">
+		<title lang="zh">凤凰正点播报1500-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205155700 +0800" stop="20241205160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">凤凰冲击播第313集-军情观察室</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">纪录大时代第1000集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205170000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">发现大湾区第96集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">有报天天读-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205180000 +0800" stop="20241205182700 +0800">
+		<title lang="zh">凤凰焦点新闻1800-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205182700 +0800" stop="20241205183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">新闻今日谈-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">亚洲财经透视第762集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">石评天下第83集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">凤凰冲击播第345集-风云对话</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205210000 +0800" stop="20241205215500 +0800">
+		<title lang="zh">时事直通车-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205215500 +0800" stop="20241205220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">凤凰聚焦第764集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">凤凰全球连线-5/12/24</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205230000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">亚洲财经透视第762集</title>
+	</programme>
+	<programme channel="凤凰卫视中文台" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">新闻今日谈-5/12/24</title>
+	</programme>
+	<channel id="凤凰卫视资讯台">
+		<display-name lang="zh">凤凰卫视资讯台</display-name>
+	</channel>
+	<programme channel="凤凰卫视资讯台" start="20241205000000 +0800" stop="20241205005700 +0800">
+		<title lang="zh">凤凰洲际快车</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205005700 +0800" stop="20241205010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205010000 +0800" stop="20241205012700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205012700 +0800" stop="20241205013000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205013000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205020000 +0800" stop="20241205022700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205022700 +0800" stop="20241205023000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205030000 +0800" stop="20241205032700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205032700 +0800" stop="20241205033000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205033000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205040000 +0800" stop="20241205042700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205042700 +0800" stop="20241205043000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205043000 +0800" stop="20241205045700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205045700 +0800" stop="20241205050000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205050000 +0800" stop="20241205052700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205052700 +0800" stop="20241205053000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205053000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205060000 +0800" stop="20241205062700 +0800">
+		<title lang="zh">凤凰正点播报0100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205062700 +0800" stop="20241205063000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205070000 +0800" stop="20241205075700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205075700 +0800" stop="20241205080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205080000 +0800" stop="20241205085700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205085700 +0800" stop="20241205090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205090000 +0800" stop="20241205092700 +0800">
+		<title lang="zh">凤凰正点播报0900</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205092700 +0800" stop="20241205093000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205100000 +0800" stop="20241205105700 +0800">
+		<title lang="zh">凤凰正点播报1000</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205105700 +0800" stop="20241205110000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205110000 +0800" stop="20241205112700 +0800">
+		<title lang="zh">凤凰正点播报1100</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205112700 +0800" stop="20241205113000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205120000 +0800" stop="20241205125500 +0800">
+		<title lang="zh">凤凰午间专列</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205125500 +0800" stop="20241205130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205130000 +0800" stop="20241205132700 +0800">
+		<title lang="zh">凤凰正点播报1300</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205132700 +0800" stop="20241205133000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205140000 +0800" stop="20241205142700 +0800">
+		<title lang="zh">凤凰正点播报1400</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205142700 +0800" stop="20241205143000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205150000 +0800" stop="20241205155700 +0800">
+		<title lang="zh">凤凰正点播报1500</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205155700 +0800" stop="20241205160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205160000 +0800" stop="20241205165700 +0800">
+		<title lang="zh">凤凰正点播报1600</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205165700 +0800" stop="20241205170000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205170000 +0800" stop="20241205172700 +0800">
+		<title lang="zh">凤凰正点播报1700</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205172700 +0800" stop="20241205173000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205180000 +0800" stop="20241205182700 +0800">
+		<title lang="zh">凤凰焦点新闻1800</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205182700 +0800" stop="20241205183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205190000 +0800" stop="20241205195700 +0800">
+		<title lang="zh">华闻大直播</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205195700 +0800" stop="20241205200000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205200000 +0800" stop="20241205202700 +0800">
+		<title lang="zh">凤凰焦点新闻2000</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205202700 +0800" stop="20241205203000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205210000 +0800" stop="20241205215500 +0800">
+		<title lang="zh">时事直通车</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205215500 +0800" stop="20241205220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205230000 +0800" stop="20241205232700 +0800">
+		<title lang="zh">凤凰焦点新闻2300</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205232700 +0800" stop="20241205233000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰卫视资讯台" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<channel id="凤凰卫视香港台">
+		<display-name lang="zh">凤凰卫视香港台</display-name>
+	</channel>
+	<programme channel="凤凰卫视香港台" start="20241205000000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">纪录大时代[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205003000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">新闻今日谈[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205010000 +0800" stop="20241205013000 +0800">
+		<title lang="zh">总编辑时间[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205013000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">时事大破解[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205020000 +0800" stop="20241205023000 +0800">
+		<title lang="zh">凤凰全球连线[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">凤凰大视野[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205030000 +0800" stop="20241205033000 +0800">
+		<title lang="zh">凤凰聚焦[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205033000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">总编辑时间[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205040000 +0800" stop="20241205043000 +0800">
+		<title lang="zh">军情观察室[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205043000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">发现大湾区[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205050000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">时事大破解[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205053000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">纪录大时代[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">新闻鉴证组[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">凤凰大视野[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205070000 +0800" stop="20241205075700 +0800">
+		<title lang="zh">凤凰早班车[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205075700 +0800" stop="20241205080000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205080000 +0800" stop="20241205085700 +0800">
+		<title lang="zh">凤凰早班车[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205085700 +0800" stop="20241205090000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205090000 +0800" stop="20241205093000 +0800">
+		<title lang="zh">总编辑时间[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205093000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">军情观察室[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205100000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">发现大湾区[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205103000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">纪录大时代[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205110000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">时事大破解[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">凤凰聚焦[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205120000 +0800" stop="20241205125500 +0800">
+		<title lang="zh">凤凰午间专列[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205125500 +0800" stop="20241205130000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205130000 +0800" stop="20241205135700 +0800">
+		<title lang="zh">午间快线[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205135700 +0800" stop="20241205140000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">新闻鉴证组[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">军情观察室[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205150000 +0800" stop="20241205153000 +0800">
+		<title lang="zh">发现大湾区[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205153000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">时事大破解[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">凤凰大视野[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">纪录大时代[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205170000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">凤凰聚焦[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">名人面对面[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205180000 +0800" stop="20241205182700 +0800">
+		<title lang="zh">凤凰焦点新闻1800[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205182700 +0800" stop="20241205183000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">新闻今日谈[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205190000 +0800" stop="20241205195700 +0800">
+		<title lang="zh">全球新闻报道[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205195700 +0800" stop="20241205200000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205200000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">时事大破解[粤]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205203000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">香港热厨房[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205210000 +0800" stop="20241205215500 +0800">
+		<title lang="zh">时事直通车[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205215500 +0800" stop="20241205220000 +0800">
+		<title lang="zh">凤凰气象站[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">凤凰大视野[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">凤凰全球连线[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205230000 +0800" stop="20241205233000 +0800">
+		<title lang="zh">筑梦天下[普]</title>
+	</programme>
+	<programme channel="凤凰卫视香港台" start="20241205233000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">凤凰聚焦[普]</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -12437,6 +14657,99 @@
 	</programme>
 	<programme channel="动漫秀场" start="20241205234500 +0800" stop="20241205235900 +0800">
 		<title lang="zh">超变战陀-双甲战陀(13)</title>
+	</programme>
+	<channel id="动物星球">
+		<display-name lang="zh">动物星球</display-name>
+	</channel>
+	<programme channel="动物星球" start="20241205005000 +0800" stop="20241205014500 +0800">
+		<title lang="zh">法兰克的野生非洲第1季第6集</title>
+	</programme>
+	<programme channel="动物星球" start="20241205014500 +0800" stop="20241205024000 +0800">
+		<title lang="zh">狗儿救援迎新生第7季第3集-JailBreak</title>
+	</programme>
+	<programme channel="动物星球" start="20241205024000 +0800" stop="20241205033500 +0800">
+		<title lang="zh">野生动物求生录第1季第1集-地盘</title>
+	</programme>
+	<programme channel="动物星球" start="20241205033500 +0800" stop="20241205043000 +0800">
+		<title lang="zh">沼泽毒害克星第1季第14集-车上有蛇</title>
+	</programme>
+	<programme channel="动物星球" start="20241205043000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">生命的竞赛第1季第4集-草食动物</title>
+	</programme>
+	<programme channel="动物星球" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">法兰克的野生非洲第1季第6集</title>
+	</programme>
+	<programme channel="动物星球" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">百变水族箱第2季第9集-崔西摩根</title>
+	</programme>
+	<programme channel="动物星球" start="20241205070000 +0800" stop="20241205075500 +0800">
+		<title lang="zh">狗儿救援迎新生第7季第3集-JailBreak</title>
+	</programme>
+	<programme channel="动物星球" start="20241205075500 +0800" stop="20241205085000 +0800">
+		<title lang="zh">野生动物求生录第1季第1集-地盘</title>
+	</programme>
+	<programme channel="动物星球" start="20241205085000 +0800" stop="20241205094500 +0800">
+		<title lang="zh">沼泽猎蟒人第1季第14集-蛇类聚集地</title>
+	</programme>
+	<programme channel="动物星球" start="20241205094500 +0800" stop="20241205104000 +0800">
+		<title lang="zh">生物快慢间第1季第3集-东非猎食行动</title>
+	</programme>
+	<programme channel="动物星球" start="20241205104000 +0800" stop="20241205113500 +0800">
+		<title lang="zh">动物神奇时刻</title>
+	</programme>
+	<programme channel="动物星球" start="20241205113500 +0800" stop="20241205123000 +0800">
+		<title lang="zh">野生动物求生录第1季第2集-沟通</title>
+	</programme>
+	<programme channel="动物星球" start="20241205123000 +0800" stop="20241205132500 +0800">
+		<title lang="zh">法兰克的野生非洲第1季第7集</title>
+	</programme>
+	<programme channel="动物星球" start="20241205132500 +0800" stop="20241205142000 +0800">
+		<title lang="zh">沼泽毒害克星第1季第15集-蛇吻孩童</title>
+	</programme>
+	<programme channel="动物星球" start="20241205142000 +0800" stop="20241205144700 +0800">
+		<title lang="zh">ReturnOfTheCheetah</title>
+	</programme>
+	<programme channel="动物星球" start="20241205144700 +0800" stop="20241205151500 +0800">
+		<title lang="zh">珍奇大自然第1季第1集-追逐</title>
+	</programme>
+	<programme channel="动物星球" start="20241205151500 +0800" stop="20241205161000 +0800">
+		<title lang="zh">山怪传说第4季第4集-布恩郡的银色巨熊</title>
+	</programme>
+	<programme channel="动物星球" start="20241205161000 +0800" stop="20241205163700 +0800">
+		<title lang="zh">动物奇门功夫第1季第40集-导航大师</title>
+	</programme>
+	<programme channel="动物星球" start="20241205163700 +0800" stop="20241205170500 +0800">
+		<title lang="zh">动物奇门功夫第1季第1集-腾空大师</title>
+	</programme>
+	<programme channel="动物星球" start="20241205170500 +0800" stop="20241205180000 +0800">
+		<title lang="zh">狗儿救援迎新生第7季第4集-KnifesEdge</title>
+	</programme>
+	<programme channel="动物星球" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">野生动物求生录第1季第2集-沟通</title>
+	</programme>
+	<programme channel="动物星球" start="20241205190000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">法兰克的野生非洲第1季第7集</title>
+	</programme>
+	<programme channel="动物星球" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">陷阱与埋伏第1季第1集-陷阱</title>
+	</programme>
+	<programme channel="动物星球" start="20241205210000 +0800" stop="20241205213000 +0800">
+		<title lang="zh">动物奇门功夫第1季第2集-快如闪电</title>
+	</programme>
+	<programme channel="动物星球" start="20241205213000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">动物奇门功夫第1季第3集-流畅倒飞</title>
+	</programme>
+	<programme channel="动物星球" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">山怪传说第4季第5集-契罗基恐怖大猫</title>
+	</programme>
+	<programme channel="动物星球" start="20241205230000 +0800" stop="20241205232700 +0800">
+		<title lang="zh">我的动物家族第1季第2集-独角羊</title>
+	</programme>
+	<programme channel="动物星球" start="20241205232700 +0800" stop="20241205235500 +0800">
+		<title lang="zh">我的动物家族第1季第3集-大丹狗当家</title>
+	</programme>
+	<programme channel="动物星球" start="20241205235500 +0800" stop="20241205005000 +0800">
+		<title lang="zh">沼泽毒害克星第1季第15集-蛇吻孩童</title>
 	</programme>
 	<channel id="劲爆体育">
 		<display-name lang="zh">劲爆体育</display-name>
@@ -13595,6 +15908,129 @@
 	</programme>
 	<programme channel="北海经济科教" start="20241205233200 +0800" stop="20241205235900 +0800">
 		<title lang="zh">晚间剧场</title>
+	</programme>
+	<channel id="半岛英语">
+		<display-name lang="zh">半岛英语</display-name>
+	</channel>
+	<programme channel="半岛英语" start="20241205000000 +0800" stop="20241205003000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205003000 +0800" stop="20241205010000 +0800">
+		<title lang="zh">StudioB-Unscripted:BrianEno&amp;Ha-JoonChangP2</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205010000 +0800" stop="20241205013000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205013000 +0800" stop="20241205020000 +0800">
+		<title lang="zh">InsideStory第819集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205020000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205030000 +0800" stop="20241205033000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205033000 +0800" stop="20241205040000 +0800">
+		<title lang="zh">RiskingItAll-Botswana</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205040000 +0800" stop="20241205043000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205043000 +0800" stop="20241205050000 +0800">
+		<title lang="zh">InsideStory第819集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205050000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">FaultLines-AllThatRemains</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205070000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205073000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">Restitution-Africa'sStolenArt:Repatriation</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205080000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205083000 +0800" stop="20241205090000 +0800">
+		<title lang="zh">InsideStory第819集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205090000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">AlJazeeraWorld-RisingToTheChallenge</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205100000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205103000 +0800" stop="20241205110000 +0800">
+		<title lang="zh">TheStream第96集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205110000 +0800" stop="20241205113000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205113000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">Earthrise-WildRecovery</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205123000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">StudioB-Unscripted:BrianEno&amp;Ha-JoonChangP2</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205130000 +0800" stop="20241205133000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205133000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">InsideStory第819集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205143000 +0800" stop="20241205150000 +0800">
+		<title lang="zh">Restitution-Africa'sStolenArt:Repatriation</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205150000 +0800" stop="20241205160000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205160000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">FaultLines-AllThatRemains</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205170000 +0800" stop="20241205173000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205173000 +0800" stop="20241205180000 +0800">
+		<title lang="zh">TheBottomLine第48集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205180000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205193000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">InsideStory第819集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205200000 +0800" stop="20241205210000 +0800">
+		<title lang="zh">BloodAndTears第3集-FrenchDecolonisation:Episode3</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205210000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">NewsLive</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205223000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">TheListeningPost第44集</title>
+	</programme>
+	<programme channel="半岛英语" start="20241205230000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">Newshour</title>
 	</programme>
 	<channel id="南京信息">
 		<display-name lang="zh">南京信息</display-name>
@@ -17007,6 +19443,9 @@
 	<programme channel="咪咕综合体育" start="20241205033500 +0800" stop="20241205040000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241205040000 +0800" stop="20241205064000 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第14轮 阿森纳-曼联 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17021,6 +19460,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241205024100 +0800" stop="20241205042100 +0800">
 		<title lang="zh">2024NBL季后赛总决赛G2 安徽文一-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241205042100 +0800" stop="20241205043000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241205043000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241205053500 +0800" stop="20241205062000 +0800">
+		<title lang="zh">一球一城 考纳斯</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -17435,6 +19883,90 @@
 	</programme>
 	<programme channel="四海钓鱼" start="20241205225500 +0800" stop="20241205230000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<channel id="国家地理高清">
+		<display-name lang="zh">国家地理高清</display-name>
+	</channel>
+	<programme channel="国家地理高清" start="20241205003000 +0800" stop="20241205012500 +0800">
+		<title lang="zh">深入澳大利亚第1季第1集-热带海岸</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205012500 +0800" stop="20241205022000 +0800">
+		<title lang="zh">地球演化实录第1季第1集-地土探秘</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205022000 +0800" stop="20241205031500 +0800">
+		<title lang="zh">地球演化实录第1季第2集-多样岛屿</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205031500 +0800" stop="20241205041000 +0800">
+		<title lang="zh">明猩学园第1季第1集-开学了</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205041000 +0800" stop="20241205050500 +0800">
+		<title lang="zh">野小子第1季第3集-小猎豹乌珊娜</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205050500 +0800" stop="20241205060000 +0800">
+		<title lang="zh">动物知心友第1季第3集-斯普德、迪格和汤美</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205060000 +0800" stop="20241205062500 +0800">
+		<title lang="zh">动物小儿科第2季第4集-孖公仔</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205062500 +0800" stop="20241205072000 +0800">
+		<title lang="zh">地球演化实录第1季第1集-地土探秘</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205072000 +0800" stop="20241205081500 +0800">
+		<title lang="zh">地球演化实录第1季第2集-多样岛屿</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205081500 +0800" stop="20241205091000 +0800">
+		<title lang="zh">明猩学园第1季第2集-升班</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205091000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">捍衞太平洋第1季第3集-迷途龟洋</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205100000 +0800" stop="20241205105000 +0800">
+		<title lang="zh">明猩学园第3季第1集-一年容易又开学</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205105000 +0800" stop="20241205114000 +0800">
+		<title lang="zh">野小子第1季第4集-卷尾猴婴儿施高</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205114000 +0800" stop="20241205123500 +0800">
+		<title lang="zh">动物知心友第1季第4集-托托、班克斯和露西</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205123500 +0800" stop="20241205133000 +0800">
+		<title lang="zh">地球演化实录第1季第1集-地土探秘</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205133000 +0800" stop="20241205142500 +0800">
+		<title lang="zh">地球演化实录第1季第2集-多样岛屿</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205142500 +0800" stop="20241205152000 +0800">
+		<title lang="zh">深入澳大利亚第1季第2集-冷水南岸</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205152000 +0800" stop="20241205161500 +0800">
+		<title lang="zh">捍衞太平洋第1季第3集-迷途龟洋</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205161500 +0800" stop="20241205171000 +0800">
+		<title lang="zh">明猩学园第3季第1集-一年容易又开学</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205171000 +0800" stop="20241205180500 +0800">
+		<title lang="zh">野小子第1季第4集-卷尾猴婴儿施高</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205180500 +0800" stop="20241205190000 +0800">
+		<title lang="zh">地球演化实录第1季第1集-地土探秘</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205190000 +0800" stop="20241205195500 +0800">
+		<title lang="zh">地球演化实录第1季第2集-多样岛屿</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205195500 +0800" stop="20241205205000 +0800">
+		<title lang="zh">明猩学园第1季第2集-升班</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205205000 +0800" stop="20241205214500 +0800">
+		<title lang="zh">捍衞太平洋第1季第3集-迷途龟洋</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205214500 +0800" stop="20241205224000 +0800">
+		<title lang="zh">明猩学园第3季第1集-一年容易又开学</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205224000 +0800" stop="20241205233500 +0800">
+		<title lang="zh">地球演化实录第1季第1集-地土探秘</title>
+	</programme>
+	<programme channel="国家地理高清" start="20241205233500 +0800" stop="20241205003000 +0800">
+		<title lang="zh">地球演化实录第1季第2集-多样岛屿</title>
 	</programme>
 	<channel id="大庆新闻综合">
 		<display-name lang="zh">大庆新闻综合</display-name>
@@ -21573,6 +24105,366 @@
 	<programme channel="崇左综合" start="20241205232400 +0800" stop="20241205235900 +0800">
 		<title lang="zh">午夜剧场</title>
 	</programme>
+	<channel id="常州公共">
+		<display-name lang="zh">常州公共</display-name>
+	</channel>
+	<programme channel="常州公共" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">下一站，远方</title>
+	</programme>
+	<programme channel="常州公共" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州公共" start="20241205070000 +0800" stop="20241205080500 +0800">
+		<title lang="zh">公共剧场（1）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205080500 +0800" stop="20241205091000 +0800">
+		<title lang="zh">公共剧场（2）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205091000 +0800" stop="20241205101000 +0800">
+		<title lang="zh">公共剧场（3）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205101000 +0800" stop="20241205110500 +0800">
+		<title lang="zh">公共剧场（4）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205110500 +0800" stop="20241205114000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州公共" start="20241205114000 +0800" stop="20241205124500 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州公共" start="20241205124500 +0800" stop="20241205134000 +0800">
+		<title lang="zh">公共剧场（1）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205134000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">公共剧场（2）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205143000 +0800" stop="20241205152000 +0800">
+		<title lang="zh">公共剧场（3）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205152000 +0800" stop="20241205161000 +0800">
+		<title lang="zh">公共剧场（4）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205161000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州公共" start="20241205170000 +0800" stop="20241205171000 +0800">
+		<title lang="zh">十一代中医</title>
+	</programme>
+	<programme channel="常州公共" start="20241205171000 +0800" stop="20241205180600 +0800">
+		<title lang="zh">欢乐英雄</title>
+	</programme>
+	<programme channel="常州公共" start="20241205180600 +0800" stop="20241205183000 +0800">
+		<title lang="zh">生活369</title>
+	</programme>
+	<programme channel="常州公共" start="20241205183000 +0800" stop="20241205190500 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州公共" start="20241205190500 +0800" stop="20241205193500 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州公共" start="20241205193500 +0800" stop="20241205201000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州公共" start="20241205201000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">新华纵横（重播）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205203000 +0800" stop="20241205204500 +0800">
+		<title lang="zh">联播常州（次日）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205204500 +0800" stop="20241205211500 +0800">
+		<title lang="zh">常州新闻（重播）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205211500 +0800" stop="20241205213000 +0800">
+		<title lang="zh">常州高新区新闻（重播）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205213000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">社会写真（重播）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205220000 +0800" stop="20241205230000 +0800">
+		<title lang="zh">精品剧场（1）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205230000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">精品剧场（2）</title>
+	</programme>
+	<programme channel="常州公共" start="20241205235900 +0800" stop="20241205060000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="常州新闻">
+		<display-name lang="zh">常州新闻</display-name>
+	</channel>
+	<programme channel="常州新闻" start="20241205060000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">节目预告</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205070000 +0800" stop="20241205070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205070100 +0800" stop="20241205073200 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205073200 +0800" stop="20241205074000 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205074000 +0800" stop="20241205083000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205083000 +0800" stop="20241205085500 +0800">
+		<title lang="zh">下一站，远方</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205085500 +0800" stop="20241205092000 +0800">
+		<title lang="zh">生活369</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205092000 +0800" stop="20241205095500 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205095500 +0800" stop="20241205101000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205101000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205103000 +0800" stop="20241205112500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205112500 +0800" stop="20241205114000 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205114000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">健康百分百</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205120000 +0800" stop="20241205123000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205123000 +0800" stop="20241205131000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205131000 +0800" stop="20241205142500 +0800">
+		<title lang="zh">午间剧场1</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205142500 +0800" stop="20241205154500 +0800">
+		<title lang="zh">午间剧场2</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205154500 +0800" stop="20241205163500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205163500 +0800" stop="20241205165500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205165500 +0800" stop="20241205171000 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205171000 +0800" stop="20241205172400 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205172400 +0800" stop="20241205180000 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205180000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">人文中国（次日）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">常州新闻（首播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205190000 +0800" stop="20241205193300 +0800">
+		<title lang="zh">央视新闻联播</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205193300 +0800" stop="20241205194000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205194000 +0800" stop="20241205203000 +0800">
+		<title lang="zh">黄金剧场(1)</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205203000 +0800" stop="20241205212000 +0800">
+		<title lang="zh">黄金剧场(2)</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205212000 +0800" stop="20241205215000 +0800">
+		<title lang="zh">常州新闻（重播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205215000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">常州高新区新闻（首播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205220000 +0800" stop="20241205221500 +0800">
+		<title lang="zh">联播常州（首播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205221500 +0800" stop="20241205223000 +0800">
+		<title lang="zh">新华纵横（重播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205223000 +0800" stop="20241205225800 +0800">
+		<title lang="zh">社会写真（重播）</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205225800 +0800" stop="20241205235900 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20241205235900 +0800" stop="20241205060000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="常州生活">
+		<display-name lang="zh">常州生活</display-name>
+	</channel>
+	<programme channel="常州生活" start="20241205054500 +0800" stop="20241205062500 +0800">
+		<title lang="zh">节目预告</title>
+	</programme>
+	<programme channel="常州生活" start="20241205062500 +0800" stop="20241205072000 +0800">
+		<title lang="zh">欢乐英雄</title>
+	</programme>
+	<programme channel="常州生活" start="20241205072000 +0800" stop="20241205074000 +0800">
+		<title lang="zh">生活369</title>
+	</programme>
+	<programme channel="常州生活" start="20241205074000 +0800" stop="20241205081000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州生活" start="20241205081000 +0800" stop="20241205084000 +0800">
+		<title lang="zh">健康百分百</title>
+	</programme>
+	<programme channel="常州生活" start="20241205084000 +0800" stop="20241205095000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州生活" start="20241205095000 +0800" stop="20241205100500 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州生活" start="20241205100500 +0800" stop="20241205110000 +0800">
+		<title lang="zh">养生堂</title>
+	</programme>
+	<programme channel="常州生活" start="20241205110000 +0800" stop="20241205114500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州生活" start="20241205114500 +0800" stop="20241205125000 +0800">
+		<title lang="zh">生活剧场（1）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205125000 +0800" stop="20241205135500 +0800">
+		<title lang="zh">生活剧场（2）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205135500 +0800" stop="20241205150000 +0800">
+		<title lang="zh">生活剧场（3）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205150000 +0800" stop="20241205160500 +0800">
+		<title lang="zh">生活剧场（4）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205160500 +0800" stop="20241205165000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州生活" start="20241205165000 +0800" stop="20241205173500 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州生活" start="20241205173500 +0800" stop="20241205175500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州生活" start="20241205175500 +0800" stop="20241205180500 +0800">
+		<title lang="zh">新华纵横（首播）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205180500 +0800" stop="20241205183000 +0800">
+		<title lang="zh">社会写真（次日）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">生活369（次日）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205190000 +0800" stop="20241205192000 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州生活" start="20241205192000 +0800" stop="20241205194000 +0800">
+		<title lang="zh">健康百分百</title>
+	</programme>
+	<programme channel="常州生活" start="20241205194000 +0800" stop="20241205200500 +0800">
+		<title lang="zh">下一站，远方</title>
+	</programme>
+	<programme channel="常州生活" start="20241205200500 +0800" stop="20241205203000 +0800">
+		<title lang="zh">龙城俏佳人</title>
+	</programme>
+	<programme channel="常州生活" start="20241205203000 +0800" stop="20241205212000 +0800">
+		<title lang="zh">情感剧场（1）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205212000 +0800" stop="20241205221000 +0800">
+		<title lang="zh">情感剧场（2）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205221000 +0800" stop="20241205225000 +0800">
+		<title lang="zh">情感剧场（3）</title>
+	</programme>
+	<programme channel="常州生活" start="20241205225000 +0800" stop="20241205235900 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州生活" start="20241205235900 +0800" stop="20241205054500 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="常州都市">
+		<display-name lang="zh">常州都市</display-name>
+	</channel>
+	<programme channel="常州都市" start="20241205053000 +0800" stop="20241205053200 +0800">
+		<title lang="zh">节目预告</title>
+	</programme>
+	<programme channel="常州都市" start="20241205053200 +0800" stop="20241205060000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州都市" start="20241205060000 +0800" stop="20241205063000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州都市" start="20241205063000 +0800" stop="20241205065000 +0800">
+		<title lang="zh">龙城俏佳人</title>
+	</programme>
+	<programme channel="常州都市" start="20241205065000 +0800" stop="20241205073500 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州都市" start="20241205073500 +0800" stop="20241205090500 +0800">
+		<title lang="zh">健康剧场（1）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205090500 +0800" stop="20241205103500 +0800">
+		<title lang="zh">健康剧场（2）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205103500 +0800" stop="20241205120000 +0800">
+		<title lang="zh">健康剧场（3）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205120000 +0800" stop="20241205130000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州都市" start="20241205130000 +0800" stop="20241205131500 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州都市" start="20241205131500 +0800" stop="20241205133000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州都市" start="20241205133000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">欢乐英雄</title>
+	</programme>
+	<programme channel="常州都市" start="20241205143000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州都市" start="20241205163000 +0800" stop="20241205164000 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州都市" start="20241205164000 +0800" stop="20241205171500 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州都市" start="20241205171500 +0800" stop="20241205173000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州都市" start="20241205173000 +0800" stop="20241205183000 +0800">
+		<title lang="zh">养生堂</title>
+	</programme>
+	<programme channel="常州都市" start="20241205183000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">传奇（重播）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205190000 +0800" stop="20241205194000 +0800">
+		<title lang="zh">社会写真（首播）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205194000 +0800" stop="20241205200000 +0800">
+		<title lang="zh">生活369（首播）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205200000 +0800" stop="20241205202500 +0800">
+		<title lang="zh">人文中国（重播）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205202500 +0800" stop="20241205204000 +0800">
+		<title lang="zh">常州高新区新闻（重播）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205204000 +0800" stop="20241205213500 +0800">
+		<title lang="zh">欢乐英雄</title>
+	</programme>
+	<programme channel="常州都市" start="20241205213500 +0800" stop="20241205222000 +0800">
+		<title lang="zh">都市剧场（1）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205222000 +0800" stop="20241205230500 +0800">
+		<title lang="zh">都市剧场（2）</title>
+	</programme>
+	<programme channel="常州都市" start="20241205230500 +0800" stop="20241205053000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
 	</channel>
@@ -24962,6 +27854,87 @@
 	</programme>
 	<programme channel="星空购物" start="20241205230000 +0800" stop="20241205235900 +0800">
 		<title lang="zh">星空购物</title>
+	</programme>
+	<channel id="曼联电视">
+		<display-name lang="zh">曼联电视</display-name>
+	</channel>
+	<programme channel="曼联电视" start="20241205001500 +0800" stop="20241205021500 +0800">
+		<title lang="zh">英超22/23第6集-曼联对阿仙奴</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205021500 +0800" stop="20241205023000 +0800">
+		<title lang="zh">我穿什么:简东拿第1集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205023000 +0800" stop="20241205030000 +0800">
+		<title lang="zh">红魔宿敌第5集-阿仙奴</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205030000 +0800" stop="20241205031000 +0800">
+		<title lang="zh">前20入球第4集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205031000 +0800" stop="20241205041500 +0800">
+		<title lang="zh">比赛日分析第151集-阿仙奴对曼联[直播]</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205041500 +0800" stop="20241205050000 +0800">
+		<title lang="zh">电台评述第171集-阿仙奴对曼联[直播]</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205050000 +0800" stop="20241205051500 +0800">
+		<title lang="zh">半场论战第74集-阿仙奴对曼联[直播]</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205051500 +0800" stop="20241205060500 +0800">
+		<title lang="zh">电台评述第172集-阿仙奴对曼联[直播]</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205060500 +0800" stop="20241205063000 +0800">
+		<title lang="zh">比赛日分析第152集-阿仙奴对曼联[直播]</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205063000 +0800" stop="20241205070000 +0800">
+		<title lang="zh">比赛日回顾第74集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205070000 +0800" stop="20241205073000 +0800">
+		<title lang="zh">英超精华第13集-曼联对爱华顿</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205073000 +0800" stop="20241205080000 +0800">
+		<title lang="zh">曼联命脉短片第1集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205080000 +0800" stop="20241205100000 +0800">
+		<title lang="zh">英超24/25第13集-曼联对爱华顿</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205100000 +0800" stop="20241205103000 +0800">
+		<title lang="zh">比赛日回顾第117集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205103000 +0800" stop="20241205120000 +0800">
+		<title lang="zh">红魔多媒体第38集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205120000 +0800" stop="20241205140000 +0800">
+		<title lang="zh">英超24/25第14集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205140000 +0800" stop="20241205143000 +0800">
+		<title lang="zh">比赛日回顾第117集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205143000 +0800" stop="20241205163000 +0800">
+		<title lang="zh">英超24/25第14集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205163000 +0800" stop="20241205170000 +0800">
+		<title lang="zh">比赛日回顾第117集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205170000 +0800" stop="20241205190000 +0800">
+		<title lang="zh">英超24/25第14集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205190000 +0800" stop="20241205193000 +0800">
+		<title lang="zh">比赛日回顾第117集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205193000 +0800" stop="20241205213000 +0800">
+		<title lang="zh">英超24/25第14集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205213000 +0800" stop="20241205220000 +0800">
+		<title lang="zh">比赛日回顾第117集-阿仙奴对曼联</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205220000 +0800" stop="20241205223000 +0800">
+		<title lang="zh">曼联命脉短片第1集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205223000 +0800" stop="20241205231500 +0800">
+		<title lang="zh">佐治贝斯第1集</title>
+	</programme>
+	<programme channel="曼联电视" start="20241205231500 +0800" stop="20241205000000 +0800">
+		<title lang="zh">曼联命脉第4集</title>
 	</programme>
 	<channel id="来宾综合">
 		<display-name lang="zh">来宾综合</display-name>
@@ -35232,6 +38205,75 @@
 	<programme channel="生活时尚" start="20241205235700 +0800" stop="20241205000000 +0800">
 		<title lang="zh">自然之旅欣赏</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20241205003200 +0800" stop="20241205010700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205010700 +0800" stop="20241205015600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205015600 +0800" stop="20241205023700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205023700 +0800" stop="20241205032100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205032100 +0800" stop="20241205035600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205035600 +0800" stop="20241205044500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205044500 +0800" stop="20241205052600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205052600 +0800" stop="20241205060900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205060900 +0800" stop="20241205064400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205064400 +0800" stop="20241205073400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205073400 +0800" stop="20241205081400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205081400 +0800" stop="20241205085800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205085800 +0800" stop="20241205093300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205093300 +0800" stop="20241205102300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205102300 +0800" stop="20241205110300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205110300 +0800" stop="20241205114700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205114700 +0800" stop="20241205122200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205122200 +0800" stop="20241205131200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205131200 +0800" stop="20241205135200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205135200 +0800" stop="20241205143600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205143600 +0800" stop="20241205151100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241205151100 +0800" stop="20241205160000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -36911,6 +39953,18 @@
 	</programme>
 	<programme channel="纯享4K" start="20241205034500 +0800" stop="20241205042700 +0800">
 		<title lang="zh">远方的家4K 长江行 卓克河：穿越四季</title>
+	</programme>
+	<programme channel="纯享4K" start="20241205042700 +0800" stop="20241205043200 +0800">
+		<title lang="zh">美丽中国自然4K 亚洲象国家公园系列 枝头的阳光</title>
+	</programme>
+	<programme channel="纯享4K" start="20241205043800 +0800" stop="20241205051800 +0800">
+		<title lang="zh">探索b7发现4K 探秘云梦古墓（3）</title>
+	</programme>
+	<programme channel="纯享4K" start="20241205051800 +0800" stop="20241205054200 +0800">
+		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
+	</programme>
+	<programme channel="纯享4K" start="20241205054200 +0800" stop="20241205060600 +0800">
+		<title lang="zh">了不起的冬天4K 第8集 小算盘</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -45018,6 +48072,12 @@
 	<programme channel="黑莓动画" start="20241205033100 +0800" stop="20241205041800 +0800">
 		<title lang="zh">23_蓝色监狱</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241205041800 +0800" stop="20241205050300 +0800">
+		<title lang="zh">27_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20241205050300 +0800" stop="20241205055200 +0800">
+		<title lang="zh">11_葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45029,6 +48089,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241205032300 +0800" stop="20241205044800 +0800">
 		<title lang="zh">破毒</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241205044800 +0800" stop="20241205064100 +0800">
+		<title lang="zh">相棒剧场版</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -45375,6 +48438,9 @@
 	<programme channel="newtv超级综艺" start="20241205033000 +0800" stop="20241205045600 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241205045600 +0800" stop="20241205062600 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45387,6 +48453,12 @@
 	<programme channel="newtv超级体育" start="20241205023000 +0800" stop="20241205040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241205040000 +0800" stop="20241205053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第4轮 巴黎圣日耳曼-布雷斯特</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241205053000 +0800" stop="20241205060000 +0800">
+		<title lang="zh">实况录像-2024年世界健美操锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45398,6 +48470,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241205034000 +0800" stop="20241205050800 +0800">
 		<title lang="zh">非狐外传（2013）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241205050800 +0800" stop="20241205063400 +0800">
+		<title lang="zh">李明瑞</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45417,6 +48492,15 @@
 	<programme channel="newtv超级电视剧" start="20241205030900 +0800" stop="20241205035400 +0800">
 		<title lang="zh">34_黑白禁区</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241205035400 +0800" stop="20241205043600 +0800">
+		<title lang="zh">24_刘家媳妇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241205043600 +0800" stop="20241205051800 +0800">
+		<title lang="zh">25_刘家媳妇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241205051800 +0800" stop="20241205055900 +0800">
+		<title lang="zh">26_刘家媳妇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45434,6 +48518,12 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241205033500 +0800" stop="20241205042600 +0800">
 		<title lang="zh">28_家有喜妇（DVD版）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241205042600 +0800" stop="20241205051700 +0800">
+		<title lang="zh">06_大盛魁</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241205051700 +0800" stop="20241205060800 +0800">
+		<title lang="zh">07_大盛魁</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -45453,6 +48543,12 @@
 	<programme channel="newtv精品纪录" start="20241205032800 +0800" stop="20241205042400 +0800">
 		<title lang="zh">港珠澳大桥 下集</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241205042400 +0800" stop="20241205051900 +0800">
+		<title lang="zh">01_爱因斯坦与霍金 解锁宇宙</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241205051900 +0800" stop="20241205055400 +0800">
+		<title lang="zh">寻找狄仁杰（二）狄仁杰银幕首次亮相，居然是个洋人</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45468,6 +48564,15 @@
 	<programme channel="newtv古装剧场" start="20241205031000 +0800" stop="20241205040100 +0800">
 		<title lang="zh">34_大戏法</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241205040100 +0800" stop="20241205045200 +0800">
+		<title lang="zh">22_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241205045200 +0800" stop="20241205054400 +0800">
+		<title lang="zh">23_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241205054400 +0800" stop="20241205063600 +0800">
+		<title lang="zh">24_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45482,6 +48587,15 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241205031000 +0800" stop="20241205035700 +0800">
 		<title lang="zh">06_雪域雄鹰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241205035700 +0800" stop="20241205044500 +0800">
+		<title lang="zh">07_雪域雄鹰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241205044500 +0800" stop="20241205053500 +0800">
+		<title lang="zh">06_各个击破</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241205053500 +0800" stop="20241205062600 +0800">
+		<title lang="zh">07_各个击破</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -45501,6 +48615,12 @@
 	<programme channel="newtv家庭剧场" start="20241205032600 +0800" stop="20241205041100 +0800">
 		<title lang="zh">13_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241205041100 +0800" stop="20241205050200 +0800">
+		<title lang="zh">14_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241205050200 +0800" stop="20241205054800 +0800">
+		<title lang="zh">15_我的爱对你说</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45515,6 +48635,15 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241205031100 +0800" stop="20241205040300 +0800">
 		<title lang="zh">08_青山不墨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241205040300 +0800" stop="20241205044800 +0800">
+		<title lang="zh">09_青山不墨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241205044800 +0800" stop="20241205053900 +0800">
+		<title lang="zh">10_青山不墨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241205053900 +0800" stop="20241205063600 +0800">
+		<title lang="zh">千古风流人物第4季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -45531,6 +48660,15 @@
 	<programme channel="newtv爱情喜剧" start="20241205032200 +0800" stop="20241205040800 +0800">
 		<title lang="zh">06_求婚大作战</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241205040800 +0800" stop="20241205045300 +0800">
+		<title lang="zh">07_求婚大作战</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241205045300 +0800" stop="20241205053900 +0800">
+		<title lang="zh">08_求婚大作战</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241205053900 +0800" stop="20241205064800 +0800">
+		<title lang="zh">麻香楼之造梦先生</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -45539,6 +48677,12 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241205022300 +0800" stop="20241205035600 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241205035600 +0800" stop="20241205053200 +0800">
+		<title lang="zh">六扇门之绝战</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241205053200 +0800" stop="20241205071000 +0800">
+		<title lang="zh">英雄泪</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -45558,6 +48702,12 @@
 	<programme channel="newtv怡伴健康" start="20241205033100 +0800" stop="20241205035800 +0800">
 		<title lang="zh">豹的故事（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241205035800 +0800" stop="20241205043000 +0800">
+		<title lang="zh">半岛四季（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241205043000 +0800" stop="20241205071300 +0800">
+		<title lang="zh">琼剧《双镜情》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45572,6 +48722,12 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241205032000 +0800" stop="20241205041100 +0800">
 		<title lang="zh">10_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241205041100 +0800" stop="20241205050200 +0800">
+		<title lang="zh">11_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241205050200 +0800" stop="20241205055300 +0800">
+		<title lang="zh">12_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45590,6 +48746,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241205033800 +0800" stop="20241205043200 +0800">
 		<title lang="zh">马怀龙：46把钥匙串起的温暖</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241205043200 +0800" stop="20241205052100 +0800">
+		<title lang="zh">胜利征程 第2集 军魂铸就</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241205052100 +0800" stop="20241205061100 +0800">
+		<title lang="zh">胜利征程 第3集 军心向党</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -45612,6 +48774,15 @@
 	<programme channel="newtv炫舞未来" start="20241205033600 +0800" stop="20241205035800 +0800">
 		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241205035800 +0800" stop="20241205052100 +0800">
+		<title lang="zh">开门迎春晚（20241201）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241205052100 +0800" stop="20241205053800 +0800">
+		<title lang="zh">那就是蒙古包-李萍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241205053800 +0800" stop="20241205055600 +0800">
+		<title lang="zh">春三月-李莹</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -45623,6 +48794,15 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241205031100 +0800" stop="20241205040000 +0800">
 		<title lang="zh">17_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241205040000 +0800" stop="20241205044900 +0800">
+		<title lang="zh">18_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241205044900 +0800" stop="20241205053900 +0800">
+		<title lang="zh">19_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241205053900 +0800" stop="20241205062800 +0800">
+		<title lang="zh">20_北国英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -45636,11 +48816,23 @@
 	<programme channel="newtv惊悚悬疑" start="20241205025100 +0800" stop="20241205040800 +0800">
 		<title lang="zh">张震讲故事之三更夜</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241205040800 +0800" stop="20241205053200 +0800">
+		<title lang="zh">怨灵 第二部</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241205053200 +0800" stop="20241205070000 +0800">
+		<title lang="zh">索命暹罗之按摩师</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241205004100 +0800" stop="20241205034700 +0800">
 		<title lang="zh">故事里的中国 第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241205034700 +0800" stop="20241205053500 +0800">
+		<title lang="zh">一往无前的蓝</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241205053500 +0800" stop="20241205070800 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -45653,6 +48845,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241205032600 +0800" stop="20241205050700 +0800">
 		<title lang="zh">2024-25赛季法甲联赛第10轮：巴黎圣日耳曼VS朗斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241205050700 +0800" stop="20241205065100 +0800">
+		<title lang="zh">2024-25赛季英超联赛第10轮：托特纳姆VS阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -45704,6 +48899,12 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241205025300 +0800" stop="20241205043600 +0800">
 		<title lang="zh">津门奇案之元凶</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241205043600 +0800" stop="20241205050700 +0800">
+		<title lang="zh">男子太极拳、太极剑全能</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241205050700 +0800" stop="20241205064400 +0800">
+		<title lang="zh">女子太极拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
