@@ -241,7 +241,7 @@ https://stream1.freetv.fun/1d4029d6c66bce7e7d8ee1cc418825390a2d6765d656acb1ef9d8
 https://stream1.freetv.fun/c1e15a781b6e222e067dff25cfde55ec88c5700cb2a4458b8836c6f25042984c.ctv
 #EXTINF:-1 tvg-name="Al Eshraq" tvg-id="" tvg-country="Syria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304202007957224_27.jpg" group-title="News",[VGA]al eshraq tv
 https://stream1.freetv.fun/fd6ff011305e142397b8fd2eb753e5ca13e914c4e0986e43391346a8fe2e2197.m3u8
-#EXTINF:-1 tvg-name="Al HAZ TV" tvg-id="" tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174648168867_59.png" group-title="Entertainment",[VGA]al ahad tv
+#EXTINF:-1 tvg-name="Al HAZ TV" tvg-id="" tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174648168867_59.png" group-title="Entertainment",[SD]al ahad tv
 https://stream1.freetv.fun/fae3a43083b410975399f2bb1576a48f3b92b238f95db2f8794ab35cedce2d8a.m3u8
 #EXTINF:-1 tvg-name="Al Hayat" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717055453263471_21.jpg" group-title="Generic",[BD]kanal hayat
 https://stream1.freetv.fun/d7d3fa00547a8619e34ea4d17f8844d42cb1ee7081b17a8a084c172e7ba80dcf.m3u8
@@ -807,7 +807,7 @@ https://stream1.freetv.fun/7ea510426ae834b9f3f3ec1b8ca6fed79dc1a2b4fda752f2d57e6
 https://stream1.freetv.fun/00537b9eaa7414eb718202f906736b9609cd12ed5040ab82d6d6b4c36a13be4f.m3u8
 #EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movies",[HD]cinema world
 https://stream1.freetv.fun/f51128171845f86faa9e0783ee04dbe90a94505d154701654758393e93804c98.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="3200" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movies",[VGA]cinemaworld
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="3200" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movies",[SD]cinemaworld
 https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movies",[HD]Cinemax
 https://stream1.freetv.fun/8468bcd659e771863cabe0656ef1926345f92a2b0df00c5190eff044ce5fdbe7.ctv
@@ -2289,7 +2289,7 @@ https://stream1.freetv.fun/b181bcad39859adee05ecd3054656b59d4686e19bc227e3683290
 https://stream1.freetv.fun/8de6c569e0498f154d21c64babfab11b9c33137d03ea611c67ae8c034b31e238.m3u8
 #EXTINF:-1 tvg-name="Showtime" tvg-id="8440" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/24/large/20220224195356312478_19.png" group-title="Movies",[HD]SHOWTIME
 https://stream1.freetv.fun/311422650c2022f18a6ddf00954d3aacae610bde2b20b1cba1554062eccff85d.ctv
-#EXTINF:-1 tvg-name="Showtime Next" tvg-id="8770" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/02/25/large/20240225084244387491_73.png" group-title="Movies",[BD]showtime next east
+#EXTINF:-1 tvg-name="Showtime Next" tvg-id="8770" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/02/25/large/20240225084244387491_73.png" group-title="Movies",[HD]showtime next east
 https://stream1.freetv.fun/7c2ced8b38212fb77767ba02049bcbc57758a9581b42d82120207794a658328a.m3u8
 #EXTINF:-1 tvg-name="Sigma TV Cyprus" tvg-id="" tvg-country="Cyprus" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021162712873339_74.jpg" group-title="Generic",[SD]sigma tv
 https://stream1.freetv.fun/fc9335491e53b308ed01c857057caf5d6595c25b1a722b87cd5339880a880c05.m3u8

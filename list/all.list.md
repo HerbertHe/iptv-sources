@@ -125,7 +125,7 @@
 | 119 | [BD]al alaraby | stream1.freetv.fun | <https://stream1.freetv.fun/1d4029d6c66bce7e7d8ee1cc418825390a2d6765d656acb1ef9d8af61050018a.m3u8> |
 | 120 | [BD]albaghdadiya | stream1.freetv.fun | <https://stream1.freetv.fun/c1e15a781b6e222e067dff25cfde55ec88c5700cb2a4458b8836c6f25042984c.ctv> |
 | 121 | [VGA]al eshraq tv | stream1.freetv.fun | <https://stream1.freetv.fun/fd6ff011305e142397b8fd2eb753e5ca13e914c4e0986e43391346a8fe2e2197.m3u8> |
-| 122 | [VGA]al ahad tv | stream1.freetv.fun | <https://stream1.freetv.fun/fae3a43083b410975399f2bb1576a48f3b92b238f95db2f8794ab35cedce2d8a.m3u8> |
+| 122 | [SD]al ahad tv | stream1.freetv.fun | <https://stream1.freetv.fun/fae3a43083b410975399f2bb1576a48f3b92b238f95db2f8794ab35cedce2d8a.m3u8> |
 | 123 | [BD]kanal hayat | stream1.freetv.fun | <https://stream1.freetv.fun/d7d3fa00547a8619e34ea4d17f8844d42cb1ee7081b17a8a084c172e7ba80dcf.m3u8> |
 | 124 | [HD]alhurra | stream1.freetv.fun | <https://stream1.freetv.fun/3b22b3d21f7932a3823b576a287f73326834f2415398bd5d582a5ed08bf4c246.m3u8> |
 | 125 | [HD]al-iraqiya | stream1.freetv.fun | <https://stream1.freetv.fun/524bb935e7563ebc2f4a3a7ebdece86641e8a14e2908cb6baec0d6731b099bf9.m3u8> |
@@ -408,7 +408,7 @@
 | 402 | [HD]bcu cinema+ hd | stream1.freetv.fun | <https://stream1.freetv.fun/7ea510426ae834b9f3f3ec1b8ca6fed79dc1a2b4fda752f2d57e63959f605f5e.m3u8> |
 | 403 | [HD]cinema segreto | stream1.freetv.fun | <https://stream1.freetv.fun/00537b9eaa7414eb718202f906736b9609cd12ed5040ab82d6d6b4c36a13be4f.m3u8> |
 | 404 | [HD]cinema world | stream1.freetv.fun | <https://stream1.freetv.fun/f51128171845f86faa9e0783ee04dbe90a94505d154701654758393e93804c98.m3u8> |
-| 405 | [VGA]cinemaworld | stream1.freetv.fun | <https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8> |
+| 405 | [SD]cinemaworld | stream1.freetv.fun | <https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8> |
 | 406 | [HD]Cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/8468bcd659e771863cabe0656ef1926345f92a2b0df00c5190eff044ce5fdbe7.ctv> |
 | 407 | [HD]CineMax Action | stream1.freetv.fun | <https://stream1.freetv.fun/5df7fea28399118e0ed637c18e8ec14ffeadf5cc41002ce02bd0af94808ae541.ctv> |
 | 408 | [BD]Cinemax Moviemax | stream1.freetv.fun | <https://stream1.freetv.fun/19c1277a497e0d2df71d49c0034ee5fcd3e73db2f175d8d7516b8199868bd115.ctv> |
@@ -1149,7 +1149,7 @@
 | 1143 | [BD]show | stream1.freetv.fun | <https://stream1.freetv.fun/b181bcad39859adee05ecd3054656b59d4686e19bc227e36832902aee933ff69.m3u8> |
 | 1144 | [HD]ช่อง showcase | stream1.freetv.fun | <https://stream1.freetv.fun/8de6c569e0498f154d21c64babfab11b9c33137d03ea611c67ae8c034b31e238.m3u8> |
 | 1145 | [HD]SHOWTIME | stream1.freetv.fun | <https://stream1.freetv.fun/311422650c2022f18a6ddf00954d3aacae610bde2b20b1cba1554062eccff85d.ctv> |
-| 1146 | [BD]showtime next east | stream1.freetv.fun | <https://stream1.freetv.fun/7c2ced8b38212fb77767ba02049bcbc57758a9581b42d82120207794a658328a.m3u8> |
+| 1146 | [HD]showtime next east | stream1.freetv.fun | <https://stream1.freetv.fun/7c2ced8b38212fb77767ba02049bcbc57758a9581b42d82120207794a658328a.m3u8> |
 | 1147 | [SD]sigma tv | stream1.freetv.fun | <https://stream1.freetv.fun/fc9335491e53b308ed01c857057caf5d6595c25b1a722b87cd5339880a880c05.m3u8> |
 | 1148 | [HD]skai | stream1.freetv.fun | <https://stream1.freetv.fun/90abba6b6fc9704428916043015cca676861785db0b8a41fde23416b86c45286.m3u8> |
 | 1149 | [BD]kit-tv | stream1.freetv.fun | <https://stream1.freetv.fun/5465e7e89cb4c6090d1343d03cb339476b7756ae12cfb949f086a2a21b5e378d.m3u8> |
@@ -2096,4 +2096,4 @@
 | 2090 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2091 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Dec 05 2024 12:17:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 05 2024 14:04:20 GMT+0000 (Coordinated Universal Time)**
