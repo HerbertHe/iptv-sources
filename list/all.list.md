@@ -82,7 +82,7 @@
 | 76 | [VGA]ace tv | stream1.freetv.fun | <https://stream1.freetv.fun/442545671b52bc9a58f54e33ef2555c247a8a21fa30db5fe181065cb435e79ed.m3u8> |
 | 77 | [BD]asharq news | stream1.freetv.fun | <https://stream1.freetv.fun/31b822503533e6491d76c44b72a80e2f42c875fb04edb3b9f956cd1b961e04b8.m3u8> |
 | 78 | [HD]amarin tv | stream1.freetv.fun | <https://stream1.freetv.fun/e0adba4422fe8a396575c5e8a3056fd3f3e28d8e1f9ff8b11d224ce39a7e2ea4.m3u8> |
-| 79 | [HD]amc | stream1.freetv.fun | <https://stream1.freetv.fun/acce7cc93e0cda0ccaaa2168134a007f9010a0b0c9b040465578ffd2d2ddbb59.m3u8> |
+| 79 | [HD]amc us | stream1.freetv.fun | <https://stream1.freetv.fun/067a5006593d9b518a7a40d1d095326cbfec3debf4eeb5105403fc93b374c98c.m3u8> |
 | 80 | [HD]magic thriller hd | stream1.freetv.fun | <https://stream1.freetv.fun/1313e11c9112fb8658f6e50034c2a71ac28402437b303d6981b9a18af1c4a909.m3u8> |
 | 81 | [BD]amc电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f839baed79203ac2d701792b03bb25830164f54c96e31caf443d68c1ce11c8e5.ctv> |
 | 82 | [BD]amedia hit hd | stream1.freetv.fun | <https://stream1.freetv.fun/893d4a03834f56671e23a5bc497fc08ed9e2773e837a05e4fc691b426767ff89.m3u8> |
@@ -257,7 +257,7 @@
 | 251 | [BD]bloomberg uk | stream1.freetv.fun | <https://stream1.freetv.fun/06078d710fa84ca77590852f224b01299894253106a32d4d2d6df2d12133835f.m3u8> |
 | 252 | [BD]bloomberg originals | stream1.freetv.fun | <https://stream1.freetv.fun/a4b1e94e1ab1efbf8452f82478e8148b2a195ac97219f368f4edac26a29bbac1.m3u8> |
 | 253 | [HD]bloomberg ht | stream1.freetv.fun | <https://stream1.freetv.fun/56943d5c7796251a68045f328fbce930ae11f1efa1d52f0534a957adf7168444.m3u8> |
-| 254 | [HD]BLOOMBERG TV | stream1.freetv.fun | <https://stream1.freetv.fun/8f73971b91c7e1a7b5884dc629d92377f044615e8796b2d890ec10e5b6114f45.ctv> |
+| 254 | [BD]Bloomberg | stream1.freetv.fun | <https://stream1.freetv.fun/e17e82c4c4990e6f5fc8c9154b6080992c4ff3aeeb94eea852637c5c30ea7ee5.ctv> |
 | 255 | [HD]bloomberg tv mongolia hd | stream1.freetv.fun | <https://stream1.freetv.fun/a0ce477b8c0f55374093cca99f6cb58aa89e786bed650b92ecc3e1a3783f7ac9.m3u8> |
 | 256 | [BD]bloomberg tv+ | stream1.freetv.fun | <https://stream1.freetv.fun/24d16d34ff07920ff7b3eeb0a363cf1f81e12d9cc14984f264698a5e7ec4061c.m3u8> |
 | 257 | [BD]bloomberg tv us hd | stream1.freetv.fun | <https://stream1.freetv.fun/e2624f727c6a7c93dfe511a7bb56fd5078fc3230f7a03cfa99955b7630b28c96.m3u8> |
@@ -657,7 +657,7 @@
 | 651 | [HD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv> |
 | 652 | [BD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/649a472bd50c922e0bf0679628f262b9755e973e9662be9516fe06ba79ec95bf.ctv> |
 | 653 | [HD]bcu media hd old | stream1.freetv.fun | <https://stream1.freetv.fun/acdff409c872289fb16fe37e95f2f1f6ab3d12e6ae89fabfceeb51f6e82cb3ce.m3u8> |
-| 654 | [BD]tv1 hd | stream1.freetv.fun | <https://stream1.freetv.fun/47537095204d5c9aa8acfda7cdb68bfe79570854b7a402bc4ec47179d83d92b8.m3u8> |
+| 654 | [HD]tv1 hd | stream1.freetv.fun | <https://stream1.freetv.fun/47537095204d5c9aa8acfda7cdb68bfe79570854b7a402bc4ec47179d83d92b8.m3u8> |
 | 655 | [VGA]hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/22a303759954bfc75e11a259e8fee9e73f0d97126a2a1ac3ac61a8a50d4e9551.m3u8> |
 | 656 | [VGA]hit tv | stream1.freetv.fun | <https://stream1.freetv.fun/8a7dc5e0ef2ffd20dfe8e86b4987ff897bee2b056ad5f968351fb29d8e24e75d.m3u8> |
 | 657 | [HD]HITS | stream1.freetv.fun | <https://stream1.freetv.fun/713976d6a196c20d71f25e57498b6e4f186a6571800521afdf158316f2d92251.ctv> |
@@ -1657,7 +1657,7 @@
 | 1651 | [HD]人间卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8> |
 | 1652 | [SD]珲春新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8> |
 | 1653 | [BD]佛山公共 | stream1.freetv.fun | <https://stream1.freetv.fun/a1927962a3982f5f3cddb40b0a6cf7511e4d5fceb5b946e819f2d8d75ba9f638.ctv> |
-| 1654 | [VGA]佛山影视 | stream1.freetv.fun | <https://stream1.freetv.fun/436e0851e1d895e402b232f41956deff9d9cc216df2886e2a6b18d369b24027f.ctv> |
+| 1654 | [HD]佛山影视 | stream1.freetv.fun | <https://stream1.freetv.fun/436e0851e1d895e402b232f41956deff9d9cc216df2886e2a6b18d369b24027f.ctv> |
 | 1655 | [BD]光山新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/b676d1a7b2ac301238771435abeab4f26298d4819813859e536dd44bb14b6551.m3u8> |
 | 1656 | [BD]佛山综合 | stream1.freetv.fun | <https://stream1.freetv.fun/113f4826ae1bd5f09abaf62679abd28fbdd95fc9fc20307f3833633c6c66d4d2.ctv> |
 | 1657 | [HD]康定新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0ffbc753d196337847675af05336c0ceea979ac78aa55f17350f57dd32d355e5.m3u8> |
@@ -1970,7 +1970,7 @@
 | 1964 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/f676c23be66104b6d20dc609cb0e8cf43a0592980c58f385b5fc3b0e5035184d.ctv> |
 | 1965 | [BD]无线财经 | stream1.freetv.fun | <https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
 | 1966 | [SD]牡丹江新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/15ac9986768640ce886a866359cf1f34e405e2edb353e894fc179e20f180d9f7.m3u8> |
-| 1967 | [SD]现代教育 | stream1.freetv.fun | <https://stream1.freetv.fun/b13e3fbde159502f76dd9c8b760707ec27b1cf563e832c456a502da349784638.m3u8> |
+| 1967 | [VGA]现代教育 | stream1.freetv.fun | <https://stream1.freetv.fun/b13e3fbde159502f76dd9c8b760707ec27b1cf563e832c456a502da349784638.m3u8> |
 | 1968 | [HD]公共应急 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/2v86i8.flv> |
 | 1969 | [BD]甘肃卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
 | 1970 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/b399ca0e9a6cda833d86d80ddd3423a9246b120ce63e0ce8c86fb2296f97b058.m3u8> |
@@ -2120,4 +2120,4 @@
 | 2114 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2115 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Dec 06 2024 02:31:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 06 2024 04:05:16 GMT+0000 (Coordinated Universal Time)**
