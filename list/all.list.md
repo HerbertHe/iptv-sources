@@ -51,7 +51,7 @@
 | 45 | [BD]9x tashan | stream1.freetv.fun | <https://stream1.freetv.fun/18bdc43ad77dbb7a90d3cd5d190d7a96d0a16ccded161bf54722492375a77e06.m3u8> |
 | 46 | [HD]tv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/1ba95c4552e639ebd7414aac8bcc5b612281b025df5dcc3ccd51c26fd4cfc5b2.m3u8> |
 | 47 | [BD]one channel | stream1.freetv.fun | <https://stream1.freetv.fun/1946bec8d07be21c635903a8d0cfd851031fb0c900f2f1278020d7bb675ab1ea.m3u8> |
-| 48 | [HD]a plus ivoire | stream1.freetv.fun | <https://stream1.freetv.fun/f33f179deff628512e75765121c14a34f2dd53d7ccad9ee4a189465eef303ee5.m3u8> |
+| 48 | [VGA]encore plus | stream1.freetv.fun | <https://stream1.freetv.fun/bfc96f35477187f33e07d1d6ff907a515bda24ab5aea61f062065e658df8e791.m3u8> |
 | 49 | [HD]the shopping channel | stream1.freetv.fun | <https://stream1.freetv.fun/99d72538dfe005e2f92b4c3f66be05b2d6216d6f18ae404ae4826b1ce6223c8d.m3u8> |
 | 50 | [BD]a e | stream1.freetv.fun | <https://stream1.freetv.fun/41bbdb6b3a059f8f270efc5bfb1d36b1e686e0ddc8927f68c769cabc52dbdc4c.m3u8> |
 | 51 | [BD]ziggo sport ⁴ᴷ | stream1.freetv.fun | <https://stream1.freetv.fun/53d016ba6687ba4756fecc4ea340e939168d10e3e135e59a98ec885704605cc5.m3u8> |
@@ -665,7 +665,7 @@
 | 659 | [BD]hanoitv2 | stream1.freetv.fun | <https://stream1.freetv.fun/732f3d5ecbb2cad8c5ea5f680abaafd648625f3fcc1accccb552bf00efcfc0b7.m3u8> |
 | 660 | [BD]haber türk | stream1.freetv.fun | <https://stream1.freetv.fun/24e0310176f397ef6b41359cc583e782173acc5a853a696c3f0c3d54d8602ba9.m3u8> |
 | 661 | [VGA]tv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/243c3f7cf682bb83b6642dd1b2b72fbf82ab2334870dc8a29881452867c19377.m3u8> |
-| 662 | [SD]Hallmark | stream1.freetv.fun | <https://stream1.freetv.fun/8c5d2979c9e8fa0d078e2adb1e109a97e452e3d0876a68650183fed4c7db62e5.ctv> |
+| 662 | [BD]Hallmark | stream1.freetv.fun | <https://stream1.freetv.fun/e61418e46ac28a6caba9b01a862e379cff6ccf4ab961c97340f8d71ad2c48f3d.ctv> |
 | 663 | [HD]hallmark movies & mysteries hd | stream1.freetv.fun | <https://stream1.freetv.fun/e6341df5c003e08f931c01865fdb2e04a1ce9be1005ccb35e78b988a272309df.m3u8> |
 | 664 | [HD]shalom tv | stream1.freetv.fun | <https://stream1.freetv.fun/513f53301e46cfe992f25cf5fa55aba8d0169f2db7007ed5ac50c38d1014792f.m3u8> |
 | 665 | [BD]noa 4 hamburg | stream1.freetv.fun | <https://stream1.freetv.fun/a4945a72e9e893ce70f348a01d955144fa636e88cf413b7d3799e6cfd387b56b.m3u8> |
@@ -2109,4 +2109,4 @@
 | 2103 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2104 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Dec 06 2024 14:04:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 06 2024 16:04:41 GMT+0000 (Coordinated Universal Time)**
