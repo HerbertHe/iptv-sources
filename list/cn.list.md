@@ -306,7 +306,7 @@
 | 300 | [BD]石家庄都市 | stream1.freetv.fun | <https://stream1.freetv.fun/490b250d1e9a62f866d5f1bb46feacd95d7ff3ec2c75f5325ce1c727c4a2fb80.m3u8> |
 | 301 | [HD]黄石新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/7303e0b42ab85780ffb989c3fae502053116c8e231634b1847587c043aca35ec.m3u8> |
 | 302 | [BD]福州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0418ba014693c5bd17b1309d450b9de91e6e8dd9091d49922fc0afe0209c93d4.m3u8> |
-| 303 | [BD]福建公共 | stream1.freetv.fun | <https://stream1.freetv.fun/5f630891172a2e344d2d474274989da9d603172a596c9fe50f51d4d454eb8dd1.m3u8> |
+| 303 | [VGA]福建公共 | stream1.freetv.fun | <https://stream1.freetv.fun/5f630891172a2e344d2d474274989da9d603172a596c9fe50f51d4d454eb8dd1.m3u8> |
 | 304 | [BD]福建少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8> |
 | 305 | [BD]福建教育 | stream1.freetv.fun | <https://stream1.freetv.fun/6182589e5be4d4f75d67a991e90e534a1e9823429a3d48198b9454ee4303cbd6.m3u8> |
 | 306 | [BD]福建新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/f071eb13dcfd59aee52ead1fc082e132079f1877e3b2837a97cae00042720304.m3u8> |
@@ -368,7 +368,7 @@
 | 362 | [SD]陕西卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8> |
 | 363 | [BD]双鸭山新闻[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8> |
 | 364 | [BD]云南卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/8e20522ff1451cc928501635bcc93064a537c36b910ac91980e23a4e51b509f4.ctv> |
-| 365 | [BD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/a0da0d1da0301b782ac9ca46bcf45f2d01961853ed569b7c13b71144def58704.ctv> |
+| 365 | [VGA]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/a0da0d1da0301b782ac9ca46bcf45f2d01961853ed569b7c13b71144def58704.ctv> |
 | 366 | [SD]青岛新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8> |
 | 367 | [HD]宁夏青海综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1e17e52bc461b7cfb47a41d11797f88e2d010bcf02ae3113695139fae1a5fb56.m3u8> |
 | 368 | [BD]青海卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8> |
@@ -383,4 +383,4 @@
 | 377 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 378 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Fri Dec 06 2024 00:17:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 06 2024 02:31:02 GMT+0000 (Coordinated Universal Time)**
