@@ -1,4 +1,4 @@
-# List for **iptv.org All**(Rollback)
+# List for **iptv.org All**
 
 > M3U: [o_all.m3u](/o_all.m3u), TXT: [o_all.txt](/txt/o_all.txt)
 
@@ -1889,12 +1889,12 @@
 | 1883 | CG Entertainment | cgentertainment-cgtv-1-it.samsung.wurl.tv | <https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8> |
 | 1884 | CGNTV (720p) | cgntvliveweb-998.acs.wecandeo.com | <https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8> |
 | 1885 | CGNTV Japan (1080p) | cgntvliveweb-944.acs.wecandeo.com | <https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8> |
-| 1886 | CGTN (576p) | 中国移动江苏 | <http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8> |
-| 1887 | CGTN Arabic (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
-| 1888 | CGTN Documentary (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8> |
-| 1889 | CGTN Español (576p) | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
-| 1890 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
-| 1891 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
+| 1886 | CGTN (1080p) | CGTN | <https://english-livebkws.cgtn.com/live/encgtn.m3u8> |
+| 1887 | CGTN Arabic (1080p) [Not 24/7] | CGTN | <https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8> |
+| 1888 | CGTN Documentary (1080p) [Not 24/7] | CGTN | <https://english-livebkali.cgtn.com/live/doccgtn.m3u8> |
+| 1889 | CGTN Español (1080p) | CGTN | <https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8> |
+| 1890 | CGTN Français (1080p) [Not 24/7] | CGTN | <https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8> |
+| 1891 | CGTN Русский (1080p) | CGTN | <https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8> |
 | 1892 | ch 21 ערוץ הקניות (360p) | shoppingil-rewriter.vidnt.com | <https://shoppingil-rewriter.vidnt.com/index.m3u8> |
 | 1893 | Chabiba TV (360p) [Not 24/7] | endour.net | <https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8> |
 | 1894 | Chaco TV (720p) [Not 24/7] | wowzasrv.chaco.gov.ar | <https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8> |
@@ -10476,4 +10476,4 @@
 | 10470 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10471 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Dec 06 2024 22:04:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 07 2024 00:16:51 GMT+0000 (Coordinated Universal Time)**
