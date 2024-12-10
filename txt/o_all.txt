@@ -1779,7 +1779,6 @@ Rai_4_(576p),https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=74
 RAI_4K,https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 Rai_5_(576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 Rai_Gulp_(576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-Rai_Italia_America_(360p),http://210.210.155.69/s/s63/S4/mnf.m3u8
 RAI_Italia_Asia_(576p),http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 Rai_Premium_(576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 Rai_Scuola_(576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
@@ -9828,6 +9827,11 @@ Unbeaten_(1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
 Vinx_TV_(1080p),https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 W14DK-D_14.5_All_Sports_Television_Network,https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 World_Poker_Tour_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+Zoy_TV_Sports_1,https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
+Zoy_TV_Sports_2,https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+Zoy_TV_Sports_3,https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
+Zoy_TV_Sports_4,https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
+Zoy_TV_Sports_5,https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 Астрахань.Ru_Sport_(720p),https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 Беларусь_5_(1080p)_[Not_24/7],https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Беларусь_5_Интернет_(1080p)_[Not_24/7],https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
