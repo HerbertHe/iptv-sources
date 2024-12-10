@@ -1530,7 +1530,7 @@
 | 1524 | [HD]IMC | stream1.freetv.fun | <https://stream1.freetv.fun/5615c7f17e5c34c8b8a30a11414d5172b33f2f68d60048e0883365ed2ea0adbe.m3u8> |
 | 1525 | [BD]azad azərbaycan | stream1.freetv.fun | <https://stream1.freetv.fun/821f5060af4d244400603425cd56e1b37d691077336cfd48ebfa363c072e8257.m3u8> |
 | 1526 | [BD]авто 24 | stream1.freetv.fun | <https://stream1.freetv.fun/751cb6f503723aabac3f7ff3a91a6fd6a65ddb8412649221e26c93db665d53e9.m3u8> |
-| 1527 | [VGA]беларусь 5 интернет | stream1.freetv.fun | <https://stream1.freetv.fun/c94ef1698705134cd618a314742bdc9cea840dfe711c17fb9153fbf41c41ffcc.m3u8> |
+| 1527 | [BD]беларусь 5 интернет | stream1.freetv.fun | <https://stream1.freetv.fun/c94ef1698705134cd618a314742bdc9cea840dfe711c17fb9153fbf41c41ffcc.m3u8> |
 | 1528 | [SD]время | stream1.freetv.fun | <https://stream1.freetv.fun/05fad3eec8c651d10fe7c23280ba2ed206d1b1b4862b8bf1848c36700b5bc687.m3u8> |
 | 1529 | [BD]волгоград 24 | stream1.freetv.fun | <https://stream1.freetv.fun/095bf751d33c547e98505eb52fb6a38b6234a12eb21b0a4f904778fbbf4fd560.m3u8> |
 | 1530 | [BD]дом кино премиум hd | stream1.freetv.fun | <https://stream1.freetv.fun/68fb51dabe0e9cdbe63fac628759c329bab00636e882cad71fa91332425869fd.m3u8> |
@@ -2071,4 +2071,4 @@
 | 2065 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2066 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Dec 10 2024 12:06:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 10 2024 14:04:32 GMT+0000 (Coordinated Universal Time)**
