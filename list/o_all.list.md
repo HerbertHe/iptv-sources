@@ -235,7 +235,7 @@
 | 229 | ABC 40/29 Fort Smith AR (KHBS) (720p) | apollo.production-public.tubi.io | <https://apollo.production-public.tubi.io/live/ac-khbs.m3u8> |
 | 230 | ABC (WPLG-DT1) Miami FL (720p) | pubads.g.doubleclick.net | <https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8> |
 | 231 | ABC Me (720p) | c.mjh.nz | <https://c.mjh.nz/abc-me.m3u8> |
-| 232 | ABC News Australia (720p) | abc-iview-mediapackagestreams-2.akamaized.net | <https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8> |
+| 232 | ABC News Australia (720p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8> |
 | 233 | ABC News Live | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d> |
 | 234 | ABC News Live 1 (720p) | abcnews-streams.akamaized.net | <https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8> |
 | 235 | ABC News Live 2 (720p) | abcnews-streams.akamaized.net | <https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8> |
@@ -10485,4 +10485,4 @@
 | 10479 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10480 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Tue Dec 10 2024 22:04:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 11 2024 00:17:30 GMT+0000 (Coordinated Universal Time)**

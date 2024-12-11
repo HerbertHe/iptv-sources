@@ -1200,9 +1200,6 @@ Nashville_Channel_(1080p),https://livetv-fa.tubi.video/nashville2/playlist.m3u8
 NAT_TV_(1080p),https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 Nature_Time,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145
 Naturescape,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca
-Nautical_Channel_(720p),https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-Navo_(480p),http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
-Nazali's_HDTV_(1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 NBC_4_Greenville_SC_(WYFF)_(720p),https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 NBC_5_Cincinnati_OH_(WLWT)_(720p),https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8
 NBC_6_New_Orleans_LA_(WDSU)_(720p),https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
@@ -1225,25 +1222,12 @@ NBC_San_Diego_News,https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
 NBC_San_Francisco_News,https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
 NBC_South_Florida_News,https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8
 NBC_Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
-NBC_TV_(1080p)_[Not_24/7],https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
 NBC_Washington_News,https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 NBCU_Telemundo_Florida,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
 NBCU_Telemundo_North_East,https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 NBCU_Telemundo_Texas,https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 NBCU_Telemundo_West,https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-NBS_Korea_Agricultural_Broadcasting_(720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-NBS_TV,http://197.239.30.29/readymedia/stream/tvnbs_tv/20-hls/live-media.m3u8
-NBT_2HD_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
-NBT_11_Central_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-NBT_World_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 NCIS,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0
-NDR_Fernsehen_International_(720p),https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-NDR_Hamburg_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-NDR_Mecklenburg-Vorpommern_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-NDR_Niedersachsen_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-NDR_Schleswig-Holstein_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-NDTV_24X7_(480p)_[Not_24/7],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-NDTV_India_(480p)_[Not_24/7],https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 Nea_TV_(720p),https://live.neatv.gr:8888/hls/neatv.m3u8
 Negocios_TV_(1080p),https://streaming013.gestec-video.com/hls/negociostv.m3u8
 Nei_Monggol_TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
@@ -3360,7 +3344,6 @@ Zylo_ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Музыка_2_International,https://kino-1.catcast.tv/content/37742/index.m3u8
 Музыка_Кино_International,https://kino-1.catcast.tv/content/37739/index.m3u8
 МҮОНТ-1_HD_(1080p),https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
-Наука_2.0,http://stream01.vnet.am/Nauka/mono.m3u8
 НВК_Саха_(1080p)_[Not_24/7],https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 Неизвестная_Россия,https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Нижний_Новгород_24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
@@ -5149,6 +5132,7 @@ National_Gold_TV_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UC1SeIQsJZS
 Nativa_(720p)_[Not_24/7],https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 Nativa_TV_(720p),https://mediacpstreamchile.com:1936/nativa3/nativa3/playlist.m3u8
 Nativa_TV_Satipo_(720p)_[Not_24/7],https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+Navo_(480p),http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
 Nayarit_Comunica,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 NBC_2_Tulsa_OK_(KJRH)_(720p),https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 NBC_3_Sacramento_CA_(KCRA)_(720p),https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
@@ -5156,9 +5140,18 @@ NBC_5_Colorado_Springs_CO_(KOAA)_(720p),https://apollo.production-public.tubi.io
 NBC_5_Seattle_WA_(KING-DT1)_(1080p),https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
 NBC_8_Salinas_CA_(KSBW)_(720p),https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
 NBC_12_Helena_MT_(KTVH)_(720p),https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8
+NBC_TV_(1080p)_[Not_24/7],https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
 NBC_West_(San_Diego)_(1080p)_[Not_24/7],https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+NBT_2HD_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
+NBT_11_Central_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+NBT_World_(720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 NCI_(1080p),https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 NCM_Main_Channel,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_001/playlist.m3u8
+NDR_Fernsehen_International_(720p),https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+NDR_Hamburg_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+NDR_Mecklenburg-Vorpommern_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+NDR_Niedersachsen_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+NDR_Schleswig-Holstein_(720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 NDTV_Criciuma_(720p),https://caikron.com.br:19360/criciuma/criciuma.m3u8
 NET_TV_(720p),https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 NETALKOLE_TV_(720p)_[Not_24/7],https://watch.haitilive.net/naktvhd/index.m3u8
@@ -6695,7 +6688,7 @@ ABC_8_Portland_ME_(WMTW)_(720p),https://apollo.production-public.tubi.io/live/ac
 ABC_16_Jackson_MS_(WAPT)_(720p),https://apollo.production-public.tubi.io/live/ac-wapt.m3u8
 ABC_22_Savannah_GA_(WJCL)_(720p),https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
 ABC_25_West_Palm_Beach_FL_(WPBF)_(720p),https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
-ABC_News_Australia_(720p),https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC_News_Australia_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 ABC_News_Live,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 ABC_News_Live_1_(720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 ABC_News_Live_2_(720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
@@ -7204,6 +7197,8 @@ NBC_8_Lancaster_PA_(WGAL)_(720p),https://apollo.production-public.tubi.io/live/a
 NBC_12_Winston-Salem_NC_(WXII)_(720p),https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 NBC_News_NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 NCTV_(1080p),https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+NDTV_24X7_(480p)_[Not_24/7],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+NDTV_India_(480p)_[Not_24/7],https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 Ñemby_Noticias_HD_(720p),https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
 Neser_TV_(1080p),https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
 Net2_TV_(360p)_[Not_24/7],https://ythls.armelin.one/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
@@ -7595,6 +7590,7 @@ MOSOBR.TV_(720p),http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 Multizonas_TV_(720p),https://cloudvideo.servers10.com:8081/8068/index.m3u8
 Napa_Valley_TV_Education_Access_Channel_27_(480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 Nashua_ETV_Channel_22_Nashua_NH,https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+NBS_Korea_Agricultural_Broadcasting_(720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 Nihon_Gakko_TV_(720p)_[Not_24/7],https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8
 Oceanside_Community_Television_(KOCT)_Education_and_Government_Channel_19_(720p),https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
 Once_México_(1080p),https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -8653,7 +8649,9 @@ MV_Lao_TV,https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 My_TV,http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 myTV_San_Antonio_TX_(KCWX-TV)_(720p)_[Not_24/7],http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 MyTVplus_(Dresden)_(576p),https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+Nazali's_HDTV_(1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+NBS_TV,http://197.239.30.29/readymedia/stream/tvnbs_tv/20-hls/live-media.m3u8
 NCV_(720p),http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 Negah_TV_(720p),https://iptv.negahtv.com/negahtv/playlist.m3u8
 NewSignal_(1080p),https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
@@ -9745,6 +9743,7 @@ Monterrico_TV_(1080p)_[Not_24/7],https://ed3od.live.opencaster.com/jcpstream_hd7
 More_Than_Sports_TV_(1080p),https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 Multivisión_Sports_(720p)_[Not_24/7],https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 MUTV_(720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+Nautical_Channel_(720p),https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 NBA_TV_(480p),https://tx2.nexgen.bz/NBA/index.m3u8
 NBC_Golf_(480p),https://tx1.nexgen.bz/GOLF/index.m3u8
 NFL_Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
@@ -10365,6 +10364,7 @@ Spike_Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 Voyager_Documentaries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1024-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7ab6188-0ea8-4038-b8e2-2865d3dcabd9
 История,http://31.148.48.15/Istoriya/index.m3u8
 Нано_ТВ_HD,http://s1.tv-nano.com/Nano_rec/index.m3u8
+Наука_2.0,http://stream01.vnet.am/Nauka/mono.m3u8
 
 General;Religious,#genre#
 AssyriaSat_(720p)_[Not_24/7],http://66.242.170.53/hls/live/temp/index.m3u8
