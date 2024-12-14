@@ -384,7 +384,7 @@
 | 378 | [BD]canal catorce | stream1.freetv.fun | <https://stream1.freetv.fun/b39605a9207f7d7ca63f673a881887d6fa1f01d56c205176f039ff2c4e2b5c9c.m3u8> |
 | 379 | [VGA]las estrellas | stream1.freetv.fun | <https://stream1.freetv.fun/ae111f24c0db3e3b9e80b09c605aa3081b8b8d31d89d3093334491ae80a92c57.m3u8> |
 | 380 | [HD]canal multivision | stream1.freetv.fun | <https://stream1.freetv.fun/56750e7168cfbef3ddfeecc67ae850a2f8d55dca67ce739aa8a258c564ab68bc.m3u8> |
-| 381 | [HD]canal plus foot360web | stream1.freetv.fun | <https://stream1.freetv.fun/a95adb4c9768bc7056f4c2934954ca74bac45263a01c7a6e9fa8033ea612f96e.ctv> |
+| 381 | [BD]canal plus foot360web | stream1.freetv.fun | <https://stream1.freetv.fun/a95adb4c9768bc7056f4c2934954ca74bac45263a01c7a6e9fa8033ea612f96e.ctv> |
 | 382 | [VGA]canal 2 | stream1.freetv.fun | <https://stream1.freetv.fun/50c4b6e5cacfb54e9049c533c95bb6a2648d5dbb92f75d65ec528b26507fbe14.m3u8> |
 | 383 | [VGA]canal plus action | stream1.freetv.fun | <https://stream1.freetv.fun/1608a23ddb5cfe9003ebadfd575ebe8299f52d75ffda72508e36f2fc07f81184.ctv> |
 | 384 | [VGA]canal plus sport | stream1.freetv.fun | <https://stream1.freetv.fun/3ac989346ef1f8db4b9d36ea7d6242ba7ad28d6fcc02de85ecfc51b1ab53c01d.ctv> |
@@ -2100,4 +2100,4 @@
 | 2094 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2095 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Dec 14 2024 12:06:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 14 2024 14:03:55 GMT+0000 (Coordinated Universal Time)**
