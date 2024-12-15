@@ -1540,7 +1540,7 @@
 | 1534 | [VGA]trust tv | stream1.freetv.fun | <https://stream1.freetv.fun/6c358f4a6671c557a7876073111bd57fe0deea2d1a69b10cdc3908e446b8853c.m3u8> |
 | 1535 | [HD]super tv | stream1.freetv.fun | <https://stream1.freetv.fun/3c4d05f041c203d8c78b33936a60aa0517fb972f5007f696a664630be0fa8db5.m3u8> |
 | 1536 | [HD]rtv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/6527d77347a0625f89daf01642b6e8fc6040c232e9a2915bf38c1d876e324755.m3u8> |
-| 1537 | [BD]himlen tv7 | stream1.freetv.fun | <https://stream1.freetv.fun/b85aa660db422a34d299c2f84629d8afcd4693df80eee5fdf3224ed8dc54d551.m3u8> |
+| 1537 | [HD]himlen tv7 (se) | stream1.freetv.fun | <https://stream1.freetv.fun/7465c6c3c1604c38e65cd2886f704b3ec194af9af9465d8cacdb48d94535e05a.m3u8> |
 | 1538 | [BD]tvn | stream1.freetv.fun | <https://stream1.freetv.fun/c99c2a8e453e79685525b1146c39b0b5283ccebb2fa4749ebc77dc78afc178ed.m3u8> |
 | 1539 | [HD]tvone | stream1.freetv.fun | <https://stream1.freetv.fun/0beb077a21dc48d194838ee5ff85b1da626363286d021822baf48554ce95d626.m3u8> |
 | 1540 | [HD]Vtm | stream1.freetv.fun | <https://stream1.freetv.fun/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8> |
@@ -1570,7 +1570,7 @@
 | 1564 | [SD]музыка первого | stream1.freetv.fun | <https://stream1.freetv.fun/6e445c906dedbd1e4967e50a97a98d61bf15e3f0c3a660c90b3ad4731b0ee53b.m3u8> |
 | 1565 | [SD]ника тв | stream1.freetv.fun | <https://stream1.freetv.fun/8b000fcf2571c3aa8f45dad3940296472235fc65e29a9377341f330c61e01478.m3u8> |
 | 1566 | [VGA]мир | stream1.freetv.fun | <https://stream1.freetv.fun/c18046c445894affb04dcd1a44ee416f4780305c1d3ef5e66e00daf56dbfa3f9.m3u8> |
-| 1567 | [BD]нтв | stream1.freetv.fun | <https://stream1.freetv.fun/09ceaa13e6a9381263ff2ed411453737b79ede3b54a59fdeec8a60f178400586.m3u8> |
+| 1567 | [BD]нтв | stream1.freetv.fun | <https://stream1.freetv.fun/9d06496b785609d5b83429e4583c91dba3843223e7ed1727798cc9ef42e17d53.m3u8> |
 | 1568 | [HD]vf сериал | stream1.freetv.fun | <https://stream1.freetv.fun/f9f4c78dcc6c77211f552f74097b034f25760c606d9acaff649d445c66c662d4.m3u8> |
 | 1569 | [BD]нтн hd | stream1.freetv.fun | <https://stream1.freetv.fun/921e3e06004a0a83a5d84a7b27e2adc6f858ddfddebc129adc6431a5eb1dd0da.m3u8> |
 | 1570 | [SD]просвещение | stream1.freetv.fun | <https://stream1.freetv.fun/e8c6529d01e2a71c319c5281d584bd3780f9af846e057a8c3c286a55170b0972.m3u8> |
@@ -2096,4 +2096,4 @@
 | 2090 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2091 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Dec 15 2024 10:04:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 15 2024 12:06:01 GMT+0000 (Coordinated Universal Time)**
