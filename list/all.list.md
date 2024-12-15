@@ -287,7 +287,7 @@
 | 281 | [SD]cctv-5体育 | stream1.freetv.fun | <https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.m3u8> |
 | 282 | [VGA]cctv法语 | stream1.freetv.fun | <https://stream1.freetv.fun/ad1197ab2f3ff0c598ad85bb45587afa2adccbe20e2d5fb21c32480a20c14dd5.ctv> |
 | 283 | [HD]cctv戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/1bd265d2645c448be9e732d7492a13e083262c323c54b50375beb99065e4f5ea.m3u8> |
-| 284 | [BD]cctv-1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/a889719f1fad87b0acb7a227b6b20250cf3636435d50076bf4a134f26e0b2c5a.m3u8> |
+| 284 | [BD]cctv-1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/95c70e53c47b0cb90051b94dcd57f11feedcf44e7c713baeb05127b5c424a1b3.m3u8> |
 | 285 | [BD]cctv1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/f8b77654ee5202e90044771d42c97306dee3fac5acd35b60e23652873790de01.ctv> |
 | 286 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/6f4489c5bc615294be1c5af5c9abd1f0b3d4e9728da4a010e6385f2ca11facb0.m3u8> |
 | 287 | [BD]cctv11[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/b080c852cb9670eadf04695aab611f33f4519bde026b7ac507c3001ca818ff01.m3u8> |
@@ -2097,4 +2097,4 @@
 | 2091 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2092 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Dec 15 2024 06:05:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 15 2024 08:04:53 GMT+0000 (Coordinated Universal Time)**
