@@ -1234,7 +1234,6 @@ Netlink_TV_(720p),https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 Next_TV_(1080p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 NHK_World_News_(French_Subs)_(720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
-NHTV_(720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 Nick_Danger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f51e6c34d6f40007f992a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1165-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7bb1fc8f-79c8-4723-a254-ea8861a1e55c
 Nick_Jr._Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
 Nick_Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1166-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13c43849-7db8-4ef1-bfef-74e513441e1a
@@ -7236,7 +7235,6 @@ NewsNet_(720p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1
 Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 NH_Niews_(1080p),https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 NHK_Chinese_Vision_(720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NHK_World_Premium_(720p)_[Not_24/7],https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 Niigata_News_NST_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 NMás_(1080p),https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 NNVeracruz_(640p),https://s.emisoras.tv:8081/nnveracruz/index.m3u8
@@ -8653,6 +8651,8 @@ NCV_(720p),http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 Negah_TV_(720p),https://iptv.negahtv.com/negahtv/playlist.m3u8
 Netmax_TV_(720p)_[Not_24/7],http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 NewSignal_(1080p),https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
+NHK_World_Premium_(720p)_[Not_24/7],https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+NHTV_(720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 Ning_TV_(720p),https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 Nos_Païs_(720p)_[Not_24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 NUBAR_Plus_TV_(720p),http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
