@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -507,4 +507,4 @@
 | 501 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 502 | Shanghai Education Television Station | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1033_1.m3u8> |
 
-Updated at **Sun Dec 15 2024 22:03:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 16 2024 00:18:13 GMT+0000 (Coordinated Universal Time)**
