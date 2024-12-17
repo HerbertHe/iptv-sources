@@ -1426,7 +1426,7 @@
 | 1420 | [BD]tvn | stream1.freetv.fun | <https://stream1.freetv.fun/f3482eeeec804041ddcae633d48beb52be0358c4111b79c2edcff85459566dc9.m3u8> |
 | 1421 | [HD]t-sports | stream1.freetv.fun | <https://stream1.freetv.fun/6ff4be69b4cc460c95f00d462d9337a425abb4c95b62622055fa3a9441cd5ace.ctv> |
 | 1422 | [HD]4u tv | stream1.freetv.fun | <https://stream1.freetv.fun/e3a05b495dfa8196750b1a5f7b5b4d92e0ab9fef0bb24ccd3c879eb8100a47f0.m3u8> |
-| 1423 | [HD]universal monsters | stream1.freetv.fun | <https://stream1.freetv.fun/b8a04a73afdffb2fdf89308557218d4809fc989f5f9eae744287771eb371e37a.m3u8> |
+| 1423 | [HD]universal crime | stream1.freetv.fun | <https://stream1.freetv.fun/9dc52317f89379094d7316146d9820e432d81151ecf6259b671bc64489fb4099.m3u8> |
 | 1424 | [HD]universal tv | stream1.freetv.fun | <https://stream1.freetv.fun/13f487d15b7ed183dcae61edf54f29b429e9d1aa2f2efbebc229d42d65534b09.m3u8> |
 | 1425 | [HD]univision | stream1.freetv.fun | <https://stream1.freetv.fun/b4218446b6a7e62b49a516f90141ea9b665ea785207cf0e9b52c76128229a5df.m3u8> |
 | 1426 | [SD]4fun.tv | stream1.freetv.fun | <https://stream1.freetv.fun/5201ea81a46b90be3936a40d44ac2220f0f5f407bfffc3148adf657b4acbaa9b.m3u8> |
@@ -2109,4 +2109,4 @@
 | 2103 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2104 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Dec 17 2024 04:05:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 17 2024 06:05:54 GMT+0000 (Coordinated Universal Time)**
