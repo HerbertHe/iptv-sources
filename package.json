@@ -10,6 +10,7 @@
     "dev": "cross-env NODE_ENV=development tsup --watch",
     "build": "tsup",
     "m3u": "node ./dist/index.js",
+    "static": "cp public/index.* m3u/",
     "serve": "node ./dist/serve.js",
     "serve:dev": "nodemon ./dist/serve.js",
     "matrix": "node ./dist/matrix.js",
