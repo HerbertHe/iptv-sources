@@ -16869,6 +16869,12 @@
 	<programme channel="咪咕综合体育" start="20260524193000 +0800" stop="20260524211000 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第34轮 巴黎FC-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260524211500 +0800" stop="20260524212500 +0800">
+		<title lang="zh">射正指南</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260524213000 +0800" stop="20260524000000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第38轮 水晶宫-阿森纳 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16946,6 +16952,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260524203500 +0800" stop="20260524221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G2 山东蜜獾-上海玄鸟</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260524222000 +0800" stop="20260524000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G2 山东赤水河酒-新疆天山</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -55836,6 +55845,9 @@
 	<programme channel="newtv超级体育" start="20260524193000 +0800" stop="20260524213000 +0800">
 		<title lang="zh">2026中国足球超级联赛-第14轮(山东泰山-武汉三镇)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260524213000 +0800" stop="20260524230000 +0800">
+		<title lang="zh">2026年法国网球公开赛-第1轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -55883,6 +55895,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260524203700 +0800" stop="20260524221800 +0800">
 		<title lang="zh">画江湖之天罡</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260524221800 +0800" stop="20260524234400 +0800">
+		<title lang="zh">硬汉2：奉陪到底</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -55970,6 +55985,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260524205800 +0800" stop="20260524213900 +0800">
 		<title lang="zh">27_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260524213900 +0800" stop="20260524222700 +0800">
+		<title lang="zh">28_庆余年第二季</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -56615,6 +56633,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260524204700 +0800" stop="20260524213100 +0800">
 		<title lang="zh">20_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260524213100 +0800" stop="20260524220100 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260524220100 +0800" stop="20260524224500 +0800">
+		<title lang="zh">21_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
