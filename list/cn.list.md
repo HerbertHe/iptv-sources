@@ -319,4 +319,4 @@
 | 313 | [BD]黑龙江卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv> |
 | 314 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/7231358b510145c7e360795559c8c999a54700cc2503a465188e211682ce3903.m3u8> |
 
-Updated at **Mon May 25 2026 16:20:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 25 2026 19:25:53 GMT+0000 (Coordinated Universal Time)**
