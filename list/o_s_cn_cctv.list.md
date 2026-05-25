@@ -8,4 +8,4 @@
 | 2 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
 | 3 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
 
-Updated at **Mon May 25 2026 08:18:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 25 2026 12:58:30 GMT+0000 (Coordinated Universal Time)**
