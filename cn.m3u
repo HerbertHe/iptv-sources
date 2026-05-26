@@ -79,8 +79,6 @@ https://stream1.freetv.fun/b913bb1fda12ea8585e8ee9d534fb40f67c371a1eb95564c10d82
 https://stream1.freetv.fun/2b45ab26788c821401371dbf86a901788c370be24c871d66c9f0e0e38a26997f.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/02/26/large/20260226032425495400_69.jpg" group-title="电影",[VGA]chc影迷电影
 https://stream1.freetv.fun/7e5bfba7669a360f9ceee2e2641ca7d527e551e211009ec569fca31d4689919d.ctv
-#EXTINF:-1 tvg-name="Chch TV" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/04/04/large/20240404030011355399_94.jpg" group-title="综合",[VGA]chco-tv (720p)
-https://stream1.freetv.fun/7608a43dcecbfd2f834df9a3fc3c37d73169f072134c18ad81e2945d53fddc17.m3u8
 #EXTINF:-1 tvg-name="FH Channel" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211935282486_63.png" group-title="电影",[VGA]nfl channel
 https://stream1.freetv.fun/21b7b4f8d97fdb6025fed4dc764233ab370b67896565893a7ee47d61acaff66b.m3u8
 #EXTINF:-1 tvg-name="三明新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101002131666296_98.jpg" group-title="新闻",[SD]三明新闻综合
@@ -125,7 +123,7 @@ https://stream1.freetv.fun/acdb0c67bd1e814d27ae5f8d31376a50f348b0a028df08c99c149
 https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061107039210_54.png" group-title="其它",[BD]兵团卫视
 https://stream1.freetv.fun/7690729e43cd485b88bcedccb7455292214b740fb52ed0895fe85a03066b9631.ctv
-#EXTINF:-1 tvg-name="刘德华" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png" group-title="电影",[VGA]刘德华
+#EXTINF:-1 tvg-name="刘德华" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png" group-title="电影",[SD]刘德华
 https://stream1.freetv.fun/77c55891906e7d7fc960759c42c395c7d290d5f7cb402625278314b691d0c3f6.ctv
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728160943951323_78.png" group-title="儿童",[SD]动漫秀场
 https://stream1.freetv.fun/92770c17901d40448d85aff2a2a1a7d5df7bc2d11a45e6c1aeb260b8172f99fe.ctv
