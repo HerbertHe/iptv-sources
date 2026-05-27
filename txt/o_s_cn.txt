@@ -7,7 +7,7 @@ Bingtuan_Satellite_TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 Bread_TV面包台_(720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 BRTV_Kaku_Childrens_Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV_Science_&_Education_Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-BRTV_北京卫视_[Not_24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+BRTV_北京卫视_(1080p),http://go.bkpcp.top/mg/bjws
 CCTV-10_(720p),http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11_(720p),http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12_(720p),http://74.91.26.218:82/live/cctv12hd.m3u8
@@ -16,17 +16,18 @@ CCTV-14_(1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15_(720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16_(1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17_(1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV-1_(720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1_(1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-2_(720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3_(720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4_(720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4K_(1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5_(720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+_(720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6_(1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7_(720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8_(720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K_(1080p),http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV-9_(576i),https://xykt-fix.github.io/Y77.m3u8
-CCTV-5+_(720p),http://192.151.150.154/live/cctv5p.m3u8
 CETV1_(576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
@@ -260,6 +261,7 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 江西卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 河北公共,http://121.19.134.246:808/hls/24/index.m3u8
 河北农民,http://121.19.134.246:808/hls/25/index.m3u8
+Hebei_TV_(2160p),https://event.pull.hebtv.com:443/live/live101.m3u8
 河北卫视_(2160p),http://118.81.195.79:9003/hls/29/index.m3u8
 河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 河北经济,http://121.19.134.246:808/hls/20/index.m3u8
