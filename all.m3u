@@ -673,6 +673,8 @@ https://stream1.freetv.fun/dbde4db34c80d50363cf6cce549f2103f3ebc0a5b13765774f0f9
 https://stream1.freetv.fun/7774b4abc9792d967fdf58434e0be114bcb3a89ff1996474e7a6eb4ec002fb4c.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="Other",[HD]cetv1
 https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.ctv
+#EXTINF:-1 tvg-name="CGCTV" tvg-id="" tvg-country="Canada" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/22/20140822124316882229_60.jpg" group-title="News",[BD]cctv-4k超高清
+https://stream1.freetv.fun/9b162a22e9fac0d523e41dd37ffa325f2860e3b6405237248a5e8e5ea1503fb9.ctv
 #EXTINF:-1 tvg-name="CGNTv (Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719182810808946_76.png" group-title="Other",[BD]cgntv japan
 https://stream1.freetv.fun/be87d8db8d2f3d934589fcc35f6e3bc413e947818b79f0e2aec1aa3e055c862f.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-country="China" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="News",[HD]cgtn
@@ -1873,7 +1875,7 @@ https://stream1.freetv.fun/c724ea025d8f1709ed3bd404fe6b5cca80a4ee7368c203e06e6db
 https://stream1.freetv.fun/e7451e13c25669937e7cc012da5ee8d9ac72450cd67f0c057d920aff064cb07a.ctv
 #EXTINF:-1 tvg-name="Mongolia HD" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2018/12/13/large/20181213203026481946_31.png" group-title="Entertainment",[VGA]cnbc mongolia
 https://stream1.freetv.fun/cf2e7b65afad32cff68e8eb14cc04ac6f0e21a0711f8711a4b3f573a316f53df.m3u8
-#EXTINF:-1 tvg-name="Mongolia TV 10" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220501249299_43.png" group-title="Generic",[BD]10 tv
+#EXTINF:-1 tvg-name="Mongolia TV 10" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220501249299_43.png" group-title="Generic",[HD]10 tv
 https://stream1.freetv.fun/5105247f84b8545a87fcc042d402d6282cc5e5dba0a3cc1a16ac2134f8b36934.m3u8
 #EXTINF:-1 tvg-name="Motorsz TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513070301580726_30.png" group-title="Sports",[HD]motori tv
 https://stream1.freetv.fun/f38fb80e370ea05db557e6b7f6d92b8ad6a10a65d4ac84ac8ceefb9ead8fbfdc.m3u8
@@ -2061,8 +2063,6 @@ https://stream1.freetv.fun/f098498f5c9e92fa90df17a1306a9f766f64f811bf9a3423d248d
 https://stream1.freetv.fun/93d0ba8749fd817848b429f110c82d8060b2266198c8d6afc8343f55f5e86a43.m3u8
 #EXTINF:-1 tvg-name="Nova" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020656023544_31.png" group-title="Other",[HD]tv nova
 https://stream1.freetv.fun/1b26c18c0ec48830efc4ca960f793a38d626d4da41960532d87c3ee45ee80aa2.m3u8
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="" tvg-country="Hong Kong" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Sports",[BD]now sports2
-https://stream1.freetv.fun/5f417da74760a82c6a92172a24ecd5749be0f7feaadf47611747b278080a4e4c.m3u8
 #EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="Generic",[HD]window tv
 https://stream1.freetv.fun/b8efbdb70b251492eb6822a4f07cea14236221c9447b1a115558c19763495edd.m3u8
 #EXTINF:-1 tvg-name="Number 1 Türkiye" tvg-id="" tvg-country="Türkiye" tvg-language="Turkish" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]number 1 ask
@@ -3319,14 +3319,10 @@ https://stream1.freetv.fun/da11da2f0b761555553e103b1fb24ab757a348f2deab804114725
 https://stream1.freetv.fun/ab97196171a4b035371deab643986be304c0398871039f0e111a9c12d49edc8f.m3u8
 #EXTINF:-1 tvg-name="news channel" tvg-id="" tvg-country="Türkiye" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/01/20170101041205293342_50.png" group-title="News",[BD]black news channel (1080p)
 https://stream1.freetv.fun/ec9ea40635028a32b118ae9ef779073dd94968672764ac94b49f0f4465274db3.m3u8
-#EXTINF:-1 tvg-name="now Sports 3" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="Sports",[BD]now sports3
-https://stream1.freetv.fun/6f890ef8facd2c9ccff734087bf5ccfee04c532ccd3dafa793dc9ab3bf156005.m3u8
-#EXTINF:-1 tvg-name="now Sports 4" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2026/01/13/large/20260113013110107610_19.png" group-title="Sports",[BD]now sports4
-https://stream1.freetv.fun/65dec3993d4372d1707a47abf6a2cbf94c46bf003ef0a0cd1278ad687e21e45e.m3u8
 #EXTINF:-1 tvg-name="now Sports 5" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210145067447_75.png" group-title="Sports",[BD]now sports英超5
 https://stream1.freetv.fun/398fd2e6043520879bbf8074dc20cc9e7269a636f7b2e05e7b021a59160a67bd.m3u8
-#EXTINF:-1 tvg-name="now Sports 6" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/" group-title="Sports",[BD]now sports6
-https://stream1.freetv.fun/5f6ba72ef9c273fac5e7bc831b52fa1f4b70a04804b05b0297dd4d7d6a4fcd9b.m3u8
+#EXTINF:-1 tvg-name="now Sports 6" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/" group-title="Sports",[BD]now sports英超6
+https://stream1.freetv.fun/56bf9bafaa0a0164f2eb6f57de4b52361e2c5d31ac0a31800e1ff59223f13c92.m3u8
 #EXTINF:-1 tvg-name="now Sports HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="Sports",[BD]nbc sports now
 https://stream1.freetv.fun/259f8cf0c66ab8638ca593f2d185133facfc4ec0c5d6306e1188fe42440e0fcc.m3u8
 #EXTINF:-1 tvg-name="now Sports Prime" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417233413534041_33.jpg" group-title="Sports",[HD]prime
