@@ -99,4 +99,4 @@
 | 93 | 兵团卫视 | 兵团在线网站 | <https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8> |
 | 94 | 海南卫视 | jxcbn.ws-cdn.gitv.tv | <http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws> |
 
-Updated at **Thu May 28 2026 07:54:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 28 2026 11:35:56 GMT+0000 (Coordinated Universal Time)**
