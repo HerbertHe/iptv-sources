@@ -4433,7 +4433,6 @@ hr-fernsehen_HD,https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 HRT_1_HD_(1080p),https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 HRT_2_HD_(1080p),https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 HTR_TV_(720p),https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
-HTV1_(720p),https://vc.101vn.com/htv/htvcmb.php?id=2631
 HTV7_HD_(1080p),https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8
 Huasco_Televisión_(360p),https://paneltv.online:1936/8024/8024/playlist.m3u8
 Huelva_TV_(720p),https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
@@ -6560,7 +6559,6 @@ Access_Media_Productions_Community_Channel_(720p),https://dlttx48mxf9m3.cloudfro
 Afro_Magic_Channel,https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
 Afroculture_TV,https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 Amani_TV_(1080p)_[Not_24/7],https://goccn.cloud/hls/amanitv/index.m3u8
-ART_(1080p),https://1a-1791.com/live/qt9k24wa/slot-55/2k5m-t871_1080p/playlist.m3u8
 AsiriTV_(720p)_[Not_24/7],https://video2.lhdserver.es/asiritv/live.m3u8
 Aurora_Arte_(480p),https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 Bali_TV_(540p),https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
@@ -6704,6 +6702,7 @@ arte_HD,https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 ARY_Zindagi_(576p),http://115.42.65.142:9981/stream/channelid/1064070262
 AsianCrush_(1080p),https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 Asianet_Middle_East_(576p),https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+ATM_Rozrywka_REWORK_(1080p),https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 AVT_Khyber_(1080p),http://115.42.65.142:9981/stream/channelid/1380586642
 B+_TV_(480p),https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
 Bacán_Te_Veo_(360p),https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
@@ -7210,7 +7209,7 @@ Al_Horreya_TV_(1080p),http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3
 Al_Maaref_TV_(1080p),https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 Al_Quran_Al_Kareem_TV_(1080p),https://aloula-redirect.vercel.app/7/playlist.m3u8
 Al_Rafidain_(720p)_[Not_24/7],https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
-Al_Sunnah_Al_Nabawiyah_TV_(720p),http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+Al_Sunnah_Al_Nabawiyah_TV_(1080p),https://aloula-redirect.vercel.app/6/playlist.m3u8
 Al_Wilayah_(720p),https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 Al-Aimma_TV_(1080p),https://alaimma.tv/live/index.m3u8
 Al-Bahjah_TV_(1080p),http://202.150.161.117:8000/play/AlBahjahTV
@@ -9012,6 +9011,9 @@ K19,https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 KCMN-LD6_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 KHL_(720p),http://31.148.48.15/KHL_TV/index.m3u8
 KHL_Prime_(720p),http://31.148.48.15/KHL_TV_HD/index.m3u8
+KSA_Sports_1_(1080p),https://aloula-redirect.vercel.app/9/playlist.m3u8
+KSA_Sports_2_(1080p),https://aloula-redirect.vercel.app/10/playlist.m3u8
+KSA_Sports_3_(1080p),https://aloula-redirect.vercel.app/16/playlist.m3u8
 KTV_Sport_(1080p),https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 KTV_Sport_Plus_(1080p),https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 L1_Max_(720p),https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
@@ -10337,6 +10339,7 @@ Retrox_TV_(720p)_[Not_24/7],https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCH
 Samuel_Goldwyn_Classics_(1080p),https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 The_Archive_(1080p),https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 The_Carol_Burnett_Show_(1080p),https://carolburnett-vizio.amagi.tv/playlist.m3u8
+Thikrayat_TV_(1080p),https://aloula-redirect.vercel.app/3/playlist.m3u8
 TVN3_(1080p),https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 TVS_Cipher_Network_(360p),https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 TVS_Classic_Movies_(288p),https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
@@ -10473,7 +10476,7 @@ GZT_(1080p),https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 Сити_Эдем_КиноДок_[Not_24/7],https://cityeden.catcast.tv/content/38354/index.m3u8
 
 Entertainment;General;Series,#genre#
-HTV3_(720p),https://vc.101vn.com/htv/htvcmb.php?id=2535
+HTV3,https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8
 
 Cooking;Shop,#genre#
 In_the_kitchen_(720p),https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
