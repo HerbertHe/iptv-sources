@@ -59838,6 +59838,9 @@
 	<programme channel="newtv超级综艺" start="20260530184900 +0800" stop="20260530200600 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260530200600 +0800" stop="20260530212300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59895,6 +59898,12 @@
 	<programme channel="newtv超级体育" start="20260530183000 +0800" stop="20260530193000 +0800">
 		<title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260530193000 +0800" stop="20260530200000 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第38轮集锦(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260530200000 +0800" stop="20260530220000 +0800">
+		<title lang="zh">2026中国足球超级联赛-第15轮(重庆铜梁龙-北京国安)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59936,6 +59945,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260530181500 +0800" stop="20260530194800 +0800">
 		<title lang="zh">袁天罡之异域妖踪</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260530194800 +0800" stop="20260530211800 +0800">
+		<title lang="zh">战狼</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60014,6 +60026,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260530184200 +0800" stop="20260530192900 +0800">
 		<title lang="zh">49_金婚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530192900 +0800" stop="20260530201500 +0800">
+		<title lang="zh">04_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530201500 +0800" stop="20260530210100 +0800">
+		<title lang="zh">05_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530210100 +0800" stop="20260530214600 +0800">
+		<title lang="zh">06_雁回时</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60650,6 +60671,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260530185600 +0800" stop="20260530194200 +0800">
 		<title lang="zh">09_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530194200 +0800" stop="20260530201200 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530201200 +0800" stop="20260530205700 +0800">
+		<title lang="zh">10_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530205700 +0800" stop="20260530212700 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
