@@ -17904,6 +17904,12 @@
 	<programme channel="咪咕综合体育" start="20260531211500 +0800" stop="20260531214000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260531214000 +0800" stop="20260531215500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531221000 +0800" stop="20260531235000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第38轮 托特纳姆热刺-埃弗顿</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17990,6 +17996,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260531203500 +0800" stop="20260531221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G3 合肥狂风-上海玄鸟</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531221000 +0800" stop="20260531222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531222000 +0800" stop="20260531000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季总决赛G2 山西竹叶青酒-四川蜀道远达</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59958,6 +59970,9 @@
 	<programme channel="newtv超级体育" start="20260531193000 +0800" stop="20260531213000 +0800">
 		<title lang="zh">2025/2026赛季中国男子篮球职业联赛-总决赛 浙江浙商证券VS上海久事 第三场</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260531213000 +0800" stop="20260531230500 +0800">
+		<title lang="zh">2026年法国网球公开赛-第4轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60008,6 +60023,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260531203900 +0800" stop="20260531220600 +0800">
 		<title lang="zh">速度与激情</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260531220600 +0800" stop="20260531000700 +0800">
+		<title lang="zh">潜伏者</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60098,6 +60116,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260531205500 +0800" stop="20260531214500 +0800">
 		<title lang="zh">09_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531214500 +0800" stop="20260531223100 +0800">
+		<title lang="zh">14_青春之城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531223100 +0800" stop="20260531231600 +0800">
+		<title lang="zh">15_青春之城</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60742,6 +60766,12 @@
 		<title lang="zh">15_潜行者</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260531211000 +0800" stop="20260531214000 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531214000 +0800" stop="20260531222500 +0800">
+		<title lang="zh">16_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531222500 +0800" stop="20260531225500 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
