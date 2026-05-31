@@ -17859,6 +17859,24 @@
 	<programme channel="咪咕综合体育" start="20260531104500 +0800" stop="20260531113000 +0800">
 		<title lang="zh">英超精华-25/26赛季英超第37轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260531113500 +0800" stop="20260531115500 +0800">
+		<title lang="zh">中国榜样-肖国栋特辑（下）-信心可以战胜任何对手</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531120000 +0800" stop="20260531131500 +0800">
+		<title lang="zh">国球荣耀-2026国际乒联单打世界杯 男单决赛 王楚钦-松岛辉空</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531131500 +0800" stop="20260531132000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531132000 +0800" stop="20260531150000 +0800">
+		<title lang="zh">经典逆转时刻-曼联DNA主帅携核心队长 带队逆转</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531150000 +0800" stop="20260531151000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531151000 +0800" stop="20260531170000 +0800">
+		<title lang="zh">网球世界-2026WTA多哈站女单第1轮 郑钦文-肯宁</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17909,6 +17927,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260531104500 +0800" stop="20260531114500 +0800">
 		<title lang="zh">第十五届全运会 三人篮球半决赛决赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531115000 +0800" stop="20260531120000 +0800">
+		<title lang="zh">为城而战！河南焦作文旅男篮纪录片</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531120500 +0800" stop="20260531134000 +0800">
+		<title lang="zh">中国篮球时刻-2025女篮系列热身赛 第五场 中国女篮-澳大利亚女篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531135000 +0800" stop="20260531144000 +0800">
+		<title lang="zh">最后之舞04</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531144500 +0800" stop="20260531154500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59820,6 +59850,12 @@
 	<programme channel="newtv超级综艺" start="20260531111000 +0800" stop="20260531122700 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260531122700 +0800" stop="20260531135700 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260531135700 +0800" stop="20260531155400 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59853,6 +59889,21 @@
 	<programme channel="newtv超级体育" start="20260531110000 +0800" stop="20260531120000 +0800">
 		<title lang="zh">实况录像-2026年世界泳联高台跳水世界杯 美国站2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260531120000 +0800" stop="20260531123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260531123500 +0800" stop="20260531125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260531125500 +0800" stop="20260531140000 +0800">
+		<title lang="zh">2026年世界职业拳王争霸赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260531140000 +0800" stop="20260531150100 +0800">
+		<title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260531150100 +0800" stop="20260531163000 +0800">
+		<title lang="zh">2025/2026意大利足球甲级联赛-第38轮2(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59882,6 +59933,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260531110800 +0800" stop="20260531123400 +0800">
 		<title lang="zh">我爱冒牌机器女友</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260531123400 +0800" stop="20260531135500 +0800">
+		<title lang="zh">东北老丈人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260531135500 +0800" stop="20260531152300 +0800">
+		<title lang="zh">山海战纪2之怪兽之王</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59933,6 +59990,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260531105800 +0800" stop="20260531114100 +0800">
 		<title lang="zh">52_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531114100 +0800" stop="20260531122400 +0800">
+		<title lang="zh">53_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531122400 +0800" stop="20260531130700 +0800">
+		<title lang="zh">54_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531130700 +0800" stop="20260531135300 +0800">
+		<title lang="zh">20_无所畏惧之永不放弃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531135300 +0800" stop="20260531143800 +0800">
+		<title lang="zh">21_无所畏惧之永不放弃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531143800 +0800" stop="20260531152300 +0800">
+		<title lang="zh">22_无所畏惧之永不放弃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60530,6 +60602,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260531105500 +0800" stop="20260531112500 +0800">
 		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531112500 +0800" stop="20260531120900 +0800">
+		<title lang="zh">49_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531120900 +0800" stop="20260531123900 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531123900 +0800" stop="20260531132400 +0800">
+		<title lang="zh">07_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531132400 +0800" stop="20260531135400 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531135400 +0800" stop="20260531143900 +0800">
+		<title lang="zh">08_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531143900 +0800" stop="20260531152400 +0800">
+		<title lang="zh">09_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
