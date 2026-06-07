@@ -18162,6 +18162,12 @@
 	<programme channel="咪咕综合体育" start="20260607211500 +0800" stop="20260607214000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260607215000 +0800" stop="20260607220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260607220000 +0800" stop="20260607000000 +0800">
+		<title lang="zh">网球世界-2026WTA多哈站女单第2轮 帕克斯-郑钦文</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18242,6 +18248,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260607203500 +0800" stop="20260607221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G1 合肥狂风-长沙勇胜</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260607221000 +0800" stop="20260607222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260607222000 +0800" stop="20260607000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季排位赛 第3轮 北京首钢园-大连文体旅</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59868,6 +59880,9 @@
 	<programme channel="newtv超级综艺" start="20260607203000 +0800" stop="20260607225700 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260607225700 +0800" stop="20260607002200 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60068,6 +60083,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260607211100 +0800" stop="20260607215300 +0800">
 		<title lang="zh">07_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607215300 +0800" stop="20260607224000 +0800">
+		<title lang="zh">08_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607224000 +0800" stop="20260607232300 +0800">
+		<title lang="zh">09_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60716,6 +60737,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260607211200 +0800" stop="20260607214200 +0800">
 		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607214200 +0800" stop="20260607222700 +0800">
+		<title lang="zh">01_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607222700 +0800" stop="20260607225800 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607225800 +0800" stop="20260607234200 +0800">
+		<title lang="zh">02_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
