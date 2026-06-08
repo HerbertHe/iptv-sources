@@ -19,8 +19,6 @@ CCTV-2_(720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3_(720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4_Asia_(720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4K_(1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5_(1080p),http://192.151.150.154/live/cctv5hd.m3u8
-CCTV-5+_(720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6_(1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7_(720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8_(720p),http://74.91.26.218:82/live/cctv8hd.m3u8
@@ -66,7 +64,6 @@ VOA美国之音_(1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08
 Xinjiang_TV_1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
-Xinjiang_TV_5,http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
 Xinjiang_TV_8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 Xizang_TV_Tibetan_(720p)_[Not_24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
 Zhejiang_Satellite_TV,https://play-qukan.cztv.com/live/1758879019692345.m3u8
@@ -86,7 +83,6 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 云南_Ⅰ_文山公共台_(1080p),http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
 云南_Ⅰ_文山综合台_(1080p)_[Not_24/7],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 云南卫视_(1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-云南都市_(1080p),http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
 五星体育_(720p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 亚太台_(480p),http://174.127.67.246/live330/playlist.m3u8
 交城电视台_(576p),http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
