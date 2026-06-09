@@ -18183,6 +18183,18 @@
 	<programme channel="咪咕综合体育" start="20260609172000 +0800" stop="20260609190000 +0800">
 		<title lang="zh">足球世界-2026世界杯热身赛 阿根廷-洪都拉斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260609190000 +0800" stop="20260609214000 +0800">
+		<title lang="zh">足球世界-2026中国之队 国际足球邀请赛 中国-泰国 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260609214500 +0800" stop="20260609220500 +0800">
+		<title lang="zh">哨响之后-北京国安特辑-对话法比奥</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260609220500 +0800" stop="20260609221500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260609221500 +0800" stop="20260609000000 +0800">
+		<title lang="zh">网球世界-2025中国网球公开赛 女单决赛 诺斯科娃-阿尼西莫娃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18266,6 +18278,24 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260609170000 +0800" stop="20260609183500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第24轮 山东蜜獾-盐南苏科雄狮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609184500 +0800" stop="20260609190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609192000 +0800" stop="20260609193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609193000 +0800" stop="20260609203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609203000 +0800" stop="20260609203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609203500 +0800" stop="20260609221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G2 盐南苏科雄狮-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260609221000 +0800" stop="20260609222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60060,6 +60090,12 @@
 	<programme channel="newtv超级综艺" start="20260609173700 +0800" stop="20260609185400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260609185400 +0800" stop="20260609201100 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260609201100 +0800" stop="20260609231600 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60114,6 +60150,12 @@
 	<programme channel="newtv超级体育" start="20260609183000 +0800" stop="20260609193000 +0800">
 		<title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260609193000 +0800" stop="20260609213000 +0800">
+		<title lang="zh">2026中国之队国际足球邀请赛-中国-泰国</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260609213000 +0800" stop="20260609223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60155,6 +60197,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260609174000 +0800" stop="20260609190000 +0800">
 		<title lang="zh">特工追缉令</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260609190000 +0800" stop="20260609210000 +0800">
+		<title lang="zh">拆弹专家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260609210000 +0800" stop="20260609231000 +0800">
+		<title lang="zh">蜘蛛侠：英雄远征</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60236,6 +60284,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260609180300 +0800" stop="20260609184400 +0800">
 		<title lang="zh">09_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609184400 +0800" stop="20260609192600 +0800">
+		<title lang="zh">10_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609192600 +0800" stop="20260609200800 +0800">
+		<title lang="zh">11_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609200800 +0800" stop="20260609204900 +0800">
+		<title lang="zh">12_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609204900 +0800" stop="20260609213100 +0800">
+		<title lang="zh">15_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609213100 +0800" stop="20260609221600 +0800">
+		<title lang="zh">16_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609221600 +0800" stop="20260609230000 +0800">
+		<title lang="zh">17_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60869,6 +60935,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260609175000 +0800" stop="20260609183400 +0800">
 		<title lang="zh">08_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609183400 +0800" stop="20260609191700 +0800">
+		<title lang="zh">09_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609191700 +0800" stop="20260609194700 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609194700 +0800" stop="20260609203000 +0800">
+		<title lang="zh">10_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609203000 +0800" stop="20260609210000 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609210000 +0800" stop="20260609214400 +0800">
+		<title lang="zh">11_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609214400 +0800" stop="20260609222700 +0800">
+		<title lang="zh">12_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
