@@ -29,12 +29,10 @@ https://stream1.freetv.fun/8ba8cf30de17daf19d06727473112fadb66d94c9375cd93941e29
 https://stream1.freetv.fun/afe87116896f0b19c95113ae1c1985a58b3d15401bb3b97aaa750083157f033d.m3u8
 #EXTINF:-1 tvg-name="CCTV4 FHD" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="新闻",[SD]cctv4
 https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/02/16/large/20260216173959654419_73.png" group-title="综合",[BD]cctv-4k高清
-https://stream1.freetv.fun/0eff10b667ef8eba4d053feca5e108ec8dc7e6c563336b1d47c5e5e54b924d27.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001905740569_14.jpg" group-title="综合",[SD]cctv-4中文国际
 https://stream1.freetv.fun/eeac560cb2db13aa0ea2094ca16c2fde31ce7b721769652b927d23ff56e9dee4.ctv
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055001229701_29.jpg" group-title="综合",[HD]cctv-4 中文国际
-https://stream1.freetv.fun/4239df13e01855accfb134a140c37b8a812158cae19d0c6fde265a5018ff5109.m3u8
+https://stream1.freetv.fun/0d0d56ca038bbabf57a336177f57416a883150929c6a0b86cd8739e2e2073fd1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="运动",[BD]cctv5
 https://stream1.freetv.fun/accbf0e5bbc0632b079adca755b64e20a1ffa9589b1ed1146aadc6e8558f7c8d.m3u8
 #EXTINF:-1 tvg-name="CCTV5(h265)" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="运动",[BD]cctv5
@@ -43,8 +41,8 @@ https://stream1.freetv.fun/1fb11a4dfd0caa1d4b3cb3587d86139d1b1741d1aaa98e4d18e88
 https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8
 #EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001746078420_25.png" group-title="运动",[BD]cctv5 plus
 https://stream1.freetv.fun/46118cd0438ddbb2d6f349706132ced2104495cf4cf1019ef84d89465e048ca6.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png" group-title="电影",[BD]cctv-6
-https://stream1.freetv.fun/f6cbe35faa3e4318212bfab06cd6d21f5c3ebe80348db9a9d7d97be0fa974f05.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png" group-title="电影",[HD]cctv6hd
+https://stream1.freetv.fun/c5f8261f669afa6e6691018bf63048bab9c6f2cb56b0ea8c4f0aa8d37f73cbcf.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001726519561_49.png" group-title="其它",[SD]cctv7
 https://stream1.freetv.fun/b455a784117753f80bc07ced769e86993b97dca8be5a6c9df9f323016b04973e.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001717964200_12.png" group-title="电影",[BD]cctv8
