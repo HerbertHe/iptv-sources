@@ -26,7 +26,6 @@ jobs:
       - run: yarn install
       - run: yarn build
       - run: yarn m3u
-      - run: yarn matrix
 
       - name: "Jekyll theme"
         run: mv ./_config.temp.yml ./m3u/_config.yml
@@ -38,9 +37,3 @@ jobs:
           publish_dir: ./m3u
           enable_jekyll: true
           cname: m3u.ibert.me
-
-      - name: discord
-        uses: HerbertHe/discord-action@v1
-        with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          message: ${{ github.repository }} has been successfullly updated, see https://m3u.ibert.me to get more.
