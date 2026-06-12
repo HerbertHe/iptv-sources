@@ -20,7 +20,7 @@ Tonghua_TV_(1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa444215
 
 Undefined,#genre#
 Bread_TV面包台_(720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-CCTV-8K_(1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8K_(1080p),http://192.151.150.154/live/cctv8k.m3u8
 CCTV-Culture_of_Quality_(1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 Hunan_TV_(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Shenzhen_Satellite_TV_(2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
@@ -65,7 +65,7 @@ BRTV_北京卫视_(1080p),http://go.bkpcp.top/mg/bjws
 CCTV-1_(1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-4K_(1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 Guangzhou_TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-Hebei_TV_(2160p),https://event.pull.hebtv.com:443/live/live101.m3u8
+Hebei_TV_(2160p),https://event.pull.hebtv.com/live/live101.m3u8
 Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
@@ -104,7 +104,7 @@ CCTV-3_(720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 江苏综艺_(576p)_[Not_24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 
 Movies,#genre#
-CCTV-6_(1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-6_(1080p),http://69.30.245.50/live/cctv6.m3u8
 CCTV-Storm_Theater_(1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV-The_First_Theater_(1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 Harbin_Movie_Channel,https://stream.hrbtv.net/yspd/playlist.m3u8

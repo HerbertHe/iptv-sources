@@ -17,10 +17,10 @@
 | 11 | CCTV-2 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv2hd.m3u8> |
 | 12 | CCTV-3 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv3hd.m3u8> |
 | 13 | CCTV-4K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv4k.m3u8> |
-| 14 | CCTV-6 (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv6.m3u8> |
+| 14 | CCTV-6 (1080p) | IPv4 直链 | <http://69.30.245.50/live/cctv6.m3u8> |
 | 15 | CCTV-7 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv7hd.m3u8> |
 | 16 | CCTV-8 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv8hd.m3u8> |
-| 17 | CCTV-8K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv8k.m3u8> |
+| 17 | CCTV-8K (1080p) | IPv4 直链 | <http://192.151.150.154/live/cctv8k.m3u8> |
 | 18 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
 | 19 | CCTV-10 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv10hd.m3u8> |
 | 20 | CCTV-11 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv11hd.m3u8> |
@@ -48,7 +48,7 @@
 | 42 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 | 43 | Harbin Comprehensive News Channel | stream.hrbtv.net | <https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594> |
 | 44 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
-| 45 | Hebei TV (2160p) | event.pull.hebtv.com:443 | <https://event.pull.hebtv.com:443/live/live101.m3u8> |
+| 45 | Hebei TV (2160p) | event.pull.hebtv.com | <https://event.pull.hebtv.com/live/live101.m3u8> |
 | 46 | Home Plus | homeplushls.wns.live | <https://homeplushls.wns.live/hls/stream.m3u8> |
 | 47 | Hunan TV (2160p) | hlsal-ldvt.qing.mgtv.com | <http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8> |
 | 48 | Jiangxi Children's Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8> |
@@ -148,4 +148,4 @@
 | 142 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 143 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Thu Jun 11 2026 23:18:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 12 2026 03:40:27 GMT+0000 (Coordinated Universal Time)**
