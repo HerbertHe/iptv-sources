@@ -217,4 +217,4 @@
 | 211 | [SD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 | 212 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/801369b8eee6983587b79881b7cd7c5de7c90b20544f9eb004128d7fd7ae72a2.m3u8> |
 
-Updated at **Sun Jun 14 2026 15:48:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 14 2026 17:18:21 GMT+0000 (Coordinated Universal Time)**
