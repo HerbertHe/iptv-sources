@@ -433,7 +433,7 @@
 | 427 | [BD]moldova 1 | stream1.freetv.fun | <https://stream1.freetv.fun/233088474c5ec9d53bdb42b935f46e7d00142e43fd9672965f1af88099197413.m3u8> |
 | 428 | [BD]momo亲子 | stream1.freetv.fun | <https://stream1.freetv.fun/d693682ff69f1d20c33575ccf3d5a2395098e31ea4a1f8dd8d6a06b5b02b073d.ctv> |
 | 429 | [SD]tvs drive in movie (360p) | stream1.freetv.fun | <https://stream1.freetv.fun/6ecc0db204a349f492699c43f13c7d1782e6b3cad77789b75ea350e1a1de5e99.m3u8> |
-| 430 | [VGA]rmtv | stream1.freetv.fun | <https://stream1.freetv.fun/a1efb58bb5f86f04c8d9aebee3dc436f6e0e8d99f9852c941d0f51745cecf863.m3u8> |
+| 430 | [HD]mtv | stream1.freetv.fun | <https://stream1.freetv.fun/c67e7352a54b711513cba5d822b11b755ba24de3c60c958785169db8dcf7adda.m3u8> |
 | 431 | [BD]pulse | stream1.freetv.fun | <https://stream1.freetv.fun/0b723fae3575898b30c47d6c9c2ab8b9983f204e29b48ff6945dcf188ac9e1ef.m3u8> |
 | 432 | [BD]mutv | stream1.freetv.fun | <https://stream1.freetv.fun/de50c8799e131275656698b0edb33f160490d4f9aa4e1b25087f4c3771284154.ctv> |
 | 433 | [BD]nw magazine | stream1.freetv.fun | <https://stream1.freetv.fun/d3326a4b990bb2f4bd0796c622c36787a12bf9aa44a8ef6402e52b10a0ae0e7b.m3u8> |
@@ -1029,4 +1029,4 @@
 | 1023 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 1024 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/801369b8eee6983587b79881b7cd7c5de7c90b20544f9eb004128d7fd7ae72a2.m3u8> |
 
-Updated at **Wed Jun 17 2026 13:39:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 16:53:07 GMT+0000 (Coordinated Universal Time)**
