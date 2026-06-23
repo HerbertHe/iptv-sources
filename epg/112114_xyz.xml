@@ -17610,6 +17610,18 @@
 	<programme channel="咪咕综合体育" start="20260623171500 +0800" stop="20260623185500 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 J组第2轮 阿根廷-奥地利</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260623190000 +0800" stop="20260623202000 +0800">
+		<title lang="zh">绿荫狂想第12期 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260623202500 +0800" stop="20260623203000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260623203500 +0800" stop="20260623221500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 I组第2轮 法国-伊拉克</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260623222000 +0800" stop="20260623000000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 I组第2轮 挪威-塞内加尔</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17696,6 +17708,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260623184500 +0800" stop="20260623190500 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260623191500 +0800" stop="20260623214000 +0800">
+		<title lang="zh">中国男篮系列热身赛 中国男篮-荷兰男篮 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260623215000 +0800" stop="20260623221000 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260623222000 +0800" stop="20260623235500 +0800">
+		<title lang="zh">我爱女篮-25/26赛季总决赛G3 山西竹叶青酒-四川蜀道远达</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59031,6 +59052,12 @@
 	<programme channel="newtv超级综艺" start="20260623184800 +0800" stop="20260623200500 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260623200500 +0800" stop="20260623212200 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260623212200 +0800" stop="20260623224500 +0800">
+		<title lang="zh">信马游疆</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59054,6 +59081,15 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260623180000 +0800" stop="20260623190500 +0800">
 		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260623190500 +0800" stop="20260623200000 +0800">
+		<title lang="zh">燃动金杯-12(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260623200000 +0800" stop="20260623220000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-13</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260623220000 +0800" stop="20260623230000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-13</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59096,6 +59132,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260623173600 +0800" stop="20260623185700 +0800">
 		<title lang="zh">武神苏乞儿之黄金海盗</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260623185700 +0800" stop="20260623201500 +0800">
+		<title lang="zh">武神苏乞儿之红莲虫蛊</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260623201500 +0800" stop="20260623215700 +0800">
+		<title lang="zh">怒火冲天</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260623215700 +0800" stop="20260623231200 +0800">
+		<title lang="zh">铁血：生死隧战</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59174,6 +59219,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260623182400 +0800" stop="20260623191100 +0800">
 		<title lang="zh">09_逐玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260623191100 +0800" stop="20260623195200 +0800">
+		<title lang="zh">19_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260623195200 +0800" stop="20260623203400 +0800">
+		<title lang="zh">20_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260623203400 +0800" stop="20260623211600 +0800">
+		<title lang="zh">21_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260623211600 +0800" stop="20260623215700 +0800">
+		<title lang="zh">22_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260623215700 +0800" stop="20260623224500 +0800">
+		<title lang="zh">41_空降利刃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59807,6 +59867,21 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260623185100 +0800" stop="20260623193400 +0800">
 		<title lang="zh">11_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260623193400 +0800" stop="20260623200900 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260623200900 +0800" stop="20260623205300 +0800">
+		<title lang="zh">12_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260623205300 +0800" stop="20260623212800 +0800">
+		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260623212800 +0800" stop="20260623221100 +0800">
+		<title lang="zh">13_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260623221100 +0800" stop="20260623224600 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
