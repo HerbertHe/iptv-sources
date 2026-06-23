@@ -373,5 +373,6 @@
 | 367 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 368 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 369 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
+| 370 | CGTN Spanish (720p) | IPv4 直链 | <http://45.165.82.19/test/index.m3u8> |
 
-Updated at **Mon Jun 22 2026 23:38:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 02:56:06 GMT+0000 (Coordinated Universal Time)**
