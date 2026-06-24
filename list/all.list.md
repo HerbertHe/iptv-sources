@@ -80,7 +80,7 @@
 | 74 | [VGA]jimani tv | stream1.freetv.fun | <https://stream1.freetv.fun/fa1b580c599b4d603fccd554387401704ac76007e9feb2d5d1df708400dbd75a.m3u8> |
 | 75 | [BD]al alaraby | stream1.freetv.fun | <https://stream1.freetv.fun/80fd5788e7564968bd13b071e93687ad53d493c3bb6ffd72a7a4097a7b4f08be.m3u8> |
 | 76 | [HD]al fallujah tv | stream1.freetv.fun | <https://stream1.freetv.fun/406d69ec1725f03375b2420339aee18e22350ea9825aebd06d0c8bec4c5846c1.ctv> |
-| 77 | [BD]al jazeera qa | stream1.freetv.fun | <https://stream1.freetv.fun/193b7eb7558b8dc46ae515bd9bd67399589ea7a765c1c851b73cf719e95b8b31.m3u8> |
+| 77 | [BD]al jazeera english | stream1.freetv.fun | <https://stream1.freetv.fun/1d570fa642f357d22687777761efc624b2f23df78c7d800dd432062087944ade.m3u8> |
 | 78 | [BD]al jazeera mubasher | stream1.freetv.fun | <https://stream1.freetv.fun/f11f286ff1ad0b4432a4cd14c5ae329cbfd7785f6cf938dda66f3b9a02fda8a9.m3u8> |
 | 79 | [BD]al maghribia | stream1.freetv.fun | <https://stream1.freetv.fun/d9b0839a726a2ea9f942ab5d90dbfb47f8fc81fc9df8bb7f8f591cde6aa7e25e.m3u8> |
 | 80 | [BD]al masriyah | stream1.freetv.fun | <https://stream1.freetv.fun/b77720e6aa55467845326e5f7ad31ce349fcdb821562c3dd6df3fc9b2211e00b.m3u8> |
@@ -1291,4 +1291,4 @@
 | 1285 | [BD]龙华经典 *tv | stream1.freetv.fun | <https://stream1.freetv.fun/77aa2cafc3c82ad4adf8bb3a707375c68f21f0de8cbd6f37c13b8ba92e694674.ctv> |
 | 1286 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Wed Jun 24 2026 21:20:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 23:01:46 GMT+0000 (Coordinated Universal Time)**
