@@ -375,4 +375,4 @@
 | 369 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 370 | CGTN Spanish (720p) | IPv4 直链 | <http://45.165.82.19/test/index.m3u8> |
 
-Updated at **Tue Jun 30 2026 14:12:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 17:50:21 GMT+0000 (Coordinated Universal Time)**
