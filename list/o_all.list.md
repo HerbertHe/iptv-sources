@@ -10966,4 +10966,4 @@
 | 10960 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 10961 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Thu Jul 02 2026 13:52:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 02 2026 16:03:56 GMT+0000 (Coordinated Universal Time)**
