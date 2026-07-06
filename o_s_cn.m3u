@@ -739,3 +739,5 @@ http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-h
 http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish (720p)
 http://45.165.82.19/test/index.m3u8
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
