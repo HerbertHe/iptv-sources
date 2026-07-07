@@ -44,4 +44,4 @@
 | 38 | 法制 | IPv4 直链 | <http://123.163.114.168:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 39 | 都市 | IPv4 直链 | <http://123.163.114.168:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Jul 07 2026 17:56:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 07 2026 19:55:15 GMT+0000 (Coordinated Universal Time)**
