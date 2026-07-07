@@ -17739,6 +17739,18 @@
 	<programme channel="咪咕综合体育" start="20260707181500 +0800" stop="20260707185500 +0800">
 		<title lang="zh">世界杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260707190000 +0800" stop="20260707202000 +0800">
+		<title lang="zh">绿茵狂想第26期 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260707203000 +0800" stop="20260707203500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260707203500 +0800" stop="20260707210000 +0800">
+		<title lang="zh">睛彩世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260707210000 +0800" stop="20260707223000 +0800">
+		<title lang="zh">人机大战：谁是世界杯预言家第13期 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17819,6 +17831,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260707170000 +0800" stop="20260707183500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第10轮  盐南苏科雄狮-上海玄鸟</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260707184500 +0800" stop="20260707190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260707190500 +0800" stop="20260707191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260707193000 +0800" stop="20260707203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260707203000 +0800" stop="20260707203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260707203500 +0800" stop="20260707221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G3 香港金牛-江西鲸裕清酒</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59154,6 +59181,15 @@
 	<programme channel="newtv超级综艺" start="20260707160800 +0800" stop="20260707183500 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260707183500 +0800" stop="20260707195200 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260707195200 +0800" stop="20260707210900 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260707210900 +0800" stop="20260707222600 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59196,6 +59232,15 @@
 	<programme channel="newtv超级体育" start="20260707180000 +0800" stop="20260707185000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260707185000 +0800" stop="20260707193000 +0800">
+		<title lang="zh">燃动金杯-26(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260707193000 +0800" stop="20260707213000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-27</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260707213000 +0800" stop="20260707223000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-27</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59237,6 +59282,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260707175600 +0800" stop="20260707194400 +0800">
 		<title lang="zh">绝密特勤队</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260707194400 +0800" stop="20260707211000 +0800">
+		<title lang="zh">宗师</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260707211000 +0800" stop="20260707223500 +0800">
+		<title lang="zh">一个人的突围</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59315,6 +59366,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260707181800 +0800" stop="20260707190000 +0800">
 		<title lang="zh">25_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260707190000 +0800" stop="20260707194500 +0800">
+		<title lang="zh">19_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260707194500 +0800" stop="20260707203100 +0800">
+		<title lang="zh">20_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260707203100 +0800" stop="20260707211600 +0800">
+		<title lang="zh">21_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260707211600 +0800" stop="20260707220100 +0800">
+		<title lang="zh">17_小重逢</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59945,6 +60008,21 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260707181700 +0800" stop="20260707190200 +0800">
 		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260707190200 +0800" stop="20260707194800 +0800">
+		<title lang="zh">02_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260707194800 +0800" stop="20260707201900 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260707201900 +0800" stop="20260707210500 +0800">
+		<title lang="zh">03_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260707210500 +0800" stop="20260707213500 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260707213500 +0800" stop="20260707222100 +0800">
+		<title lang="zh">04_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
