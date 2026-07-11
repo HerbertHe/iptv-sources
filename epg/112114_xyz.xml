@@ -17910,6 +17910,15 @@
 	<programme channel="咪咕综合体育" start="20260711171500 +0800" stop="20260711185500 +0800">
 		<title lang="zh">众望绿茵 b7世界杯球迷观赛厅</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260711190000 +0800" stop="20260711203000 +0800">
+		<title lang="zh">绿茵狂想第29期 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260711203000 +0800" stop="20260711203500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260711204500 +0800" stop="20260711205000 +0800">
+		<title lang="zh">世界杯观赛指南</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17993,6 +18002,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260711184500 +0800" stop="20260711190500 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260711190500 +0800" stop="20260711191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260711193000 +0800" stop="20260711203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260711203000 +0800" stop="20260711203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260711203500 +0800" stop="20260711221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 总决赛G2 香港金牛-上海玄鸟</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59940,6 +59961,12 @@
 	<programme channel="newtv超级综艺" start="20260711171300 +0800" stop="20260711191100 +0800">
 		<title lang="zh">开播吧！国潮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260711191100 +0800" stop="20260711202800 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260711202800 +0800" stop="20260711214500 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59988,6 +60015,9 @@
 	<programme channel="newtv超级体育" start="20260711183000 +0800" stop="20260711200000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-30</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260711200000 +0800" stop="20260711220000 +0800">
+		<title lang="zh">2026年世界女排联赛-中国香港站 (中国队-多米尼加队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60032,6 +60062,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260711173100 +0800" stop="20260711190600 +0800">
 		<title lang="zh">见习排爆手</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260711190600 +0800" stop="20260711213500 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60107,6 +60140,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260711180200 +0800" stop="20260711184700 +0800">
 		<title lang="zh">02_扫黑风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260711184700 +0800" stop="20260711193000 +0800">
+		<title lang="zh">03_扫黑风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260711193000 +0800" stop="20260711201600 +0800">
+		<title lang="zh">33_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260711201600 +0800" stop="20260711210100 +0800">
+		<title lang="zh">34_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60740,6 +60782,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260711184100 +0800" stop="20260711192700 +0800">
 		<title lang="zh">20_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711192700 +0800" stop="20260711200200 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711200200 +0800" stop="20260711204700 +0800">
+		<title lang="zh">21_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711204700 +0800" stop="20260711213200 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
