@@ -17955,6 +17955,15 @@
 	<programme channel="咪咕综合体育" start="20260712171500 +0800" stop="20260712185500 +0800">
 		<title lang="zh">众望绿茵 b7世界杯球迷观赛厅</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260712190000 +0800" stop="20260712203000 +0800">
+		<title lang="zh">绿茵狂想第30期 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712203500 +0800" stop="20260712204000 +0800">
+		<title lang="zh">世界杯巅峰榜</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712204500 +0800" stop="20260712222500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 挪威-英格兰</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18023,6 +18032,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260712184500 +0800" stop="20260712200000 +0800">
 		<title lang="zh">决胜时刻</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712200000 +0800" stop="20260712200500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712200500 +0800" stop="20260712222500 +0800">
+		<title lang="zh">2026国际篮联U17女篮世界杯 B组第2轮 中国U17女篮-德国U17女篮 直播</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59355,6 +59370,12 @@
 	<programme channel="newtv超级综艺" start="20260712181300 +0800" stop="20260712193000 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260712193000 +0800" stop="20260712204600 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260712204600 +0800" stop="20260712220300 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59387,6 +59408,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260712183000 +0800" stop="20260712200000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-31</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712200000 +0800" stop="20260712220000 +0800">
+		<title lang="zh">2026年世界女排联赛-中国香港站 (中国队-意大利队)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59429,6 +59453,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260712173000 +0800" stop="20260712190600 +0800">
 		<title lang="zh">魔幻岛奇遇</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712190600 +0800" stop="20260712203900 +0800">
+		<title lang="zh">起死回生</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712203900 +0800" stop="20260712221500 +0800">
+		<title lang="zh">伪钞重案</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59510,6 +59540,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260712184700 +0800" stop="20260712193300 +0800">
 		<title lang="zh">01_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712193300 +0800" stop="20260712201800 +0800">
+		<title lang="zh">02_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712201800 +0800" stop="20260712210400 +0800">
+		<title lang="zh">03_刑警的日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60143,6 +60179,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260712182200 +0800" stop="20260712190300 +0800">
 		<title lang="zh">02_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712190300 +0800" stop="20260712193800 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712193800 +0800" stop="20260712202200 +0800">
+		<title lang="zh">03_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712202200 +0800" stop="20260712210700 +0800">
+		<title lang="zh">04_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
