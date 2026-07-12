@@ -17910,6 +17910,21 @@
 	<programme channel="咪咕综合体育" start="20260712080000 +0800" stop="20260712111000 +0800">
 		<title lang="zh">2026美加墨世界杯 1/4决赛 阿根廷-瑞士 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260712111000 +0800" stop="20260712112000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712113500 +0800" stop="20260712131500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/8决赛 阿根廷-埃及</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712131500 +0800" stop="20260712135000 +0800">
+		<title lang="zh">睛彩世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712135000 +0800" stop="20260712135500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712135500 +0800" stop="20260712142000 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17948,6 +17963,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260712090500 +0800" stop="20260712103500 +0800">
 		<title lang="zh">篮球：为爱而生04 五味杂陈的胜利</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712103500 +0800" stop="20260712104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712104500 +0800" stop="20260712114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712114500 +0800" stop="20260712115000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712120500 +0800" stop="20260712133500 +0800">
+		<title lang="zh">中国篮球时刻-2026国青男篮热身赛 第五场 中国U18男篮-新西兰U18男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260712135000 +0800" stop="20260712144000 +0800">
+		<title lang="zh">最后之舞06</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59373,6 +59403,15 @@
 	<programme channel="newtv超级综艺" start="20260712094000 +0800" stop="20260712105700 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260712105700 +0800" stop="20260712121600 +0800">
+		<title lang="zh">信马游疆</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260712121600 +0800" stop="20260712134600 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260712134600 +0800" stop="20260712150300 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59387,6 +59426,15 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260712073000 +0800" stop="20260712120000 +0800">
 		<title lang="zh">2026世界杯-1/4决赛(阿根廷-瑞士)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712120000 +0800" stop="20260712123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712123500 +0800" stop="20260712130000 +0800">
+		<title lang="zh">实况录像-绿茵热潮-城市故事 波士顿</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712130000 +0800" stop="20260712150000 +0800">
+		<title lang="zh">第二十五届环大美青海国际公路自行车赛-第二赛段：湟源-门源</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59411,6 +59459,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260712084800 +0800" stop="20260712101500 +0800">
 		<title lang="zh">千里不留行</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712101500 +0800" stop="20260712115200 +0800">
+		<title lang="zh">果戈里b7起点</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712115200 +0800" stop="20260712131100 +0800">
+		<title lang="zh">尖峰对决之古墓神兵</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712131100 +0800" stop="20260712145200 +0800">
+		<title lang="zh">突袭</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59456,6 +59513,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260712094200 +0800" stop="20260712102700 +0800">
 		<title lang="zh">29_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712102700 +0800" stop="20260712111300 +0800">
+		<title lang="zh">30_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712111300 +0800" stop="20260712115800 +0800">
+		<title lang="zh">31_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712115800 +0800" stop="20260712124400 +0800">
+		<title lang="zh">32_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712124400 +0800" stop="20260712133000 +0800">
+		<title lang="zh">36_美人心计</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712133000 +0800" stop="20260712141700 +0800">
+		<title lang="zh">37_美人心计</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60050,6 +60122,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260712094000 +0800" stop="20260712102500 +0800">
 		<title lang="zh">29_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712102500 +0800" stop="20260712110500 +0800">
+		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712110500 +0800" stop="20260712114900 +0800">
+		<title lang="zh">30_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712114900 +0800" stop="20260712123100 +0800">
+		<title lang="zh">18_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712123100 +0800" stop="20260712131600 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712131600 +0800" stop="20260712135800 +0800">
+		<title lang="zh">19_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712135800 +0800" stop="20260712142800 +0800">
+		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
