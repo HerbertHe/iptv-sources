@@ -17586,6 +17586,24 @@
 	<programme channel="咪咕综合体育" start="20260714090000 +0800" stop="20260714104000 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 1/8决赛 葡萄牙-西班牙</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260714104500 +0800" stop="20260714105500 +0800">
+		<title lang="zh">世界杯最前线</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260714110500 +0800" stop="20260714111000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260714111000 +0800" stop="20260714125000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 法国-摩洛哥</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260714125000 +0800" stop="20260714133000 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260714134000 +0800" stop="20260714134500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260714134500 +0800" stop="20260714135000 +0800">
+		<title lang="zh">星耀世界杯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17618,6 +17636,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260714090500 +0800" stop="20260714103500 +0800">
 		<title lang="zh">篮球：为爱而生06 天才基因</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260714103500 +0800" stop="20260714104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260714104500 +0800" stop="20260714114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260714114500 +0800" stop="20260714115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260714120500 +0800" stop="20260714134000 +0800">
+		<title lang="zh">中国篮球时刻-2026国青男篮热身赛 第一场 中国U17男篮-新西兰U17男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260714134000 +0800" stop="20260714135000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58629,6 +58662,12 @@
 	<programme channel="newtv超级综艺" start="20260714094600 +0800" stop="20260714110300 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260714110300 +0800" stop="20260714123300 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260714123300 +0800" stop="20260714143100 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58656,6 +58695,18 @@
 	<programme channel="newtv超级体育" start="20260714083000 +0800" stop="20260714100000 +0800">
 		<title lang="zh">2026年国际篮联U17世界杯-决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260714100000 +0800" stop="20260714120000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260714120000 +0800" stop="20260714123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260714123500 +0800" stop="20260714130000 +0800">
+		<title lang="zh">实况录像-绿茵热潮-城市故事 迈阿密</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260714130000 +0800" stop="20260714150500 +0800">
+		<title lang="zh">第二十五届环大美青海国际公路自行车赛-第四赛段：互助-贵德</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58679,6 +58730,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260714092800 +0800" stop="20260714104800 +0800">
 		<title lang="zh">老潘的归途</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260714104800 +0800" stop="20260714123300 +0800">
+		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260714123300 +0800" stop="20260714142600 +0800">
+		<title lang="zh">长安伏妖</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58727,6 +58784,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260714094300 +0800" stop="20260714102800 +0800">
 		<title lang="zh">37_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260714102800 +0800" stop="20260714111300 +0800">
+		<title lang="zh">38_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260714111300 +0800" stop="20260714115800 +0800">
+		<title lang="zh">01_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260714115800 +0800" stop="20260714124300 +0800">
+		<title lang="zh">02_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260714124300 +0800" stop="20260714133200 +0800">
+		<title lang="zh">04_流水迢迢</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260714133200 +0800" stop="20260714142200 +0800">
+		<title lang="zh">05_流水迢迢</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59318,6 +59390,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260714091900 +0800" stop="20260714095400 +0800">
 		<title lang="zh">鲜蓉阿拉善荒漠肉苁蓉原浆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714095400 +0800" stop="20260714103900 +0800">
+		<title lang="zh">39_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714103900 +0800" stop="20260714111900 +0800">
+		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714111900 +0800" stop="20260714120300 +0800">
+		<title lang="zh">40_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714120300 +0800" stop="20260714124800 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714124800 +0800" stop="20260714133400 +0800">
+		<title lang="zh">28_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260714133400 +0800" stop="20260714140500 +0800">
+		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
