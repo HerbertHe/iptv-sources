@@ -17985,6 +17985,24 @@
 	<programme channel="咪咕综合体育" start="20260715090000 +0800" stop="20260715104000 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 1/16决赛 英格兰-刚果（金）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260715104500 +0800" stop="20260715110500 +0800">
+		<title lang="zh">超级主队b7卫冕征途第一集</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260715110500 +0800" stop="20260715111000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260715111000 +0800" stop="20260715125000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 西班牙-比利时</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260715125000 +0800" stop="20260715133000 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260715133500 +0800" stop="20260715134000 +0800">
+		<title lang="zh">世界杯巅峰榜</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260715135000 +0800" stop="20260715135500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18026,6 +18044,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260715090500 +0800" stop="20260715103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260715104500 +0800" stop="20260715114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260715120500 +0800" stop="20260715133500 +0800">
+		<title lang="zh">中国篮球时刻-2026国青男篮热身赛 第二场 中国U17男篮-澳大利亚阿尔法篮球学院队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260715133500 +0800" stop="20260715135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260715135000 +0800" stop="20260715144000 +0800">
+		<title lang="zh">最后之舞09</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59112,6 +59142,15 @@
 	<programme channel="newtv超级综艺" start="20260715084100 +0800" stop="20260715102800 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260715102800 +0800" stop="20260715114500 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260715114500 +0800" stop="20260715131400 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260715131400 +0800" stop="20260715143100 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59139,6 +59178,18 @@
 	<programme channel="newtv超级体育" start="20260715083000 +0800" stop="20260715100000 +0800">
 		<title lang="zh">2027年国际篮联世界杯预选赛-中国队-中国台北队(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260715100000 +0800" stop="20260715120000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260715120000 +0800" stop="20260715123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260715123500 +0800" stop="20260715130000 +0800">
+		<title lang="zh">实况录像-绿茵热潮-城市故事 堪萨斯城</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260715130000 +0800" stop="20260715150300 +0800">
+		<title lang="zh">第二十五届环大美青海国际公路自行车赛-第五赛段：贵德-共和</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59159,6 +59210,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260715081800 +0800" stop="20260715094600 +0800">
 		<title lang="zh">特别追踪</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260715094600 +0800" stop="20260715112800 +0800">
+		<title lang="zh">终极胜利</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260715112800 +0800" stop="20260715125800 +0800">
+		<title lang="zh">公证人之深度危机</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260715125800 +0800" stop="20260715142300 +0800">
+		<title lang="zh">公证人之大卫之死</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59201,6 +59261,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260715090000 +0800" stop="20260715094600 +0800">
 		<title lang="zh">04_生活就是家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715094600 +0800" stop="20260715103100 +0800">
+		<title lang="zh">03_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715103100 +0800" stop="20260715111600 +0800">
+		<title lang="zh">04_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715111600 +0800" stop="20260715120200 +0800">
+		<title lang="zh">05_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715120200 +0800" stop="20260715124700 +0800">
+		<title lang="zh">06_守婚如玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715124700 +0800" stop="20260715133600 +0800">
+		<title lang="zh">08_流水迢迢</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260715133600 +0800" stop="20260715142600 +0800">
+		<title lang="zh">09_流水迢迢</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59795,6 +59873,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260715092800 +0800" stop="20260715100700 +0800">
 		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715100700 +0800" stop="20260715105200 +0800">
+		<title lang="zh">02_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715105200 +0800" stop="20260715112700 +0800">
+		<title lang="zh">鲜蓉阿拉善荒漠肉苁蓉原浆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715112700 +0800" stop="20260715121300 +0800">
+		<title lang="zh">01_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715121300 +0800" stop="20260715125300 +0800">
+		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715125300 +0800" stop="20260715133800 +0800">
+		<title lang="zh">02_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260715133800 +0800" stop="20260715140800 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
