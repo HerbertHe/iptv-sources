@@ -238,7 +238,7 @@
 | 232 | [SD]cine plus classic | stream1.freetv.fun | <https://stream1.freetv.fun/9c88ee16bf4568e35d178bdc2db08d8918a8f88a1cd155fb63b228e5007911d5.m3u8> |
 | 233 | [BD]ciné plus emotion fr | stream1.freetv.fun | <https://stream1.freetv.fun/01d80da5edf56c5c9dfb877298d9ecf9b511a6eb43df212b2193f789328885d9.ctv> |
 | 234 | [BD]classic cinema | stream1.freetv.fun | <https://stream1.freetv.fun/25d4570200c1e85edf6cd1c7e701642412cc1749264603b7b4b9918c8d1247f7.ctv> |
-| 235 | [BD]CinemaWorld *$ | stream1.freetv.fun | <https://stream1.freetv.fun/92edb18274de3ea70c0de69579f0d0e5b54d3d9be62f4ba887407b2dd377a4dc.m3u8> |
+| 235 | [BD]cinemaworld | stream1.freetv.fun | <https://stream1.freetv.fun/9f2daaa220e1fa466c5f9b1300306c578c2497e4e7a93b357991d4cf4b3c87ea.ctv> |
 | 236 | [BD]cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/f2b5fb90c73a043cc4cb1c8c5772608c48259bf20d7bc7bd8767fbf20f499a16.ctv> |
 | 237 | [SD]city tv | stream1.freetv.fun | <https://stream1.freetv.fun/458102de4b6fba76f5e1e2a68f77ba19048803ea2be9b755955253c90c551f9d.m3u8> |
 | 238 | [BD]comedy central | stream1.freetv.fun | <https://stream1.freetv.fun/2198291510c0acd9bf5a44c8594a9ecff823874c66bb60d35958220c61386838.m3u8> |
@@ -740,7 +740,7 @@
 | 734 | [HD]tele pavia | stream1.freetv.fun | <https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8> |
 | 735 | [HD]teleantioquia colombia | stream1.freetv.fun | <https://stream1.freetv.fun/8db6c530025ff0936336ee42c09b64341d6ea24fc5d8d2419e1367ec18ecb7ee.ctv> |
 | 736 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/c3f3a35c107e38cca90ff24e29f0c908b49d53f0e58757051c25063b708838a0.m3u8> |
-| 737 | [HD]telemundo | stream1.freetv.fun | <https://stream1.freetv.fun/dd11ad88dd1249741f3a823c6290694303799ffc1a3048e9901301b303b6c167.ctv> |
+| 737 | [SD]telemundo al día | stream1.freetv.fun | <https://stream1.freetv.fun/038b53ce56af8490d28a4b5c8ca22febe9936781bb5e8fba12aab36c5b004473.m3u8> |
 | 738 | [BD]telemundo internacional | stream1.freetv.fun | <https://stream1.freetv.fun/039bffe6e2793b98283b474676084b22614cb0931c14987fc8afd97174225b9e.m3u8> |
 | 739 | [HD]telepasto | stream1.freetv.fun | <https://stream1.freetv.fun/41f22d46db886a636703f8670b1b74c28a5ae11a72ed74d5365c58d24234e49c.m3u8> |
 | 740 | [HD]teleticino | stream1.freetv.fun | <https://stream1.freetv.fun/96c59bc6e9a166bda086bf08788649246753b485f12651c1c005614522563b05.m3u8> |
@@ -1121,4 +1121,4 @@
 | 1115 | [BD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/cbeaa4ff275775503abd72700a86060b326b8b330081c66a39761832a36cc393.ctv> |
 | 1116 | [BD]龙华洋片 *$ | stream1.freetv.fun | <https://stream1.freetv.fun/e689a6935e897be1be967943a8e73783f2c676350e4a74599db003520bc6afb3.m3u8> |
 
-Updated at **Wed Jul 15 2026 15:24:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 17:14:18 GMT+0000 (Coordinated Universal Time)**
