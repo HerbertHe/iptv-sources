@@ -378,4 +378,4 @@
 | 372 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 373 | CGTN French (1080p) | IPv4 直链 | <http://145.239.5.177/214/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 17:14:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 19:05:52 GMT+0000 (Coordinated Universal Time)**
