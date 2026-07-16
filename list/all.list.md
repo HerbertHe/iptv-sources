@@ -49,7 +49,7 @@
 | 43 | [HD]arte 1 | stream1.freetv.fun | <https://stream1.freetv.fun/c9872aebc26807fb55db0cb8cae77d17a6f3008092268be97accea8d72418cd4.m3u8> |
 | 44 | [VGA]arabtv | stream1.freetv.fun | <https://stream1.freetv.fun/423a7b4ba6aa3b909405bbea3ea28d8807a5db2f036e0e8fecd019feaa78b6b8.m3u8> |
 | 45 | [BD]Astro AOD *$ | stream1.freetv.fun | <https://stream1.freetv.fun/64c29bd5b35dada3cf243992697901fbc164b29081b5d56cc60cd6b384a95874.m3u8> |
-| 46 | [HD]Astro Awani *tv | stream1.freetv.fun | <https://stream1.freetv.fun/0fdaf263d27132270fb8fe3e20c8741c90ce87d270e49bb0534f2a10806fae10.ctv> |
+| 46 | [HD]Astro Awani | stream1.freetv.fun | <https://stream1.freetv.fun/e3d361050c78097c196a04b473c4c2cbcf0035e3d0124421d696810c7bbe46d3.m3u8> |
 | 47 | [HD]Astro Aura *tv | stream1.freetv.fun | <https://stream1.freetv.fun/a29625e3423d81ac598013ce1ef4bc1f281db34276b6780f50c6ecc1b22b3688.ctv> |
 | 48 | [HD]Astro Ceria *tv | stream1.freetv.fun | <https://stream1.freetv.fun/fbc83295da7eb678d57fa7f9685f735b900c40ed47b76e62ca112cd5c6a6d086.ctv> |
 | 49 | [HD]Astro Citra *tv | stream1.freetv.fun | <https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bcee19bf6f9b24.ctv> |
@@ -1140,4 +1140,4 @@
 | 1134 | [BD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/cbeaa4ff275775503abd72700a86060b326b8b330081c66a39761832a36cc393.ctv> |
 | 1135 | [BD]龙华洋片 *$ | stream1.freetv.fun | <https://stream1.freetv.fun/e689a6935e897be1be967943a8e73783f2c676350e4a74599db003520bc6afb3.m3u8> |
 
-Updated at **Thu Jul 16 2026 15:36:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 16 2026 17:12:20 GMT+0000 (Coordinated Universal Time)**
