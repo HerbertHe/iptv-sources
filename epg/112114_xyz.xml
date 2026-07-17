@@ -18141,6 +18141,9 @@
 	<programme channel="咪咕综合体育" start="20260717205500 +0800" stop="20260717223500 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 半决赛 法国-西班牙</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260717223500 +0800" stop="20260717231500 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18218,6 +18221,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260717203500 +0800" stop="20260717221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G1 上海玄鸟-山东蜜獾</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260717222000 +0800" stop="20260717232000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59574,6 +59580,9 @@
 	<programme channel="newtv超级综艺" start="20260717204700 +0800" stop="20260717220400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260717220400 +0800" stop="20260717234800 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59628,6 +59637,9 @@
 	<programme channel="newtv超级体育" start="20260717200500 +0800" stop="20260717213500 +0800">
 		<title lang="zh">实况录像-2026年世界男排联赛 美国站 中国队-法国队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260717213500 +0800" stop="20260717230000 +0800">
+		<title lang="zh">实况录像-2026世界杯 半决赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59675,6 +59687,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260717204000 +0800" stop="20260717220700 +0800">
 		<title lang="zh">速度与激情</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260717220700 +0800" stop="20260717000900 +0800">
+		<title lang="zh">潜伏者</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59765,6 +59780,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260717210900 +0800" stop="20260717215300 +0800">
 		<title lang="zh">09_亲爱的你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260717215300 +0800" stop="20260717223900 +0800">
+		<title lang="zh">10_亲爱的你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260717223900 +0800" stop="20260717232200 +0800">
+		<title lang="zh">11_亲爱的你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60407,6 +60428,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260717210000 +0800" stop="20260717213000 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260717213000 +0800" stop="20260717221500 +0800">
+		<title lang="zh">11_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260717221500 +0800" stop="20260717224500 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260717224500 +0800" stop="20260717233200 +0800">
+		<title lang="zh">12_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
