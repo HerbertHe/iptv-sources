@@ -198,4 +198,4 @@
 | 192 | [BD]丽水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/29ea30dd8f2c60f2cec15a1c73a6c4da35c210600a16a5969ab6d0b9ccb9fd97.m3u8> |
 | 193 | [SD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Sat Jul 18 2026 14:49:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 18 2026 16:54:35 GMT+0000 (Coordinated Universal Time)**
