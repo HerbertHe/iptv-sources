@@ -85,7 +85,7 @@
 | 79 | [BD]amozhgary tv | stream1.freetv.fun | <https://stream1.freetv.fun/efd2bcb211a44b9b2bbb45fd9ce4cf87296718fb4fc7d1be9a251d0a7328ccca.m3u8> |
 | 80 | [BD]andorra tv | stream1.freetv.fun | <https://stream1.freetv.fun/288b2da7c20b9da996d6be8a7c6e0f0e157eab140da23173dbc5af200fe50db7.m3u8> |
 | 81 | [HD]animal planet | stream1.freetv.fun | <https://stream1.freetv.fun/71ce3641b22279c8979ba61452ac22bf13d661ae827749bda87ddf9549e45400.m3u8> |
-| 82 | [VGA]Animax *tv | stream1.freetv.fun | <https://stream1.freetv.fun/45c2b51eb52e9acebc3cbf03b8c3a68204fbac89a96a12ce66dce56a95fd70a3.ctv> |
+| 82 | [HD]cctv-8电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8> |
 | 83 | [HD]antena 7 | stream1.freetv.fun | <https://stream1.freetv.fun/a0bc449c716f47a09eb9d0592eb10f4c49c89882a9b053aa1a6f09f35b64de1f.m3u8> |
 | 84 | [BD]ant1 cyprus | stream1.freetv.fun | <https://stream1.freetv.fun/10e27ccd6f8f1acb70e0e3f58646db5032994412a564a288d3ea04c23e59d60b.m3u8> |
 | 85 | [BD]antena sur | stream1.freetv.fun | <https://stream1.freetv.fun/fc7f9f61e79b8f382545eb3a8b28f6768902c800f0aeba363721f1afe1bcfa1b.m3u8> |
@@ -1208,4 +1208,4 @@
 | 1202 | [HD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.ctv> |
 | 1203 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 
-Updated at **Sun Jul 19 2026 14:52:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 16:55:18 GMT+0000 (Coordinated Universal Time)**
