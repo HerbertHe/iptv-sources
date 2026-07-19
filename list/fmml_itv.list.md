@@ -194,4 +194,4 @@
 | 188 | iHOT爱幼教 | 咪咕 | <http://gslbserv.itv.cmvideo.cn/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3> |
 | 189 | iHOT爱院线 | 咪咕 | <http://gslbserv.itv.cmvideo.cn/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3> |
 
-Updated at **Sun Jul 19 2026 11:07:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 13:11:59 GMT+0000 (Coordinated Universal Time)**
