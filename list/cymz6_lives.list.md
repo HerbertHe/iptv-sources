@@ -18,4 +18,4 @@
 | 12 | 河南民生 | IPv4 直链 | <http://182.114.48.231:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 13 | 河南都市报道 | IPv4 直链 | <http://182.114.48.231:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Jul 20 2026 18:02:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 20 2026 21:08:57 GMT+0000 (Coordinated Universal Time)**
