@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]sony sports ten 1 | stream1.freetv.fun | <https://stream1.freetv.fun/e5ed59f175e3d7a2ee3d6f0f875f2e9ae7287138ec812a4bd093c2ad4f0b9aa4.ctv> |
+| 1 | [HD]cctv-5体育 | stream1.freetv.fun | <https://stream1.freetv.fun/512e9026bd466479b35b15b91ad98fcb346e7e0fcbca916b79da7eea4e712aee.ctv> |
 | 2 | [HD]浙江民生 | stream1.freetv.fun | <https://stream1.freetv.fun/3e6d5b344a6fc2e60251a509a362d3b9e05c278026f7e3e5a1a7f35454f36a52.m3u8> |
 | 3 | [BD]rt doc | stream1.freetv.fun | <https://stream1.freetv.fun/6dde169d63c69f7a17b4ac14044eb685da18bb9293cd803234aae069e0e38b26.m3u8> |
 | 4 | [HD]tv 100 | stream1.freetv.fun | <https://stream1.freetv.fun/70108a8beca56a22e2b44b517c0e9f1ffaf719986804403af1e2124e53b20f4f.m3u8> |
@@ -55,7 +55,7 @@
 | 49 | [HD]Astro Citra @b | stream1.freetv.fun | <https://stream1.freetv.fun/fd1a6e296da5dbe91904f25b29cde4f025705fb5ed749f86ac562562490f1279.m3u8> |
 | 50 | [BD]Astro Oasis *tv | stream1.freetv.fun | <https://stream1.freetv.fun/572ef96ad5ad059e48445b39093bdc340c8efabe61c994468da94410b16cd859.ctv> |
 | 51 | [HD]Astro Prima @b | stream1.freetv.fun | <https://stream1.freetv.fun/dfb01b79d1c29b9cd153f689530cceacb26a40aca4211332d4ab8e26d2212e94.m3u8> |
-| 52 | [BD]Astro Ria @b | stream1.freetv.fun | <https://stream1.freetv.fun/1e16343a7fb9b7705a5592d0dfdc73f949fc7f0a1e90b1f1f78787d7bd31a95e.m3u8> |
+| 52 | [HD]Astro Ria @b | stream1.freetv.fun | <https://stream1.freetv.fun/1e16343a7fb9b7705a5592d0dfdc73f949fc7f0a1e90b1f1f78787d7bd31a95e.m3u8> |
 | 53 | [HD]Astro Rania *tv | stream1.freetv.fun | <https://stream1.freetv.fun/0a4395bd794441d01e049b08063df62ed03dc2ef74533bd00d5ac0643a7e4096.ctv> |
 | 54 | [BD].black | stream1.freetv.fun | <https://stream1.freetv.fun/3208862149185f938ff88ea26c7ced3b5018e9190b257fc1ba706048aa0366e5.m3u8> |
 | 55 | [BD]AXN HD *tv | stream1.freetv.fun | <https://stream1.freetv.fun/0aa055c0a89c3e655eaabd12623561fbb5199e43399251e945bbdef32b406efa.ctv> |
@@ -108,7 +108,7 @@
 | 102 | [BD]Astro Sports Plus *tv | stream1.freetv.fun | <https://stream1.freetv.fun/a9a3a2ce9d274736c4e6f5bcf7c85622208f39cc7b8e2f762dd3660bd527e943.ctv> |
 | 103 | [BD]astro欢喜 | stream1.freetv.fun | <https://stream1.freetv.fun/a8f1224bdbc6c031e867d9ead759c9354e5ffc52b183634456706092b8c299d6.ctv> |
 | 104 | [HD]automotion | stream1.freetv.fun | <https://stream1.freetv.fun/967aad0f533c2fa15cde5d3d28dadeb75dd59af098dbf1b6d47f28df5840d870.m3u8> |
-| 105 | [BD]Awesome TV @b | stream1.freetv.fun | <https://stream1.freetv.fun/fa6eb037654d1372366500217feb0c88d2033574292f471e3b0b60c2d67adfc4.m3u8> |
+| 105 | [HD]Awesome TV @b | stream1.freetv.fun | <https://stream1.freetv.fun/fa6eb037654d1372366500217feb0c88d2033574292f471e3b0b60c2d67adfc4.m3u8> |
 | 106 | [BD]bbc alba uk | stream1.freetv.fun | <https://stream1.freetv.fun/27b9d941e8db711748909fbb5cf2a306d15731f557af761d00c08e30ca9c68e5.ctv> |
 | 107 | [BD]bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8> |
 | 108 | [HD]bbc news | stream1.freetv.fun | <https://stream1.freetv.fun/95062cfdd0dd31515aacf821cdd9df058aaa0bb9ea9b1d5b1e93d8a93f38892b.m3u8> |
@@ -1185,4 +1185,4 @@
 | 1179 | [HD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.ctv> |
 | 1180 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 
-Updated at **Mon Jul 20 2026 02:42:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 20 2026 06:42:44 GMT+0000 (Coordinated Universal Time)**
