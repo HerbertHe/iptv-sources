@@ -17700,6 +17700,9 @@
 	<programme channel="咪咕综合体育" start="20260721194500 +0800" stop="20260721220500 +0800">
 		<title lang="zh">足球世界-2026中国足协杯 第5轮 云南玉昆-成都蓉城 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260721221000 +0800" stop="20260721235000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 半决赛 英格兰-阿根廷</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17789,6 +17792,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260721203500 +0800" stop="20260721221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G1 上海玄鸟-合肥狂风</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260721222000 +0800" stop="20260721235000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 新疆天山-山东赤水河酒</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59130,6 +59136,9 @@
 	<programme channel="newtv超级综艺" start="20260721210500 +0800" stop="20260721225100 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260721225100 +0800" stop="20260721233600 +0800">
+		<title lang="zh">49_安家</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59190,6 +59199,12 @@
 	<programme channel="newtv超级体育" start="20260721193000 +0800" stop="20260721213000 +0800">
 		<title lang="zh">2026中国足协杯-1/8决赛(上海申花-青岛海牛)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260721213000 +0800" stop="20260721223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260721223500 +0800" stop="20260721000500 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59234,6 +59249,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260721201000 +0800" stop="20260721220600 +0800">
 		<title lang="zh">西虹市首富</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260721220600 +0800" stop="20260721004100 +0800">
+		<title lang="zh">变形金刚3</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59321,6 +59339,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260721205100 +0800" stop="20260721213200 +0800">
 		<title lang="zh">05_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721213200 +0800" stop="20260721221800 +0800">
+		<title lang="zh">25_亲爱的你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721221800 +0800" stop="20260721230300 +0800">
+		<title lang="zh">26_亲爱的你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721230300 +0800" stop="20260721234700 +0800">
+		<title lang="zh">27_亲爱的你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59966,6 +59993,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260721210800 +0800" stop="20260721215400 +0800">
 		<title lang="zh">31_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721215400 +0800" stop="20260721223900 +0800">
+		<title lang="zh">32_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721223900 +0800" stop="20260721230900 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>

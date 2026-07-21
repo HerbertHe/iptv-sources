@@ -118,7 +118,7 @@
 | 112 | [HD]b4u music | stream1.freetv.fun | <https://stream1.freetv.fun/a3c9f29b16b7390c8b5a151f02408d14ca01cf2d6eeccf1ce02129c3ba0d648e.m3u8> |
 | 113 | [SD]ocn | stream1.freetv.fun | <https://stream1.freetv.fun/c95ce903cc8482ffc50d81f836c8cd252444ddfb7b926556a19d31cfc82ec09a.ctv> |
 | 114 | [BD]bbc alba uk | stream1.freetv.fun | <https://stream1.freetv.fun/27b9d941e8db711748909fbb5cf2a306d15731f557af761d00c08e30ca9c68e5.ctv> |
-| 115 | [BD]bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8> |
+| 115 | [BD]bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8> |
 | 116 | [HD]bbc news | stream1.freetv.fun | <https://stream1.freetv.fun/95062cfdd0dd31515aacf821cdd9df058aaa0bb9ea9b1d5b1e93d8a93f38892b.m3u8> |
 | 117 | [HD]BBC World News @b | stream1.freetv.fun | <https://stream1.freetv.fun/67170a0e820134f31741c1ba5a06051bd5b7cf521cc56ef9d3b15823f4ddc48c.m3u8> |
 | 118 | [SD]bbs | stream1.freetv.fun | <https://stream1.freetv.fun/872fff815bee8cb1ae9f8c0465d625b13c2c81f050f5f19dc41a060d6f9d0784.ctv> |
@@ -1226,4 +1226,4 @@
 | 1220 | [HD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.ctv> |
 | 1221 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 
-Updated at **Tue Jul 21 2026 13:42:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 15:41:08 GMT+0000 (Coordinated Universal Time)**
