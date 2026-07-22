@@ -18006,6 +18006,9 @@
 	<programme channel="咪咕综合体育" start="20260722194500 +0800" stop="20260722220500 +0800">
 		<title lang="zh">足球世界-2026中国足协杯 第5轮 兰州陇原竞技-陕西联合 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260722221000 +0800" stop="20260722235000 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第19轮 大连英博海发-山东泰山</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18086,6 +18089,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260722203500 +0800" stop="20260722221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G2 合肥狂风-上海玄鸟</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260722221000 +0800" stop="20260722222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260722222000 +0800" stop="20260722235500 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 山西竹叶青酒-武汉盛帆黄鹤</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59628,6 +59637,9 @@
 	<programme channel="newtv超级综艺" start="20260722210700 +0800" stop="20260722224100 +0800">
 		<title lang="zh">国风超有戏b7寻风季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260722224100 +0800" stop="20260722232700 +0800">
+		<title lang="zh">03_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59688,6 +59700,15 @@
 	<programme channel="newtv超级体育" start="20260722193000 +0800" stop="20260722213000 +0800">
 		<title lang="zh">2026年世界女排联赛总决赛-1/4决赛(巴西队-日本队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260722213000 +0800" stop="20260722223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260722223500 +0800" stop="20260722225000 +0800">
+		<title lang="zh">燃动金杯- 2026世界杯1/8决赛进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260722230500 +0800" stop="20260722003500 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 摩纳哥站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59735,6 +59756,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260722204900 +0800" stop="20260722224200 +0800">
 		<title lang="zh">超能一家人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260722224200 +0800" stop="20260722001800 +0800">
+		<title lang="zh">虎胆杀机</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59825,6 +59849,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260722211300 +0800" stop="20260722215500 +0800">
 		<title lang="zh">08_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260722215500 +0800" stop="20260722223600 +0800">
+		<title lang="zh">29_亲爱的你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260722223600 +0800" stop="20260722232000 +0800">
+		<title lang="zh">01_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260722232000 +0800" stop="20260722000300 +0800">
+		<title lang="zh">02_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60470,6 +60503,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260722205700 +0800" stop="20260722213700 +0800">
 		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260722213700 +0800" stop="20260722222200 +0800">
+		<title lang="zh">36_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260722222200 +0800" stop="20260722225200 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260722225200 +0800" stop="20260722233600 +0800">
+		<title lang="zh">37_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
