@@ -377,5 +377,7 @@
 | 371 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 372 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 373 | CGTN French (1080p) | IPv4 直链 | <http://145.239.5.177/214/index.m3u8> |
+| 374 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
+| 375 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
 
-Updated at **Thu Jul 23 2026 22:53:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 24 2026 02:26:17 GMT+0000 (Coordinated Universal Time)**

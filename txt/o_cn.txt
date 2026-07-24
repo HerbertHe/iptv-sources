@@ -10,6 +10,7 @@ CCTV+_2_(600p)_[Not_24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHA
 CCTV-13_(1080p),http://go.bkpcp.top/mg/cctv13
 Chifeng_Comprehensive_News_Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 Harbin_Comprehensive_News_Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+Lanzhou_Comprehensive_News_Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 Tonghua_TV_(1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 滁州市广播电视台_新闻综合频道_(1080p),http://live.cztv.cc:85/live/xwpd.m3u8
@@ -127,6 +128,7 @@ CETV2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 
 Culture,#genre#
 CCTV-8_(720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+Lanzhou_Culture_&_Tourism_Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 Nei_Monggol_TV_2_Mongolian_Culture_Channel_(1080i)_[Not_24/7],http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 
 Documentary,#genre#
