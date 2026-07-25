@@ -767,7 +767,7 @@
 | 761 | [BD]tv brics | stream1.freetv.fun | <https://stream1.freetv.fun/29126d94d80b5122a02df251f65cdcb2013e166820880923a7cc8747f9bb96e1.m3u8> |
 | 762 | [HD]tv chosun 2 | stream1.freetv.fun | <https://stream1.freetv.fun/2901a9dd04e36a8548c39ba898521ae5d43041727bf0c899a5ffd157a0d93c32.m3u8> |
 | 763 | [SD]creta | stream1.freetv.fun | <https://stream1.freetv.fun/815fd19a2610d69dd00a42a499fbbfaf5c6445dfbd08610fa0036bf0dc00050f.m3u8> |
-| 764 | [HD]tv cultura | stream1.freetv.fun | <https://stream1.freetv.fun/cc343f83bb8bde42d77af8e8bc85e177ea5d2b6b18ee40d5e11df0432ba24051.m3u8> |
+| 764 | [BD]tve cultura | stream1.freetv.fun | <https://stream1.freetv.fun/5a55509081c9926506a7bb3b4052a88b79e86ae65be8f208e1208609e417340b.m3u8> |
 | 765 | [HD]tv escola | stream1.freetv.fun | <https://stream1.freetv.fun/7ae13402e98d91306f71390f3fc9fc6ad3dcc7ec222991f4f34753b4b93f1fdb.m3u8> |
 | 766 | [BD]tv gazeta | stream1.freetv.fun | <https://stream1.freetv.fun/33580ea7b7312083a1435c7dccdc6f9251bd8fdc72c0370e064290a9528b7647.m3u8> |
 | 767 | [BD]play tv | stream1.freetv.fun | <https://stream1.freetv.fun/9f7d74329c4730c00a1a8a6cdbb0cd3ffd9d89732c0a3399ed73fc6a7fc76856.m3u8> |
@@ -1244,4 +1244,4 @@
 | 1238 | [HD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.ctv> |
 | 1239 | [HD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Sat Jul 25 2026 16:53:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 25 2026 19:02:39 GMT+0000 (Coordinated Universal Time)**
