@@ -17748,6 +17748,15 @@
 	<programme channel="咪咕足球" start="20260725184500 +0800" stop="20260725190500 +0800">
 		<title lang="zh">数聚赛场</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260725192000 +0800" stop="20260725193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725193000 +0800" stop="20260725203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725203500 +0800" stop="20260725221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G3 香港金牛-江西鲸裕清酒</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59898,6 +59907,12 @@
 	<programme channel="newtv超级综艺" start="20260725174600 +0800" stop="20260725190400 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260725190400 +0800" stop="20260725202100 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260725202100 +0800" stop="20260725213800 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59958,6 +59973,9 @@
 	<programme channel="newtv超级体育" start="20260725183000 +0800" stop="20260725193000 +0800">
 		<title lang="zh">实况录像-WTT美国大满贯2026 比赛4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260725193000 +0800" stop="20260725213500 +0800">
+		<title lang="zh">2026年世界女排联赛总决赛-半决赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60005,6 +60023,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260725175700 +0800" stop="20260725185900 +0800">
 		<title lang="zh">外卖骑士</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725185900 +0800" stop="20260725203300 +0800">
+		<title lang="zh">东邪西毒：终极版</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725203300 +0800" stop="20260725221600 +0800">
+		<title lang="zh">深海越狱</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60086,6 +60110,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260725182700 +0800" stop="20260725190800 +0800">
 		<title lang="zh">31_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725190800 +0800" stop="20260725195000 +0800">
+		<title lang="zh">17_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725195000 +0800" stop="20260725203100 +0800">
+		<title lang="zh">18_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725203100 +0800" stop="20260725211300 +0800">
+		<title lang="zh">19_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60728,6 +60761,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260725184100 +0800" stop="20260725192500 +0800">
 		<title lang="zh">05_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725192500 +0800" stop="20260725200500 +0800">
+		<title lang="zh">火菲尔微压蒸炒纯钛锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725200500 +0800" stop="20260725204900 +0800">
+		<title lang="zh">06_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725204900 +0800" stop="20260725211900 +0800">
+		<title lang="zh">国药特医九制黄精超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
