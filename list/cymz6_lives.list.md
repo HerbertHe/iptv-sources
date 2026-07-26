@@ -13,4 +13,4 @@
 | 7 | 黑龙江卫视 | IPv4 直链 | <http://121.19.134.253:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 8 | 河北三农 | IPv4 直链 | <http://121.19.134.253:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Jul 26 2026 09:55:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 26 2026 11:17:24 GMT+0000 (Coordinated Universal Time)**
