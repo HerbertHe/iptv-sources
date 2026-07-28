@@ -71,7 +71,7 @@
 | 65 | [BD]american crimes | stream1.freetv.fun | <https://stream1.freetv.fun/0e1d33f06fb1a968dcfea03cdf553d6bcdc757add13aee8e4674432f5bef70d8.m3u8> |
 | 66 | [BD]amozhgary tv | stream1.freetv.fun | <https://stream1.freetv.fun/efd2bcb211a44b9b2bbb45fd9ce4cf87296718fb4fc7d1be9a251d0a7328ccca.m3u8> |
 | 67 | [BD]animal planet | stream1.freetv.fun | <https://stream1.freetv.fun/b71d3bc88c58723c49a8249825aca196f530c7b295a07524faf6e17cd571c455.m3u8> |
-| 68 | [HD]cctv-8电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8> |
+| 68 | [BD]animax asia | stream1.freetv.fun | <https://stream1.freetv.fun/7c8b522ffb226c06600932f3f4474aba0d77afca425313539842d20c9d34cb3a.ctv> |
 | 69 | [HD]antena 7 | stream1.freetv.fun | <https://stream1.freetv.fun/a0bc449c716f47a09eb9d0592eb10f4c49c89882a9b053aa1a6f09f35b64de1f.m3u8> |
 | 70 | [BD]ant1 cyprus | stream1.freetv.fun | <https://stream1.freetv.fun/10e27ccd6f8f1acb70e0e3f58646db5032994412a564a288d3ea04c23e59d60b.m3u8> |
 | 71 | [HD]antena sur | stream1.freetv.fun | <https://stream1.freetv.fun/fc7f9f61e79b8f382545eb3a8b28f6768902c800f0aeba363721f1afe1bcfa1b.m3u8> |
@@ -1097,4 +1097,4 @@
 | 1091 | [HD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 1092 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Tue Jul 28 2026 13:59:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 28 2026 16:07:36 GMT+0000 (Coordinated Universal Time)**
