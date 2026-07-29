@@ -150,7 +150,7 @@
 | 144 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/accbf0e5bbc0632b079adca755b64e20a1ffa9589b1ed1146aadc6e8558f7c8d.m3u8> |
 | 145 | [HD]cctv-5hd | stream1.freetv.fun | <https://stream1.freetv.fun/6c7fa647ebc9fcfaeed8147e4b300b9a678e48ea9bbfb57dc12d5dcdd70377d6.m3u8> |
 | 146 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.m3u8> |
-| 147 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.m3u8> |
+| 147 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/5742f641e426b80a1db9052e46632c8b5a0f01b85bc6fc0e8b788ab958dd3c57.m3u8> |
 | 148 | [HD]cctv-6hd | stream1.freetv.fun | <https://stream1.freetv.fun/81cbf3237b162f350d9aed5b2c2b5507d687f1af7b76bfe1eef5b732e3af8005.m3u8> |
 | 149 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/b455a784117753f80bc07ced769e86993b97dca8be5a6c9df9f323016b04973e.m3u8> |
 | 150 | [BD]cctv8 | stream1.freetv.fun | <https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8> |
@@ -184,7 +184,7 @@
 | 178 | [BD]cnbc arabiya | stream1.freetv.fun | <https://stream1.freetv.fun/3c3602fad00bb80dbd0a92caa5ea45f893665383f75f1cecd9d953b161d466a0.m3u8> |
 | 179 | [VGA]cnbc world | stream1.freetv.fun | <https://stream1.freetv.fun/9296072755fdf90a608ac296cff6974546b611d99a79c01893a95eb16d11fc88.m3u8> |
 | 180 | [BD]cnbc | stream1.freetv.fun | <https://stream1.freetv.fun/3fa738311a73d0f3b1a16581c431486b93ba2dcb02d657eff1546e77a2a3f868.m3u8> |
-| 181 | [SD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/316a04ae7f2068b3a76fc14a423c4dccac26840c735097864bb6416723f4ad68.m3u8> |
+| 181 | [BD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8> |
 | 182 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/8150c6f432661bf674e0d5cb93b5439626fbad53b09005d10405a63af8824a0b.m3u8> |
 | 183 | [SD]channel 5 international | stream1.freetv.fun | <https://stream1.freetv.fun/828af492c5cca97eca0e3c82b45c18538db6641c799fa1677042a12c9e26cf90.m3u8> |
 | 184 | [BD]beyblade en español | stream1.freetv.fun | <https://stream1.freetv.fun/689bebe4a472fc00abbcaceac40a9bd73dd6aa96a6ae6b8b50a041b66a019fc7.m3u8> |
@@ -1022,4 +1022,4 @@
 | 1016 | [HD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 1017 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Wed Jul 29 2026 20:52:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 29 2026 22:57:22 GMT+0000 (Coordinated Universal Time)**
