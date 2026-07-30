@@ -369,7 +369,7 @@
 | 363 | [BD]biznet lifestyle | stream1.freetv.fun | <https://stream1.freetv.fun/c20feb9ed95bf7206062bc78141a6c29acd1649983d6ae7e5a2caba8ac30c2ae.m3u8> |
 | 364 | Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Entertainment",[HD]la red | stream1.freetv.fun | <https://stream1.freetv.fun/75537d7caec6f8a99450acf1b10ebd80295b5abdf520885a74a71476e5baed0f.m3u8> |
 | 365 | [SD]kalinga tv | stream1.freetv.fun | <https://stream1.freetv.fun/c5e96e40cb79142aa288d6430d4b1124c03e547705a20d56dcaf2b6da766cb4a.m3u8> |
-| 366 | [BD]lifetime asia | stream1.freetv.fun | <https://stream1.freetv.fun/ed7cbae4792994fc17d9aeab216827d5010b8fcfcd6c9ea10bbc938ecfb512ab.m3u8> |
+| 366 | [BD]asia | stream1.freetv.fun | <https://stream1.freetv.fun/cc4ff19107f6ab0828eec10d55d32411a1f8a84a3b4d400374dcbf59527dce4e.ctv> |
 | 367 | [HD]lifetime | stream1.freetv.fun | <https://stream1.freetv.fun/d7cba25b1671760295246d0866ae5a329ee7e5a55d472b2ee191b12c2b9c5f99.m3u8> |
 | 368 | [BD]lider tv | stream1.freetv.fun | <https://stream1.freetv.fun/db06ab7fbf8a0b24703d6bb618014c5ea5145030f284cd680126cda5ae02cb3e.m3u8> |
 | 369 | [HD]logo | stream1.freetv.fun | <https://stream1.freetv.fun/0b1b770e17e14428ee69f13bf32a045acd3510acca0b761607600a15432952b7.m3u8> |
@@ -970,4 +970,4 @@
 | 964 | [HD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 965 | [HD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Thu Jul 30 2026 19:20:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 30 2026 21:05:32 GMT+0000 (Coordinated Universal Time)**
