@@ -382,4 +382,4 @@
 | 376 | Qinghai TV | hls-qhmh.lanzhousobey.cn | <https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8> |
 | 377 | Jiangsu Public & News Channel | 荔枝网 | <https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
 
-Updated at **Thu Jul 30 2026 23:02:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 31 2026 02:32:50 GMT+0000 (Coordinated Universal Time)**
