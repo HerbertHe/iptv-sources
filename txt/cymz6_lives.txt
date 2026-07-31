@@ -1,5 +1,7 @@
 卫视频道,#genre#
-北京卫视,http://182.114.50.55:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://182.114.50.55:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://182.114.50.55:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://182.114.50.55:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://125.43.249.115:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://125.43.249.115:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+
+其他频道,#genre#
+金鹰卡通,http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+魅力音乐,http://125.43.249.115:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
