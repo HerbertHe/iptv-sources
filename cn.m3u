@@ -30,11 +30,11 @@ https://stream1.freetv.fun/28d6db18c9a13daff3f7e4d484bdff06c731b94a220c0b73cc503
 #EXTINF:-1 tvg-name="CCTV4 FHD" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="新闻",[HD]cctv4美洲
 https://stream1.freetv.fun/af5c7c7bbbe5d0d652b138258a7a70490df4d2a546398b892df94ab16f45969c.ctv
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/02/16/large/20260216173959654419_73.png" group-title="综合",[BD]cctv-4k高清
-https://stream1.freetv.fun/3e114eb804b86080fa2e6509a0066c094e4ff2111f837859dc107f31dabb23de.m3u8
+https://stream1.freetv.fun/e168c6dffa66d0e2bd8966908352a688ca22cd4837ecfd9f5f61d52fd83c44df.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001905740569_14.jpg" group-title="综合",[BD]cctv-4中文国际
 https://stream1.freetv.fun/53004f637662dacde55985b1617344fb47c6df89d8326930439086eeb29d1bfc.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055001229701_29.jpg" group-title="综合",[BD]cctv-4 中文国际
-https://stream1.freetv.fun/4239df13e01855accfb134a140c37b8a812158cae19d0c6fde265a5018ff5109.m3u8
+https://stream1.freetv.fun/dca5b13b2666e715ad20ded44804d36805da8bc7432335d3771f8032fa71f636.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062651951109_19.png" group-title="运动",[BD]cctv5
 https://stream1.freetv.fun/accbf0e5bbc0632b079adca755b64e20a1ffa9589b1ed1146aadc6e8558f7c8d.m3u8
 #EXTINF:-1 tvg-name="CCTV5(h265)" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062513574080_73.jpg" group-title="运动",[HD]cctv-5hd
@@ -321,7 +321,7 @@ https://stream1.freetv.fun/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6
 https://stream1.freetv.fun/1a374486c7cf9bda68906e4e0c84519f24270b43e25a0f23a6f7b35ab9074231.ctv
 #EXTINF:-1 tvg-name="潮州综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007174220816419_38.jpg" group-title="综合",[BD]潮州综合高清
 https://stream1.freetv.fun/6f60d2f0c11750b138929b982c3fb04c375a7005d91bafadbebc48cae7903171.ctv
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_304.jpg" group-title="其它",[HD]无锡新闻综合
+#EXTINF:-1 tvg-name="无锡新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_304.jpg" group-title="其它",[BD]无锡新闻综合
 https://stream1.freetv.fun/17be6c67e85d4ec7bd42058b53c2f61feddb724b6fe223a4299aab3b86f8e165.m3u8
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_301.jpg" group-title="其它",[HD]无锡都市资讯
 https://stream1.freetv.fun/2db96bebe9c56782fa1cda5b49f6d90b3821929b882c28fd40f494b180a33c81.m3u8
@@ -335,8 +335,6 @@ https://stream1.freetv.fun/2f27b601604d0daf4f134d21b1f06cd8853f0f6eecdfe11994621
 https://stream1.freetv.fun/e46895f728cf01af107df98927c3bd0664dc452a60f2d117abef3ab9b0b6768f.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015527100932_41.jpg" group-title="新闻",[SD]绍兴新闻
 https://stream1.freetv.fun/3ebead7dcef07f7ea24dbdf1f24299de2dec8ddecf20737e5a00dce01b26cc3c.m3u8
-#EXTINF:-1 tvg-name="肇庆综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101000157850612_73.jpg" group-title="综合",[BD]肇庆综合
-https://stream1.freetv.fun/da9a54b606146b56796ee9417fb3cd059d862b839748687f762e16933fc7faf9.ctv
 #EXTINF:-1 tvg-name="舟山新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新闻",[HD]萧山新闻综合
 https://stream1.freetv.fun/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
 #EXTINF:-1 tvg-name="荆州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031230159254376_46.jpg" group-title="新闻",[BD]荆门新闻综合

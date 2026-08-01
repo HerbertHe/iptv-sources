@@ -17694,6 +17694,12 @@
 	<programme channel="咪咕综合体育" start="20260801190000 +0800" stop="20260801214000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第21轮 上海海港-山东泰山 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260801214000 +0800" stop="20260801220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260801220000 +0800" stop="20260801000000 +0800">
+		<title lang="zh">UFC 格斗之夜 麦迪克-罗德里格兹 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17777,6 +17783,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260801203500 +0800" stop="20260801221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G1 上海玄鸟-山东蜜獾</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260801222000 +0800" stop="20260801235500 +0800">
+		<title lang="zh">我爱女篮-25/26赛季总决赛G5 山西竹叶青酒-四川蜀道远达</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59844,6 +59853,9 @@
 	<programme channel="newtv超级体育" start="20260801193000 +0800" stop="20260801213500 +0800">
 		<title lang="zh">2026年世界男排联赛总决赛-半决赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260801213500 +0800" stop="20260801230500 +0800">
+		<title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59891,6 +59903,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260801204100 +0800" stop="20260801220700 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260801220700 +0800" stop="20260801233000 +0800">
+		<title lang="zh">独孤天下之异瞳</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59978,6 +59993,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260801200700 +0800" stop="20260801205400 +0800">
 		<title lang="zh">05_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260801205400 +0800" stop="20260801214100 +0800">
+		<title lang="zh">06_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260801214100 +0800" stop="20260801222900 +0800">
+		<title lang="zh">31_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260801222900 +0800" stop="20260801231500 +0800">
+		<title lang="zh">32_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60623,6 +60647,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260801203600 +0800" stop="20260801211800 +0800">
 		<title lang="zh">02_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260801211800 +0800" stop="20260801220100 +0800">
+		<title lang="zh">03_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260801220100 +0800" stop="20260801223100 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260801223100 +0800" stop="20260801231700 +0800">
+		<title lang="zh">04_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
