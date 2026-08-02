@@ -12,4 +12,4 @@
 | 6 | 湖北卫视 | IPv4 直链 | <http://125.43.249.115:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 7 | 贵州卫视 | IPv4 直链 | <http://125.43.249.115:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Aug 02 2026 13:14:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 02 2026 14:59:22 GMT+0000 (Coordinated Universal Time)**
