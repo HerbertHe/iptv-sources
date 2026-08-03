@@ -14286,6 +14286,18 @@
 	<programme channel="咪咕综合体育" start="20260803101500 +0800" stop="20260803115500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第20轮 成都蓉城-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260803120000 +0800" stop="20260803125000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 男双决赛 林诗栋/黄友政-温瑞博/袁励岑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260803125000 +0800" stop="20260803125500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260803125500 +0800" stop="20260803140000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单决赛 孙颖莎-蒯曼</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260803140500 +0800" stop="20260803155500 +0800">
+		<title lang="zh">网球世界-2026WTA250雅典站女单 第1轮 郑钦文-马内罗</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14327,6 +14339,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260803090500 +0800" stop="20260803103500 +0800">
 		<title lang="zh">篮球：为爱而生06 天才基因</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803104500 +0800" stop="20260803114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803114500 +0800" stop="20260803115000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803120500 +0800" stop="20260803133500 +0800">
+		<title lang="zh">中国篮球时刻-2026FIBA女篮世界杯资格赛 中国-巴西</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803133500 +0800" stop="20260803135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803135000 +0800" stop="20260803144000 +0800">
+		<title lang="zh">最后之舞08</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50055,6 +50082,12 @@
 	<programme channel="newtv超级综艺" start="20260803101000 +0800" stop="20260803112700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260803112700 +0800" stop="20260803130200 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260803130200 +0800" stop="20260803143200 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50082,6 +50115,18 @@
 	<programme channel="newtv超级体育" start="20260803090000 +0800" stop="20260803103000 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/4决赛 法国队-摩洛哥队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260803103000 +0800" stop="20260803120000 +0800">
+		<title lang="zh">实况录像-2026年世界男排联赛总决赛 半决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260803120000 +0800" stop="20260803123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260803123500 +0800" stop="20260803125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260803125500 +0800" stop="20260803142800 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 尤金站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50108,6 +50153,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260803100300 +0800" stop="20260803113400 +0800">
 		<title lang="zh">暗影2</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260803113400 +0800" stop="20260803125200 +0800">
+		<title lang="zh">尖峰对决之古墓神兵</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260803125200 +0800" stop="20260803142000 +0800">
+		<title lang="zh">千里不留行</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260803142000 +0800" stop="20260803153100 +0800">
+		<title lang="zh">逆时救援</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50153,6 +50207,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260803095300 +0800" stop="20260803103800 +0800">
 		<title lang="zh">13_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803103800 +0800" stop="20260803112400 +0800">
+		<title lang="zh">14_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803112400 +0800" stop="20260803121000 +0800">
+		<title lang="zh">15_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803121000 +0800" stop="20260803125500 +0800">
+		<title lang="zh">16_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803125500 +0800" stop="20260803134100 +0800">
+		<title lang="zh">03_赛小花的远大前程</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803134100 +0800" stop="20260803142600 +0800">
+		<title lang="zh">04_赛小花的远大前程</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50747,6 +50816,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260803095200 +0800" stop="20260803102700 +0800">
 		<title lang="zh">澳柯玛语音智能空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803102700 +0800" stop="20260803111200 +0800">
+		<title lang="zh">29_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803111200 +0800" stop="20260803115700 +0800">
+		<title lang="zh">30_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803115700 +0800" stop="20260803122800 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803122800 +0800" stop="20260803131100 +0800">
+		<title lang="zh">21_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803131100 +0800" stop="20260803134100 +0800">
+		<title lang="zh">超能康糖尿病治疗仪</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803134100 +0800" stop="20260803142500 +0800">
+		<title lang="zh">22_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
