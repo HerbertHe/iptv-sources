@@ -9,4 +9,4 @@
 | 3 | 东南卫视 | IPv4 直链 | <http://125.42.151.53:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 4 | 广东卫视 | IPv4 直链 | <http://125.42.151.146:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Aug 03 2026 22:57:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 04 2026 02:12:09 GMT+0000 (Coordinated Universal Time)**
