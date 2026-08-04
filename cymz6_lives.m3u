@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://125.42.151.146:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://125.42.151.146:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://125.42.151.53:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://125.42.151.146:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
