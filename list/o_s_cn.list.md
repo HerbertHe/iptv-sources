@@ -381,5 +381,8 @@
 | 375 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
 | 376 | Qinghai TV | hls-qhmh.lanzhousobey.cn | <https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8> |
 | 377 | Jiangsu Public & News Channel | 荔枝网 | <https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
+| 378 | Anhui TV | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8> |
+| 379 | Dragon TV International | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8> |
+| 380 | CCTV-5+ | myip.pdtvhd.com | <https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8> |
 
-Updated at **Tue Aug 04 2026 23:00:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 02:11:25 GMT+0000 (Coordinated Universal Time)**
