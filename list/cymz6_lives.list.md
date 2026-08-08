@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 金鹰卡通 | IPv4 直链 | <http://125.42.148.9:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Aug 08 2026 08:36:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 10:28:21 GMT+0000 (Coordinated Universal Time)**
