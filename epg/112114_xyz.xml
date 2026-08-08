@@ -17637,6 +17637,9 @@
 	<programme channel="咪咕足球" start="20260808104500 +0800" stop="20260808114500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260808120500 +0800" stop="20260808134000 +0800">
+		<title lang="zh">中国篮球时刻-2026男篮世预赛 中国男篮-韩国男篮</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59418,6 +59421,9 @@
 	<programme channel="newtv超级综艺" start="20260808093500 +0800" stop="20260808110500 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260808110500 +0800" stop="20260808141000 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59448,6 +59454,9 @@
 	<programme channel="newtv超级体育" start="20260808090000 +0800" stop="20260808120000 +0800">
 		<title lang="zh">2026年世界二十岁以下田径锦标赛-女子400米决赛等</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260808120000 +0800" stop="20260808123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59477,6 +59486,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260808103900 +0800" stop="20260808114200 +0800">
 		<title lang="zh">蛇形行动</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260808114200 +0800" stop="20260808132700 +0800">
+		<title lang="zh">捍卫者</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59525,6 +59537,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260808110100 +0800" stop="20260808114600 +0800">
 		<title lang="zh">34_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808114600 +0800" stop="20260808123200 +0800">
+		<title lang="zh">35_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808123200 +0800" stop="20260808131700 +0800">
+		<title lang="zh">36_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60125,6 +60143,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260808104300 +0800" stop="20260808111300 +0800">
 		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808111300 +0800" stop="20260808115700 +0800">
+		<title lang="zh">16_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808115700 +0800" stop="20260808122700 +0800">
+		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808122700 +0800" stop="20260808131200 +0800">
+		<title lang="zh">17_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
