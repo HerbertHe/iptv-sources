@@ -17718,6 +17718,9 @@
 	<programme channel="咪咕足球" start="20260808193000 +0800" stop="20260808203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260808203500 +0800" stop="20260808221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G2 合肥狂风-上海玄鸟</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59514,6 +59517,9 @@
 	<programme channel="newtv超级综艺" start="20260808195400 +0800" stop="20260808211100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260808211100 +0800" stop="20260808230200 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59622,6 +59628,9 @@
 	<programme channel="newtv超级电影" start="20260808201300 +0800" stop="20260808214300 +0800">
 		<title lang="zh">战狼</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260808214300 +0800" stop="20260808224700 +0800">
+		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59702,6 +59711,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260808193800 +0800" stop="20260808202500 +0800">
 		<title lang="zh">26_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808202500 +0800" stop="20260808211100 +0800">
+		<title lang="zh">27_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808211100 +0800" stop="20260808215800 +0800">
+		<title lang="zh">28_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808215800 +0800" stop="20260808224300 +0800">
+		<title lang="zh">18_辣妈正传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60347,6 +60365,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260808200300 +0800" stop="20260808204800 +0800">
 		<title lang="zh">27_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808204800 +0800" stop="20260808211800 +0800">
+		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808211800 +0800" stop="20260808220500 +0800">
+		<title lang="zh">28_前夜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
