@@ -385,4 +385,4 @@
 | 379 | Dragon TV International | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8> |
 | 380 | CCTV-5+ | myip.pdtvhd.com | <https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8> |
 
-Updated at **Sun Aug 09 2026 06:51:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 08:38:14 GMT+0000 (Coordinated Universal Time)**
