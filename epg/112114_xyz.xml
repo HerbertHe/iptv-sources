@@ -14031,6 +14031,12 @@
 	<programme channel="咪咕综合体育" start="20260810123500 +0800" stop="20260810134000 +0800">
 		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单半决赛 张本美和-蒯曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260810135000 +0800" stop="20260810135500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260810135500 +0800" stop="20260810153500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 半决赛 法国-西班牙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14087,6 +14093,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260810120500 +0800" stop="20260810134500 +0800">
 		<title lang="zh">中国篮球时刻-2026男篮世预赛 日本男篮-中国男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260810135000 +0800" stop="20260810144000 +0800">
+		<title lang="zh">最后之舞05</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260810144500 +0800" stop="20260810154500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50055,6 +50067,9 @@
 	<programme channel="newtv超级综艺" start="20260810130200 +0800" stop="20260810141200 +0800">
 		<title lang="zh">你好生活第4季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260810141200 +0800" stop="20260810155900 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50097,6 +50112,9 @@
 	<programme channel="newtv超级体育" start="20260810125900 +0800" stop="20260810140000 +0800">
 		<title lang="zh">实况录像-WTT横滨冠军赛2026 比赛1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260810140000 +0800" stop="20260810170000 +0800">
+		<title lang="zh">2026/2027赛季斯诺克中国公开赛-第1轮3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50126,6 +50144,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260810115600 +0800" stop="20260810132400 +0800">
 		<title lang="zh">我们的黄金年代</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260810132400 +0800" stop="20260810151900 +0800">
+		<title lang="zh">侵占</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50183,6 +50204,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260810130300 +0800" stop="20260810134900 +0800">
 		<title lang="zh">31_赛小花的远大前程</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260810134900 +0800" stop="20260810143400 +0800">
+		<title lang="zh">32_赛小花的远大前程</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260810143400 +0800" stop="20260810152000 +0800">
+		<title lang="zh">33_赛小花的远大前程</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50795,6 +50822,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260810130300 +0800" stop="20260810133300 +0800">
 		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260810133300 +0800" stop="20260810141700 +0800">
+		<title lang="zh">30_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260810141700 +0800" stop="20260810144700 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260810144700 +0800" stop="20260810153100 +0800">
+		<title lang="zh">31_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
