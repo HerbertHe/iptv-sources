@@ -14019,6 +14019,18 @@
 	<programme channel="咪咕综合体育" start="20260810101000 +0800" stop="20260810115000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第21轮 北京国安-浙江俱乐部绿城</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260810115000 +0800" stop="20260810120000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260810120000 +0800" stop="20260810123000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单1/4决赛 孙颖莎-陈幸同</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260810123000 +0800" stop="20260810123500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260810123500 +0800" stop="20260810134000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单半决赛 张本美和-蒯曼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14069,6 +14081,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260810104500 +0800" stop="20260810114500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260810115000 +0800" stop="20260810120000 +0800">
+		<title lang="zh">绝对独家对话赵嘉义</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260810120500 +0800" stop="20260810134500 +0800">
+		<title lang="zh">中国篮球时刻-2026男篮世预赛 日本男篮-中国男篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50034,6 +50052,9 @@
 	<programme channel="newtv超级综艺" start="20260810112600 +0800" stop="20260810130200 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260810130200 +0800" stop="20260810141200 +0800">
+		<title lang="zh">你好生活第4季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50067,6 +50088,15 @@
 	<programme channel="newtv超级体育" start="20260810103000 +0800" stop="20260810120000 +0800">
 		<title lang="zh">实况录像-2026年世界二十岁以下田径锦标赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260810120000 +0800" stop="20260810123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260810123500 +0800" stop="20260810125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260810125900 +0800" stop="20260810140000 +0800">
+		<title lang="zh">实况录像-WTT横滨冠军赛2026 比赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50093,6 +50123,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260810102700 +0800" stop="20260810115600 +0800">
 		<title lang="zh">坦克战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260810115600 +0800" stop="20260810132400 +0800">
+		<title lang="zh">我们的黄金年代</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50144,6 +50177,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260810113100 +0800" stop="20260810121700 +0800">
 		<title lang="zh">05_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260810121700 +0800" stop="20260810130300 +0800">
+		<title lang="zh">06_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260810130300 +0800" stop="20260810134900 +0800">
+		<title lang="zh">31_赛小花的远大前程</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50750,6 +50789,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260810113500 +0800" stop="20260810121800 +0800">
 		<title lang="zh">28_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260810121800 +0800" stop="20260810130300 +0800">
+		<title lang="zh">29_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260810130300 +0800" stop="20260810133300 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
