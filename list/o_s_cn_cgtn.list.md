@@ -11,4 +11,4 @@
 | 5 | CGTN Français (1080p) [Not 24/7] | CGTN | <https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8> |
 | 6 | CGTN Русский (1080p) | CGTN | <https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8> |
 
-Updated at **Tue Aug 11 2026 14:54:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 11 2026 16:54:50 GMT+0000 (Coordinated Universal Time)**
