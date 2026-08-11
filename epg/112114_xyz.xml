@@ -17667,6 +17667,12 @@
 	<programme channel="咪咕综合体育" start="20260811102000 +0800" stop="20260811120000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第22轮 大连英博海发-辽宁铁人楠波湾</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260811120500 +0800" stop="20260811121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260811121000 +0800" stop="20260811130000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单半决赛 孙颖莎-王艺迪</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17708,6 +17714,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260811104500 +0800" stop="20260811114500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260811114500 +0800" stop="20260811115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260811120500 +0800" stop="20260811133500 +0800">
+		<title lang="zh">中国篮球时刻-2026男篮世预赛 中国台北男篮-中国男篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59334,6 +59346,9 @@
 	<programme channel="newtv超级综艺" start="20260811103900 +0800" stop="20260811120900 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260811120900 +0800" stop="20260811132400 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59367,6 +59382,12 @@
 	<programme channel="newtv超级体育" start="20260811103000 +0800" stop="20260811120000 +0800">
 		<title lang="zh">实况录像-WTT欧洲大满贯2026 第一轮(录播)1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260811120000 +0800" stop="20260811123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260811123500 +0800" stop="20260811125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59396,6 +59417,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260811105300 +0800" stop="20260811122400 +0800">
 		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260811122400 +0800" stop="20260811141500 +0800">
+		<title lang="zh">三重世界</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59444,6 +59468,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260811105800 +0800" stop="20260811114400 +0800">
 		<title lang="zh">08_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260811114400 +0800" stop="20260811123000 +0800">
+		<title lang="zh">09_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260811123000 +0800" stop="20260811131600 +0800">
+		<title lang="zh">10_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60044,6 +60074,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260811104800 +0800" stop="20260811111800 +0800">
 		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260811111800 +0800" stop="20260811120200 +0800">
+		<title lang="zh">34_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260811120200 +0800" stop="20260811123200 +0800">
+		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260811123200 +0800" stop="20260811131500 +0800">
+		<title lang="zh">35_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
