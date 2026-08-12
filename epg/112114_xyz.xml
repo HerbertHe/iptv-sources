@@ -17895,6 +17895,12 @@
 	<programme channel="咪咕综合体育" start="20260812134500 +0800" stop="20260812160500 +0800">
 		<title lang="zh">网球世界-2026WTA1000多伦多女单 第1轮 王欣瑜-卡萨金娜</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260812160500 +0800" stop="20260812163000 +0800">
+		<title lang="zh">超级主队b7卫冕征途第三集</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260812163000 +0800" stop="20260812165500 +0800">
+		<title lang="zh">超级主队b7卫冕征途第四集</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17960,6 +17966,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260812144500 +0800" stop="20260812154500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260812155000 +0800" stop="20260812165000 +0800">
+		<title lang="zh">中国榜样篮球季对话周琦</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260812165000 +0800" stop="20260812170000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59289,6 +59301,9 @@
 	<programme channel="newtv超级综艺" start="20260812145600 +0800" stop="20260812164400 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260812164400 +0800" stop="20260812183300 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59364,6 +59379,9 @@
 	<programme channel="newtv超级电影" start="20260812142900 +0800" stop="20260812155800 +0800">
 		<title lang="zh">浴血雁门关</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260812155800 +0800" stop="20260812171100 +0800">
+		<title lang="zh">洛城疑云</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59426,6 +59444,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260812144800 +0800" stop="20260812153400 +0800">
 		<title lang="zh">41_赛小花的远大前程</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812153400 +0800" stop="20260812161900 +0800">
+		<title lang="zh">42_赛小花的远大前程</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812161900 +0800" stop="20260812170700 +0800">
+		<title lang="zh">22_亲爱的仇敌</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60044,6 +60068,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260812144700 +0800" stop="20260812152700 +0800">
 		<title lang="zh">FeiGRS超纯南极磷虾油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812152700 +0800" stop="20260812160900 +0800">
+		<title lang="zh">42_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812160900 +0800" stop="20260812164600 +0800">
+		<title lang="zh">泰国进口TIGERBRAND鳄鱼按摩膏</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812164600 +0800" stop="20260812173200 +0800">
+		<title lang="zh">43_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
