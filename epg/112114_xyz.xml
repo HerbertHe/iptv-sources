@@ -17937,6 +17937,9 @@
 	<programme channel="咪咕综合体育" start="20260813170000 +0800" stop="20260813220000 +0800">
 		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 单打1/16决赛、双打1/4决赛、混双1/4决赛 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260813220500 +0800" stop="20260813234500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第22轮 云南玉昆-成都蓉城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18017,6 +18020,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260813203500 +0800" stop="20260813221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 总决赛G1 上海玄鸟-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260813222000 +0800" stop="20260813235500 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G2 山东赤水河酒-新疆天山</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59007,6 +59013,9 @@
 	<programme channel="newtv超级综艺" start="20260813204000 +0800" stop="20260813222000 +0800">
 		<title lang="zh">跟着春晚游中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260813222000 +0800" stop="20260813231000 +0800">
+		<title lang="zh">远山之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59064,6 +59073,12 @@
 	<programme channel="newtv超级体育" start="20260813183000 +0800" stop="20260813213000 +0800">
 		<title lang="zh">WTT欧洲大满贯2026-混双,男双 1/4决赛，单打第2轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260813213000 +0800" stop="20260813220500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260813220500 +0800" stop="20260813230500 +0800">
+		<title lang="zh">足球之夜</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59105,6 +59120,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260813201300 +0800" stop="20260813221800 +0800">
 		<title lang="zh">扫毒3：人在天涯</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260813221800 +0800" stop="20260813001500 +0800">
+		<title lang="zh">无人区</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59192,6 +59210,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260813203400 +0800" stop="20260813212100 +0800">
 		<title lang="zh">42_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813212100 +0800" stop="20260813220700 +0800">
+		<title lang="zh">43_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813220700 +0800" stop="20260813225200 +0800">
+		<title lang="zh">33_辣妈正传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59837,6 +59861,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260813204100 +0800" stop="20260813211100 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813211100 +0800" stop="20260813215600 +0800">
+		<title lang="zh">25_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813215600 +0800" stop="20260813222600 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813222600 +0800" stop="20260813231000 +0800">
+		<title lang="zh">26_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
