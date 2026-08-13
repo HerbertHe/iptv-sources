@@ -18012,6 +18012,12 @@
 	<programme channel="咪咕足球" start="20260813183500 +0800" stop="20260813184500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260813193000 +0800" stop="20260813203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260813203500 +0800" stop="20260813221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 总决赛G1 上海玄鸟-香港金牛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -58995,6 +59001,12 @@
 	<programme channel="newtv超级综艺" start="20260813180600 +0800" stop="20260813192300 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260813192300 +0800" stop="20260813204000 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260813204000 +0800" stop="20260813222000 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59091,6 +59103,9 @@
 	<programme channel="newtv超级电影" start="20260813181700 +0800" stop="20260813201300 +0800">
 		<title lang="zh">西虹市首富</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260813201300 +0800" stop="20260813221800 +0800">
+		<title lang="zh">扫毒3：人在天涯</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59168,6 +59183,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260813181600 +0800" stop="20260813190200 +0800">
 		<title lang="zh">04_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813190200 +0800" stop="20260813194700 +0800">
+		<title lang="zh">05_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813194700 +0800" stop="20260813203400 +0800">
+		<title lang="zh">41_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813203400 +0800" stop="20260813212100 +0800">
+		<title lang="zh">42_主角</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59801,6 +59825,18 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260813180000 +0800" stop="20260813184300 +0800">
 		<title lang="zh">06_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813184300 +0800" stop="20260813192700 +0800">
+		<title lang="zh">23_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813192700 +0800" stop="20260813195700 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813195700 +0800" stop="20260813204100 +0800">
+		<title lang="zh">24_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813204100 +0800" stop="20260813211100 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
