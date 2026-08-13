@@ -45,4 +45,4 @@
 | 39 | 重庆卫视 | IPv4 直链 | <http://125.71.73.4:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0> |
 | 40 | 黑龙江卫视 | IPv4 直链 | <http://125.71.73.4:9901/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Aug 13 2026 01:43:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 04:08:35 GMT+0000 (Coordinated Universal Time)**

@@ -1093,6 +1093,8 @@ https://stream1.freetv.fun/231823925cacf0853732b92f379ef84cca5d73bbcdfccb6e53b6d
 https://stream1.freetv.fun/96cf918aea57b41505fad695300264f32d273771711570f42adee0c4973758f7.m3u8
 #EXTINF:-1 tvg-name="SLNTV" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SLNTV.PNG" group-title="Generic",[HD]soltv
 https://stream1.freetv.fun/ff9dff2ad6be1907ef33989d5805299800be86fff3d3c32ebdf424f05b09d4ec.m3u8
+#EXTINF:-1 tvg-name="SMNI" tvg-id="" tvg-country="Philippines" tvg-language="Filipino" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174909848556_36.png" group-title="Generic",[BD]smni
+https://stream1.freetv.fun/4f6b5f88b16e5171cc33ec5d04f7b99d63aea581cec964d0a2969c3428a906ee.m3u8
 #EXTINF:-1 tvg-name="SONY" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a1cf23ac985519b22016dff4543c57ec.jpg" group-title="Generic",[VGA]sony yay!
 https://stream1.freetv.fun/b91c62fd047e13b8c66cf504801d1d8acb1b6a9a965b484b513b204c271689a3.m3u8
 #EXTINF:-1 tvg-name="SONY MOVIES" tvg-id="464943" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/09/20/large/20240920010014620766_85.png" group-title="Movies",[SD]sony movies latin america
