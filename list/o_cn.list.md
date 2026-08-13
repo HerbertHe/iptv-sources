@@ -129,24 +129,23 @@
 | 123 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
 | 124 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
 | 125 | 滁州科教 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvkj/playlist.m3u8> |
-| 126 | 甘肃卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/25/index.m3u8> |
-| 127 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
-| 128 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
-| 129 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
-| 130 | 西安丝路 (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
-| 131 | 西安商务资讯 (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
-| 132 | 贵州卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU> |
-| 133 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
-| 134 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 135 | 重庆卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/22/index.m3u8> |
-| 136 | 金鹰卡通 (576p) | 中国移动江苏 | <http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8> |
-| 137 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
-| 138 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
-| 139 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
-| 140 | 青海卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
-| 141 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
-| 142 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
-| 143 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
-| 144 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
+| 126 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
+| 127 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
+| 128 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
+| 129 | 西安丝路 (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
+| 130 | 西安商务资讯 (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
+| 131 | 贵州卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU> |
+| 132 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
+| 133 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
+| 134 | 重庆卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/22/index.m3u8> |
+| 135 | 金鹰卡通 (576p) | 中国移动江苏 | <http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8> |
+| 136 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
+| 137 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
+| 138 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
+| 139 | 青海卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
+| 140 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
+| 141 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
+| 142 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
+| 143 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Wed Aug 12 2026 22:36:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 01:43:57 GMT+0000 (Coordinated Universal Time)**
