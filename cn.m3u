@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="CCTV 8K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055557713287_44.png" group-title="综合",[HD]cctv-8
+#EXTINF:-1 tvg-name="CCTV 8K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055557713287_44.png" group-title="综合",[BD]cctv-8
 https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.ctv
 #EXTINF:-1 tvg-name="CCTV-戏曲" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/24/large/20211124001035147790_28.png" group-title="电影",[BD]cctv-11戏曲
 https://stream1.freetv.fun/dcf43a329fbf48a648a5e996bf0733183685702b8b6c150d89aff9a7ec34f2b3.m3u8
@@ -30,7 +30,7 @@ https://stream1.freetv.fun/a88d74532ae065bcc0328e4448f4298a0722666413689773b636d
 #EXTINF:-1 tvg-name="CCTV4 FHD" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="新闻",[BD]cctv4
 https://stream1.freetv.fun/2d775dbe18822cdac5a52a92edf587ac88cdebdcb14b310e254c376cce5f44d2.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/02/16/large/20260216173959654419_73.png" group-title="综合",[BD]cctv-4k高清
-https://stream1.freetv.fun/3e114eb804b86080fa2e6509a0066c094e4ff2111f837859dc107f31dabb23de.m3u8
+https://stream1.freetv.fun/97bab3282cd3ea4310f8ef47b318248903617cca7be625f8f98733c863e5f284.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001905740569_14.jpg" group-title="综合",[BD]cctv-4中文国际
 https://stream1.freetv.fun/53004f637662dacde55985b1617344fb47c6df89d8326930439086eeb29d1bfc.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055001229701_29.jpg" group-title="综合",[HD]cctv4中文国际
@@ -231,8 +231,6 @@ https://stream1.freetv.fun/906138969e04bb17662c36afe229862daf7f6d4f21e727ef3f9c2
 https://stream1.freetv.fun/da893d9b0113218f080fe13e82cae10b9502c0be8f3ca470983cc8b1722f8558.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055858539901_84.jpg" group-title="综合",[BD]东南卫视
 https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728224839286048_21.jpg" group-title="电影",[HD]上视东方影视
-https://stream1.freetv.fun/5b844e2b76029d63634f0b24ad5d8e0f31a97f2c0f70da3dff0d3ae8bd8894c1.ctv
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="综合",[BD]东方卫视
 https://stream1.freetv.fun/83c3a916916d31715425b6e333fa1bc61dd7401ec2e546e2e62e0dacdeac543a.m3u8
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720202619100011_24.png" group-title="新闻",[HD]东莞新闻综合
@@ -272,7 +270,7 @@ https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5
 #EXTINF:-1 tvg-name="河南都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531143451177556_90.jpg" group-title="综合",[BD]河南都市
 https://stream1.freetv.fun/159787fa1c85725d343a5097adb51da069502ad220ca826ada667b010aeabf5b.ctv
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313193123214948_88.png" group-title="新闻",[VGA]泰州新闻综合
-https://stream1.freetv.fun/a1cec8b6b1673ab615ca831df10e7add9adb480255f4fe5012100bebd5b6cc4a.ctv
+https://stream1.freetv.fun/57c53737142a812020e9c02e7a8793236c98eeadcc840500824c870bc2f687e8.ctv
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/01/large/20220501233500757287_70.png" group-title="综合",[BD]浙江国际
 https://stream1.freetv.fun/85946246ab7fd0c04a997e854c5a6a90f9f74f0fec769c6bfb77a60526c6d729.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530221145480622_53.jpg" group-title="儿童",[BD]浙江少儿
@@ -373,8 +371,8 @@ https://stream1.freetv.fun/d743b7c03edc383f07313e05d02161dae7bde7e8562efafe21284
 https://stream1.freetv.fun/f210bcfec60aa45ed9c724bf4c7abefcdfb41c589ada322aebc5cdc3ae6dc420.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151504287238_45.jpg" group-title="综合",[SD]陕西都市青春
 https://stream1.freetv.fun/1b5c2948073df91c08fdc1b18bf158ca6c9cc35c9b7c77bd7bc0727c2c3bb6c4.m3u8
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151408095945_53.jpg" group-title="运动",[VGA]体育休闲
-https://stream1.freetv.fun/85a90a699ed0a7f768a21eb7b777d70882019db35818f8258c33d272a3be662d.ctv
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151408095945_53.jpg" group-title="运动",[HD]陕西体育休闲
+https://stream1.freetv.fun/6ba609077774eb8f4198259b5e8262af6bd0cb3b7646887f253506ee510c6224.ctv
 #EXTINF:-1 tvg-name="云南影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145247906980_49.jpg" group-title="电影",[HD]云南影视
 rtmp://hwzbout.yntv.net/62hdvf/utrat7
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="其它",[BD]云南卫视
