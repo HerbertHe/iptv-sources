@@ -17943,6 +17943,12 @@
 	<programme channel="咪咕综合体育" start="20260814182500 +0800" stop="20260814185000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260814185000 +0800" stop="20260814190000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260814190000 +0800" stop="20260814214000 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第23轮 山东泰山-青岛海牛 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18002,6 +18008,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260814170000 +0800" stop="20260814183500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第12轮 山东蜜獾-焦作文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814184500 +0800" stop="20260814190500 +0800">
+		<title lang="zh">赛事睛华</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814190500 +0800" stop="20260814191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814191500 +0800" stop="20260814192000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814193000 +0800" stop="20260814203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814203000 +0800" stop="20260814203500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59244,6 +59265,9 @@
 	<programme channel="newtv超级综艺" start="20260814175000 +0800" stop="20260814192600 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260814192600 +0800" stop="20260814204300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59340,6 +59364,9 @@
 	<programme channel="newtv超级电影" start="20260814174700 +0800" stop="20260814192300 +0800">
 		<title lang="zh">虎胆杀机</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260814192300 +0800" stop="20260814211500 +0800">
+		<title lang="zh">超能一家人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59414,6 +59441,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260814175600 +0800" stop="20260814184100 +0800">
 		<title lang="zh">08_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814184100 +0800" stop="20260814192700 +0800">
+		<title lang="zh">09_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814192700 +0800" stop="20260814201300 +0800">
+		<title lang="zh">44_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814201300 +0800" stop="20260814205900 +0800">
+		<title lang="zh">45_主角</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60047,6 +60083,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260814175100 +0800" stop="20260814183500 +0800">
 		<title lang="zh">11_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814183500 +0800" stop="20260814191900 +0800">
+		<title lang="zh">28_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814191900 +0800" stop="20260814194900 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814194900 +0800" stop="20260814203400 +0800">
+		<title lang="zh">29_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
