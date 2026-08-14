@@ -8,6 +8,7 @@ Anhui_TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.
 Bread_TV面包台_(720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 CCTV-8K_(1080p),http://192.151.150.154/live/cctv8k.m3u8
 CCTV-Culture_of_Quality_(1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+Guangdong_Satellite_TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 Hunan_TV_(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Nei_Monggol_TV_(1080i)_[Not_24/7],http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 Shenzhen_Satellite_TV_(2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
@@ -25,19 +26,13 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 山东生活_(1080p),http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东综艺_(406p),http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东齐鲁_(1080p),http://livealone302.iqilu.com/iqilu/qlpd.m3u8
-山西卫视_(2160p),http://118.81.195.79:9003/hls/19/index.m3u8
-广东卫视_(2160p),http://118.81.195.79:9003/hls/26/index.m3u8
 康巴卫视_(720p)_[Not_24/7],http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 敦煌电视台_(1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
 江苏卫视_(1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江西卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-河南卫视_(2160p),http://118.81.195.79:9003/hls/30/index.m3u8
 浙江卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-海南卫视_(576p),http://118.81.195.79:9003/hls/28/index.m3u8
-湖北卫视_(1080p),http://118.81.195.79:9003/hls/32/index.m3u8
 纪实人文_(1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 西安丝路_(404p)_[Not_24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
-重庆卫视_(1080p),http://118.81.195.79:9003/hls/22/index.m3u8
 青海卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 高台电视台_(1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 
@@ -76,20 +71,17 @@ QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 Siping_TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 TV_BRICS_Chinese_(1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-东方卫视_(2160p),http://118.81.195.79:9003/hls/23/index.m3u8
 云南卫视_(1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 北京卫视_(1080p),http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
-吉林卫视_(2160p),http://118.81.195.79:9003/hls/34/index.m3u8
 和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
 山东卫视_(720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
-广西卫视_(576p),http://118.81.195.79:9003/hls/27/index.m3u8
 江苏公共_(576p),http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 江苏城市_(576p),http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 滁州市广播电视台_公共频道_(400p),http://live.cztv.cc:85/live/ggpd.m3u8
 白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 贵州卫视_(576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 辽宁卫视_(1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
-黑龙江卫视_(2160p),http://118.81.195.79:9003/hls/31/index.m3u8
+黑龙江_(1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 
 Business,#genre#
 CCTV-2_(720p),http://74.91.26.218:82/live/cctv2hd.m3u8
