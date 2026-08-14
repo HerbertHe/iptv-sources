@@ -357,4 +357,4 @@
 | 351 | Discovering China (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8> |
 | 352 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
 
-Updated at **Fri Aug 14 2026 01:41:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 14 2026 04:05:07 GMT+0000 (Coordinated Universal Time)**

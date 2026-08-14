@@ -17904,6 +17904,15 @@
 	<programme channel="咪咕综合体育" start="20260814083500 +0800" stop="20260814092500 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260814093000 +0800" stop="20260814111000 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第22轮 重庆铜梁龙-上海海港</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260814111000 +0800" stop="20260814111500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260814111500 +0800" stop="20260814120000 +0800">
+		<title lang="zh">英超精华 第38轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17939,6 +17948,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260814090500 +0800" stop="20260814103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814104500 +0800" stop="20260814114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260814114500 +0800" stop="20260814115000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59283,6 +59298,9 @@
 	<programme channel="newtv超级综艺" start="20260814091600 +0800" stop="20260814102600 +0800">
 		<title lang="zh">沧海运河谣</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260814102600 +0800" stop="20260814120000 +0800">
+		<title lang="zh">你好生活第4季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59313,6 +59331,9 @@
 	<programme channel="newtv超级体育" start="20260814090000 +0800" stop="20260814103000 +0800">
 		<title lang="zh">实况录像-2026年世界男排联赛总决赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260814103000 +0800" stop="20260814120000 +0800">
+		<title lang="zh">实况录像-WTT欧洲大满贯2026 双打1/4决赛,单打第二轮(录播)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59336,6 +59357,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260814083400 +0800" stop="20260814101900 +0800">
 		<title lang="zh">音乐永不停歇</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260814101900 +0800" stop="20260814114300 +0800">
+		<title lang="zh">复仇乌鸦</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260814114300 +0800" stop="20260814142200 +0800">
+		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59375,6 +59402,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260814083900 +0800" stop="20260814092400 +0800">
 		<title lang="zh">06_纯真年代的爱情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814092400 +0800" stop="20260814100900 +0800">
+		<title lang="zh">07_纯真年代的爱情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814101400 +0800" stop="20260814110000 +0800">
+		<title lang="zh">19_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814110000 +0800" stop="20260814114600 +0800">
+		<title lang="zh">20_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59969,6 +60005,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260814091900 +0800" stop="20260814100400 +0800">
 		<title lang="zh">01_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814100400 +0800" stop="20260814103400 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814103400 +0800" stop="20260814112000 +0800">
+		<title lang="zh">02_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814112000 +0800" stop="20260814115000 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
