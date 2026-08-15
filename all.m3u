@@ -83,8 +83,6 @@ https://stream1.freetv.fun/ecb74d001737c7b03d21aae153b310c7adaf3a6ba98db63338030
 https://stream1.freetv.fun/8245b797b6262b8bf0503a85db0b08e4d1cb02a38b1377bdc5ae74e15b0f1958.m3u8
 #EXTINF:-1 tvg-name="Action   (FR)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821112638002374_89.png" group-title="Generic",[BD]btv action
 https://stream1.freetv.fun/3db9f2a986025b14ca840a9be5a3b02af1e1a3fc6388e95473fccdec5639b19b.ctv
-#EXTINF:-1 tvg-name="Action Max" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206122156438218_84.jpg" group-title="Movies",[HD]actionmax
-https://stream1.freetv.fun/bd2bb2806a21fd78a5b41d7390ee439cfaf41f2888fc35a90f8bed8af98fb589.m3u8
 #EXTINF:-1 tvg-name="Ad sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821034016653336_36.jpg" group-title="Generic",[BD]max sport 1
 https://stream1.freetv.fun/f0b2c29e9be0bb8a74fcc86e321d91890ec2e5f46743fc917bba3c6a278429ee.ctv
 #EXTINF:-1 tvg-name="Africa 24" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821104534160761_51.png" group-title="Generic",[BD]africa 24
@@ -1025,7 +1023,7 @@ https://stream1.freetv.fun/e5c1107a423dff0ada5d3bc6658769fd6a7f7407120f235b1874d
 https://stream1.freetv.fun/0942e4827a7d3ef6d9c659bd6e9ee1df299937feb3d2bd84201aca0293f3e84e.m3u8
 #EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[BD]rai italia
 https://stream1.freetv.fun/36cbc8cf6ba2582a0998c56e3e69f4ee1c6d3b5b732d512d81d83cc463db75a2.m3u8
-#EXTINF:-1 tvg-name="Rai News 24" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174021801258_80.png" group-title="News",[BD]rai news 24 ⓖ
+#EXTINF:-1 tvg-name="Rai News 24" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174021801258_80.png" group-title="News",[HD]rai news 24 ⓖ
 https://stream1.freetv.fun/c814710d196ab5dcce16d67825863babfb1b7dc8140a7a2eb7366697b2646148.ctv
 #EXTINF:-1 tvg-name="Rai Sport" tvg-id="392165" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814024640996171_61.png" group-title="Sports",[BD]rai sport
 https://stream1.freetv.fun/75b392c6fc2e6c7e9eef768e89c2a28de1b1b71347951d6a03205d751dd98903.m3u8
