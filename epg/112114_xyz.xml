@@ -17688,6 +17688,9 @@
 	<programme channel="咪咕综合体育" start="20260816132000 +0800" stop="20260816153500 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 阿根廷-瑞士</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260816154000 +0800" stop="20260816173000 +0800">
+		<title lang="zh">网球世界-2026WTA250雅典站女单 第1轮 郑钦文-马内罗</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17738,6 +17741,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260816135000 +0800" stop="20260816144000 +0800">
 		<title lang="zh">最后之舞01</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816144500 +0800" stop="20260816154500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816155000 +0800" stop="20260816165000 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59568,6 +59577,9 @@
 	<programme channel="newtv超级综艺" start="20260816131900 +0800" stop="20260816145400 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260816145400 +0800" stop="20260816160600 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59646,6 +59658,9 @@
 	<programme channel="newtv超级电影" start="20260816134600 +0800" stop="20260816151400 +0800">
 		<title lang="zh">时速72</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260816151400 +0800" stop="20260816163000 +0800">
+		<title lang="zh">说谎者游戏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59705,6 +59720,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260816134600 +0800" stop="20260816143100 +0800">
 		<title lang="zh">14_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816143100 +0800" stop="20260816151700 +0800">
+		<title lang="zh">15_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816151700 +0800" stop="20260816160200 +0800">
+		<title lang="zh">16_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60320,6 +60341,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260816141100 +0800" stop="20260816145400 +0800">
 		<title lang="zh">18_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816145400 +0800" stop="20260816152900 +0800">
+		<title lang="zh">美国Spruce云杉新一代肝立复-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816152900 +0800" stop="20260816161200 +0800">
+		<title lang="zh">19_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
