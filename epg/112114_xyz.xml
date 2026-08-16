@@ -17676,6 +17676,12 @@
 	<programme channel="咪咕综合体育" start="20260816102000 +0800" stop="20260816120000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第22轮 北京国安-深圳新鹏城</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260816120500 +0800" stop="20260816121000 +0800">
+		<title lang="zh">中超之星</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260816121000 +0800" stop="20260816121500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17711,6 +17717,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260816090500 +0800" stop="20260816103500 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816103500 +0800" stop="20260816104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816104500 +0800" stop="20260816114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816115000 +0800" stop="20260816120000 +0800">
+		<title lang="zh">我在现场中国赛特辑不甘平凡</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816120500 +0800" stop="20260816134500 +0800">
+		<title lang="zh">中国篮球时刻-2025女篮系列热身赛 第一场 中国女篮-波黑女篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59532,6 +59550,12 @@
 	<programme channel="newtv超级综艺" start="20260816091500 +0800" stop="20260816103200 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260816103200 +0800" stop="20260816114900 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260816114900 +0800" stop="20260816131900 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59562,6 +59586,12 @@
 	<programme channel="newtv超级体育" start="20260816090000 +0800" stop="20260816103000 +0800">
 		<title lang="zh">实况录像-2026年中国男篮热身赛 中国队-乌拉圭队 第二场</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260816103000 +0800" stop="20260816120000 +0800">
+		<title lang="zh">实况录像-WTT欧洲大满贯2026 男双决赛,单打1/4决赛(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260816120000 +0800" stop="20260816123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59585,6 +59615,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260816092400 +0800" stop="20260816104600 +0800">
 		<title lang="zh">梦想之门</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260816104600 +0800" stop="20260816121100 +0800">
+		<title lang="zh">嗡鸣</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260816121100 +0800" stop="20260816134600 +0800">
+		<title lang="zh">燕赤霞猎妖传</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59630,6 +59666,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260816095600 +0800" stop="20260816104200 +0800">
 		<title lang="zh">27_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816104200 +0800" stop="20260816112800 +0800">
+		<title lang="zh">28_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816112800 +0800" stop="20260816121400 +0800">
+		<title lang="zh">29_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816121400 +0800" stop="20260816130000 +0800">
+		<title lang="zh">30_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60227,6 +60272,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260816101500 +0800" stop="20260816104500 +0800">
 		<title lang="zh">五香带鱼罐头好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816104500 +0800" stop="20260816113100 +0800">
+		<title lang="zh">14_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816113100 +0800" stop="20260816121700 +0800">
+		<title lang="zh">15_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
