@@ -347,4 +347,4 @@
 | 341 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
 | 342 | Fujian Comprehensive Channel | IPv4 直链 | <http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88> |
 
-Updated at **Mon Aug 17 2026 02:56:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 17 2026 04:37:28 GMT+0000 (Coordinated Universal Time)**
