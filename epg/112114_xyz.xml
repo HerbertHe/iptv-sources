@@ -14361,6 +14361,12 @@
 	<programme channel="咪咕综合体育" start="20260817184000 +0800" stop="20260817202000 +0800">
 		<title lang="zh">足球世界-2026社区盾 决赛 阿森纳-曼城</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260817202500 +0800" stop="20260817220500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第22轮 大连英博海发-辽宁铁人楠波湾</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260817220500 +0800" stop="20260817221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14441,6 +14447,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260817191000 +0800" stop="20260817212000 +0800">
 		<title lang="zh">中国男篮系列热身赛 中国男篮-新西兰男篮 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260817212000 +0800" stop="20260817212500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260817212500 +0800" stop="20260817221000 +0800">
+		<title lang="zh">中国榜样篮球季对话孙铭徽</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49710,6 +49722,9 @@
 	<programme channel="newtv超级综艺" start="20260817194500 +0800" stop="20260817210200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260817210200 +0800" stop="20260817224100 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49764,6 +49779,9 @@
 	<programme channel="newtv超级体育" start="20260817193000 +0800" stop="20260817213000 +0800">
 		<title lang="zh">2026年中国男篮热身赛-中国队-新西兰队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260817213000 +0800" stop="20260817223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49805,6 +49823,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260817200000 +0800" stop="20260817213300 +0800">
 		<title lang="zh">东邪西毒：终极版</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260817213300 +0800" stop="20260817225900 +0800">
+		<title lang="zh">神偷谍影</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49892,6 +49913,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260817201300 +0800" stop="20260817205900 +0800">
 		<title lang="zh">07_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260817205900 +0800" stop="20260817214700 +0800">
+		<title lang="zh">08_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260817214700 +0800" stop="20260817223200 +0800">
+		<title lang="zh">08_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50534,6 +50561,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260817200600 +0800" stop="20260817205000 +0800">
 		<title lang="zh">44_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260817205000 +0800" stop="20260817212000 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260817212000 +0800" stop="20260817220700 +0800">
+		<title lang="zh">45_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
