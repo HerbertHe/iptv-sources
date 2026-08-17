@@ -709,6 +709,10 @@ https://stream1.freetv.fun/c809ae52be3e8485998fdd92b1a944d1910883c86789aec4e7b41
 https://stream1.freetv.fun/ef5f334d0766dc4d4b4c34670bd50d68062b24edffa2a4d36b0e28e9f2b77132.m3u8
 #EXTINF:-1 tvg-name="ION" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/04/20150404015929608784_86.jpg" group-title="Movies",[HD]wion
 https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8
+#EXTINF:-1 tvg-name="IRIB" tvg-id="" tvg-country="Iran" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313152749394352_14.png" group-title="Other",[BD]irib tv1
+https://stream1.freetv.fun/399a7845228a10bd6252a4d914be7d6679e07300465eeef2a0a3d970ad71fcbd.m3u8
+#EXTINF:-1 tvg-name="IRIB AMOOZESH" tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204050129040488_47.jpg" group-title="Generic",[BD]irib varzesh
+https://stream1.freetv.fun/35e1d7d8c7e37cf1998c553969b0d16a14bbc91318a7e93f9ebc2f732a1c0eb4.m3u8
 #EXTINF:-1 tvg-name="ISTV [Brazil]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719183008642095_72.png" group-title="News",[HD]istv
 https://stream1.freetv.fun/9c5d796ea3cd2e8e90791ca933433a11032a711d4d6329fb77434b0b4337c982.m3u8
 #EXTINF:-1 tvg-name="ITV" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/05/21/large/20170521223910040532_53.jpg" group-title="Sports",[HD]itv
@@ -841,6 +845,8 @@ https://stream1.freetv.fun/21da41ab256dae9f46f7848e2068fdf01402a8474c4af9e483ee4
 https://stream1.freetv.fun/b6357784f04cb2c9cd8ca522ec82b38cb587e4ce62ddfb54ca747b87a022d020.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/21/20170421052343918736_95.jpg" group-title="Other",[VGA]miracle tv
 https://stream1.freetv.fun/76d9d8c01af35e29dc646ad47606aaef9a2ad1ee073850bb8209477be87d5e1d.m3u8
+#EXTINF:-1 tvg-name="Mongolia HD" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2018/12/13/large/20181213203026481946_31.png" group-title="Entertainment",[BD]mongolia music
+https://stream1.freetv.fun/2cf1d14de128ae51bbf577da9155f5e49f0f104d3b89cd649673b5d84f054d58.m3u8
 #EXTINF:-1 tvg-name="Mongolia MN25" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2019/01/06/large/20190106152722851346_15.png" group-title="News",[HD]mn25
 https://stream1.freetv.fun/533d9d06cbb02958a32ad4b1ca8ad1d6d8db54182c176b4d6cf295ad1dc743fd.m3u8
 #EXTINF:-1 tvg-name="Movie Plus" tvg-id="" tvg-country="Japan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513214224888581_72.jpg" group-title="Movies",[BD]mozi plus
@@ -1019,6 +1025,8 @@ https://stream1.freetv.fun/6375921b35330f189fe9023e08664d7fb32916fa74f4bf627d068
 https://stream1.freetv.fun/2a569fd6415093249fce62ab816170066135e2812d78362b181bcfd75824626d.m3u8
 #EXTINF:-1 tvg-name="RTM FIFA 1" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620032807366818_78.png" group-title="Sports",[HD]kbs world
 https://stream1.freetv.fun/f6b4056a1626014720382c1e1f3a5bc0dee15f013340e0dc3e79eb87349f5fbb.m3u8
+#EXTINF:-1 tvg-name="RTP 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044726729583_90.png" group-title="Generic",[BD]rtp2
+https://stream1.freetv.fun/b0ed71b9a2384462dddac32ea510256ab637a6f14fafc1fab5015572992d9f2c.m3u8
 #EXTINF:-1 tvg-name="RTP Acores" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613180645462298_93.png" group-title="Generic",[SD]rtp açores
 https://stream1.freetv.fun/ba3972cec6c78f7af5d7ea58fe8a7a9e4714479ebdb0ff731490b853f8e0b840.m3u8
 #EXTINF:-1 tvg-name="RTP Internacional" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173750013761_42.png" group-title="Generic",[BD]nuestra tele internacional
