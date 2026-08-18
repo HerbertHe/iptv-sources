@@ -17517,6 +17517,9 @@
 	<programme channel="咪咕综合体育" start="20260818190000 +0800" stop="20260818214000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第18轮 上海申花-北京国安 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260818214500 +0800" stop="20260818232500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 半决赛 法国-西班牙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17582,6 +17585,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260818193000 +0800" stop="20260818203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260818203000 +0800" stop="20260818203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260818203500 +0800" stop="20260818221000 +0800">
+		<title lang="zh">2026中国男篮系列热身赛 第一场 中国男篮-乌拉圭男篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59082,6 +59091,9 @@
 	<programme channel="newtv超级综艺" start="20260818200600 +0800" stop="20260818212300 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260818212300 +0800" stop="20260818230200 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59139,6 +59151,9 @@
 	<programme channel="newtv超级体育" start="20260818183000 +0800" stop="20260818213000 +0800">
 		<title lang="zh">2026年世界羽毛球锦标赛-第1轮,第2轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260818213000 +0800" stop="20260818223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59180,6 +59195,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260818201100 +0800" stop="20260818215100 +0800">
 		<title lang="zh">东北警察故事3</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260818215100 +0800" stop="20260818233700 +0800">
+		<title lang="zh">非法制裁</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59264,6 +59282,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818193800 +0800" stop="20260818202400 +0800">
 		<title lang="zh">10_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818202400 +0800" stop="20260818210600 +0800">
+		<title lang="zh">11_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818210600 +0800" stop="20260818214900 +0800">
+		<title lang="zh">12_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818214900 +0800" stop="20260818223500 +0800">
+		<title lang="zh">11_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59903,6 +59930,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260818194800 +0800" stop="20260818201800 +0800">
 		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818201800 +0800" stop="20260818210400 +0800">
+		<title lang="zh">05_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818210400 +0800" stop="20260818213400 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818213400 +0800" stop="20260818221900 +0800">
+		<title lang="zh">06_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
