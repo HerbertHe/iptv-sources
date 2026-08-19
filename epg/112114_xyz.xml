@@ -17853,6 +17853,9 @@
 	<programme channel="咪咕综合体育" start="20260819101000 +0800" stop="20260819115000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第23轮 山东泰山-青岛海牛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260819120500 +0800" stop="20260819121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17891,6 +17894,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260819090500 +0800" stop="20260819103500 +0800">
 		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260819104500 +0800" stop="20260819114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260819114500 +0800" stop="20260819115000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260819120500 +0800" stop="20260819133500 +0800">
+		<title lang="zh">中国篮球时刻-2025女篮系列热身赛 第五场 中国女篮-澳大利亚女篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59310,6 +59322,9 @@
 	<programme channel="newtv超级综艺" start="20260819095200 +0800" stop="20260819110900 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260819110900 +0800" stop="20260819122600 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59340,6 +59355,12 @@
 	<programme channel="newtv超级体育" start="20260819090000 +0800" stop="20260819103100 +0800">
 		<title lang="zh">实况录像-2026年世界二十岁以下田径锦标赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260819103100 +0800" stop="20260819120000 +0800">
+		<title lang="zh">2026/2027西班牙足球甲级联赛-第1轮(桑坦德-比利亚雷亚尔)(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260819120000 +0800" stop="20260819123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59360,6 +59381,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260819085500 +0800" stop="20260819103400 +0800">
 		<title lang="zh">特工过家家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260819103400 +0800" stop="20260819120100 +0800">
+		<title lang="zh">东北喜事之山炮扶上墙</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260819120100 +0800" stop="20260819134300 +0800">
+		<title lang="zh">足球少年</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59405,6 +59432,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260819094500 +0800" stop="20260819103100 +0800">
 		<title lang="zh">39_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819103100 +0800" stop="20260819111700 +0800">
+		<title lang="zh">40_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819111700 +0800" stop="20260819120200 +0800">
+		<title lang="zh">01_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819120200 +0800" stop="20260819124700 +0800">
+		<title lang="zh">02_奔跑吧，医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60002,6 +60038,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260819095400 +0800" stop="20260819103900 +0800">
 		<title lang="zh">29_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819103900 +0800" stop="20260819110900 +0800">
+		<title lang="zh">青稞饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819110900 +0800" stop="20260819115500 +0800">
+		<title lang="zh">30_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819115500 +0800" stop="20260819123500 +0800">
+		<title lang="zh">VK 13 PRO MAX 5G语音手机套装</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
