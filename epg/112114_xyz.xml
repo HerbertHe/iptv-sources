@@ -17916,6 +17916,9 @@
 	<programme channel="咪咕综合体育" start="20260819190000 +0800" stop="20260819214000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第18轮 上海海港-大连英博海发 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260819214500 +0800" stop="20260819232500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 半决赛 英格兰-阿根廷</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17993,6 +17996,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260819193000 +0800" stop="20260819203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260819203500 +0800" stop="20260819221000 +0800">
+		<title lang="zh">2026中国女篮系列热身赛 第一场 中国女篮-尼日利亚女篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59376,6 +59382,9 @@
 	<programme channel="newtv超级综艺" start="20260819200000 +0800" stop="20260819214500 +0800">
 		<title lang="zh">今夕颂——2026中央广播电视总台七夕晚会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260819214500 +0800" stop="20260819224000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59433,6 +59442,9 @@
 	<programme channel="newtv超级体育" start="20260819183000 +0800" stop="20260819213000 +0800">
 		<title lang="zh">2026年世界羽毛球锦标赛-第2轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260819213000 +0800" stop="20260819223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59474,6 +59486,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260819191200 +0800" stop="20260819203200 +0800">
 		<title lang="zh">虎口夺金</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260819203200 +0800" stop="20260819215800 +0800">
+		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260819215800 +0800" stop="20260819235400 +0800">
+		<title lang="zh">天下无贼</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59558,6 +59576,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260819194100 +0800" stop="20260819202500 +0800">
 		<title lang="zh">14_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819202500 +0800" stop="20260819210700 +0800">
+		<title lang="zh">15_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819210700 +0800" stop="20260819215100 +0800">
+		<title lang="zh">16_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819215100 +0800" stop="20260819223700 +0800">
+		<title lang="zh">14_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60200,6 +60227,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260819200000 +0800" stop="20260819204600 +0800">
 		<title lang="zh">10_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819204600 +0800" stop="20260819212100 +0800">
+		<title lang="zh">美国Spruce铂金水蛭素9000-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819212100 +0800" stop="20260819220700 +0800">
+		<title lang="zh">11_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819220700 +0800" stop="20260819223700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
