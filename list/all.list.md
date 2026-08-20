@@ -221,7 +221,7 @@
 | 215 | [VGA]dizi | stream1.freetv.fun | <https://stream1.freetv.fun/b92087926edcf8c52e482be635ea638971c3b55cf2c78d9f32ed3c11aa4e1525.ctv> |
 | 216 | [VGA]campus tv | stream1.freetv.fun | <https://stream1.freetv.fun/920126812e16ecc3246b3f2301daa956f120d92aba9093eab7e1d23baa16e114.m3u8> |
 | 217 | [BD]caracol tv | stream1.freetv.fun | <https://stream1.freetv.fun/97b2af7751a2288b5829a7051e04cb285befcf8aea8c56a9b9ce8aeb6274a09c.m3u8> |
-| 218 | [BD]cartoon network | stream1.freetv.fun | <https://stream1.freetv.fun/ed25a4eaee325cdbb1a5682772f9f33ba854e02835e5b5c377bdfd92486b3466.m3u8> |
+| 218 | [SD]cartoon network | stream1.freetv.fun | <https://stream1.freetv.fun/9005ddd4ee8da1e5c34cccacdf8461b5d7c2a769e93c28179c568d4b5e8838a1.m3u8> |
 | 219 | [VGA]cetelmón tv | stream1.freetv.fun | <https://stream1.freetv.fun/41a38f046ad1cdc36f2ed36b257a1b68509e1affa9f73e46757565c4118c5b64.m3u8> |
 | 220 | [BD]channel 5 | stream1.freetv.fun | <https://stream1.freetv.fun/85e5d7b3a1e38b6a14a1c2764f1535c19d1a77c7baaef544f458451b13935b01.m3u8> |
 | 221 | [SD]channel 7 kazakhstan | stream1.freetv.fun | <https://stream1.freetv.fun/c12e7733dd946225764ab2707f19f75ed3ceab1d2c0a1d96bb3cd55429183f63.m3u8> |
@@ -1163,4 +1163,4 @@
 | 1157 | [HD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 1158 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Thu Aug 20 2026 01:03:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 20 2026 02:53:16 GMT+0000 (Coordinated Universal Time)**
