@@ -17934,6 +17934,9 @@
 	<programme channel="咪咕综合体育" start="20260820133500 +0800" stop="20260820151500 +0800">
 		<title lang="zh">足球世界-2026足球热身赛 拜仁慕尼黑-阿斯顿维拉</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260820152000 +0800" stop="20260820175500 +0800">
+		<title lang="zh">网球世界-2026WTA1000多伦多女单站 1/4决赛 大阪直美-莱巴金娜</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17993,6 +17996,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260820135000 +0800" stop="20260820144000 +0800">
 		<title lang="zh">最后之舞</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260820144500 +0800" stop="20260820154500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260820154500 +0800" stop="20260820155000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260820160000 +0800" stop="20260820165000 +0800">
+		<title lang="zh">一球一城 考纳斯</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59967,6 +59979,9 @@
 	<programme channel="newtv超级综艺" start="20260820141700 +0800" stop="20260820153600 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260820153600 +0800" stop="20260820171300 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60009,6 +60024,12 @@
 	<programme channel="newtv超级体育" start="20260820133000 +0800" stop="20260820143000 +0800">
 		<title lang="zh">实况录像-2026年世界皮划艇激流回旋锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260820143000 +0800" stop="20260820160000 +0800">
+		<title lang="zh">实况录像-2026年中国男篮热身赛 中国队-乌拉圭队 第二场</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260820160000 +0800" stop="20260820173000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60041,6 +60062,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260820131400 +0800" stop="20260820143400 +0800">
 		<title lang="zh">这个大侠有点怂</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260820143400 +0800" stop="20260820155000 +0800">
+		<title lang="zh">龙石密码</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260820155000 +0800" stop="20260820172900 +0800">
+		<title lang="zh">熊猫计划</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60104,6 +60131,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260820140500 +0800" stop="20260820144000 +0800">
 		<title lang="zh">05_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820144000 +0800" stop="20260820152000 +0800">
+		<title lang="zh">06_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820152000 +0800" stop="20260820160600 +0800">
+		<title lang="zh">30_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820160600 +0800" stop="20260820165300 +0800">
+		<title lang="zh">31_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60716,6 +60752,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260820135600 +0800" stop="20260820143100 +0800">
 		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820143100 +0800" stop="20260820151700 +0800">
+		<title lang="zh">02_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820151700 +0800" stop="20260820155200 +0800">
+		<title lang="zh">美国Spruce铂金水蛭素9000-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820155200 +0800" stop="20260820163800 +0800">
+		<title lang="zh">03_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
