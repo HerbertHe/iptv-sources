@@ -17931,6 +17931,9 @@
 	<programme channel="咪咕综合体育" start="20260820121000 +0800" stop="20260820133000 +0800">
 		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 睛彩回顾3</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260820133500 +0800" stop="20260820151500 +0800">
+		<title lang="zh">足球世界-2026足球热身赛 拜仁慕尼黑-阿斯顿维拉</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17984,6 +17987,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260820120500 +0800" stop="20260820133500 +0800">
 		<title lang="zh">中国篮球时刻-2025女篮系列热身赛 第六场 中国女篮-澳大利亚女篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260820133500 +0800" stop="20260820135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260820135000 +0800" stop="20260820144000 +0800">
+		<title lang="zh">最后之舞</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59952,6 +59961,12 @@
 	<programme channel="newtv超级综艺" start="20260820111000 +0800" stop="20260820123700 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260820123700 +0800" stop="20260820141700 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260820141700 +0800" stop="20260820153600 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59985,6 +60000,15 @@
 	<programme channel="newtv超级体育" start="20260820120000 +0800" stop="20260820123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260820123500 +0800" stop="20260820125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260820125900 +0800" stop="20260820133000 +0800">
+		<title lang="zh">实况录像-2026年世界艺术体操锦标赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260820133000 +0800" stop="20260820143000 +0800">
+		<title lang="zh">实况录像-2026年世界皮划艇激流回旋锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60014,6 +60038,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260820120200 +0800" stop="20260820131400 +0800">
 		<title lang="zh">狼战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260820131400 +0800" stop="20260820143400 +0800">
+		<title lang="zh">这个大侠有点怂</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60068,6 +60095,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260820115900 +0800" stop="20260820124400 +0800">
 		<title lang="zh">06_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820124400 +0800" stop="20260820131700 +0800">
+		<title lang="zh">03_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820131700 +0800" stop="20260820140500 +0800">
+		<title lang="zh">04_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260820140500 +0800" stop="20260820144000 +0800">
+		<title lang="zh">05_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60671,6 +60707,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260820114500 +0800" stop="20260820123100 +0800">
 		<title lang="zh">35_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820123100 +0800" stop="20260820131100 +0800">
+		<title lang="zh">VK 13 PRO MAX 5G语音手机套装</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820131100 +0800" stop="20260820135600 +0800">
+		<title lang="zh">01_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260820135600 +0800" stop="20260820143100 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
