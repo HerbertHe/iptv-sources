@@ -17934,6 +17934,9 @@
 	<programme channel="咪咕综合体育" start="20260821132000 +0800" stop="20260821150000 +0800">
 		<title lang="zh">足球世界-2026足球热身赛 切尔西-AC米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260821150500 +0800" stop="20260821174500 +0800">
+		<title lang="zh">网球世界-2026WTA多哈站女单第2轮 帕克斯-郑钦文</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17987,6 +17990,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260821135000 +0800" stop="20260821144000 +0800">
 		<title lang="zh">最后之舞</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260821144500 +0800" stop="20260821154500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260821155000 +0800" stop="20260821165000 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59040,6 +59049,9 @@
 	<programme channel="newtv超级综艺" start="20260821135900 +0800" stop="20260821151900 +0800">
 		<title lang="zh">信马游疆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260821151900 +0800" stop="20260821171700 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59118,6 +59130,9 @@
 	<programme channel="newtv超级电影" start="20260821140200 +0800" stop="20260821153200 +0800">
 		<title lang="zh">生死交锋</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260821153200 +0800" stop="20260821165200 +0800">
+		<title lang="zh">小小飞虎队</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59180,6 +59195,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260821135000 +0800" stop="20260821142800 +0800">
 		<title lang="zh">08_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821142800 +0800" stop="20260821150200 +0800">
+		<title lang="zh">09_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821150200 +0800" stop="20260821153800 +0800">
+		<title lang="zh">10_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821153800 +0800" stop="20260821162500 +0800">
+		<title lang="zh">34_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59792,6 +59816,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260821135000 +0800" stop="20260821142500 +0800">
 		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821142500 +0800" stop="20260821151100 +0800">
+		<title lang="zh">08_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821151100 +0800" stop="20260821154600 +0800">
+		<title lang="zh">美国Spruce铂金水蛭素9000-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821154600 +0800" stop="20260821163200 +0800">
+		<title lang="zh">09_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
