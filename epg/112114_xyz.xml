@@ -17961,6 +17961,12 @@
 	<programme channel="咪咕综合体育" start="20260821190000 +0800" stop="20260821203000 +0800">
 		<title lang="zh">绿茵狂想联赛季 第一期 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260821203000 +0800" stop="20260821203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260821203500 +0800" stop="20260821221500 +0800">
+		<title lang="zh">足球世界-2026社区盾 决赛 阿森纳-曼城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18038,6 +18044,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260821193000 +0800" stop="20260821203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260821203000 +0800" stop="20260821203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260821203500 +0800" stop="20260821221000 +0800">
+		<title lang="zh">2026中国男篮系列热身赛 第二场 中国男篮-乌拉圭男篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59115,6 +59127,9 @@
 	<programme channel="newtv超级综艺" start="20260821201300 +0800" stop="20260821213000 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260821213000 +0800" stop="20260821222000 +0800">
+		<title lang="zh">远山之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59172,6 +59187,9 @@
 	<programme channel="newtv超级体育" start="20260821193000 +0800" stop="20260821213000 +0800">
 		<title lang="zh">2026年世界羽毛球锦标赛-1/4决赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260821213000 +0800" stop="20260821223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59216,6 +59234,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260821194800 +0800" stop="20260821212200 +0800">
 		<title lang="zh">追猎行动</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260821212200 +0800" stop="20260821235000 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59306,6 +59327,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260821201600 +0800" stop="20260821210200 +0800">
 		<title lang="zh">23_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821210200 +0800" stop="20260821214600 +0800">
+		<title lang="zh">24_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821214600 +0800" stop="20260821223200 +0800">
+		<title lang="zh">21_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59945,6 +59972,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260821195300 +0800" stop="20260821203900 +0800">
 		<title lang="zh">19_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821203900 +0800" stop="20260821211400 +0800">
+		<title lang="zh">美国Spruce铂金水蛭素9000-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821211400 +0800" stop="20260821220000 +0800">
+		<title lang="zh">20_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821220000 +0800" stop="20260821223000 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
