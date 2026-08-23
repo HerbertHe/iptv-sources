@@ -302,42 +302,42 @@
 | 296 | 辽源新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8> |
 | 297 | 通化新闻 | 吉林广播电视台 | <https://stream2.jlntv.cn/tonghua1/sd/live.m3u8> |
 | 298 | 邗江资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8> |
-| 299 | 邢台城生 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8> |
-| 300 | 邢台综合 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8> |
-| 301 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 302 | 金昌公共频道 (240p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8> |
-| 303 | 金昌综合频道 (720p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8> |
-| 304 | 金鹰卡通 (576p) | IPv4 直链 | <http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8> |
-| 305 | 长乐综合 | 奥点云 | <http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8> |
-| 306 | 长春综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlcc/sd/live.m3u8> |
-| 307 | 长沙地铁移动 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8> |
-| 308 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
-| 309 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
-| 310 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
-| 311 | 长沙经贸 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8> |
-| 312 | 长沙购物 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8> |
-| 313 | 陕西卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8> |
-| 314 | 随州综合 (720p) [Not 24/7] | 奥点云 | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8> |
-| 315 | 随州农村 (720p) [Not 24/7] | 奥点云 | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8> |
-| 316 | 集安综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/ja/sd/live.m3u8> |
-| 317 | 霸州公共频道 (576p) [Not 24/7] | 千城云科 | <http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8> |
-| 318 | 霸州少儿频道 (576p) [Not 24/7] | 千城云科 | <http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8> |
-| 319 | 青海卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
-| 320 | 靖江新闻综合 (480p) [Not 24/7] | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
-| 321 | 静宁综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000147/index.m3u8> |
-| 322 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
-| 323 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
-| 324 | 高清电影 (1080p) | 中国移动陕西 | <http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8> |
-| 325 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
-| 326 | 鹤峰综合 | hefeng.live.tempsource.cjyun.org | <http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8> |
-| 327 | 鹿泉一套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8> |
-| 328 | 鹿泉二套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8> |
-| 329 | 黑龙卫视 (1080p) | IPv4 直链 | <http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8> |
-| 330 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
-| 331 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
-| 332 | CGTN Global Biz (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8> |
-| 333 | Discovering China (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8> |
-| 334 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
-| 335 | Fujian Comprehensive Channel | IPv4 直链 | <http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88> |
+| 299 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
+| 300 | 金昌公共频道 (240p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8> |
+| 301 | 金昌综合频道 (720p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8> |
+| 302 | 金鹰卡通 (576p) | IPv4 直链 | <http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8> |
+| 303 | 长乐综合 | 奥点云 | <http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8> |
+| 304 | 长春综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlcc/sd/live.m3u8> |
+| 305 | 长沙地铁移动 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8> |
+| 306 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
+| 307 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
+| 308 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
+| 309 | 长沙经贸 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8> |
+| 310 | 长沙购物 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8> |
+| 311 | 陕西卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8> |
+| 312 | 随州综合 (720p) [Not 24/7] | 奥点云 | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8> |
+| 313 | 随州农村 (720p) [Not 24/7] | 奥点云 | <http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8> |
+| 314 | 集安综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/ja/sd/live.m3u8> |
+| 315 | 霸州公共频道 (576p) [Not 24/7] | 千城云科 | <http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8> |
+| 316 | 霸州少儿频道 (576p) [Not 24/7] | 千城云科 | <http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8> |
+| 317 | 青海卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
+| 318 | 靖江新闻综合 (480p) [Not 24/7] | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
+| 319 | 静宁综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000147/index.m3u8> |
+| 320 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
+| 321 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
+| 322 | 高清电影 (1080p) | 中国移动陕西 | <http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8> |
+| 323 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
+| 324 | 鹤峰综合 | hefeng.live.tempsource.cjyun.org | <http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8> |
+| 325 | 鹿泉一套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8> |
+| 326 | 鹿泉二套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8> |
+| 327 | 黑龙卫视 (1080p) | IPv4 直链 | <http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8> |
+| 328 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
+| 329 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
+| 330 | CGTN Global Biz (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8> |
+| 331 | Discovering China (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8> |
+| 332 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
+| 333 | Fujian Comprehensive Channel | IPv4 直链 | <http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88> |
+| 334 | Guangxi Variety & Travel Channel | IPv4 直链 | <http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 335 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
 
-Updated at **Sat Aug 22 2026 22:18:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 23 2026 01:07:37 GMT+0000 (Coordinated Universal Time)**

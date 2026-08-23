@@ -66,6 +66,7 @@ Guangzhou_TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Hebei_TV_(2160p),https://event.pull.hebtv.com/live/live101.m3u8
 Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+Kangba_TV,http://110.185.237.164:8888/hls/30/index.m3u8
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
@@ -154,6 +155,9 @@ CCTV-17_(1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 
 Classic,#genre#
 CCTV-Nostalgia_Theater_(1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+General;Travel,#genre#
+Guangxi_Variety_&_Travel_Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 Animation;Kids,#genre#
 Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
