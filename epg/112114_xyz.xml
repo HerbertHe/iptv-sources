@@ -17553,6 +17553,15 @@
 	<programme channel="咪咕综合体育" start="20260823110500 +0800" stop="20260823124500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第23轮 山东泰山-青岛海牛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260823124500 +0800" stop="20260823125000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260823125000 +0800" stop="20260823141000 +0800">
+		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 睛彩回顾4</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260823141500 +0800" stop="20260823155500 +0800">
+		<title lang="zh">网球世界-2026WTA罗马站女单第2轮 布克沙-郑钦文</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17603,6 +17612,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260823120500 +0800" stop="20260823133500 +0800">
 		<title lang="zh">中国篮球时刻-2026国青男篮热身赛 第三场 中国U18男篮-澳大利亚阿尔法篮球学院队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260823135000 +0800" stop="20260823144000 +0800">
+		<title lang="zh">最后之舞</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59415,6 +59427,9 @@
 	<programme channel="newtv超级综艺" start="20260823121300 +0800" stop="20260823132900 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260823132900 +0800" stop="20260823144600 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59448,6 +59463,15 @@
 	<programme channel="newtv超级体育" start="20260823120000 +0800" stop="20260823123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260823123500 +0800" stop="20260823125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260823125500 +0800" stop="20260823140000 +0800">
+		<title lang="zh">2026世界职业拳王争霸赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260823140000 +0800" stop="20260823153000 +0800">
+		<title lang="zh">第二届世界人形机器人运动会-1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59480,6 +59504,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260823113900 +0800" stop="20260823130600 +0800">
 		<title lang="zh">枪神再起</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260823130600 +0800" stop="20260823141000 +0800">
+		<title lang="zh">特勤精英之逃出生天</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260823141000 +0800" stop="20260823152400 +0800">
+		<title lang="zh">天堂计划</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59534,6 +59564,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260823114900 +0800" stop="20260823123400 +0800">
 		<title lang="zh">18_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823123400 +0800" stop="20260823130800 +0800">
+		<title lang="zh">15_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823130800 +0800" stop="20260823133900 +0800">
+		<title lang="zh">16_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823133900 +0800" stop="20260823141200 +0800">
+		<title lang="zh">17_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823141200 +0800" stop="20260823145500 +0800">
+		<title lang="zh">18_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60140,6 +60182,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260823121400 +0800" stop="20260823125900 +0800">
 		<title lang="zh">16_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260823125900 +0800" stop="20260823132900 +0800">
+		<title lang="zh">鲁韵梁山酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260823132900 +0800" stop="20260823141500 +0800">
+		<title lang="zh">17_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260823141500 +0800" stop="20260823150000 +0800">
+		<title lang="zh">18_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
