@@ -14226,6 +14226,12 @@
 	<programme channel="咪咕综合体育" start="20260824180500 +0800" stop="20260824183000 +0800">
 		<title lang="zh">中超精华 第23轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260824183500 +0800" stop="20260824201500 +0800">
+		<title lang="zh">英超赛场-26/27赛季 英超 第1轮 阿森纳-考文垂</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260824201500 +0800" stop="20260824202000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14288,6 +14294,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260824170000 +0800" stop="20260824184000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第16轮 盐南苏科雄狮-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824190500 +0800" stop="20260824191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824193000 +0800" stop="20260824203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49968,6 +49980,9 @@
 	<programme channel="newtv超级综艺" start="20260824180400 +0800" stop="20260824192300 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260824192300 +0800" stop="20260824204000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50019,6 +50034,12 @@
 	<programme channel="newtv超级体育" start="20260824180000 +0800" stop="20260824183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260824183000 +0800" stop="20260824193000 +0800">
+		<title lang="zh">天下足球</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260824193000 +0800" stop="20260824213000 +0800">
+		<title lang="zh">2026年亚洲女排锦标赛-小组赛(中国队—伊朗队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50063,6 +50084,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260824172000 +0800" stop="20260824184800 +0800">
 		<title lang="zh">千里不留行</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260824184800 +0800" stop="20260824195900 +0800">
+		<title lang="zh">逆时救援</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260824195900 +0800" stop="20260824213400 +0800">
+		<title lang="zh">见习排爆手</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50141,6 +50168,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260824173500 +0800" stop="20260824182100 +0800">
 		<title lang="zh">11_女特警</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824182100 +0800" stop="20260824190900 +0800">
+		<title lang="zh">33_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824190900 +0800" stop="20260824195800 +0800">
+		<title lang="zh">34_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824195800 +0800" stop="20260824204500 +0800">
+		<title lang="zh">35_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50774,6 +50810,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824180400 +0800" stop="20260824183500 +0800">
 		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824183500 +0800" stop="20260824192000 +0800">
+		<title lang="zh">35_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824192000 +0800" stop="20260824195500 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824195500 +0800" stop="20260824204100 +0800">
+		<title lang="zh">36_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
