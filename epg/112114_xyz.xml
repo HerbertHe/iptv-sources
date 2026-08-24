@@ -16224,6 +16224,12 @@
 	<programme channel="咪咕综合体育" start="20260825014500 +0800" stop="20260825034500 +0800">
 		<title lang="zh">UFC第329期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260825034500 +0800" stop="20260825040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260825040000 +0800" stop="20260825054000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 西班牙-比利时</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16241,6 +16247,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260825021000 +0800" stop="20260825022000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825022000 +0800" stop="20260825035500 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第18轮 上海玄鸟-张家口体文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825040500 +0800" stop="20260825044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49731,11 +49743,23 @@
 	<programme channel="newtv超级综艺" start="20260825015600 +0800" stop="20260825023400 +0800">
 		<title lang="zh">09_闪耀的她</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260825023400 +0800" stop="20260825031400 +0800">
+		<title lang="zh">10_闪耀的她</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260825031400 +0800" stop="20260825050700 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260825010000 +0800" stop="20260825023600 +0800">
 		<title lang="zh">国际足球赛场-2026英格兰社区盾 阿森纳-曼城(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260825023600 +0800" stop="20260825040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 5</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260825040000 +0800" stop="20260825060000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49745,6 +49769,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260825015600 +0800" stop="20260825031900 +0800">
 		<title lang="zh">加油二师兄</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260825031900 +0800" stop="20260825043800 +0800">
+		<title lang="zh">小龙虾游山庄</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49757,6 +49784,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260825013300 +0800" stop="20260825022000 +0800">
 		<title lang="zh">18_骄阳似我</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825022000 +0800" stop="20260825030500 +0800">
+		<title lang="zh">19_骄阳似我</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825030500 +0800" stop="20260825034900 +0800">
+		<title lang="zh">20_骄阳似我</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825034900 +0800" stop="20260825043200 +0800">
+		<title lang="zh">04_欢乐颂2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50315,6 +50351,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260825014800 +0800" stop="20260825023400 +0800">
 		<title lang="zh">31_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825023400 +0800" stop="20260825031900 +0800">
+		<title lang="zh">32_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825031900 +0800" stop="20260825034900 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825034900 +0800" stop="20260825043500 +0800">
+		<title lang="zh">33_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
