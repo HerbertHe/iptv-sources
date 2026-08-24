@@ -14190,6 +14190,15 @@
 	<programme channel="咪咕综合体育" start="20260824094500 +0800" stop="20260824112500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第23轮 天津津门虎-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260824112500 +0800" stop="20260824113000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260824113000 +0800" stop="20260824115500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260824121000 +0800" stop="20260824131000 +0800">
+		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 女单1/4决赛 蒯曼-早田希娜</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14228,6 +14237,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260824090500 +0800" stop="20260824103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824104500 +0800" stop="20260824114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824114500 +0800" stop="20260824115000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824120500 +0800" stop="20260824133500 +0800">
+		<title lang="zh">中国篮球时刻-2026中国女篮系列热身赛 中国女篮-尼日利亚女篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50019,6 +50037,12 @@
 	<programme channel="newtv超级综艺" start="20260824090400 +0800" stop="20260824104000 +0800">
 		<title lang="zh">笑有新生</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260824104000 +0800" stop="20260824115000 +0800">
+		<title lang="zh">沧海运河谣</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260824115000 +0800" stop="20260824131500 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50049,6 +50073,9 @@
 	<programme channel="newtv超级体育" start="20260824103100 +0800" stop="20260824120000 +0800">
 		<title lang="zh">国际足球赛场-26-27赛季英超联赛第1轮 伊普斯威奇—桑德兰(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260824120000 +0800" stop="20260824123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50075,6 +50102,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260824093900 +0800" stop="20260824104100 +0800">
 		<title lang="zh">伏魔罗汉</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260824104100 +0800" stop="20260824120200 +0800">
+		<title lang="zh">热力营救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260824120200 +0800" stop="20260824131200 +0800">
+		<title lang="zh">新封神之二郎神</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50120,6 +50153,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260824095000 +0800" stop="20260824103600 +0800">
 		<title lang="zh">19_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824103600 +0800" stop="20260824112100 +0800">
+		<title lang="zh">20_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824112100 +0800" stop="20260824120700 +0800">
+		<title lang="zh">21_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824120700 +0800" stop="20260824125200 +0800">
+		<title lang="zh">22_奔跑吧，医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50717,6 +50759,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824100600 +0800" stop="20260824103600 +0800">
 		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824103600 +0800" stop="20260824112000 +0800">
+		<title lang="zh">03_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824112000 +0800" stop="20260824120600 +0800">
+		<title lang="zh">21_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824120600 +0800" stop="20260824123600 +0800">
+		<title lang="zh">青稞饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
