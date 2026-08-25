@@ -429,7 +429,7 @@
 | 423 | [BD]kika | stream1.freetv.fun | <https://stream1.freetv.fun/7a4c65aa66016c1924d00a8dffde60ea472dffd89773e7c400cbf3d0aebbb2b9.m3u8> |
 | 424 | [HD]miel tv | stream1.freetv.fun | <https://stream1.freetv.fun/6270354c37d2c1651749f36ed96e123b17dcc4065d3f255bb054e9e6c2637129.m3u8> |
 | 425 | [BD]kino 1 | stream1.freetv.fun | <https://stream1.freetv.fun/37a6c23cc8b678427a2402d64af77f88d5f8e1d59de64713c9496f7f8a1b9ec5.m3u8> |
-| 426 | [HD]tv klan | stream1.freetv.fun | <https://stream1.freetv.fun/0503f4ed24b0ed2745fcf3a87062661d478279552e8ecf4d09ae2db22a0ada6d.m3u8> |
+| 426 | [HD]klan kosova | stream1.freetv.fun | <https://stream1.freetv.fun/fc5b3afc26ac9f1346d41413b30ec807c1c14c3c6b47b9358a3d7a8ee4a63477.m3u8> |
 | 427 | [BD]korea tv | stream1.freetv.fun | <https://stream1.freetv.fun/cf6e0ad02242bab34f960d530e372e5d0c745034dc8df5c0e1aa5aa615267c9f.m3u8> |
 | 428 | [HD]music pop | stream1.freetv.fun | <https://stream1.freetv.fun/81d2ddde67c3f8b5e9ea38a9af2b525f93c8ad619b0b22d13548f48e2393c569.m3u8> |
 | 429 | [BD]kuriakos kids | stream1.freetv.fun | <https://stream1.freetv.fun/b0e0a0d811a7ab53f713ba212c8a298aeec605e491a048662054ee7c4343746e.m3u8> |
@@ -487,7 +487,7 @@
 | 481 | [BD]retro music tv | stream1.freetv.fun | <https://stream1.freetv.fun/efb9eaa248c632d0288b04fda5dbebeb5eb2d1df8e158140a0f0528a023c759c.m3u8> |
 | 482 | [SD]muz-tv | stream1.freetv.fun | <https://stream1.freetv.fun/eeb35ebfff298dfef8f708a2afa6dbc7e50ffa6488652f28e7366645ef26adfb.m3u8> |
 | 483 | [BD]myzen fit | stream1.freetv.fun | <https://stream1.freetv.fun/2ebee66100c4de8cb2da36d83ab5691f795bc2473f479ef505a43ca1fb74036a.m3u8> |
-| 484 | [SD]nat geo wild | stream1.freetv.fun | <https://stream1.freetv.fun/830c28b9bbdae04eee4b443e3c344181366fefdb23f3e6fc5d77c392189a7cd2.m3u8> |
+| 484 | [BD]nat geo wild | stream1.freetv.fun | <https://stream1.freetv.fun/e12911efd42035249ae4ee303310fe70a30ee9162f28c84a4a185d932b7a369b.m3u8> |
 | 485 | [SD]nat geo wild fd | stream1.freetv.fun | <https://stream1.freetv.fun/eb5b74cd6ee4e7fa0205d9ea8aceccca8f9f826b5962a58116e5477b274e59c7.ctv> |
 | 486 | [BD]nbc | stream1.freetv.fun | <https://stream1.freetv.fun/e5e4d23bb578dc11b1fffe9f5bcbd2f32b1a5398b6bfcbc5f995846fadf9b32d.m3u8> |
 | 487 | [BD]nbc news | stream1.freetv.fun | <https://stream1.freetv.fun/cbffacff39e1eed7fc702ccb2c7ae031a9142ad93b9f2444c2ad486f3ffa8033.m3u8> |
@@ -1146,4 +1146,4 @@
 | 1140 | [BD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/f12e3b9290373db53f8f62b0c3cd8d2ef03e9422865547a4a518bb6547160c7b.ctv> |
 | 1141 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Tue Aug 25 2026 12:40:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 25 2026 14:40:48 GMT+0000 (Coordinated Universal Time)**
