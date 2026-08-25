@@ -17529,6 +17529,12 @@
 	<programme channel="咪咕综合体育" start="20260825121000 +0800" stop="20260825125500 +0800">
 		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 女单1/4决赛 王曼昱-彭郁涵</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260825130000 +0800" stop="20260825135500 +0800">
+		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 女单半决赛 王艺迪-张本美和</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260825140000 +0800" stop="20260825154000 +0800">
+		<title lang="zh">足球世界-2026法超杯 朗斯-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17582,6 +17588,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260825120500 +0800" stop="20260825133500 +0800">
 		<title lang="zh">中国篮球时刻-2026中国女篮系列热身赛 中国女篮-尼日利亚女篮 第二场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825133500 +0800" stop="20260825135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825135000 +0800" stop="20260825144000 +0800">
+		<title lang="zh">最后之舞</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58845,6 +58857,9 @@
 	<programme channel="newtv超级综艺" start="20260825115900 +0800" stop="20260825134800 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260825134800 +0800" stop="20260825143800 +0800">
+		<title lang="zh">远山之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58878,6 +58893,15 @@
 	<programme channel="newtv超级体育" start="20260825120000 +0800" stop="20260825123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260825123500 +0800" stop="20260825125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260825125900 +0800" stop="20260825140000 +0800">
+		<title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260825140000 +0800" stop="20260825153300 +0800">
+		<title lang="zh">第二届世界人形机器人运动会-3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58907,6 +58931,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260825110900 +0800" stop="20260825122500 +0800">
 		<title lang="zh">侏罗纪崛起</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260825122500 +0800" stop="20260825134400 +0800">
+		<title lang="zh">尖峰对决之古墓神兵</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260825134400 +0800" stop="20260825150200 +0800">
+		<title lang="zh">悟空之小圣传</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58961,6 +58991,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260825115600 +0800" stop="20260825124200 +0800">
 		<title lang="zh">26_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825124200 +0800" stop="20260825131900 +0800">
+		<title lang="zh">23_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825131900 +0800" stop="20260825135500 +0800">
+		<title lang="zh">24_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825135500 +0800" stop="20260825143300 +0800">
+		<title lang="zh">25_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59567,6 +59606,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260825121100 +0800" stop="20260825125600 +0800">
 		<title lang="zh">08_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825125600 +0800" stop="20260825132600 +0800">
+		<title lang="zh">鲁韵梁山酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825132600 +0800" stop="20260825141100 +0800">
+		<title lang="zh">26_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825141100 +0800" stop="20260825145700 +0800">
+		<title lang="zh">27_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
