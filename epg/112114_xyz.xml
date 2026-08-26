@@ -17673,6 +17673,12 @@
 	<programme channel="咪咕综合体育" start="20260826173500 +0800" stop="20260826182500 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260826183000 +0800" stop="20260826201000 +0800">
+		<title lang="zh">英超赛场-26/27赛季 英超 第1轮 纽卡斯尔联-利物浦</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260826202000 +0800" stop="20260826202500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17744,6 +17750,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260826181500 +0800" stop="20260826183500 +0800">
 		<title lang="zh">薪火相传 07文班亚马</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826184500 +0800" stop="20260826190500 +0800">
+		<title lang="zh">赛事睛华</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826192000 +0800" stop="20260826193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826193000 +0800" stop="20260826203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -25383,23 +25398,26 @@
 	<programme channel="广西卫视" start="20260826105000 +0800" stop="20260826123000 +0800">
 		<title lang="zh">重温经典电影精选《地道战》</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826123000 +0800" stop="20260826133000 +0800">
+	<programme channel="广西卫视" start="20260826123000 +0800" stop="20260826131000 +0800">
 		<title lang="zh">经典剧场32集：神枪(5)</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826133000 +0800" stop="20260826143000 +0800">
+	<programme channel="广西卫视" start="20260826131000 +0800" stop="20260826140000 +0800">
 		<title lang="zh">经典剧场32集：神枪(6)</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826143000 +0800" stop="20260826153000 +0800">
+	<programme channel="广西卫视" start="20260826140000 +0800" stop="20260826150000 +0800">
 		<title lang="zh">经典剧场32集：神枪(7)</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826153000 +0800" stop="20260826162000 +0800">
+	<programme channel="广西卫视" start="20260826150000 +0800" stop="20260826154000 +0800">
 		<title lang="zh">经典剧场32集：神枪(8)</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826162000 +0800" stop="20260826171000 +0800">
+	<programme channel="广西卫视" start="20260826154000 +0800" stop="20260826162000 +0800">
 		<title lang="zh">经典剧场32集：神枪(9)</title>
 	</programme>
-	<programme channel="广西卫视" start="20260826171000 +0800" stop="20260826180000 +0800">
+	<programme channel="广西卫视" start="20260826162000 +0800" stop="20260826171000 +0800">
 		<title lang="zh">经典剧场32集：神枪(10)</title>
+	</programme>
+	<programme channel="广西卫视" start="20260826171000 +0800" stop="20260826180000 +0800">
+		<title lang="zh">经典剧场32集：神枪(11)</title>
 	</programme>
 	<programme channel="广西卫视" start="20260826180000 +0800" stop="20260826183000 +0800">
 		<title lang="zh">首播：新闻·观见</title>
@@ -58731,6 +58749,12 @@
 	<programme channel="newtv超级综艺" start="20260826163400 +0800" stop="20260826181900 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260826181900 +0800" stop="20260826193600 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260826193600 +0800" stop="20260826205300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58785,6 +58809,15 @@
 	<programme channel="newtv超级体育" start="20260826180000 +0800" stop="20260826183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260826183000 +0800" stop="20260826190000 +0800">
+		<title lang="zh">2026/2027西班牙足球甲级联赛-第2轮集锦(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260826190000 +0800" stop="20260826193000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 西里西亚站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260826193000 +0800" stop="20260826213000 +0800">
+		<title lang="zh">2026年亚洲女排锦标赛-小组赛(中国队-中国台北队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58823,6 +58856,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260826174600 +0800" stop="20260826192000 +0800">
 		<title lang="zh">驯龙战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260826192000 +0800" stop="20260826204700 +0800">
+		<title lang="zh">噪乐江湖</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58901,6 +58937,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260826180600 +0800" stop="20260826185200 +0800">
 		<title lang="zh">19_女特警</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260826185200 +0800" stop="20260826193800 +0800">
+		<title lang="zh">05_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260826193800 +0800" stop="20260826202300 +0800">
+		<title lang="zh">06_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59534,6 +59576,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260826180700 +0800" stop="20260826185300 +0800">
 		<title lang="zh">35_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826185300 +0800" stop="20260826192300 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826192300 +0800" stop="20260826200800 +0800">
+		<title lang="zh">36_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826200800 +0800" stop="20260826203800 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
