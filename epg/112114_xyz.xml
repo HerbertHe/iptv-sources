@@ -17631,6 +17631,15 @@
 	<programme channel="咪咕综合体育" start="20260826094500 +0800" stop="20260826112500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第24轮 成都蓉城-上海申花</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260826113000 +0800" stop="20260826115500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260826120000 +0800" stop="20260826120500 +0800">
+		<title lang="zh">中超之星</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260826121000 +0800" stop="20260826124000 +0800">
+		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 女单半决赛 王曼昱-蒯曼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17672,6 +17681,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260826090500 +0800" stop="20260826103500 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826104500 +0800" stop="20260826114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826114500 +0800" stop="20260826115000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260826121000 +0800" stop="20260826134000 +0800">
+		<title lang="zh">中国篮球时刻-2026中国男篮系列热身赛 中国男篮-澳大利亚男篮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58851,6 +58869,12 @@
 	<programme channel="newtv超级综艺" start="20260826091800 +0800" stop="20260826105700 +0800">
 		<title lang="zh">跟着春晚游中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260826105700 +0800" stop="20260826121400 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260826121400 +0800" stop="20260826140000 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58884,6 +58908,9 @@
 	<programme channel="newtv超级体育" start="20260826103100 +0800" stop="20260826120000 +0800">
 		<title lang="zh">国际足球赛场-26-27赛季法甲联赛第1轮 朗斯-欧塞尔(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260826120000 +0800" stop="20260826123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58907,6 +58934,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260826091700 +0800" stop="20260826105000 +0800">
 		<title lang="zh">起死回生</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260826105000 +0800" stop="20260826122700 +0800">
+		<title lang="zh">哈佛少女的快乐清单</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58952,6 +58982,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260826100800 +0800" stop="20260826105300 +0800">
 		<title lang="zh">27_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260826105300 +0800" stop="20260826113900 +0800">
+		<title lang="zh">28_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260826113900 +0800" stop="20260826122400 +0800">
+		<title lang="zh">29_奔跑吧，医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59549,6 +59585,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260826103100 +0800" stop="20260826110600 +0800">
 		<title lang="zh">美国云杉新一代苏糖酸镁益脑黄金-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826110600 +0800" stop="20260826115000 +0800">
+		<title lang="zh">12_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826115000 +0800" stop="20260826122100 +0800">
+		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826122100 +0800" stop="20260826130500 +0800">
+		<title lang="zh">13_烽烟尽处</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
