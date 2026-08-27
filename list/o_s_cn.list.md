@@ -340,4 +340,4 @@
 | 334 | Guangxi Variety & Travel Channel | IPv4 直链 | <http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 335 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
 
-Updated at **Wed Aug 26 2026 22:42:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 27 2026 07:12:54 GMT+0000 (Coordinated Universal Time)**
