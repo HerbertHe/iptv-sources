@@ -339,5 +339,6 @@
 | 333 | Fujian Comprehensive Channel | IPv4 直链 | <http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88> |
 | 334 | Guangxi Variety & Travel Channel | IPv4 直链 | <http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 335 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
+| 336 | Chuxiong News Channel [Not 24/7] | hwapi.yntv.net | <http://hwapi.yntv.net/ew265l/848y54.m3u8> |
 
-Updated at **Mon Sep 07 2026 22:28:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 08 2026 02:59:08 GMT+0000 (Coordinated Universal Time)**
