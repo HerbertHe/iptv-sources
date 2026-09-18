@@ -9658,4 +9658,4 @@
 | 9652 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 9653 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **Fri Sep 18 2026 08:44:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 18 2026 14:05:02 GMT+0000 (Coordinated Universal Time)**
