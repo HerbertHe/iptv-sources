@@ -1,7 +1,12 @@
 import { collectM3uSource } from '../utils';
-import { handle_m3u, ISource, type TSources } from './utils';
+import { handle_m3u, ISource, type TSourceFilterResult, type TSources } from './utils';
 
-export const cymz6_lives_filter: ISource['filter'] = (raw, caller, collectFn): [string, number] => {
+export const cymz6_lives_filter: ISource['filter'] = (
+  raw,
+  caller,
+  collectFn,
+  filename
+): TSourceFilterResult => {
   const rawArray = handle_m3u(raw);
 
   if (caller === 'normal' && collectFn) {
@@ -10,7 +15,11 @@ export const cymz6_lives_filter: ISource['filter'] = (raw, caller, collectFn): [
     }
   }
 
-  return [rawArray.join('\n'), (rawArray.length - 1) / 2];
+  return {
+    filename,
+    m3u: rawArray.join('\n'),
+    channelCount: (rawArray.length - 1) / 2,
+  };
 };
 
 export const cymz6_lives_sources: TSources = [

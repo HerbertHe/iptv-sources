@@ -1,11 +1,12 @@
 import { collectM3uSource } from '../utils';
-import { handle_m3u, ISource, type TSources } from './utils';
+import { handle_m3u, ISource, type TSourceFilterResult, type TSources } from './utils';
 
 export const joevess_iptv_filter: ISource['filter'] = (
   raw,
   caller,
-  collectFn
-): [string, number] => {
+  collectFn,
+  filename
+): TSourceFilterResult => {
   const rawArray = handle_m3u(raw);
 
   if (!/#EXTM3U/.test(rawArray[0])) {
@@ -18,7 +19,11 @@ export const joevess_iptv_filter: ISource['filter'] = (
     }
   }
 
-  return [rawArray.join('\n'), (rawArray.length - 1) / 2];
+  return {
+    filename,
+    m3u: rawArray.join('\n'),
+    channelCount: (rawArray.length - 1) / 2,
+  };
 };
 
 export const joevess_iptv_sources: TSources = [

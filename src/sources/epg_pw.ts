@@ -1,8 +1,13 @@
 import { collectM3uSource } from '../utils';
 import { converter, handle_m3u } from './utils';
-import type { ISource, TSources } from './utils';
+import type { ISource, TSourceFilterResult, TSources } from './utils';
 
-export const epg_pw_filter: ISource['filter'] = (raw, caller, collectFn): [string, number] => {
+export const epg_pw_filter: ISource['filter'] = (
+  raw,
+  caller,
+  collectFn,
+  filename
+): TSourceFilterResult => {
   const rawArray = handle_m3u(raw);
   const regExp = /#EXTINF:-1\s+tvg-name="([^"]+)"/;
 
@@ -34,7 +39,11 @@ export const epg_pw_filter: ISource['filter'] = (raw, caller, collectFn): [strin
     i += 2;
   }
 
-  return [converter(result.join('\n')), (result.length - 1) / 2];
+  return {
+    filename,
+    m3u: converter(result.join('\n')),
+    channelCount: (result.length - 1) / 2,
+  };
 };
 
 export const epg_pw_sources: TSources = [

@@ -1,7 +1,12 @@
 import { replace_github_raw_proxy_url, collectM3uSource } from '../utils';
-import { handle_m3u, type TSources, converter, ISource } from './utils';
+import { handle_m3u, type TSources, converter, ISource, type TSourceFilterResult } from './utils';
 
-export const yang_m3u_filter: ISource['filter'] = (raw, caller, collectFn): [string, number] => {
+export const yang_m3u_filter: ISource['filter'] = (
+  raw,
+  caller,
+  collectFn,
+  filename
+): TSourceFilterResult => {
   const rawArray = handle_m3u(replace_github_raw_proxy_url(raw));
 
   if (caller === 'normal' && collectFn) {
@@ -10,7 +15,11 @@ export const yang_m3u_filter: ISource['filter'] = (raw, caller, collectFn): [str
     }
   }
 
-  return [converter(rawArray.join('\n')), (rawArray.length - 1) / 2];
+  return {
+    filename,
+    m3u: converter(rawArray.join('\n')),
+    channelCount: (rawArray.length - 1) / 2,
+  };
 };
 
 export const yang_m3u_sources: TSources = [

@@ -11,8 +11,29 @@ export interface IREADMESource {
   count?: number | undefined;
 }
 
-export type TREADMESources = IREADMESource[];
+export type TREADMESources = IREADMESource[][];
+export type TREADMESourceResult = [status: string, channelCount: number | undefined];
+export type TREADMESourceResults = TREADMESourceResult[][];
 export type TREADMEEPGSources = TEPGSource[];
+
+export const renderSourceRows = (sources: TREADMESources, sourcesResults: TREADMESourceResults) =>
+  sources
+    .map((sourceGroup, index) => {
+      const source = sourceGroup[0];
+      const sourceResult = sourcesResults[index]?.[0];
+
+      if (!source) return '';
+
+      return `| ${source.name} | [${source.f_name}.m3u](/${source.f_name}.m3u) <br> [${
+        source.f_name
+      }.txt](/txt/${source.f_name}.txt) | [List for ${source.name}](/list/${
+        source.f_name
+      }.list) | ${
+        sourceResult?.[1] === undefined ? 'update failed' : sourceResult[1]
+      } | ${sourceResult?.[0] === 'rollback' ? '✅' : '-'} |`;
+    })
+    .filter(Boolean)
+    .join('\n');
 
 export const updateChannelList = (
   name: string,
@@ -62,7 +83,7 @@ export const updateChannelList = (
 
 export const updateReadme = (
   sources: TREADMESources,
-  sources_res: Array<[string, number | undefined]>,
+  sources_res: TREADMESourceResults,
   epgs: TREADMEEPGSources,
   epgs_res: Array<[string | undefined]>
 ) => {
@@ -70,19 +91,7 @@ export const updateReadme = (
   const readme = fs.readFileSync(readme_temp_p, 'utf8').toString();
 
   const after = readme
-    .replace(
-      '<!-- channels_here -->',
-      `${sources
-        ?.map(
-          (s, idx) =>
-            `| ${s.name} | [${s.f_name}.m3u](/${s.f_name}.m3u) <br> [${s.f_name}.txt](/txt/${
-              s.f_name
-            }.txt) | [List for ${s.name}](/list/${s.f_name}.list) | ${
-              sources_res?.[idx]?.[1] === undefined ? 'update failed' : sources_res[idx][1]
-            } | ${sources_res?.[idx]?.[0] === 'rollback' ? '✅' : '-'} |`
-        )
-        .join('\n')}`
-    )
+    .replace('<!-- channels_here -->', renderSourceRows(sources, sources_res))
     .replace(
       '<!-- epgs_here -->',
       `${epgs

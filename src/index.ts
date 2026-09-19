@@ -16,10 +16,19 @@ import {
   writeSources,
 } from './file';
 import { updateChannelList, updateReadme } from './readme';
-import { sources } from './sources';
+import { normalizeSourceFilterResults, sources } from './sources';
 import { runCustomTask } from './task/custom';
 import { writeTvBoxJson as writeTvBoxLiveJson } from './tvbox';
 import { Collector } from './utils';
+
+type SourceBuildStatus = 'normal' | 'rollback';
+
+interface ISourceBuildResult {
+  name: string;
+  filename: string;
+  channelCount: number | undefined;
+  status: SourceBuildStatus;
+}
 
 cleanFiles();
 
@@ -40,24 +49,53 @@ cleanFiles();
 
             const sourcesCollector = Collector(undefined, (v) => !/^([a-z]+):\/\//.test(v));
 
-            const [m3u, count] = sr.filter(
-              text as string,
-              ['o_all', 'all'].includes(sr.f_name) ? 'skip' : 'normal',
-              sourcesCollector.collect
+            const filterResults = normalizeSourceFilterResults(
+              sr.filter(
+                text as string,
+                ['o_all', 'all'].includes(sr.f_name) ? 'skip' : 'normal',
+                sourcesCollector.collect,
+                sr.f_name
+              )
             );
 
-            await writeM3u(sr.f_name, m3u);
-            await writeM3uToTxt(sr.name, sr.f_name, m3u);
-            await writeSources(sr.name, sr.f_name, sourcesCollector.result());
-            updateChannelList(sr.name, sr.f_name, m3u);
-            return ['normal', count];
+            await Promise.all(
+              filterResults.map(async ({ filename, m3u }) => {
+                await writeM3u(filename, m3u);
+                await writeM3uToTxt(sr.name, filename, m3u);
+                await writeSources(sr.name, filename, sourcesCollector.result());
+                updateChannelList(sr.name, filename, m3u);
+              })
+            );
+
+            return filterResults.map(
+              ({ filename, channelCount }): ISourceBuildResult => ({
+                name: sr.name,
+                filename,
+                channelCount,
+                status: 'normal',
+              })
+            );
           }
           console.log(`[WARNING] m3u ${sr.name} get failed!`);
-          return ['normal', void 0];
+          return [
+            {
+              name: sr.name,
+              filename: sr.f_name,
+              channelCount: undefined,
+              status: 'normal',
+            } satisfies ISourceBuildResult,
+          ];
         } catch (e) {
           console.log(e);
           console.log(`[WARNING] m3u ${sr.name} get failed!`);
-          return ['normal', void 0];
+          return [
+            {
+              name: sr.name,
+              filename: sr.f_name,
+              channelCount: undefined,
+              status: 'normal',
+            } satisfies ISourceBuildResult,
+          ];
         }
       })
     );
@@ -99,20 +137,45 @@ cleanFiles();
     }
 
     console.log(`[TASK] Write important files`);
-    type SourceSettled = PromiseSettledResult<(string | number)[] | (string | undefined)[]>;
     type EpgSettled = PromiseSettledResult<string[] | undefined[]>;
-    const sources_res = sourcesResult.map((r: SourceSettled) =>
-      r.status === 'fulfilled' ? r.value : undefined
-    ) as Array<[string, number | undefined]>;
+    const generatedSourceGroups = sourcesResult.map((result, index): ISourceBuildResult[] =>
+      result.status === 'fulfilled'
+        ? result.value
+        : [
+            {
+              name: sources[index].name,
+              filename: sources[index].f_name,
+              channelCount: undefined,
+              status: 'normal',
+            },
+          ]
+    );
+    const generatedSources = generatedSourceGroups.flat();
+    const outputSources = generatedSources.map(({ name, filename }) => ({
+      name,
+      f_name: filename,
+    }));
+    const sources_res = generatedSources.map(
+      ({ status, channelCount }): [SourceBuildStatus, number | undefined] => [status, channelCount]
+    );
+    const readmeSources = generatedSourceGroups.map((group) =>
+      group.map(({ name, filename }) => ({ name, f_name: filename }))
+    );
+    const readmeSourcesRes = generatedSourceGroups.map((group) =>
+      group.map(({ status, channelCount }): [SourceBuildStatus, number | undefined] => [
+        status,
+        channelCount,
+      ])
+    );
     const epgs_res = epgs.map((r: EpgSettled) =>
       r.status === 'fulfilled' ? r.value : undefined
     ) as Array<[string | undefined]>;
     mergeTxts();
     mergeSources();
     await writeEpgJsonByDate();
-    await writeTvBoxLiveJson('tvbox', sources);
-    updateChannelsJson(sources, sources_res, epgs_sources);
-    updateReadme(sources, sources_res, epgs_sources, epgs_res);
+    await writeTvBoxLiveJson('tvbox', outputSources);
+    updateChannelsJson(outputSources, sources_res, epgs_sources);
+    updateReadme(readmeSources, readmeSourcesRes, epgs_sources, epgs_res);
 
     console.log(`[TASK] Make custom sources`);
     runCustomTask();

@@ -3,7 +3,8 @@ import { mkdir, writeFile } from 'fs/promises';
 import path from 'path';
 import { hrtime } from 'process';
 import { fileURLToPath } from 'url';
-import { gzipSync } from 'zlib';
+import { promisify } from 'util';
+import { gzip } from 'zlib';
 
 import type { TEPGSource } from './epgs/utils';
 import type { ISource } from './sources';
@@ -11,6 +12,8 @@ import { with_github_raw_url_proxy } from './sources';
 import { m3u2txt } from './utils';
 
 import { mergeByDateAndChannel, parseEpgXml, sanitizeChannelFileName } from './epgs/parser';
+
+const gzipAsync = promisify(gzip);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -119,7 +122,8 @@ export const writeEpgXML = async (f_name: string, xml: string) => {
 
 export const writeEpgXmlGz = async (f_name: string, xml: string) => {
   const epgDir = await createSubDirectory('m3u', 'epg');
-  await writeFile(path.join(epgDir, `${f_name}.xml.gz`), gzipSync(xml));
+  const compressedXml = await gzipAsync(xml);
+  await writeFile(path.join(epgDir, `${f_name}.xml.gz`), compressedXml);
 };
 export async function makeEpgDir() {
   return await createSubDirectory('m3u', 'epg');

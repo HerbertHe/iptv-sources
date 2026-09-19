@@ -1,8 +1,13 @@
 import { is_filted_channels, collectM3uSource, get_channel_id } from '../utils';
 import { converter, handle_m3u } from './utils';
-import type { ISource, TSources } from './utils';
+import type { ISource, TSourceFilterResult, TSources } from './utils';
 
-export const iptv_org_filter: ISource['filter'] = (raw, caller, collectFn): [string, number] => {
+export const iptv_org_filter: ISource['filter'] = (
+  raw,
+  caller,
+  collectFn,
+  filename
+): TSourceFilterResult => {
   const rawArray = handle_m3u(raw);
   const invalidExp = /#EXTVLCOPT:/;
 
@@ -35,7 +40,11 @@ export const iptv_org_filter: ISource['filter'] = (raw, caller, collectFn): [str
     }
   }
 
-  return [converter(result.join('\n')), (result.length - 1) / 2];
+  return {
+    filename,
+    m3u: converter(result.join('\n')),
+    channelCount: (result.length - 1) / 2,
+  };
 };
 
 export const iptv_org_sources: TSources = [

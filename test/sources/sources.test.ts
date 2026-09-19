@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { getContent } from '../../src/file';
-import { sources } from '../../src/sources';
+import { normalizeSourceFilterResults, sources } from '../../src/sources';
 import { hotel_tvn_sources } from '../../src/sources/hotel_tvn';
 import { youhun_sources } from '../../src/sources/youhun';
 import { zbds_sources } from '../../src/sources/zbds';
@@ -54,12 +54,15 @@ describe('youhun_sources', () => {
     expect((text as string).length).toBeGreaterThan(0);
 
     const collector = Collector(undefined, (v) => !/^([a-z]+):\/\//.test(v));
-    const [m3u, count] = sr.filter(text as string, 'normal', collector.collect);
+    const [result] = normalizeSourceFilterResults(
+      sr.filter(text as string, 'normal', collector.collect, sr.f_name)
+    );
 
-    expect(count).toBeGreaterThan(0);
-    expect(m3u).toBeDefined();
-    expect(typeof m3u).toBe('string');
-    const lines = (m3u as string)
+    expect(result.filename).toBe(sr.f_name);
+    expect(result.channelCount).toBeGreaterThan(0);
+    expect(result.m3u).toBeDefined();
+    expect(typeof result.m3u).toBe('string');
+    const lines = result.m3u
       .trim()
       .split('\n')
       .filter((l) => l.trim());
