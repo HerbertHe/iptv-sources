@@ -20,4 +20,4 @@
 | 14 | CCTV-Women's Fashion (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub> |
 | 15 | CCTV-World Geography (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub> |
 
-Updated at **Fri Sep 18 2026 22:15:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 19 2026 03:03:18 GMT+0000 (Coordinated Universal Time)**
