@@ -37,6 +37,26 @@ export const createSubDirectory = async (...parts: string[]) => {
   return subDir;
 };
 
+/**
+ * 解析输出文件的完整路径，并确保其父目录存在。
+ * f_name 允许带 `/` 分隔的文件夹前缀（如 `fmml/ipv6`），
+ * 会被展开为 `<base>/fmml/ipv6.<ext>`。
+ */
+export const resolveOutputFile = async (baseDir: string, f_name: string, ext: string) => {
+  const target = path.join(baseDir, ...f_name.split('/').filter(Boolean)) + ext;
+  await mkdir(path.dirname(target), { recursive: true });
+  return target;
+};
+
+/** 递归列出目录下所有文件（返回绝对路径），忽略子目录本身 */
+const listFilesRecursive = (dir: string): string[] => {
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).flatMap((entry) => {
+    const full = path.join(dir, entry);
+    return fs.statSync(full).isDirectory() ? listFilesRecursive(full) : [full];
+  });
+};
+
 export const getContent = async (src: ISource | TEPGSource) => {
   const now = hrtime.bigint();
   const url = /^https:\/\/raw.githubusercontent.com\//.test(src.url)
@@ -49,7 +69,7 @@ export const getContent = async (src: ISource | TEPGSource) => {
 
 export const writeM3u = async (name: string, m3u: string) => {
   const m3uDir = await createSubDirectory('m3u');
-  await writeFile(path.join(m3uDir, `${name}.m3u`), m3u);
+  await writeFile(await resolveOutputFile(m3uDir, name, '.m3u'), m3u);
 };
 
 export const writeSources = async (
@@ -64,7 +84,7 @@ export const writeSources = async (
 
   const sourcesDir = await createSubDirectory('m3u', 'sources');
   await writeFile(
-    path.join(sourcesDir, `${f_name}.json`),
+    await resolveOutputFile(sourcesDir, f_name, '.json'),
     JSON.stringify({
       name,
       sources: srcs,
@@ -77,15 +97,15 @@ export const writeM3uToTxt = async (name: string, f_name: string, m3u: string) =
   const txt = m3u2txt(m3uArray);
 
   const txtDir = await createSubDirectory('m3u', 'txt');
-  await writeFile(path.join(txtDir, `${f_name}.txt`), txt);
+  await writeFile(await resolveOutputFile(txtDir, f_name, '.txt'), txt);
 };
 
 export const mergeTxts = () => {
   const txts_p = path.resolve('m3u', 'txt');
 
-  const files = fs.readdirSync(txts_p);
+  const files = listFilesRecursive(txts_p).filter((f) => path.extname(f) === '.txt');
 
-  const txts = files.map((d) => fs.readFileSync(path.join(txts_p, d).toString())).join('\n');
+  const txts = files.map((f) => fs.readFileSync(f, 'utf-8')).join('\n');
 
   fs.writeFileSync(path.join(txts_p, 'merged.txt'), txts);
 };
@@ -93,7 +113,7 @@ export const mergeTxts = () => {
 export const mergeSources = () => {
   const sources_p = path.resolve('m3u', 'sources');
   type Source = Record<string, string[]>; // 频道/分类名 -> URL 数组
-  const files = fs.readdirSync(sources_p);
+  const files = listFilesRecursive(sources_p).filter((f) => path.extname(f) === '.json');
 
   const res = {
     name: 'Sources',
@@ -101,7 +121,7 @@ export const mergeSources = () => {
   };
 
   files.forEach((f) => {
-    const so = JSON.parse(fs.readFileSync(path.join(sources_p, f), 'utf-8')).sources;
+    const so = JSON.parse(fs.readFileSync(f, 'utf-8')).sources;
 
     Object.keys(so).forEach((k) => {
       if (!res.sources[k]) {

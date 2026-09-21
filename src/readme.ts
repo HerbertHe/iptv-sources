@@ -73,12 +73,12 @@ export const updateChannelList = (
     );
 
   const list_p = path.join(path.resolve(), 'm3u', 'list');
+  // f_name 可能带文件夹前缀（如 `fmml/ipv6`），需要递归创建父目录
+  const list_file = path.join(list_p, ...f_name.split('/').filter(Boolean)) + '.list.md';
 
-  if (!fs.existsSync(list_p)) {
-    fs.mkdirSync(list_p);
-  }
+  fs.mkdirSync(path.dirname(list_file), { recursive: true });
 
-  fs.writeFileSync(path.join(list_p, `${f_name}.list.md`), after);
+  fs.writeFileSync(list_file, after);
 };
 
 export const updateReadme = (

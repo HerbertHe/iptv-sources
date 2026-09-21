@@ -4,6 +4,12 @@ import * as OpenCC from 'opencc-js';
 import { collectM3uSource, get_github_raw_proxy_url } from '../utils';
 
 export interface TSourceFilterResult {
+  /**
+   * 输出文件名（不含扩展名）。
+   * 可以带 `/` 分隔的文件夹前缀，如 `fmml/ipv6`，
+   * 会输出到 m3u/fmml/ipv6.m3u、m3u/txt/fmml/ipv6.txt 等。
+   * 请统一使用 `/`（而非 `\`），因为同一个值也会被拼进 URL。
+   */
   filename: string;
   m3u: string;
   channelCount: number;
