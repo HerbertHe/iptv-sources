@@ -31,7 +31,26 @@ const markdownBody = (md_p: string, back_p: string) => {
             padding: 0;
         }
         .markdown-body {
-            padding: 50px 100px;
+            box-sizing: border-box;
+            max-width: none;
+            padding: 32px clamp(16px, 4vw, 64px);
+        }
+
+        .markdown-body table {
+            display: table;
+            width: 100%;
+        }
+
+        @media (max-width: 768px) {
+            .markdown-body {
+                padding: 20px 16px;
+                overflow-x: auto;
+            }
+
+            .markdown-body table {
+                width: max-content;
+                min-width: 100%;
+            }
         }
 
         tr, td {
@@ -45,8 +64,6 @@ const markdownBody = (md_p: string, back_p: string) => {
     </html>
     `;
 };
-
-app.use(Static('./m3u'));
 
 router.get('/', (ctx) => {
   const readme_p = path.resolve('m3u', 'README.md');
@@ -108,8 +125,11 @@ router.get('/api/check', async (ctx) => {
 });
 
 app.use(router.routes());
+app.use(Static('./m3u'));
 
-app.listen(8080, () => {
-  console.log('Serving at http://127.0.0.1:8080');
-  console.log('If the network supports ipv6, visit http://[::1]:8080');
+const port = Number(process.env.PORT) || 8080;
+
+app.listen(port, () => {
+  console.log(`Serving at http://127.0.0.1:${port}`);
+  console.log(`If the network supports ipv6, visit http://[::1]:${port}`);
 });
