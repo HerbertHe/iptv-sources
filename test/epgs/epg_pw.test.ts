@@ -156,15 +156,17 @@ describe('buildEpgPwXml', () => {
       .map(([url]) => new URL(String(url)).searchParams.get('date'));
 
     expect(requestedDates).toEqual(expectedDates);
-    expect(mkdirMock).toHaveBeenCalledTimes(7);
+    // 1 次 createSubDirectory('./m3u/epg/pw-7') + 7 个日期目录
+    expect(mkdirMock).toHaveBeenCalledTimes(8);
     expect(writeFileMock).toHaveBeenCalledTimes(7);
     expect((xml.match(/<programme /g) ?? []).length).toBe(7);
 
     for (const [index, [filePath, jsonText]] of writeFileMock.mock.calls.entries()) {
       const expectedDateDir = expectedDates[index].replace(/(\d{4})(\d{2})(\d{2})/, '$1-$2-$3');
 
+      // 文件名经 genTvBoxChannelName 归一化："CCTV-1 综合" -> "CCTV1"
       expect(String(filePath)).toMatch(
-        new RegExp(`pw-7[\\\\/]${expectedDateDir}[\\\\/]CCTV-1 综合\\.json$`)
+        new RegExp(`pw-7[\\\\/]${expectedDateDir}[\\\\/]CCTV1\\.json$`)
       );
 
       expect(JSON.parse(String(jsonText))).toEqual({

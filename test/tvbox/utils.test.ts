@@ -44,14 +44,14 @@ describe('writeTvBoxJson', () => {
       name: 'One',
       type: 0,
       url: 'https://custom.example.com/txt/a.txt',
-      epg: 'https://iptv-sources2.pages.dev/epg/pw-7/{date}/{name}.json',
+      epg: 'https://custom.example.com/epg/pw-7/{date}/{name}.json',
       logo: 'https://tv-res.pages.dev/logo/{name}.png',
     });
     expect(payload.lives[1]).toEqual({
       name: 'Two',
       type: 0,
       url: 'https://custom.example.com/txt/b.txt',
-      epg: 'https://iptv-sources2.pages.dev/epg/pw-7/{date}/{name}.json',
+      epg: 'https://custom.example.com/epg/pw-7/{date}/{name}.json',
       logo: 'https://tv-res.pages.dev/logo/{name}.png',
     });
   }, 20_000);
