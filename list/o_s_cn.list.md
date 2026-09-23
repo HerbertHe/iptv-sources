@@ -341,4 +341,4 @@
 | 335 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
 | 336 | Chuxiong News Channel [Not 24/7] | hwapi.yntv.net | <http://hwapi.yntv.net/ew265l/848y54.m3u8> |
 
-Updated at **Wed Sep 23 2026 16:03:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 23 2026 21:03:29 GMT+0000 (Coordinated Universal Time)**
