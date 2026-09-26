@@ -340,5 +340,6 @@
 | 334 | Guangxi Variety & Travel Channel | IPv4 直链 | <http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 335 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
 | 336 | Chuxiong News Channel [Not 24/7] | hwapi.yntv.net | <http://hwapi.yntv.net/ew265l/848y54.m3u8> |
+| 337 | Chaozhou Public Channel | IPv4 直链 | <http://113.64.146.48:1688/hls/4/index.m3u8> |
 
-Updated at **Fri Sep 25 2026 23:03:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 26 2026 03:26:38 GMT+0000 (Coordinated Universal Time)**

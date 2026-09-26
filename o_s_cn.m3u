@@ -671,3 +671,5 @@ http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD",Chuxiong News Channel [Not 24/7]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn@SD",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
