@@ -149,4 +149,4 @@
 | 143 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
 | 144 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 01:06:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 08:32:16 GMT+0000 (Coordinated Universal Time)**
