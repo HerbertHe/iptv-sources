@@ -141,12 +141,13 @@
 | 135 | Xinjiang TV 2 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8> |
 | 136 | Xinjiang TV 3 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8> |
 | 137 | Xinjiang TV 8 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 138 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
-| 139 | Xuzhou Economic Life Channel (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
-| 140 | Yanbian Satellite TV (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
-| 141 | You Man Cartoon Channel (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
-| 142 | Yunnan Satellite TV (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
-| 143 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
-| 144 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
+| 138 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
+| 139 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
+| 140 | Xuzhou Economic Life Channel (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
+| 141 | Yanbian Satellite TV (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
+| 142 | You Man Cartoon Channel (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
+| 143 | Yunnan Satellite TV (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
+| 144 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
+| 145 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:18:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 04:13:26 GMT+0000 (Coordinated Universal Time)**
