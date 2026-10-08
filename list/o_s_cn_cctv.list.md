@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CCTV**
+# List for **iptv.org stream China CCTV**(Rollback)
 
 > M3U: [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u), TXT: [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt)
 
@@ -20,4 +20,4 @@
 | 14 | CCTV-Women's Fashion (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub> |
 | 15 | CCTV-World Geography (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub> |
 
-Updated at **Wed Oct 07 2026 19:42:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 00:00:37 GMT+0000 (Coordinated Universal Time)**
