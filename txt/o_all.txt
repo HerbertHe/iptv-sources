@@ -3569,7 +3569,7 @@ Sangeet_Bhojpuri_(576p),https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.
 Sangeet_Marathi_(720p),https://cdn.pishow.tv/ott/live/1229/master.m3u8
 Scorch_TV_(1080p),https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 Sensacion_Costa,https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-Shanson_TV_(576p),http://catchup.videoline.ru/shanson/index.m3u8
+Shanson_TV_SD_(576p),http://catchup.videoline.ru/shanson/index.m3u8
 Siembra_TV_(Dominican_Republic)_(720p),https://streamunoapp.com:3809/live/siembratvlive.m3u8
 Sin_Limites_(1080p),http://170.244.209.30:8000/play/a1im/index.m3u8
 Sky_Folk_TV_(720p)_[Not_24/7],https://eu.live.skyfolk.mk/live.m3u8
@@ -4501,6 +4501,7 @@ Sky_News_Arabia_Vertical_SD_(1280p)_[Not_24/7],https://stream.skynewsarabia.com/
 Sky_News_Extra_1_(540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky_News_Extra_2_(540p)_[Not_24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky_News_Extra_3_(1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+Sky_News_Extra,https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 Sky_News_Urdu_(720p),https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 SNN_TV_[Not_24/7],https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 Start_TV_(480p),https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
@@ -6236,6 +6237,7 @@ Big_Ten_Network_(720p),http://23.237.104.106:8080/USA_BTN/index.m3u8
 Big_Time_Plus_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 Bigtime,https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 Bingtuan_Satellite_TV_(540p)_[Not_24/7],http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
+Binh_Thuan_TV_(1080p),https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
 Biosfera_TV_(720p)_[Not_24/7],https://tvdatta.com:3021/live/biosferatvlive.m3u8
 Bir_TV_(720p),https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 Biznet_Adventure_(1080p),http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -8157,6 +8159,14 @@ Bahrain_Sports_1_(720p)_[Not_24/7],https://5c7b683162943.streamlock.net/live/ngr
 Bahrain_Sports_2_(720p)_[Not_24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 Band_Sports_(1080p),https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 Barca_TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+beIN_Sports_1_(1080p),http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+beIN_Sports_2_(1080p),http://primetv.cc.cd/beinfhd2/index.m3u8
+beIN_Sports_3_(1080p),http://primetv.cc.cd/beinfhd3/index.m3u8
+beIN_Sports_4_(1080p),http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+beIN_Sports_5_(1080p),http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+beIN_Sports_6_(1080p),http://primetv.cc.cd/beinfhd6/index.m3u8
+beIN_Sports_7_(1080p),http://primetv.cc.cd/beinfhd7/index.m3u8
+beIN_Sports_8_(1080p),http://primetv.cc.cd/beinfhd8/index.m3u8
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN_SPORTS_XTRA_en_Espanol_(1080p),http://201.190.41.246:9060/play/a03y/index.m3u8
 BEK_Sports_West_(720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -8492,7 +8502,6 @@ Unite8_Sports_2_(576p),http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 UPL.TV,http://dtv.vol.net.ua/UPL-TV/index.m3u8
 V_Sport_Golf_[Not_24/7],http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 Varzesh_TV,https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-Viaplay_TV_(720p)_[Not_24/7],https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 viju+_Sport_(576p),http://stream.mcquack.net/333/index.m3u8
 viju+_Sport_HD_(1080p),http://46.53.200.153:7777/play/a01l/index.m3u8
 Vital_Drive,https://autopilot.catcast.tv/content/37909/index.m3u8
@@ -9776,6 +9785,7 @@ Fox_Weather_(720p),https://247wlive.foxweather.com/stream/index.m3u8
 Meteonews_(1080p),https://streaming.meteonews.net/hls/stream.m3u8
 NorCast_Weather_(1080p),https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 Sky_News_Weather_(720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+Sky_News_Weather_Channel,https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 The_Weather_Channel_(1080p),https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 The_Weather_Network_(720p),https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 WeatherNation_(1080p),https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
@@ -9881,7 +9891,7 @@ apart_TV_(1080p),https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playli
 
 General;News,#genre#
 Arirang_TV_(1080p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang_TV_HD_(720p),http://45.162.64.114/ARIRANG/index.m3u8
+Arirang_TV_HD_(1080p),https://freem3u.xyz/api/live/play.m3u8?vid=111
 BX_Inform_(1080p),https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 Canal_1_Mar_Menor_Torre_Pacheco_(1080p),https://directo.tuwebtv.es/canal1.m3u8
 Canal_33_Tijuana_(720p),https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
