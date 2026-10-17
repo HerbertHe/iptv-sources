@@ -344,4 +344,4 @@
 | 338 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
 | 339 | Dongguan Comprehensive News Channel | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8> |
 
-Updated at **Sat Oct 17 2026 02:55:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 17 2026 08:14:20 GMT+0000 (Coordinated Universal Time)**
