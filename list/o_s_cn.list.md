@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -28,7 +28,7 @@
 | 22 | CCTV-12 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv12hd.m3u8> |
 | 23 | CCTV-13 (1080p) | go.bkpcp.top | <http://go.bkpcp.top/mg/cctv13> |
 | 24 | CCTV-14 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv14hd.m3u8> |
-| 25 | CCTV-15 (1080p) | xykt-fix.github.io | <https://xykt-fix.github.io/play/a02e/index.m3u8> |
+| 25 | CCTV-15 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv15hd.m3u8> |
 | 26 | CCTV-16 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 27 | CCTV-17 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv17hd.m3u8> |
 | 28 | CETV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV> |
@@ -343,5 +343,7 @@
 | 337 | Chaozhou Public Channel | IPv4 直链 | <http://113.64.146.48:1688/hls/4/index.m3u8> |
 | 338 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
 | 339 | Dongguan Comprehensive News Channel | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8> |
+| 340 | Hunan Economy Channel | p8.vzan.com | <https://p8.vzan.com/slowlive/415983998730568937/live.m3u8> |
+| 341 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Oct 21 2026 03:14:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 21 2026 09:07:07 GMT+0000 (Coordinated Universal Time)**
