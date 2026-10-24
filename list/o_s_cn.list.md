@@ -345,4 +345,4 @@
 | 339 | Hunan Economy Channel | p8.vzan.com | <https://p8.vzan.com/slowlive/415983998730568937/live.m3u8> |
 | 340 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Oct 24 2026 13:49:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 24 2026 17:11:00 GMT+0000 (Coordinated Universal Time)**
