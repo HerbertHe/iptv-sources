@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -345,4 +345,4 @@
 | 339 | Hunan Economy Channel | p8.vzan.com | <https://p8.vzan.com/slowlive/415983998730568937/live.m3u8> |
 | 340 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Oct 26 2026 22:16:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 27 2026 03:38:43 GMT+0000 (Coordinated Universal Time)**

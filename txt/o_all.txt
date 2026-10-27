@@ -6869,7 +6869,6 @@ Scientology_Network_WFTT-TV,https://stream-tampa.scientology.org/master.m3u8
 SCTV2_SD_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 SCTV3_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 SCTV4_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-SCTV4K_(2160p),https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 SCTV6_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 SCTV7_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 SCTV9_(720p),https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
@@ -8229,7 +8228,7 @@ CazeTV,http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 CBC_Sport,https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 CBS_Sports_Golazo_Network_(720p),https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 CBS_Sports_HQ_(720p),https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-5+_(1080p),https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-16_HD_(1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-Billiards_(1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV-Golf_&_Tennis_(1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
@@ -10103,7 +10102,7 @@ Jaya_Plus_(576p),https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 Vinh_Long_TV_2_(1080p),https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 
 Animation;Kids,#genre#
-Cartoon_Classics,https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+Cartoon_Classics_(Poland),https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 Cartoon_Network_(India)_(720p),https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 Cartoon_Network_Arabic,http://149.100.11.252:8000/play/a056/index.m3u8
 Cartoon_Network_CEE_Czech_Republic,http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
