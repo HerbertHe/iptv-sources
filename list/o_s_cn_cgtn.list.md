@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CGTN**(Rollback)
+# List for **iptv.org stream China CGTN**
 
 > M3U: [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt)
 
@@ -11,4 +11,4 @@
 | 5 | CGTN Français (1080p) [Not 24/7] | CGTN | <https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8> |
 | 6 | CGTN Русский (1080p) | CGTN | <https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8> |
 
-Updated at **Thu Oct 29 2026 01:30:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 29 2026 08:00:24 GMT+0000 (Coordinated Universal Time)**
