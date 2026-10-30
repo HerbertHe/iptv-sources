@@ -17436,6 +17436,27 @@
 	<programme channel="咪咕综合体育" start="20261030082500 +0800" stop="20261030091000 +0800">
 		<title lang="zh">英超精华-26/27赛季英超第4轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261030091500 +0800" stop="20261030094000 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030094500 +0800" stop="20261030112500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第2轮 北京控股-上海久事</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030113000 +0800" stop="20261030120000 +0800">
+		<title lang="zh">泳者孙杨03-着陆</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030120000 +0800" stop="20261030120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030121500 +0800" stop="20261030135500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第29轮 成都蓉城-大连英博海发</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030140000 +0800" stop="20261030144500 +0800">
+		<title lang="zh">英超精华-26/27赛季英超第7轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030145000 +0800" stop="20261030163000 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第2轮 北京首钢-广东东阳光</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17471,6 +17492,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261030090500 +0800" stop="20261030115000 +0800">
 		<title lang="zh">网球世界-2026中国网球公开赛 女单第3轮 布兹科娃-郑钦文</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261030120000 +0800" stop="20261030133500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第4轮 北京首钢-广州智都集团</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261030134500 +0800" stop="20261030135500 +0800">
+		<title lang="zh">巨星面对面对话雷阿伦</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261030140000 +0800" stop="20261030165500 +0800">
+		<title lang="zh">一杆定音-2026斯诺克武汉公开赛 半决赛 赵心童-肖国栋</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -42576,50 +42606,53 @@
 	<channel id="甘肃卫视">
 		<display-name lang="zh">甘肃卫视</display-name>
 	</channel>
-	<programme channel="甘肃卫视" start="20261030000100 +0800" stop="20261030002000 +0800">
+	<programme channel="甘肃卫视" start="20261030000300 +0800" stop="20261030002300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030002000 +0800" stop="20261030005100 +0800">
-		<title lang="zh">晚间剧场:猎鹰1949-29</title>
+	<programme channel="甘肃卫视" start="20261030002300 +0800" stop="20261030005300 +0800">
+		<title lang="zh">猎鹰1949(29)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030005100 +0800" stop="20261030012500 +0800">
-		<title lang="zh">纪录30分</title>
+	<programme channel="甘肃卫视" start="20261030005300 +0800" stop="20261030012900 +0800">
+		<title lang="zh">纪录30分:我的美食向导(8)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030012500 +0800" stop="20261030015800 +0800">
-		<title lang="zh">午夜剧场:父母爱情11</title>
+	<programme channel="甘肃卫视" start="20261030012900 +0800" stop="20261030020300 +0800">
+		<title lang="zh">父母爱情(11)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030015800 +0800" stop="20261030023100 +0800">
-		<title lang="zh">午夜剧场:父母爱情12</title>
+	<programme channel="甘肃卫视" start="20261030020300 +0800" stop="20261030023600 +0800">
+		<title lang="zh">父母爱情(12)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030023100 +0800" stop="20261030030100 +0800">
-		<title lang="zh">午夜剧场:父母爱情13</title>
+	<programme channel="甘肃卫视" start="20261030023600 +0800" stop="20261030030600 +0800">
+		<title lang="zh">父母爱情(13)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030030100 +0800" stop="20261030031300 +0800">
-		<title lang="zh">劳模纪录工程</title>
+	<programme channel="甘肃卫视" start="20261030030600 +0800" stop="20261030031900 +0800">
+		<title lang="zh">劳模纪录工程:白润天</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030031300 +0800" stop="20261030034700 +0800">
-		<title lang="zh">午夜剧场:父母爱情14</title>
+	<programme channel="甘肃卫视" start="20261030031900 +0800" stop="20261030035200 +0800">
+		<title lang="zh">父母爱情(14)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030034700 +0800" stop="20261030042600 +0800">
-		<title lang="zh">午夜剧场:父母爱情15</title>
+	<programme channel="甘肃卫视" start="20261030035200 +0800" stop="20261030042500 +0800">
+		<title lang="zh">父母爱情(15)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030042600 +0800" stop="20261030044800 +0800">
+	<programme channel="甘肃卫视" start="20261030042500 +0800" stop="20261030044800 +0800">
 		<title lang="zh">新闻晚高峰</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030044800 +0800" stop="20261030051700 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="甘肃卫视" start="20261030044800 +0800" stop="20261030052000 +0800">
+		<title lang="zh">纪录30分:大敦煌(1)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030051700 +0800" stop="20261030055100 +0800">
-		<title lang="zh">晚间剧场:猎鹰1949-30</title>
+	<programme channel="甘肃卫视" start="20261030052000 +0800" stop="20261030055200 +0800">
+		<title lang="zh">猎鹰1949(30)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030055100 +0800" stop="20261030062200 +0800">
-		<title lang="zh">晚间剧场:猎鹰1949-31</title>
+	<programme channel="甘肃卫视" start="20261030055200 +0800" stop="20261030062200 +0800">
+		<title lang="zh">猎鹰1949(31)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030062200 +0800" stop="20261030064500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030064500 +0800" stop="20261030070000 +0800">
+	<programme channel="甘肃卫视" start="20261030064500 +0800" stop="20261030065700 +0800">
 		<title lang="zh">今日聚焦</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030065700 +0800" stop="20261030070000 +0800">
+		<title lang="zh">不灭的光</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030070000 +0800" stop="20261030070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
@@ -42627,86 +42660,74 @@
 	<programme channel="甘肃卫视" start="20261030070100 +0800" stop="20261030072500 +0800">
 		<title lang="zh">甘肃新闻</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030072500 +0800" stop="20261030075000 +0800">
+	<programme channel="甘肃卫视" start="20261030072500 +0800" stop="20261030075100 +0800">
 		<title lang="zh">法治伴你行</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030075000 +0800" stop="20261030081800 +0800">
-		<title lang="zh">雄关剧场:飞虎神鹰44</title>
+	<programme channel="甘肃卫视" start="20261030075100 +0800" stop="20261030082100 +0800">
+		<title lang="zh">飞虎神鹰(44)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030081800 +0800" stop="20261030085300 +0800">
+	<programme channel="甘肃卫视" start="20261030082100 +0800" stop="20261030085600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030085300 +0800" stop="20261030092100 +0800">
-		<title lang="zh">雄关剧场:飞虎神鹰45</title>
+	<programme channel="甘肃卫视" start="20261030085600 +0800" stop="20261030094300 +0800">
+		<title lang="zh">飞虎神鹰(45)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030092100 +0800" stop="20261030093600 +0800">
+	<programme channel="甘肃卫视" start="20261030094300 +0800" stop="20261030104000 +0800">
+		<title lang="zh">飞虎神鹰(46)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030104000 +0800" stop="20261030111000 +0800">
+		<title lang="zh">飞虎神鹰(47)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030111000 +0800" stop="20261030113700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030093600 +0800" stop="20261030100400 +0800">
-		<title lang="zh">雄关剧场:飞虎神鹰46</title>
+	<programme channel="甘肃卫视" start="20261030113700 +0800" stop="20261030120600 +0800">
+		<title lang="zh">飞虎神鹰(48)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030100400 +0800" stop="20261030103000 +0800">
+	<programme channel="甘肃卫视" start="20261030120600 +0800" stop="20261030123000 +0800">
 		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030103000 +0800" stop="20261030105800 +0800">
-		<title lang="zh">雄关剧场:飞虎神鹰47</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030105800 +0800" stop="20261030112400 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030112400 +0800" stop="20261030115200 +0800">
-		<title lang="zh">雄关剧场:飞虎神鹰48</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030115200 +0800" stop="20261030121100 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030121100 +0800" stop="20261030123000 +0800">
-		<title lang="zh">同心筑梦</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030123000 +0800" stop="20261030125100 +0800">
 		<title lang="zh">午间20分</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030125100 +0800" stop="20261030130000 +0800">
-		<title lang="zh">劳模纪录工程</title>
+		<title lang="zh">劳模纪录工程:白润天</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030130000 +0800" stop="20261030131000 +0800">
-		<title lang="zh">天气预报</title>
+		<title lang="zh">午间天气预报</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030131000 +0800" stop="20261030134100 +0800">
-		<title lang="zh">花雨剧场:飞虎神鹰49</title>
+	<programme channel="甘肃卫视" start="20261030131000 +0800" stop="20261030134000 +0800">
+		<title lang="zh">飞虎神鹰(49)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030134100 +0800" stop="20261030135400 +0800">
+	<programme channel="甘肃卫视" start="20261030134000 +0800" stop="20261030135400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030135400 +0800" stop="20261030142500 +0800">
-		<title lang="zh">花雨剧场:飞虎神鹰50</title>
+	<programme channel="甘肃卫视" start="20261030135400 +0800" stop="20261030142400 +0800">
+		<title lang="zh">飞虎神鹰(50)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030142500 +0800" stop="20261030145200 +0800">
+	<programme channel="甘肃卫视" start="20261030142400 +0800" stop="20261030145200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030145200 +0800" stop="20261030152300 +0800">
-		<title lang="zh">花雨剧场:飞虎神鹰51</title>
+	<programme channel="甘肃卫视" start="20261030145200 +0800" stop="20261030152200 +0800">
+		<title lang="zh">飞虎神鹰(51)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030152300 +0800" stop="20261030154500 +0800">
+	<programme channel="甘肃卫视" start="20261030152200 +0800" stop="20261030154500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030154500 +0800" stop="20261030161600 +0800">
-		<title lang="zh">花雨剧场:飞虎神鹰52</title>
+	<programme channel="甘肃卫视" start="20261030154500 +0800" stop="20261030161500 +0800">
+		<title lang="zh">飞虎神鹰(52)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030161600 +0800" stop="20261030164100 +0800">
+	<programme channel="甘肃卫视" start="20261030161500 +0800" stop="20261030164100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030164100 +0800" stop="20261030171200 +0800">
-		<title lang="zh">花雨剧场:飞虎神鹰53</title>
+	<programme channel="甘肃卫视" start="20261030164100 +0800" stop="20261030171100 +0800">
+		<title lang="zh">飞虎神鹰(53)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030171200 +0800" stop="20261030173600 +0800">
+	<programme channel="甘肃卫视" start="20261030171100 +0800" stop="20261030173500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030173600 +0800" stop="20261030175900 +0800">
-		<title lang="zh">动画片:奶龙与小七大战暴暴龙</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20261030175900 +0800" stop="20261030181000 +0800">
-		<title lang="zh">动画片:下姜村的数字未来梦</title>
+	<programme channel="甘肃卫视" start="20261030173500 +0800" stop="20261030181000 +0800">
+		<title lang="zh">奶龙与小七大战暴暴龙</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030181000 +0800" stop="20261030183000 +0800">
 		<title lang="zh">今日聚焦</title>
@@ -42715,22 +42736,28 @@
 		<title lang="zh">甘肃新闻</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030185600 +0800" stop="20261030190000 +0800">
-		<title lang="zh">天气预报</title>
+		<title lang="zh">晚间天气预报</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030190000 +0800" stop="20261030193200 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030193200 +0800" stop="20261030202400 +0800">
-		<title lang="zh">飞天剧场:毛泽东38</title>
+		<title lang="zh">毛泽东(38)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030202400 +0800" stop="20261030211500 +0800">
-		<title lang="zh">飞天剧场:毛泽东39</title>
+		<title lang="zh">毛泽东(39)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030211500 +0800" stop="20261030213000 +0800">
+	<programme channel="甘肃卫视" start="20261030211500 +0800" stop="20261030212500 +0800">
 		<title lang="zh">劳模纪录工程</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030213000 +0800" stop="20261030220000 +0800">
+	<programme channel="甘肃卫视" start="20261030212500 +0800" stop="20261030213000 +0800">
+		<title lang="zh">会师陇原薪照山河</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030213000 +0800" stop="20261030215500 +0800">
 		<title lang="zh">法治伴你行</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030215500 +0800" stop="20261030220000 +0800">
+		<title lang="zh">国宝AI</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030220000 +0800" stop="20261030222000 +0800">
 		<title lang="zh">新闻晚高峰</title>
@@ -42741,14 +42768,107 @@
 	<programme channel="甘肃卫视" start="20261030223000 +0800" stop="20261030225500 +0800">
 		<title lang="zh">甘肃新闻</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030225500 +0800" stop="20261030232000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="甘肃卫视" start="20261030225500 +0800" stop="20261030225700 +0800">
+		<title lang="zh">平凉长征记忆(11)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20261030232000 +0800" stop="20261030233000 +0800">
-		<title lang="zh">飞越甘肃-寻山</title>
+	<programme channel="甘肃卫视" start="20261030225700 +0800" stop="20261030233000 +0800">
+		<title lang="zh">纪录30分:大敦煌(1)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030233000 +0800" stop="20261030120600 +0800">
+		<title lang="zh">猎鹰1949(32)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030120600 +0800" stop="20261030123000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030123000 +0800" stop="20261030125100 +0800">
+		<title lang="zh">午间20分</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030125100 +0800" stop="20261030130000 +0800">
+		<title lang="zh">劳模纪录工程:白润天</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030130000 +0800" stop="20261030131000 +0800">
+		<title lang="zh">午间天气预报</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030131000 +0800" stop="20261030134000 +0800">
+		<title lang="zh">飞虎神鹰(49)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030134000 +0800" stop="20261030135400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030135400 +0800" stop="20261030142400 +0800">
+		<title lang="zh">飞虎神鹰(50)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030142400 +0800" stop="20261030145200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030145200 +0800" stop="20261030152200 +0800">
+		<title lang="zh">飞虎神鹰(51)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030152200 +0800" stop="20261030154500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030154500 +0800" stop="20261030161500 +0800">
+		<title lang="zh">飞虎神鹰(52)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030161500 +0800" stop="20261030164100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030164100 +0800" stop="20261030171100 +0800">
+		<title lang="zh">飞虎神鹰(53)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030171100 +0800" stop="20261030173500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030173500 +0800" stop="20261030181000 +0800">
+		<title lang="zh">奶龙与小七大战暴暴龙</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030181000 +0800" stop="20261030183000 +0800">
+		<title lang="zh">今日聚焦</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030183000 +0800" stop="20261030185600 +0800">
+		<title lang="zh">甘肃新闻</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030185600 +0800" stop="20261030190000 +0800">
+		<title lang="zh">晚间天气预报</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030190000 +0800" stop="20261030193200 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030193200 +0800" stop="20261030202400 +0800">
+		<title lang="zh">毛泽东(38)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030202400 +0800" stop="20261030211500 +0800">
+		<title lang="zh">毛泽东(39)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030211500 +0800" stop="20261030212500 +0800">
+		<title lang="zh">劳模纪录工程</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030212500 +0800" stop="20261030213000 +0800">
+		<title lang="zh">会师陇原薪照山河</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030213000 +0800" stop="20261030215500 +0800">
+		<title lang="zh">法治伴你行</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030215500 +0800" stop="20261030220000 +0800">
+		<title lang="zh">国宝AI</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030220000 +0800" stop="20261030222000 +0800">
+		<title lang="zh">新闻晚高峰</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030222000 +0800" stop="20261030223000 +0800">
+		<title lang="zh">瞰新区</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030223000 +0800" stop="20261030225500 +0800">
+		<title lang="zh">甘肃新闻</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030225500 +0800" stop="20261030225700 +0800">
+		<title lang="zh">平凉长征记忆(11)</title>
+	</programme>
+	<programme channel="甘肃卫视" start="20261030225700 +0800" stop="20261030233000 +0800">
+		<title lang="zh">纪录30分:大敦煌(1)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20261030233000 +0800" stop="20261030235900 +0800">
-		<title lang="zh">晚间剧场:猎鹰1949-32</title>
+		<title lang="zh">猎鹰1949(32)</title>
 	</programme>
 	<channel id="甘肃少儿">
 		<display-name lang="zh">甘肃少儿</display-name>
@@ -58449,6 +58569,18 @@
 	<programme channel="newtv超级综艺" start="20261030085600 +0800" stop="20261030095600 +0800">
 		<title lang="zh">国音正青春</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261030095600 +0800" stop="20261030113800 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261030113800 +0800" stop="20261030132300 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261030132300 +0800" stop="20261030145300 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261030145300 +0800" stop="20261030155200 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58479,6 +58611,18 @@
 	<programme channel="newtv超级体育" start="20261030090100 +0800" stop="20261030103100 +0800">
 		<title lang="zh">2026/2027意大利足球甲级联赛-第9轮（罗马—卡利亚里）</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261030103100 +0800" stop="20261030120000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第5轮 山东高速—北京首钢</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261030120000 +0800" stop="20261030125800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261030125800 +0800" stop="20261030143000 +0800">
+		<title lang="zh">实况录像-2026年世界体操锦标赛 女子团体决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261030143000 +0800" stop="20261030155500 +0800">
+		<title lang="zh">2026年ATP1000男子网球大师赛-上海站 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58499,6 +58643,21 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261030080400 +0800" stop="20261030093400 +0800">
 		<title lang="zh">终极硬汉</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030093400 +0800" stop="20261030104500 +0800">
+		<title lang="zh">石榴熟了之一拍到底</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030104500 +0800" stop="20261030121600 +0800">
+		<title lang="zh">血战残阳</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030121600 +0800" stop="20261030133600 +0800">
+		<title lang="zh">东北老丈人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030133600 +0800" stop="20261030150600 +0800">
+		<title lang="zh">高考那年遇见你</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030150600 +0800" stop="20261030163400 +0800">
+		<title lang="zh">死亡斗士</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58538,6 +58697,33 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261030082700 +0800" stop="20261030091200 +0800">
 		<title lang="zh">28_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030091200 +0800" stop="20261030095800 +0800">
+		<title lang="zh">29_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030095800 +0800" stop="20261030104400 +0800">
+		<title lang="zh">12_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030104400 +0800" stop="20261030112900 +0800">
+		<title lang="zh">13_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030112900 +0800" stop="20261030121500 +0800">
+		<title lang="zh">14_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030121500 +0800" stop="20261030130000 +0800">
+		<title lang="zh">15_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030130000 +0800" stop="20261030134500 +0800">
+		<title lang="zh">05_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030134500 +0800" stop="20261030143100 +0800">
+		<title lang="zh">06_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030143100 +0800" stop="20261030151600 +0800">
+		<title lang="zh">07_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030151600 +0800" stop="20261030160200 +0800">
+		<title lang="zh">08_江河之上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59129,6 +59315,36 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261030084700 +0800" stop="20261030091700 +0800">
 		<title lang="zh">珍膳私享特膳粉好物推荐第四期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030091700 +0800" stop="20261030100200 +0800">
+		<title lang="zh">20_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030100200 +0800" stop="20261030104800 +0800">
+		<title lang="zh">21_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030104800 +0800" stop="20261030112300 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030112300 +0800" stop="20261030120800 +0800">
+		<title lang="zh">22_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030120800 +0800" stop="20261030124800 +0800">
+		<title lang="zh">礼贡堂五十二味茯湿丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030124800 +0800" stop="20261030133300 +0800">
+		<title lang="zh">29_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030133300 +0800" stop="20261030140300 +0800">
+		<title lang="zh">珍膳私享特膳粉好物推荐第四期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030140300 +0800" stop="20261030144800 +0800">
+		<title lang="zh">30_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030144800 +0800" stop="20261030152500 +0800">
+		<title lang="zh">三王圣果有机刺梨汁好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030152500 +0800" stop="20261030160900 +0800">
+		<title lang="zh">31_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
