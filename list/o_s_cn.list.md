@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -346,4 +346,4 @@
 | 340 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 341 | Jingmen Comprehensive News Channel | stream.jmtv.com.cn | <https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036> |
 
-Updated at **Fri Oct 30 2026 16:31:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 30 2026 21:55:13 GMT+0000 (Coordinated Universal Time)**
