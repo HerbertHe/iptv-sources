@@ -104,53 +104,54 @@
 | 98 | Jilin Lifestyle Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8> |
 | 99 | Jilin Movie Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8> |
 | 100 | Jilin Rural Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8> |
-| 101 | Jiuquan TV News Comprehensive Channel (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 102 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
-| 103 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
-| 104 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
-| 105 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
-| 106 | Liaoning TV (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
-| 107 | Nanchang News & Generalist Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8> |
-| 108 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.24.190.98:10080/hls/40/index.m3u8> |
-| 109 | Ningxia Satellite Channel (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8> |
-| 110 | Pingxiang TV News Channel (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
-| 111 | Qinghai TV (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
-| 112 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
-| 113 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
-| 114 | QTV-3 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8> |
-| 115 | QTV-4 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8> |
-| 116 | QTV-5 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8> |
-| 117 | QTV-6 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8> |
-| 118 | Shandong Satellite TV (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/SDWSHD_H265.m3u8> |
-| 119 | Shandong TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8> |
-| 120 | Shandong TV Agricultural Science Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/nkpd.m3u8> |
-| 121 | Shandong TV Children's Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/sepd.m3u8> |
-| 122 | Shandong TV Life Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/shpd.m3u8> |
-| 123 | Shandong TV Qilu Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/qlpd.m3u8> |
-| 124 | Shandong TV Sports Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/typd.m3u8> |
-| 125 | Shandong TV Variety Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/zypd.m3u8> |
-| 126 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
-| 127 | Sichuan Satellite TV (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8> |
-| 128 | Sichuan TV Women and Children Channel (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8> |
-| 129 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
-| 130 | Tianjin TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8> |
-| 131 | Tonghua TV (1080p) | lsfb.avap.jilintv.cn | <http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
-| 132 | TV BRICS Chinese (1080p) | chibrics.mediacdn.ru | <https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8> |
-| 133 | VoA TV China (1080p) | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
-| 134 | Xi'an Business Information Channel (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
-| 135 | Xi'an Silk Road Channel (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
-| 136 | Xinjiang TV 1 | klmysjtzb.rcsxzx.com | <https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8> |
-| 137 | Xinjiang TV 2 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8> |
-| 138 | Xinjiang TV 3 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8> |
-| 139 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 140 | Xinjiang TV 8 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 141 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
-| 142 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
-| 143 | Xuzhou Economic Life Channel (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
-| 144 | Yanbian Satellite TV (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
-| 145 | You Man Cartoon Channel (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
-| 146 | Yunnan Satellite TV (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
-| 147 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
-| 148 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
+| 101 | Jingmen Comprehensive News Channel | stream.jmtv.com.cn | <https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036> |
+| 102 | Jiuquan TV News Comprehensive Channel (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
+| 103 | Kangba TV | IPv4 直链 | <http://110.185.237.164:8888/hls/30/index.m3u8> |
+| 104 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
+| 105 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
+| 106 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
+| 107 | Liaoning TV (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
+| 108 | Nanchang News & Generalist Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8> |
+| 109 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.24.190.98:10080/hls/40/index.m3u8> |
+| 110 | Ningxia Satellite Channel (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8> |
+| 111 | Pingxiang TV News Channel (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
+| 112 | Qinghai TV (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8> |
+| 113 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
+| 114 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
+| 115 | QTV-3 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8> |
+| 116 | QTV-4 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8> |
+| 117 | QTV-5 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8> |
+| 118 | QTV-6 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8> |
+| 119 | Shandong Satellite TV (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/SDWSHD_H265.m3u8> |
+| 120 | Shandong TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8> |
+| 121 | Shandong TV Agricultural Science Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/nkpd.m3u8> |
+| 122 | Shandong TV Children's Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/sepd.m3u8> |
+| 123 | Shandong TV Life Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/shpd.m3u8> |
+| 124 | Shandong TV Qilu Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/qlpd.m3u8> |
+| 125 | Shandong TV Sports Channel (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/typd.m3u8> |
+| 126 | Shandong TV Variety Channel (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/zypd.m3u8> |
+| 127 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
+| 128 | Sichuan Satellite TV (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8> |
+| 129 | Sichuan TV Women and Children Channel (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8> |
+| 130 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
+| 131 | Tianjin TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8> |
+| 132 | Tonghua TV (1080p) | lsfb.avap.jilintv.cn | <http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
+| 133 | TV BRICS Chinese (1080p) | chibrics.mediacdn.ru | <https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8> |
+| 134 | VoA TV China (1080p) | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
+| 135 | Xi'an Business Information Channel (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
+| 136 | Xi'an Silk Road Channel (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
+| 137 | Xinjiang TV 1 | klmysjtzb.rcsxzx.com | <https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8> |
+| 138 | Xinjiang TV 2 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8> |
+| 139 | Xinjiang TV 3 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8> |
+| 140 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 141 | Xinjiang TV 8 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 142 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
+| 143 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
+| 144 | Xuzhou Economic Life Channel (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
+| 145 | Yanbian Satellite TV (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
+| 146 | You Man Cartoon Channel (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
+| 147 | Yunnan Satellite TV (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
+| 148 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
+| 149 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Thu Oct 29 2026 20:51:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 30 2026 01:31:13 GMT+0000 (Coordinated Universal Time)**
