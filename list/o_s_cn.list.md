@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -351,4 +351,4 @@
 | 345 | Zhejiang Children's Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d> |
 | 346 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 
-Updated at **Sat Oct 31 2026 14:24:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 31 2026 19:42:03 GMT+0000 (Coordinated Universal Time)**
