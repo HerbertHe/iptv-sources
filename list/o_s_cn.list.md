@@ -345,5 +345,10 @@
 | 339 | Hunan Economy Channel | p8.vzan.com | <https://p8.vzan.com/slowlive/415983998730568937/live.m3u8> |
 | 340 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 341 | Jingmen Comprehensive News Channel | stream.jmtv.com.cn | <https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036> |
+| 342 | Qianjiang Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169> |
+| 343 | Zhejiang Economic Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af> |
+| 344 | Zhejiang Education Technology Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c> |
+| 345 | Zhejiang Children's Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d> |
+| 346 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 
-Updated at **Fri Oct 30 2026 21:55:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 31 2026 01:24:51 GMT+0000 (Coordinated Universal Time)**

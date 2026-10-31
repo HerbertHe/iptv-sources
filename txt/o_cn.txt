@@ -17,6 +17,7 @@ High_Channel_TV_(1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 Hunan_TV_(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Jiangsu_Satellite_TV_(1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 Jiangxi_TV_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+Qianjiang_Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169
 Qinghai_TV_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 Shandong_TV_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 Shandong_TV_Life_Channel_(1080p),http://livealone302.iqilu.com/iqilu/shpd.m3u8
@@ -36,6 +37,7 @@ Xizang_TV_Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 Xizang_TV_Tibetan_(720p)_[Not_24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
 Yanbian_Satellite_TV_(576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 Zhejiang_International_Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+Zhejiang_Minsheng_Leisure,rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790
 Zhejiang_Satellite_TV_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 
 News,#genre#
@@ -94,12 +96,14 @@ Kids,#genre#
 BRTV_Kaku_Childrens_Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 CCTV-14_HD_(1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
 Shandong_TV_Children's_Channel_(406p),http://livealone302.iqilu.com/iqilu/sepd.m3u8
+Zhejiang_Children's_Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 
 Business,#genre#
 CCTV-2_(720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Xi'an_Business_Information_Channel_(180p)_[Not_24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 Xuzhou_Economic_Life_Channel_(1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+Zhejiang_Economic_Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
 
 Entertainment,#genre#
 CCTV-3_(720p),http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -136,6 +140,7 @@ CCTV-World_Geography_SD_(1080p),http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?a
 CETV-1_(576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV-2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 Jiangsu_Educational_Channel_(576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+Zhejiang_Education_Technology_Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
 
 Culture,#genre#
 CCTV-8_(720p),http://74.91.26.218:82/live/cctv8hd.m3u8
