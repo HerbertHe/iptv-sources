@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**
+# List for **YueChan-Live IPTV**(Rollback)
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -101,4 +101,4 @@
 | 95 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 | 96 | 动画高清 | IPv4 直链 | <rtp://239.3.1.80:4120> |
 
-Updated at **Sat Oct 31 2026 07:58:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 31 2026 14:24:51 GMT+0000 (Coordinated Universal Time)**
