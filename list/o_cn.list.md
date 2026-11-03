@@ -147,7 +147,7 @@
 | 141 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 142 | Xinjiang TV 8 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 143 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
-| 144 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
+| 144 | Xizang TV Tibetan | live.vtibet.cn | <https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8> |
 | 145 | Xuzhou Economic Life Channel (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
 | 146 | Yanbian Satellite TV (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
 | 147 | You Man Cartoon Channel (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
@@ -159,4 +159,4 @@
 | 153 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 | 154 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Mon Nov 02 2026 23:17:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 03 2026 05:16:30 GMT+0000 (Coordinated Universal Time)**
