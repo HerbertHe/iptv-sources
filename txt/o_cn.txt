@@ -31,7 +31,6 @@ Xi'an_Silk_Road_Channel_(404p)_[Not_24/7],http://stream2.xiancity.cn/xatv5/playl
 Xinjiang_TV_1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
-Xinjiang_TV_5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 Xinjiang_TV_8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 Xizang_TV_Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 Xizang_TV_Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
@@ -49,7 +48,7 @@ CCTV-13_HD_(1080p),http://go.bkpcp.top/mg/cctv13
 Chifeng_Comprehensive_News_Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 Chuxiong_News_Channel_[Not_24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
 Chuzhou_News_Channel_(1080p),http://live.cztv.cc:85/live/xwpd.m3u8
-Dongguan_Comprehensive_News_Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+Dongguan_Comprehensive_News_Channel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 Harbin_Comprehensive_News_Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Hebi_News_Channel_(480p)_[Not_24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 Hunan_News_Channel,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
@@ -57,7 +56,7 @@ Jingmen_Comprehensive_News_Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?
 Jiuquan_TV_News_Comprehensive_Channel_(576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 Lanzhou_Comprehensive_News_Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 Pingxiang_TV_News_Channel_(576p)_[Not_24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 Tonghua_TV_(1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 
 General,#genre#
@@ -70,7 +69,7 @@ CCTV-4K_HD_(1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 Chaozhou_Public_Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Chuzhou_Public_Channel_(400p),http://live.cztv.cc:85/live/ggpd.m3u8
 Dragon_TV_International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
-Fujian_Comprehensive_Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+Fujian_Comprehensive_Channel,http://120.39.52.202:5140/福建综合
 Guangzhou_TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Guizhou_TV_(576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 Hebei_TV_(2160p),https://event.pull.hebtv.com/live/live101.m3u8
@@ -85,7 +84,7 @@ Kangba_TV,http://110.185.237.164:8888/hls/30/index.m3u8
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Liaoning_TV_(1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 Shandong_Satellite_TV_(720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 Siping_TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
@@ -131,7 +130,7 @@ HomePlus,https://homeplushls.wns.live/hls/stream.m3u8
 Jiangsu_Movie_Channel_(576p),http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Jilin_Movie_Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 Education,#genre#
 CCTV-7_(720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -187,7 +186,7 @@ Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv
 You_Man_Cartoon_Channel_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 
 General;Travel,#genre#
-Guangxi_Variety_&_Travel_Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+Guangxi_Variety_&_Travel_Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 
 Legislative,#genre#
 Hunan_Politics_&_Law_Channel,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
@@ -196,7 +195,7 @@ Education;Lifestyle;Science,#genre#
 Jilin_Rural_Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 
 Kids;Lifestyle,#genre#
-QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 Science,#genre#
 Shandong_TV_Agricultural_Science_Channel_(406p),http://livealone302.iqilu.com/iqilu/nkpd.m3u8
