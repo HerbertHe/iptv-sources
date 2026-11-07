@@ -89,6 +89,7 @@ QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 Shandong_Satellite_TV_(720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 Siping_TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 TV_BRICS_Chinese_(1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+Yichang_Sanxia_General_Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 Yunnan_Satellite_TV_(1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 
 Kids,#genre#
@@ -202,3 +203,6 @@ Shandong_TV_Agricultural_Science_Channel_(406p),http://livealone302.iqilu.com/iq
 
 Family,#genre#
 Sichuan_TV_Women_and_Children_Channel_(720p)_[Not_24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+
+Travel,#genre#
+Yichang_Sanxia_Travel_&_Life_Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
