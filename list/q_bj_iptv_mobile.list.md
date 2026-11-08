@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile**
 
 > M3U: [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u), TXT: [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt)
 
@@ -32,7 +32,7 @@
 | 26 | CCTV-13 新闻[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.212:8128> |
 | 27 | CCTV-14 少儿[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.31:8132> |
 | 28 | CCTV-15 音乐[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.183:8136> |
-| 29 | CCTV-16 奥林匹克[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.215:8002> |
+| 29 | CCTV-16 奥林匹克[超清HDR] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.69:8002> |
 | 30 | CCTV-17 农业农村[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.181:8144> |
 | 31 | CCTV-4K 超高清[超清HDR] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.52:2000> |
 | 32 | 求索记录4K[超清HDR] | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.67:8002> |
@@ -139,4 +139,4 @@
 | 133 | 嘉佳卡通 | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.93:9268> |
 | 134 | 山东教育 | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.96:4120> |
 
-Updated at **Sun Nov 08 2026 12:43:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 08 2026 18:38:28 GMT+0000 (Coordinated Universal Time)**
