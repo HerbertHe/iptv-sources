@@ -160,4 +160,4 @@
 | 154 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 | 155 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Tue Nov 10 2026 22:48:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 11 2026 04:38:49 GMT+0000 (Coordinated Universal Time)**
