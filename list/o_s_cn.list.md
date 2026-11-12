@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -352,4 +352,4 @@
 | 346 | Yichang Sanxia Travel & Life Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/lysh.m3u8> |
 | 347 | Yichang Sanxia General Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8> |
 
-Updated at **Thu Nov 12 2026 02:40:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 12 2026 12:08:29 GMT+0000 (Coordinated Universal Time)**
