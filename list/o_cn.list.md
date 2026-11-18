@@ -1,4 +1,4 @@
-# List for **iptv.org China**(Rollback)
+# List for **iptv.org China**
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
@@ -7,7 +7,7 @@
 | 1 | ABN China (720p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnchina.m3u8> |
 | 2 | Ando TV (1080p) | play.kankanlive.com | <http://play.kankanlive.com/live/1711956137852982.m3u8> |
 | 3 | Angel TV Chinese (720p) | janya-digimix.akamaized.net | <https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8> |
-| 4 | Anhui TV | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8> |
+| 4 | Anhui TV (1080p) | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8> |
 | 5 | Anshun Comprehensive News Channel | hplayer1.juyun.tv | <https://hplayer1.juyun.tv/camera/154379194.m3u8> |
 | 6 | Baicheng TV | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
 | 7 | Beijing Satellite TV [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv1.m3u8> |
@@ -160,4 +160,4 @@
 | 154 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 | 155 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Wed Nov 18 2026 09:42:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 18 2026 18:37:50 GMT+0000 (Coordinated Universal Time)**
