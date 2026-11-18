@@ -1,6 +1,6 @@
 Undefined,#genre#
 Ando_TV_(1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
-Anhui_TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+Anhui_TV_(1080p),https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 Anshun_Comprehensive_News_Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
 Beijing_Traffic_Radio_TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing_Youth_Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -86,6 +86,8 @@ Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
 Xinjiang_TV_8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 Xizang_TV_Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 Xizang_TV_Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+Yichang_Sanxia_General_Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+Yichang_Sanxia_Travel_&_Life_Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 Zhejiang_Children's_Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 Zhejiang_Economic_Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
 Zhejiang_Education_Technology_Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
@@ -344,5 +346,3 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 黑龙卫视_(1080p),http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 黑龙江_(1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 黑龙江卫_(1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-Yichang_Sanxia_Travel_&_Life_Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-Yichang_Sanxia_General_Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
