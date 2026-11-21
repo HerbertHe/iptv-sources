@@ -203,8 +203,10 @@ rtp://228.1.1.148:4120
 rtp://228.1.1.171:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",魅力时尚[高清]
 rtp://228.1.1.86:9012
-#EXTINF:-1 tvg-name="该频道节目单尚无",高网[高清]
+#EXTINF:-1 tvg-name="该频道节目单尚无",红色影院[高清]
 rtp://228.1.1.169:4120
+#EXTINF:-1 tvg-name="该频道节目单尚无",经典剧场[高清]
+rtp://228.1.1.166:4120
 #EXTINF:-1 tvg-name="CGTN",CGTN 新闻[高清]
 rtp://228.1.1.204:4220
 #EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录[高清]
