@@ -29,9 +29,12 @@ CCTV-17_(1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CETV1_(576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CGTN_(1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN_Arabic_(1080p),https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN_Documentary_(1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN_French_(1080p),https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN_Global_Biz_(1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-CGTN_Spanish_(720p),http://45.165.82.19/test/index.m3u8
+CGTN_Russian_(1080p),https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN_Spanish_(1080p),https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 Chaozhou_Public_Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Chifeng_Comprehensive_News_Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 China_Travel_(1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
